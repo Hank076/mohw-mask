@@ -58,7 +58,7 @@ function getMaskInventory(id){
     result = "1234567890,範例藥局1,範例路,02-12345671,0,0,2020/02/04 18:30";
     
     $.get("data/"+id+".txt", function(result){
-        console.log('result', iresultd);
+        console.log('result', result);
         result_array = result.split(",");
 
         return "<br /><br /><b>口罩剩餘數量(測試中,假資料)</b><br />成人口罩: " + result_array[4] + ", 兒童口罩: " + result_array[5] + "<br />來源資料時間: " + result_array[6];
