@@ -61,7 +61,7 @@ function getMaskInventory(id){
         console.log('result', iresultd);
         result_array = result.split(",");
 
-        return "<br /><br /><b>口罩剩餘數量</b><br />成人口罩: " + result_array[4] + ", 兒童口罩: " + result_array[5] + "<br />來源資料時間: " + result_array[6];
+        return "<br /><br /><b>口罩剩餘數量(測試中,假資料)</b><br />成人口罩: " + result_array[4] + ", 兒童口罩: " + result_array[5] + "<br />來源資料時間: " + result_array[6];
     });
     
 }
