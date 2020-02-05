@@ -53,15 +53,20 @@ function createMap() {
 }
 
 function getMaskInventory(id){
-    console.log('id', id);
-    id = "1234567890";
-    result = "1234567890,範例藥局1,範例路,02-12345671,0,0,2020/02/04 18:30";
-    
-    $.get("data/"+id+".txt", function(result){
-        console.log('result', result);
-        result_array = result.split(",");
+    return "";
+    inventoryResult = "<br /><br /><b>口罩剩餘數量(測試中,假資料)</b><br />";
 
-        return "<br /><br /><b>口罩剩餘數量(測試中,假資料)</b><br />成人口罩: " + result_array[4] + ", 兒童口罩: " + result_array[5] + "<br />來源資料時間: " + result_array[6];
+    $.ajax({
+        url: "data/"+id+".txt",
+        type: 'get',
+        async: false,
+        success: function (response) {
+            result_array = result.split(",");
+            inventoryResult += "成人口罩: " + result_array[4] + ", 兒童口罩: " + result_array[5] + "<br />來源資料時間: " + result_array[6];   
+        },
+        error: function (xhr) {
+            inventoryResult += "資料取得失敗";
+        }
     });
-    
+    return inventoryResult;
 }
