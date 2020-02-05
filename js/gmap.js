@@ -54,14 +54,17 @@ function createMap() {
 
 function getMaskInventory(id){
     return "";
+    //id = "1234567890";
+
     inventoryResult = "<br /><br /><b>口罩剩餘數量(測試中,假資料)</b><br />";
 
     $.ajax({
         url: "data/"+id+".txt",
         type: 'get',
         async: false,
+        cache: true,
         success: function (response) {
-            result_array = result.split(",");
+            result_array = response.split(",");
             inventoryResult += "成人口罩: " + result_array[4] + ", 兒童口罩: " + result_array[5] + "<br />來源資料時間: " + result_array[6];   
         },
         error: function (xhr) {

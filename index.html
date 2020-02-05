@@ -5,16 +5,29 @@
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
     <meta charset="utf-8">
     <meta name="author" content="Pupu">
-    <title>台灣健保特約醫事機構-藥局</title>
-    <style>
-        /* Always set the map height explicitly to define the size of the div
-         * element that contains the map. */
-        #map {height: 100%;}
-        /* Optional: Makes the sample page fill the window. */
-        html, body {height: 100%; margin: 0; padding: 0;}
-    </style>
+    <meta property="og:title" content="台灣健保特約醫事機構">
+    <meta property="og:description" content=台灣健保特約醫事機構的清單，也能口罩剩餘數量>
+    <title>台灣健保特約醫事機構</title>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
     <script src="js/pharmacy.js?r=202002051445"></script>
     <script src="js/gmap.js?r=202002051536"></script>
+    <link href="/css/style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+    <noscript><strong>We're sorry but lookingmask doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript>
+    <div id="readme">
+        資料來源：<a target="_blank" href="https://www.fda.gov.tw/TC/siteContent.aspx?sid=11139">健保特約藥局及無健保特約藥局鄉鎮衛生所名單</a>（資料時間：2020.02.04 18時)
+        <br />
+        錯誤回報：<a href="https://www.facebook.com/pupu21">https://www.facebook.com/pupu21</a>　→→ <a target="_blank" href="https://line.me/R/ti/p/@taiwancdc">點擊加入疾管署官方 LINE，掌握最新疫情</a>
+        <br />
+        <b>身體健康、在戶外運動時都不用戴口罩！</b>　戴口罩對象與時機：出入醫院者、有發燒或呼吸道症狀者、免疫較差者、近距離或密閉空間長時間接觸人群時！
+        <br />
+    </div>
+    <div id="map"><br /><br /><span style="color: red; font-size: large;">請確認是否允許自動顯示離您最近的資訊</span></div>
+
+    <script src="https://unpkg.com/@google/markerclustererplus@4.0.1/dist/markerclustererplus.min.js"></script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRI_1YVcLmTYtct_zG0lCVMbrbbcKRJyw&callback=initMap"></script>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-19433453-6"></script>
     <script>
@@ -24,17 +37,6 @@
 
         gtag('config', 'UA-19433453-6');
     </script>
-    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-</head>
-
-<body>
-    <div>
-        資料來源：<a target="_blank" href="https://www.fda.gov.tw/TC/siteContent.aspx?sid=11139">特約藥局及無健保特約藥局鄉鎮衛生所名單（資料時間：2020.02.04 18時)</a><br />
-        錯誤回報：<a href="https://www.facebook.com/pupu21">https://www.facebook.com/pupu21</a><br>
-    </div>
-    <div id="map"><br /><br /><span style="color: red; font-size: large;">請確認是否允許自動顯示離您最近的資訊</span></div>
-    <script src="https://unpkg.com/@google/markerclustererplus@4.0.1/dist/markerclustererplus.min.js"></script>
-    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRI_1YVcLmTYtct_zG0lCVMbrbbcKRJyw&callback=initMap"></script>
 </body>
 
 </html>
