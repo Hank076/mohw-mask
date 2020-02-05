@@ -11,11 +11,6 @@ function initMap() {
             alert('無法取得你的位置');
         }
 
-        // 使用者允許抓目前位置，回傳經緯度
-        function success(position) {
-            console.log(position.coords.latitude, position.coords.longitude);
-        }
-
         // 跟使用者拿所在位置
         navigator.geolocation.getCurrentPosition(function (position) {
             default_lat = position.coords.latitude;
@@ -50,9 +45,8 @@ function createMap() {
         return marker;
     });
 
-    
-
     var markerCluster = new MarkerClusterer(map, markers, {
         imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m'
     });
+
 }
