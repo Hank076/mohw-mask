@@ -1,5 +1,6 @@
 var default_lat = 25.0315785;
 var default_lng = 121.4427123;
+var mask_inventory = [];
 
 function initMap() {
 
@@ -21,6 +22,7 @@ function initMap() {
         //alert('Sorry, 你的裝置不支援定位功能。')
         createMap();
     }
+    loadMaskInventory();
 }
 
 function createMap() {
@@ -33,6 +35,28 @@ function createMap() {
     });
 
     var infoWin = new google.maps.InfoWindow();
+
+    /*
+    var marker;
+    var markers = [];
+    console.log("location", locations);
+    for (var i in locations){
+        locationData = locations[i];
+
+        marker = new google.maps.Marker({
+            position: locationData
+        });
+        google.maps.event.addListener(marker, 'click', function (evt) {
+            name = "<b>" + locationData.name + "</b><br />";
+            maskInventory = getMaskInventory(locationData.id);
+            infoWin.setContent(name + locationData.info + maskInventory);
+            infoWin.open(map, marker);
+        })
+
+        markers.push(marker);
+    }
+    */
+
     var markers = locations.map(function (location, i) {
 
         var marker = new google.maps.Marker({
@@ -50,26 +74,4 @@ function createMap() {
     var markerCluster = new MarkerClusterer(map, markers, {
         imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m'
     });
-}
-
-function getMaskInventory(id){
-    return "";
-    //id = "1234567890";
-
-    inventoryResult = "<br /><br /><b>口罩剩餘數量(測試中,假資料)</b><br />";
-
-    $.ajax({
-        url: "data/"+id+".txt",
-        type: 'get',
-        async: false,
-        cache: true,
-        success: function (response) {
-            result_array = response.split(",");
-            inventoryResult += "成人口罩: " + result_array[4] + ", 兒童口罩: " + result_array[5] + "<br />來源資料時間: " + result_array[6];   
-        },
-        error: function (xhr) {
-            inventoryResult += "資料取得失敗";
-        }
-    });
-    return inventoryResult;
 }
