@@ -39,7 +39,9 @@ function createMap() {
             position: location
         });
         google.maps.event.addListener(marker, 'click', function (evt) {
-            infoWin.setContent(location.info);
+            name = "<b>" + location.name + "</b><br />";
+            maskInventory = getMaskInventory(location.id);
+            infoWin.setContent(name + location.info + maskInventory);
             infoWin.open(map, marker);
         })
         return marker;
@@ -48,5 +50,18 @@ function createMap() {
     var markerCluster = new MarkerClusterer(map, markers, {
         imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m'
     });
+}
 
+function getMaskInventory(id){
+    console.log('id', id);
+    id = "1234567890";
+    result = "1234567890,範例藥局1,範例路,02-12345671,0,0,2020/02/04 18:30";
+    
+    $.get("data/"+id+".txt", function(result){
+        console.log('result', iresultd);
+        result_array = result.split(",");
+
+        return "<br /><br /><b>口罩剩餘數量</b><br />成人口罩: " + result_array[4] + ", 兒童口罩: " + result_array[5] + "<br />來源資料時間: " + result_array[6];
+    });
+    
 }
