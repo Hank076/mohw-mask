@@ -41,8 +41,7 @@ function createMap() {
     var markers = locations.map(function (location, i) {
 
         var marker = new google.maps.Marker({
-            position: location,
-            label: location.name
+            position: location
         });
         google.maps.event.addListener(marker, 'click', function (evt) {
             infoWin.setContent(location.info);
