@@ -1,9 +1,11 @@
 #readme {
-    height: 100px;
+    height:auto;
     width: 100%;
     position: absolute;
-    z-index: 9;
     background-color: white;
+    z-index: 9;
+    border-bottom-style:solid;
+    border-width: 1px;
 }
 #map {
     height: 100%;
