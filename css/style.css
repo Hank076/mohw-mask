@@ -1,0 +1,29 @@
+html,
+body,
+#omap {
+    margin: 0; padding: 0;
+    height: 100%;
+    width: 100vw;
+}
+#readme {
+    height:auto;
+    width: 100%;
+    position: absolute;
+    background-color: #28a745;
+    z-index: 1000;
+    border-bottom-style:solid;
+    border-width: 1px;
+    color:white;
+}
+#readme a {
+    color:white;
+}
+.tg  {border-collapse:collapse;border-spacing:0;border-color:#bbb;}
+.tg td{font-family:Arial, sans-serif;padding:5px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#bbb;color:#594F4F;background-color:#E0FFEB;}
+.tg th{font-family:Arial, sans-serif;font-weight:normal;padding:5px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#bbb;color:#493F3F;background-color:#9DE0AD;}
+.tg .tg-cly1{text-align:center;vertical-align:middle}
+.tg .tg-lboi{border-color:inherit;text-align:center;vertical-align:middle}
+.tg .tg-kftd{background-color:#efefef;text-align:center;vertical-align:middle}
+.tg .tg-0lax{text-align:center;vertical-align:middle}
+.tg .tg-gg7l{background-color:#efefef;text-align:center;vertical-align:middle}
+.tg .tg-0pky{border-color:inherit;text-align:center;vertical-align:middle}
