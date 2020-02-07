@@ -1,50 +1,39 @@
 <!DOCTYPE html>
-<html lang="zh-TW">
+<html>
 
 <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover, user-scalable=no">
     <meta name="author" content="Pupu">
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:description" content="健保特約藥局口罩販售即時資訊的清單，也能口罩剩餘庫存數量" />
-    <meta property="og:url" content="https://taiwan-health-insurance-contracted-pharmacy.pu.idv.tw" />
-    <meta property="og:locale" content="zh_TW" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="健保特約醫事機構口罩販售資訊" />
-    <meta property="og:description" content="健保特約藥局口罩販售即時資訊的清單，也能口罩剩餘庫存數量" />
-    <meta property="og:image" content="https://taiwan-health-insurance-contracted-pharmacy.pu.idv.tw/images/taiwan-health-insurance-contracted-pharmacy-pupu.jpg" />
-
-    <title>健保特約醫事機構口罩販售資訊</title>
-    <link href="css/style.css?r=202002071805" rel="stylesheet" type="text/css">
+    <title>台灣健保特約醫事機構-藥局</title>
+    <style>
+        /* Always set the map height explicitly to define the size of the div
+         * element that contains the map. */
+        #map {height: 100%;}
+        /* Optional: Makes the sample page fill the window. */
+        html, body {height: 100%; margin: 0; padding: 0;}
+    </style>
+    <script src="js/pharmacy.js?r=202002051218"></script>
+    <script src="js/gmap.js?r=202002051218"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-19433453-6"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
+
         gtag('config', 'UA-19433453-6');
     </script>
 </head>
 
 <body>
-    <noscript><strong>本頁面需要瀏覽器啟用 JavaScript</strong></noscript>
-    <div id="readme">
-        口罩資訊資料來源：<a target="_blank" href="https://www.fda.gov.tw/TC/siteContent.aspx?sid=11139">食藥署</a>　作者：<a target="_blank" href="https://www.facebook.com/pupu21">Pupu(DotNet)</a>
-        <br />
-        → <a target="_blank" href="https://www.facebook.com/pupu21/posts/3176888778992065">回報錯誤</a>　→ <a target="_blank" href="https://line.me/R/ti/p/@taiwancdc">加入疾管署官方 LINE</a>
-        <br />
-        → 部分藥局因採發放號碼牌方式，方便民眾購買口罩，因目前無法顯示顯示已發送號碼牌數量。若看到剩餘數量，請先電洽藥局
+    <div>
+        資料來源：<a target="_blank" href="https://www.fda.gov.tw/TC/siteContent.aspx?sid=11139">特約藥局及無健保特約藥局鄉鎮衛生所名單（資料時間：2020.02.04 18時)</a><br />
+        錯誤回報：<a href="https://www.facebook.com/pupu21">https://www.facebook.com/pupu21</a><br>
     </div>
-    <div id="map"><br /><br /><span style="color: red; font-size: large;">資料讀取中...</span></div>
-
-    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-    <script src="js/pharmacy.js?r=202002071639"></script>
-    <script src="js/mask.js?r=202002071639"></script>
-    <script src="js/gmap.js?r=202002071639"></script>
+    <div id="map"><br /><br /><span style="color: red; font-size: large;">請確認是否允許自動顯示離您最近的資訊</span></div>
     <script src="https://unpkg.com/@google/markerclustererplus@4.0.1/dist/markerclustererplus.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
     <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRI_1YVcLmTYtct_zG0lCVMbrbbcKRJyw&callback=initMap"></script>
-    <script src="js/index.js?r=202002072042"></script>
 </body>
 
 </html>
