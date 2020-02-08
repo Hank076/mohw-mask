@@ -1,6 +1,4 @@
 $(function() {
-    
-
     $("#news").click(function(event) {
         Swal.fire({
             title: '緊急通知',
