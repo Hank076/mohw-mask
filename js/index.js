@@ -15,7 +15,8 @@ $(function() {
     $("#filter").click(function(event) {
         $(".filter_ctl").attr('disabled', true);
 
-        dont_show_null_inventory = !$("#show_null_inventory").is(":checked");
+        dont_show_null_inventory = $("#dont_show_null_inventory").is(":checked");
+        dont_show_no_open = $("#dont_show_no_open").is(":checked");
         var type = $("input[name='type']:checked").val();
 
         if(type == '0'){
