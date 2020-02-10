@@ -1,15 +1,10 @@
 $(function() {
     $("#news").click(function(event) {
-        showWarningMassage();
+        showWarningMessage();
     });
 
     $("#info").click(function(event) {
-        Swal.fire({
-            title: '提醒',
-            html: '❕部分藥局因採發放號碼牌方式，方便民眾購買口罩，系統目前無法顯示已發送號碼牌數量。<br /><br />❕口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。 ',
-            icon: 'info',
-            confirmButtonText: '確定'
-        });
+        showInfoMessage();
     });
 
     $("#filter").click(function(event) {
@@ -50,7 +45,16 @@ $(function() {
     });  
 });
 
-function showWarningMassage(){
+function showInfoMessage(){
+    Swal.fire({
+        title: '提醒',
+        html: '❕部分藥局因採發放號碼牌方式，方便民眾購買口罩，系統目前無法顯示已發送號碼牌數量。<br /><br />❕口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。 ',
+        icon: 'info',
+        confirmButtonText: '確定'
+    });
+}
+
+function showWarningMessage(){
     Swal.fire({
         title: '緊急通知',
         text: '如果你曾於1/31前往北北基地區幾個重要景點，例如基隆廟口、九份、台北101、西門町等，請進行自主健康管理，並留意個人是否有發燒或呼吸道症狀。',
