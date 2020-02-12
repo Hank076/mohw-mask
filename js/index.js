@@ -1,8 +1,5 @@
 $(function() {
-    $("#news").click(function(event) {
-        showWarningMessage();
-    });
-
+    
     $("#info").click(function(event) {
         showInfoMessage();
     });
@@ -61,5 +58,16 @@ function showWarningMessage(){
         icon: 'warning',
         confirmButtonText: '確定',
         footer: '詳細地點：<a target="_blank" href="http://bit.ly/2SpSxeT">http://bit.ly/2SpSxeT</a>'
+    });
+}
+
+function showUpdateMessage(){
+    Swal.fire({
+        title: '地圖更新',
+        html: '部分藥局已在備註內新增口罩領取時間囉！',
+        timer: 3000,
+        timerProgressBar: true,
+        icon: 'success',
+        confirmButtonText: '確定'
     });
 }
