@@ -25,6 +25,10 @@ body,
     z-index: 10;
     float: right;
 }
+#highred {
+    color:red;
+    font-weight: bold;
+}
 /*Wraperclass for the divicon*/
 .map-label {
     position: absolute;
@@ -44,6 +48,7 @@ body,
     border-color: #444;
     padding: 3px;
     white-space: nowrap;
+    text-align: left;
 }
 /*Add this arrow*/
 .map-label-arrow {
