@@ -18,7 +18,7 @@
     <meta property="og:image" content="https://mohw-mask.pu.idv.tw/images/mohw-mask-pupu_202002101140.jpg" />
     <title>健保特約藥局口罩販售庫存即時資訊</title>
 
-    <link href="css/style.css?r=202002121555" rel="stylesheet" type="text/css">
+    <link href="css/style.css?r=202002121625" rel="stylesheet" type="text/css">
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-19433453-6"></script>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin=""/>
     <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
@@ -36,25 +36,25 @@
     <noscript><strong>本頁面需要瀏覽器啟用 JavaScript</strong></noscript>
     <div id="topblock">
         <div id="readme">
-            <b>藥局口罩販售庫存資訊</b> <small id="mask_inventory_last_update"></small>
+            <b>口罩地圖</b> <small id="mask_inventory_last_update"></small>
             <span id="info" type="button"> ℹ️ 公告</span><br />
             作者：<a target="_blank" href="https://www.facebook.com/pupu21">Pupu(DotNet)</a>　→ <a target="_blank" href="https://line.me/R/ti/p/@taiwancdc">疾管署官方 LINE</a>
             　<div class="fb-like" data-href="https://mohw-mask.pu.idv.tw/" data-width="" data-layout="button" data-action="like" data-size="small" data-share="false"></div>
         </div>
         <div class="maptools">
-            &nbsp;庫存：
+            &nbsp;
             <input class="filter_ctl" type="radio" id="show_all" name="type" value="0" checked><label for="show_all">全部</label>
             <input class="filter_ctl" type="radio" id="show_adult_and_child" name="type" value="3"><label for="show_adult_and_child">成人&兒童>0</label>
             <input class="filter_ctl" type="radio" id="show_adult" name="type" value="1"><label for="show_adult">成人>0</label>
             <input class="filter_ctl" type="radio" id="show_child_" name="type" value="2"><label for="show_child_">兒童>0</label>&nbsp;<br />
-            <input class="filter_ctl" type="checkbox" id="dont_show_null_inventory" name="nullfilter" checked><label for="dont_show_null_inventory">有庫存資訊的藥局</label>&nbsp;
-            <input class="filter_ctl" type="checkbox" id="dont_show_no_open" name="openfilter" checked><label for="dont_show_no_open">有營業的藥局(測試中)</label>&nbsp;
+            <input class="filter_ctl" type="checkbox" id="dont_show_null_inventory" name="nullfilter"><label for="dont_show_null_inventory">有庫存資訊</label>&nbsp;
+            <input class="filter_ctl" type="checkbox" id="dont_show_no_open" name="openfilter" checked><label for="dont_show_no_open">有營業(測試中)</label>&nbsp;
             <button class="filter_ctl" id="filter" type="button">搜尋</button>&nbsp;
         </div>
     </div>
 
     <div id="omap">
-        <br /><br /><span style="color: red; font-size: large;">資料讀取中...</span>
+        <br /><br /><br /><br /><br /><span style="color: red; font-size: large;">資料讀取中...</span>
     </div>
     <div id="fb-root"></div>
 
@@ -65,12 +65,12 @@
     
     <script src="https://cdn.jsdelivr.net/npm/leaflet-easybutton@2/src/easy-button.js"></script>
         
-    <script src="js/pharmacy.js?r=202002121555"></script>
-    <script src="js/mask.js?r=202002121555"></script>
-    <script src="js/omap.js?r=202002121555"></script>
+    <script src="js/pharmacy.js?r=202002121625"></script>
+    <script src="js/mask.js?r=202002121625"></script>
+    <script src="js/omap.js?r=202002121625"></script>
 
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
-    <script src="js/index.js?r=202002121555"></script>
+    <script src="js/index.js?r=202002121625"></script>
     
     <script async defer crossorigin="anonymous" src="https://connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v6.0&appId=544411143087055&autoLogAppEvents=1"></script>
 </body>
