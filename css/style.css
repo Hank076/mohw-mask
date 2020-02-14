@@ -25,9 +25,11 @@ body,
     z-index: 10;
     float: right;
 }
-#highred {
+#back_btn {
+    color: #2C84CB;
+}
+#exclamation_btn {
     color:red;
-    font-weight: bold;
 }
 /*Wraperclass for the divicon*/
 .map-label {
