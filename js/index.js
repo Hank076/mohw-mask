@@ -43,31 +43,60 @@ $(function() {
 });
 
 function showInfoMessage(){
-    Swal.fire({
+    $.alert({
+        useBootstrap: false,
+        animation: 'top',
+        closeAnimation: 'bottom',
+        boxWidth: '20em',
+        type: 'green',
         title: '提醒',
-        html: '❕部分藥局因採發放號碼牌方式，方便民眾購買口罩，系統目前無法顯示已發送號碼牌數量。<br /><br />❕口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。 ',
-        icon: 'info',
-        confirmButtonText: '確定'
+        content: '❕部分藥局因採發放號碼牌方式，方便民眾購買口罩，系統目前無法顯示已發送號碼牌數量。<br /><br />❕口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。'
     });
 }
 
 function showWarningMessage(){
-    Swal.fire({
+    $.alert({
+        useBootstrap: false,
+        animation: 'top',
+        closeAnimation: 'bottom',
+        boxWidth: '20em',
+        type: 'red',
         title: '緊急通知',
-        text: '如果你曾於1/31前往北北基地區幾個重要景點，例如基隆廟口、九份、台北101、西門町等，請進行自主健康管理，並留意個人是否有發燒或呼吸道症狀。',
-        icon: 'warning',
-        confirmButtonText: '確定',
-        footer: '詳細地點：<a target="_blank" href="http://bit.ly/2SpSxeT">http://bit.ly/2SpSxeT</a>'
+        content: '如果你曾於1/31前往北北基地區幾個重要景點，例如基隆廟口、九份、台北101、西門町等，請進行自主健康管理，並留意個人是否有發燒或呼吸道症狀。<br />詳細地點：<a target="_blank" href="http://bit.ly/2SpSxeT">http://bit.ly/2SpSxeT</a>'
     });
 }
 
-function showUpdateMessage(){
-    Swal.fire({
-        title: '地圖更新',
-        html: '部分藥局已在備註內新增口罩領取時間囉！',
-        timer: 3000,
-        timerProgressBar: true,
-        icon: 'success',
-        confirmButtonText: '確定'
+function showUpdateHistory(){
+    $.alert({
+        icon: 'fa fa-check',
+        useBootstrap: false,
+        animation: 'top',
+        closeAnimation: 'bottom',
+        boxWidth: '20em',
+        type: 'blue',
+        title: '系統更新',
+        content: '部分藥局已在備註內新增口罩領取時間囉！',
+        autoClose:'ok|2000'
+    });
+}
+
+function showUpdateProcess(){
+    var jc = $.alert({
+        icon: 'fa fa-spinner fa-spin',
+        useBootstrap: false,
+        animation: 'top',
+        closeAnimation: 'bottom',
+        boxWidth: '20em',
+        type: 'orange',
+        title: '資料更新中',
+        content: '正在抓取最新診所&口罩庫存資訊...',
+        onOpen: function(){
+            markers.clearLayers(); //清除 markers
+            loadMaskInventory(false); //取得口罩剩餘數量
+            createStrongholdData(); //更新地圖
+            jc.setIcon('fas fa-check');
+            jc.setType('green');
+            jc.close();
+        }
     });
 }

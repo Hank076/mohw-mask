@@ -18,11 +18,13 @@
     <meta property="og:image" content="https://mohw-mask.pu.idv.tw/images/mohw-mask-pupu_202002101140.jpg" />
     <title>健保特約藥局口罩販售庫存即時資訊</title>
 
-    <link href="css/style.css?r=202002141025" rel="stylesheet" type="text/css">
+    <link href="css/style.css?r=202002141500" rel="stylesheet" type="text/css">
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-19433453-6"></script>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin=""/>
     <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet-easybutton@2/src/easy-button.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.2/jquery-confirm.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css">
 
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -36,8 +38,7 @@
     <noscript><strong>本頁面需要瀏覽器啟用 JavaScript</strong></noscript>
     <div id="topblock">
         <div id="readme">
-            <b>口罩地圖</b> <small id="mask_inventory_last_update"></small>
-            <span id="info" type="button"> ℹ️ 公告</span><br />
+            <b>口罩地圖</b> <small id="mask_inventory_last_update"></small><br />
             作者：<a target="_blank" href="https://www.facebook.com/pupu21">Pupu(DotNet)</a>　→ <a target="_blank" href="https://line.me/R/ti/p/@taiwancdc">疾管署官方 LINE</a>
             　<div class="fb-like" data-href="https://mohw-mask.pu.idv.tw/" data-width="" data-layout="button" data-action="like" data-size="small" data-share="false"></div>
         </div>
@@ -53,23 +54,21 @@
     </div>
 
     <div id="omap">
-        <br /><br /><br /><br /><br /><span style="color: red; font-size: large;">資料讀取中...</span>
+        <br /><br /><br /><br /><br /><span style="color: red; font-size: large;">找口罩中，請稍後...</span>
     </div>
     <div id="fb-root"></div>
 
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
     <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js" integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew==" crossorigin=""></script>
     <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
-    
+    <script src="js/leaflet-markercluster.placementstrategies.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/leaflet-easybutton@2/src/easy-button.js"></script>
         
-    <script src="js/pharmacy.js?r=202002141025"></script>
-    <script src="js/mask.js?r=202002141025"></script>
-    <script src="js/omap.js?r=202002141025"></script>
+    <script src="js/pharmacy.js?r=202002141500"></script>
+    <script src="js/omap.js?r=202002141500"></script>
 
-    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
-    <script src="js/index.js?r=202002141025"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.2/jquery-confirm.min.js"></script>
+    <script src="js/index.js?r=202002141500"></script>
     
     <script async defer crossorigin="anonymous" src="https://connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v6.0&appId=544411143087055&autoLogAppEvents=1"></script>
 </body>
