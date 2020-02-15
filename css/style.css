@@ -20,16 +20,13 @@ body,
 #readme a {
     color:white;
 }
+#highred{
+    color: red;
+}
 .maptools {
     background-color: #d3d3d3a3;
     z-index: 10;
     float: right;
-}
-#back_btn {
-    color: #2C84CB;
-}
-#exclamation_btn {
-    color:red;
 }
 /*Wraperclass for the divicon*/
 .map-label {
