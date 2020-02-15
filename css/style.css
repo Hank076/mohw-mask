@@ -12,10 +12,12 @@ body,
     z-index: 500;
 }
 #readme{
-    background-color: #28a745;
+    background-color: #28a746;
     border-bottom-style:solid;
     border-width: 1px;
     color:white;
+    padding-left: 2px;
+    padding-top: 4px;
 }
 #readme a {
     color:white;
