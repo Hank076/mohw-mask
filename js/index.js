@@ -75,7 +75,7 @@ function showUpdateHistory(){
         boxWidth: '20em',
         type: 'blue',
         title: '系統更新',
-        content: '部分藥局已在備註內新增口罩領取時間囉！',
+        content: '地圖現在會隱藏今天未營業的藥局囉！(可至右上角取消)',
         autoClose:'ok|2000'
     });
 }
