@@ -39,7 +39,9 @@ $(function() {
         createStrongholdData();
 
         $(".filter_ctl").attr('disabled', false);
-    });  
+    });
+
+    var clock = setInterval(reloadStrongholdData , 60000);
 });
 
 function showInfoMessage(){
@@ -75,7 +77,7 @@ function showUpdateHistory(){
         boxWidth: '20em',
         type: 'blue',
         title: '系統更新',
-        content: '地圖現在會隱藏今天未營業的藥局囉！(可至右上角取消)',
+        content: '地圖現在會隱藏今天未營業&無庫存的藥局囉！(可到右上角取消)',
         autoClose:'ok|2000'
     });
 }
@@ -91,9 +93,7 @@ function showUpdateProcess(){
         title: '資料更新中',
         content: '正在抓取最新診所&口罩庫存資訊...',
         onOpen: function(){
-            markers.clearLayers(); //清除 markers
-            loadMaskInventory(false); //取得口罩剩餘數量
-            createStrongholdData(); //更新地圖
+            reloadStrongholdData();
             jc.setIcon('fas fa-check');
             jc.setType('green');
             jc.close();
