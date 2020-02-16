@@ -30,7 +30,7 @@ body,
     overflow: hidden;
 }
 .maptools {
-    background-color: #d3d3d3a3;
+    background-color: #f1f9fba3;
     z-index: 10;
     float: right;
 }
@@ -54,6 +54,7 @@ body,
     padding: 3px;
     white-space: nowrap;
     text-align: left;
+    font-size: 14px;
 }
 /*Add this arrow*/
 .map-label-arrow {
