@@ -25,6 +25,10 @@ body,
 #highred{
     color: red;
 }
+.fb-like{
+    max-height: 20px;
+    overflow: hidden;
+}
 .maptools {
     background-color: #d3d3d3a3;
     z-index: 10;
