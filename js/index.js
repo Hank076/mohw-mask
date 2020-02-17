@@ -78,7 +78,7 @@ function showInfoMessage(){
         type: 'green',
         title: '提醒',
         content: '❕部分藥局因採發放號碼牌方式，方便民眾購買口罩，系統目前無法顯示已發送號碼牌數量。<br /><br />❕口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。<br />' +
-        '<br /><a target="_blank" href="https://www.mohw.gov.tw/cp-16-51560-1.html"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/86872737_2727788167299516_5100577468511682560_o.png?_nc_cat=1&_nc_ohc=H_il-5oWpgwAX9TSLWe&_nc_ht=scontent.ftpe8-3.fna&oh=783c360258ed726695e2a44fbb46868a&oe=5EB9C64E" /></a>'
+        '<br /><a target="_blank" href="https://www.facebook.com/TWCDC/photos/a.187029023406/10157854717753407/?type=3&theater"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/p960x960/86732193_10157854717758407_2142020814671708160_o.jpg?_nc_cat=100&_nc_ohc=ykhgf5WqpwIAX988RNz&_nc_ht=scontent.ftpe8-3.fna&_nc_tp=6&oh=bb04ebab8ef6b741d5b4c3d7775650cc&oe=5ECDBA3B" /></a>'
         ,
         backgroundDismiss: true
     });
