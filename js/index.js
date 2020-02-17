@@ -10,27 +10,49 @@ $(function() {
         dont_show_null_inventory = $("#dont_show_null_inventory").is(":checked");
         dont_show_no_open = $("#dont_show_no_open").is(":checked");
         var type = $("input[name='type']:checked").val();
+        var ga_event_label = '';
+
+        if(dont_show_null_inventory){
+            ga_event_label += '有庫存, ';
+        }else{
+            ga_event_label += '無庫存, ';
+        }
+
+        if(dont_show_no_open){
+            ga_event_label += '有營業, ';
+        }else{
+            ga_event_label += '無營業, ';
+        }
 
         if(type == '0'){
             //不過濾
             show_adult_inventory = false;
             show_child_inventory = false;
+            ga_event_label += '所有';
 
         }else if(type == '1'){
             //只顯示成人 > 0
             show_adult_inventory = true;
             show_child_inventory = false;
+            ga_event_label += '僅成人';
 
         }else if(type == '2'){
             //只顯示兒童 > 0
             show_adult_inventory = false;
             show_child_inventory = true;
-            
+            ga_event_label += '僅兒童';
+
         }else if(type == '3'){
             //顯示成人+兒童 > 0
             show_adult_inventory = true;
             show_child_inventory = true;
+            ga_event_label += '成人與兒童';
         }
+
+        gtag('event', 'click', {
+            'event_category': '搜尋工具',
+            'event_label': ga_event_label
+        });
 
         //清除 markers
         markers.clearLayers();
@@ -45,6 +67,10 @@ $(function() {
 });
 
 function showInfoMessage(){
+    gtag('event', 'click', {
+        'event_category': '提醒工具',
+        'event_label': '提醒資訊'
+    });
     $.alert({
         animation: 'top',
         closeAnimation: 'bottom',
@@ -57,6 +83,10 @@ function showInfoMessage(){
 }
 
 function showWarningMessage(){
+    gtag('event', 'click', {
+        'event_category': '提醒工具',
+        'event_label': '緊急訊息'
+    });
     $.alert({
         animation: 'top',
         closeAnimation: 'bottom',
@@ -82,6 +112,11 @@ function showUpdateHistory(){
 }
 
 function showUpdateProcess(){
+    gtag('event', 'click', {
+        'event_category': '地圖工具',
+        'event_label': '更新地圖'
+    });
+    
     var jc = $.dialog({
         icon: 'fa fa-spinner fa-spin',
         animation: 'top',
@@ -100,7 +135,12 @@ function showUpdateProcess(){
 }
 
 function showVersionHistory(){
-    var jc = $.alert({
+    gtag('event', 'click', {
+        'event_category': '提醒工具',
+        'event_label': '網站歷程'
+    });
+
+    $.alert({
         icon: 'fas fa-list-alt',
         animation: 'top',
         closeAnimation: 'bottom',
@@ -109,7 +149,7 @@ function showVersionHistory(){
         title: '版本資訊',
         content: '<table class="table table-bordered table-condensed table-striped"><tr><th>版本</th><th>歷程</th></tr>' +
         '<tr><td>02/17</td><td>新增網站版本歷程<br /></td></tr>' +
-        '<tr><td>02/16</td><td>版面微調<br />即刻起每分鐘自動抓取並呈現最新數據<br />圖資改用國土繪測中心圖資<br />Facebook 新增分享按鈕<br />調整無營業時間過濾規則為: 當天當下時間之後無營業<br />重新定位時抓取最新位置<br /></td></tr>' +
+        '<tr><td>02/16</td><td>版面微調<br />即刻起每分鐘自動抓取並呈現最新數據<br />圖資改用國土測繪中心圖資<br />Facebook 新增分享按鈕<br />調整無營業時間過濾規則為: 當天當下時間之後無營業<br />重新定位時抓取最新位置<br /></td></tr>' +
         '<tr><td>02/15</td><td>版面微調<br />調整地圖工具按鈕樣式<br /></td></tr>' +
         '<tr><td>02/14</td><td>調整 Facebook 按讚按鈕<br />調整地圖上藥局重疊時的呈現方式<br />即刻起食衛署配合藥局清單全自動更新<br />人工校正衛服部錯誤資料<br /></td></tr>' +
         '<tr><td>02/13</td><td>更新食衛署配合藥局清單<br /></td></tr>' +
