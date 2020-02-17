@@ -69,7 +69,7 @@ $(function() {
 function showInfoMessage(){
     gtag('event', 'click', {
         'event_category': '提醒工具',
-        'event_label': '提醒資訊'
+        'event_label': '提醒資訊 - 口罩數量異動'
     });
     $.alert({
         animation: 'top',
@@ -78,7 +78,7 @@ function showInfoMessage(){
         type: 'green',
         title: '提醒',
         content: '❕部分藥局因採發放號碼牌方式，方便民眾購買口罩，系統目前無法顯示已發送號碼牌數量。<br /><br />❕口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。<br />' +
-        '<br /><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/86872737_2727788167299516_5100577468511682560_o.png?_nc_cat=1&_nc_ohc=H_il-5oWpgwAX9TSLWe&_nc_ht=scontent.ftpe8-3.fna&oh=783c360258ed726695e2a44fbb46868a&oe=5EB9C64E" />'
+        '<br /><a target="_blank" href="https://www.mohw.gov.tw/cp-16-51560-1.html"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/86872737_2727788167299516_5100577468511682560_o.png?_nc_cat=1&_nc_ohc=H_il-5oWpgwAX9TSLWe&_nc_ht=scontent.ftpe8-3.fna&oh=783c360258ed726695e2a44fbb46868a&oe=5EB9C64E" /></a>'
         ,
         backgroundDismiss: true
     });
