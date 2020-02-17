@@ -107,7 +107,7 @@ function showUpdateHistory(){
         columnClass: 'col-md-4 col-md-offset-4',
         type: 'blue',
         title: '系統更新',
-        content: '兒童領取口罩的數量將於 2/20(四)改變囉，<br />詳請請點選地圖右下角的 <i class="fas fa-info"></i> 按鈕了解',
+        content: '口罩每日配送數量 及 兒童領取口罩的數量，<br />將於 2/20(四)改變囉，<br />詳請請點選地圖右下角的 <i class="fas fa-info"></i> 按鈕了解',
         autoClose:'ok|5000',
         backgroundDismiss: true
     });
