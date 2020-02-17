@@ -77,7 +77,9 @@ function showInfoMessage(){
         columnClass: 'col-md-4 col-md-offset-4',
         type: 'green',
         title: '提醒',
-        content: '❕部分藥局因採發放號碼牌方式，方便民眾購買口罩，系統目前無法顯示已發送號碼牌數量。<br /><br />❕口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。',
+        content: '❕部分藥局因採發放號碼牌方式，方便民眾購買口罩，系統目前無法顯示已發送號碼牌數量。<br /><br />❕口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。<br />' +
+        '<br /><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/86872737_2727788167299516_5100577468511682560_o.png?_nc_cat=1&_nc_ohc=H_il-5oWpgwAX9TSLWe&_nc_ht=scontent.ftpe8-3.fna&oh=783c360258ed726695e2a44fbb46868a&oe=5EB9C64E" />'
+        ,
         backgroundDismiss: true
     });
 }
@@ -105,8 +107,8 @@ function showUpdateHistory(){
         columnClass: 'col-md-4 col-md-offset-4',
         type: 'blue',
         title: '系統更新',
-        content: '地圖現在會隱藏今天未營業&無庫存的藥局囉！(可到右上角取消)',
-        autoClose:'ok|2000',
+        content: '兒童領取口罩的數量將於 2/20(四)改變囉，<br />詳請請點選地圖右下角的 <i class="fas fa-info"></i> 按鈕了解',
+        autoClose:'ok|5000',
         backgroundDismiss: true
     });
 }
