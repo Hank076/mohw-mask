@@ -15,13 +15,13 @@ $(function() {
         if(dont_show_null_inventory){
             ga_event_label += '有庫存, ';
         }else{
-            ga_event_label += '無庫存, ';
+            ga_event_label += '不論庫存, ';
         }
 
         if(dont_show_no_open){
             ga_event_label += '有營業, ';
         }else{
-            ga_event_label += '無營業, ';
+            ga_event_label += '不論營業, ';
         }
 
         if(type == '0'){
