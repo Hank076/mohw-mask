@@ -75,7 +75,7 @@ function showInfoMessage(){
         animation: 'top',
         closeAnimation: 'bottom',
         columnClass: 'col-md-6 col-md-offset-3',
-        type: 'green',
+        type: 'blue',
         title: '提醒',
         content: '❕部分藥局因採發放號碼牌方式，方便民眾購買口罩，系統目前無法顯示已發送號碼牌數量。<br /><br />❕口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。<br />' +
         '<br /><a target="_blank" href="https://www.facebook.com/TWCDC/photos/a.187029023406/10157854717753407/?type=3&theater"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/p960x960/86732193_10157854717758407_2142020814671708160_o.jpg?_nc_cat=100&_nc_ohc=ykhgf5WqpwIAX988RNz&_nc_ht=scontent.ftpe8-3.fna&_nc_tp=6&oh=bb04ebab8ef6b741d5b4c3d7775650cc&oe=5ECDBA3B" /></a>'
@@ -147,7 +147,7 @@ function showVersionHistory(){
         animation: 'top',
         closeAnimation: 'bottom',
         columnClass: 'col-md-6 col-md-offset-3',
-        type: 'blue',
+        type: 'green',
         title: '版本資訊',
         content: '<table class="table table-bordered table-condensed table-striped"><tr><th>版本</th><th>歷程</th></tr>' +
         '<tr><td>02/17</td><td>新增網站版本歷程<br /></td></tr>' +
@@ -165,5 +165,22 @@ function showVersionHistory(){
         '<tr><td>02/04</td><td>提供全國藥局資料<br />提供台北市全區藥局資料<br />提供新北市全區藥局資料<br />提供新北市新莊區藥局資料<br />網站上線</td></tr>' +
         '</table>',
         backgroundDismiss: true
+    });
+}
+
+function showTwcdcFB(){
+    gtag('event', 'click', {
+        'event_category': '提醒工具',
+        'event_label': '疾管署粉絲團'
+    });
+    
+    var jc = $.dialog({
+        icon: 'fa fa-clinic-medical',
+        animation: 'top',
+        closeAnimation: 'bottom',
+        columnClass: 'col-md-4 col-md-offset-4',
+        type: 'orange',
+        title: '疾病管制署 - 粉絲團',
+        content: '<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FTWCDC&tabs=timeline&width=340&height=500&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=false&appId=544411143087055" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>',
     });
 }
