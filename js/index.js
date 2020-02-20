@@ -69,12 +69,12 @@ $(function() {
 function showInfoMessage(){
     gtag('event', 'click', {
         'event_category': '提醒工具',
-        'event_label': '提醒資訊 - 口罩數量異動'
+        'event_label': '提醒資訊'
     });
     $.alert({
         animation: 'top',
         closeAnimation: 'bottom',
-        columnClass: 'col-md-4 col-md-offset-4',
+        columnClass: 'col-md-6 col-md-offset-3',
         type: 'green',
         title: '提醒',
         content: '❕部分藥局因採發放號碼牌方式，方便民眾購買口罩，系統目前無法顯示已發送號碼牌數量。<br /><br />❕口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。<br />' +
@@ -107,7 +107,7 @@ function showUpdateHistory(){
         columnClass: 'col-md-4 col-md-offset-4',
         type: 'blue',
         title: '系統更新',
-        content: '口罩每日配送數量 及 兒童領取口罩的數量，<br />將於 2/20(四)改變囉，<br />詳請請點選地圖右下角的 <i class="fas fa-info"></i> 按鈕了解',
+        content: '現在開始原成人每日200片，改為400片囉！<br /><br />感謝製作口罩的人們日夜趕工！<br /><br />詳請請點選地圖右下角的 <i class="fas fa-info"></i> 按鈕了解',
         autoClose:'ok|5000',
         backgroundDismiss: true
     });
