@@ -6,61 +6,7 @@ $(function() {
 
     $("#filter").click(function(event) {
         $(".filter_ctl").attr('disabled', true);
-
-        dont_show_null_inventory = $("#dont_show_null_inventory").is(":checked");
-        dont_show_no_open = $("#dont_show_no_open").is(":checked");
-        var type = $("input[name='type']:checked").val();
-        var ga_event_label = '';
-
-        if(dont_show_null_inventory){
-            ga_event_label += '有庫存, ';
-        }else{
-            ga_event_label += '不論庫存, ';
-        }
-
-        if(dont_show_no_open){
-            ga_event_label += '有營業, ';
-        }else{
-            ga_event_label += '不論營業, ';
-        }
-
-        if(type == '0'){
-            //不過濾
-            show_adult_inventory = false;
-            show_child_inventory = false;
-            ga_event_label += '所有';
-
-        }else if(type == '1'){
-            //只顯示成人 > 0
-            show_adult_inventory = true;
-            show_child_inventory = false;
-            ga_event_label += '僅成人';
-
-        }else if(type == '2'){
-            //只顯示兒童 > 0
-            show_adult_inventory = false;
-            show_child_inventory = true;
-            ga_event_label += '僅兒童';
-
-        }else if(type == '3'){
-            //顯示成人+兒童 > 0
-            show_adult_inventory = true;
-            show_child_inventory = true;
-            ga_event_label += '成人與兒童';
-        }
-
-        gtag('event', 'click', {
-            'event_category': '搜尋工具',
-            'event_label': ga_event_label
-        });
-
-        //清除 markers
-        markers.clearLayers();
-
-        //更新地圖
-        createStrongholdData();
-
-        $(".filter_ctl").attr('disabled', false);
+        showUpdateProcessByManual();
     });
 
     var clock = setInterval(reloadStrongholdData , 60000);
@@ -136,6 +82,79 @@ function showUpdateProcess(){
     });
 }
 
+function showUpdateProcessByManual(){   
+    var jc = $.dialog({
+        icon: 'fa fa-spinner fa-spin',
+        animation: 'top',
+        closeAnimation: 'bottom',
+        columnClass: 'col-md-4 col-md-offset-4',
+        type: 'orange',
+        title: '資料過濾中',
+        content: '正在過濾相關診所&口罩庫存資訊...',
+        onOpen: function(){
+
+            dont_show_null_inventory = $("#dont_show_null_inventory").is(":checked");
+            dont_show_no_open = $("#dont_show_no_open").is(":checked");
+            var type = $("input[name='type']:checked").val();
+            var ga_event_label = '';
+    
+            if(dont_show_null_inventory){
+                ga_event_label += '有庫存, ';
+            }else{
+                ga_event_label += '不論庫存, ';
+            }
+    
+            if(dont_show_no_open){
+                ga_event_label += '有營業, ';
+            }else{
+                ga_event_label += '不論營業, ';
+            }
+    
+            if(type == '0'){
+                //不過濾
+                show_adult_inventory = false;
+                show_child_inventory = false;
+                ga_event_label += '所有';
+    
+            }else if(type == '1'){
+                //只顯示成人 > 0
+                show_adult_inventory = true;
+                show_child_inventory = false;
+                ga_event_label += '僅成人';
+    
+            }else if(type == '2'){
+                //只顯示兒童 > 0
+                show_adult_inventory = false;
+                show_child_inventory = true;
+                ga_event_label += '僅兒童';
+    
+            }else if(type == '3'){
+                //顯示成人+兒童 > 0
+                show_adult_inventory = true;
+                show_child_inventory = true;
+                ga_event_label += '成人與兒童';
+            }
+    
+            gtag('event', 'click', {
+                'event_category': '搜尋工具',
+                'event_label': ga_event_label
+            });
+    
+            //清除 markers
+            markers.clearLayers();
+    
+            //更新地圖
+            createStrongholdData();
+
+            $(".filter_ctl").attr('disabled', false);
+
+            jc.setIcon('fas fa-check');
+            jc.setType('green');
+            jc.close();
+        }
+    });
+}
+
 function showVersionHistory(){
     gtag('event', 'click', {
         'event_category': '提醒工具',
@@ -150,6 +169,7 @@ function showVersionHistory(){
         type: 'green',
         title: '版本資訊',
         content: '<table class="table table-bordered table-condensed table-striped"><tr><th>版本</th><th>歷程</th></tr>' +
+        '<tr><td>02/20</td><td>調整搜尋提示＆新增疾管署粉絲團訊息<br /></td></tr>' +
         '<tr><td>02/17</td><td>新增網站版本歷程<br /></td></tr>' +
         '<tr><td>02/16</td><td>版面微調<br />即刻起每分鐘自動抓取並呈現最新數據<br />圖資改用國土測繪中心圖資<br />Facebook 新增分享按鈕<br />調整無營業時間過濾規則為: 當天當下時間之後無營業<br />重新定位時抓取最新位置<br /></td></tr>' +
         '<tr><td>02/15</td><td>版面微調<br />調整地圖工具按鈕樣式<br /></td></tr>' +
