@@ -201,11 +201,17 @@ function showTwcdcFB(){
         type: 'orange',
         title: '疾病管制署 - 粉絲團',
         content: '<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FTWCDC&tabs=timeline&width=340&height=500&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=false&appId=544411143087055" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>',
+        backgroundDismiss: true
     });
 }
 
 
 function showQuestionInfo(){
+    gtag('event', 'click', {
+        'event_category': '提醒工具',
+        'event_label': '資訊有誤怎麼辦'
+    });
+
     $.alert({
         icon: 'fa fa-check',
         animation: 'top',
