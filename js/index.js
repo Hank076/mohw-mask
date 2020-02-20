@@ -9,7 +9,7 @@ $(function() {
         showUpdateProcessByManual();
     });
 
-    var clock = setInterval(reloadStrongholdData , 60000);
+    var clock = setInterval(function() {reloadStrongholdData(true);} , 60000);
 });
 
 function showInfoMessage(){
@@ -23,9 +23,8 @@ function showInfoMessage(){
         columnClass: 'col-md-6 col-md-offset-3',
         type: 'blue',
         title: '提醒',
-        content: '❕部分藥局因採發放號碼牌方式，方便民眾購買口罩，系統目前無法顯示已發送號碼牌數量。<br /><br />❕口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。<br />' +
-        '<br /><a target="_blank" href="https://www.facebook.com/TWCDC/photos/a.187029023406/10157854717753407/?type=3&theater"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/p960x960/86732193_10157854717758407_2142020814671708160_o.jpg?_nc_cat=100&_nc_ohc=ykhgf5WqpwIAX988RNz&_nc_ht=scontent.ftpe8-3.fna&_nc_tp=6&oh=bb04ebab8ef6b741d5b4c3d7775650cc&oe=5ECDBA3B" /></a>'
-        ,
+        content: '❕部分藥局因採發放號碼牌方式，方便民眾購買口罩，系統目前無法顯示已發送號碼牌數量。<br /><br />❕口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。<br /><br />❕感謝藥局人員無償奉獻，請保持耐心與禮貌哦。<br />' +
+        '<br /><a target="_blank" href="https://www.facebook.com/TWCDC/photos/a.187029023406/10157854717753407/?type=3&theater"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/p960x960/86732193_10157854717758407_2142020814671708160_o.jpg?_nc_cat=100&_nc_ohc=ykhgf5WqpwIAX988RNz&_nc_ht=scontent.ftpe8-3.fna&_nc_tp=6&oh=bb04ebab8ef6b741d5b4c3d7775650cc&oe=5ECDBA3B" /></a>',
         backgroundDismiss: true
     });
 }
@@ -53,7 +52,7 @@ function showUpdateHistory(){
         columnClass: 'col-md-4 col-md-offset-4',
         type: 'blue',
         title: '系統更新',
-        content: '現在開始原成人每日200片，改為400片囉！<br /><br />感謝製作口罩的人們日夜趕工！<br /><br />詳請請點選地圖右下角的 <i class="fas fa-info"></i> 按鈕了解',
+        content: '現在開始原成人每日200片，改為400片囉！<br /><br />感謝藥局人員無償奉獻，請保持耐心與禮貌哦！<br />感謝製作口罩的人們日夜趕工<br /><br />詳請請點選地圖右下角的 <i class="fas fa-info"></i> 按鈕了解',
         autoClose:'ok|5000',
         backgroundDismiss: true
     });
@@ -74,7 +73,7 @@ function showUpdateProcess(){
         title: '資料更新中',
         content: '正在抓取最新診所&口罩庫存資訊...',
         onOpen: function(){
-            reloadStrongholdData();
+            reloadStrongholdData(false);
             jc.setIcon('fas fa-check');
             jc.setType('green');
             jc.close();
@@ -169,7 +168,7 @@ function showVersionHistory(){
         type: 'green',
         title: '版本資訊',
         content: '<table class="table table-bordered table-condensed table-striped"><tr><th>版本</th><th>歷程</th></tr>' +
-        '<tr><td>02/20</td><td>調整搜尋提示＆新增疾管署粉絲團訊息<br /></td></tr>' +
+        '<tr><td>02/20</td><td>調整程式載入順序及新增資訊錯誤排解說明<br />調整搜尋提示＆新增疾管署粉絲團訊息<br /></td></tr>' +
         '<tr><td>02/17</td><td>新增網站版本歷程<br /></td></tr>' +
         '<tr><td>02/16</td><td>版面微調<br />即刻起每分鐘自動抓取並呈現最新數據<br />圖資改用國土測繪中心圖資<br />Facebook 新增分享按鈕<br />調整無營業時間過濾規則為: 當天當下時間之後無營業<br />重新定位時抓取最新位置<br /></td></tr>' +
         '<tr><td>02/15</td><td>版面微調<br />調整地圖工具按鈕樣式<br /></td></tr>' +
@@ -202,5 +201,23 @@ function showTwcdcFB(){
         type: 'orange',
         title: '疾病管制署 - 粉絲團',
         content: '<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FTWCDC&tabs=timeline&width=340&height=500&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=false&appId=544411143087055" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>',
+    });
+}
+
+
+function showQuestionInfo(){
+    $.alert({
+        icon: 'fa fa-check',
+        animation: 'top',
+        closeAnimation: 'bottom',
+        columnClass: 'col-md-6 col-md-offset-3',
+        type: 'green',
+        title: '資訊有誤？',
+        content: '如果藥局的庫存或者備註有誤，可以禮貌提醒藥師確認系統資料，' + 
+        '<BR /><BR />●庫存的部分<br>' +
+        '可請藥師瀏覽『<a target="_blank" href="http://ws.nhi.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMjkyL2NrZmlsZS9mYmUzNWVmZC0zMDkyLTRjNWEtOTAyZi0zMDIxN2I0YzYyMWQucGRm&n=MTA5MDIwNiBVc2VyR3VpZGVfUVA1X3YzLjAucGRm&icon=.pdf">於防疫口罩管控系統VPN登錄作業使用者手冊</a>』的第五頁，<BR />有說明負數的操作方式。' +
+        '<BR /><BR />●備註的部分<br>' +
+        '可請藥師一樣連線至 VPN 後進入「看診資料及掛號費」：(1)每日固定看診時段(2)「固定看診時段備註欄」，可修正藥局販賣口罩起迄時間及相關欲通知民眾事項',
+        backgroundDismiss: true
     });
 }
