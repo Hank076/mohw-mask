@@ -169,7 +169,7 @@ locations = [
 {lng:121.514555,lat:25.071934,name:'酒泉春天藥局',id:'5901092041',tel:'0225977932',addr:'台北市大同區酒泉街94號、94號2樓',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
 {lng:121.510788,lat:25.050354,name:'中興聯合藥局',id:'5901092050',tel:'0225502952',addr:'台北市大同區鄭州路127號（實際營業地址：1樓）',memo:'上午8點發號碼牌，下午1點~5點領口罩，週六日未營業',business_week:'OOOOOXXOOOOOXXXXXXXXX'},
 {lng:121.510636,lat:25.053696,name:'躍獅遠東藥局',id:'5901092069',tel:'0225594835',addr:'台北市大同區南京西路374號（實際營業地址：1樓）',memo:'口罩販售時段：每天14:30開始發放號碼牌',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
-{lng:121.508478,lat:25.056756,name:'大同民生藥局',id:'5901092078',tel:'0225558886',addr:'台北市大同區民生西路128，130號',memo:'口罩販賣時段：19:30起至售完為止',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
+{lng:121.519123,lat:25.0573489,name:'大同民生藥局',id:'5901092078',tel:'0225558886',addr:'台北市大同區民生西路128，130號',memo:'口罩販賣時段：19:30起至售完為止',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
 {lng:121.532247,lat:25.048572,name:'百源堂大藥局',id:'5901100057',tel:'0225364362',addr:'台北市中山區長安東路2段47－5號',memo:'口罩每周一至周五自上午8點15分開始領藥碼牌販售',business_week:'OOOOOXXOOOOOXXOOOOOXX'},
 {lng:121.540284,lat:25.055049,name:'名祥藥局',id:'5901100066',tel:'0225036265',addr:'台北市中山區龍江路166號',memo:'口罩代售時間為18:00<現場排隊刷卡購買，售完為止>',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
 {lng:121.525542,lat:25.051699,name:'大信藥局',id:'5901100155',tel:'0225719080',addr:'台北市中山區林森北路159巷6號',business_week:'XXXXXXXOOOOOOXOOOOOOO'},
