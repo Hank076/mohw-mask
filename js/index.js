@@ -12,75 +12,6 @@ $(function() {
     var clock = setInterval(function() {reloadStrongholdData(true);} , 60000);
 });
 
-function showInfoMessage(){
-    gtag('event', 'click', {
-        'event_category': '提醒工具',
-        'event_label': '提醒資訊'
-    });
-    $.alert({
-        animation: 'top',
-        closeAnimation: 'bottom',
-        columnClass: 'col-md-6 col-md-offset-3',
-        type: 'blue',
-        title: '提醒',
-        content: '❕部分藥局因採發放號碼牌方式，方便民眾購買口罩，系統目前無法顯示已發送號碼牌數量。<br /><br />❕口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。<br /><br />❕感謝藥局人員無償奉獻，請保持耐心與禮貌哦。<br />' +
-        '<br /><a target="_blank" href="https://www.facebook.com/TWCDC/posts/10157875518563407"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/p960x960/88101392_10157875518523407_8749554612014415872_o.png?_nc_cat=1&_nc_ohc=l9qWPxpPJVAAX-1vkU4&_nc_ht=scontent.ftpe8-3.fna&oh=9e2552c0a186e22bd5f3e91519dd299b&oe=5EB6EBFC" /></a>',
-        backgroundDismiss: true
-    });
-}
-
-function showWarningMessage(){
-    gtag('event', 'click', {
-        'event_category': '提醒工具',
-        'event_label': '緊急訊息'
-    });
-    $.alert({
-        animation: 'top',
-        closeAnimation: 'bottom',
-        columnClass: 'col-md-4 col-md-offset-4',
-        type: 'red',
-        title: '緊急通知',
-        content: '如果你曾於1/31前往北北基地區幾個重要景點，例如基隆廟口、九份、台北101、西門町等，請進行自主健康管理，並留意個人是否有發燒或呼吸道症狀。<br />詳細地點：<a target="_blank" href="http://bit.ly/2SpSxeT">http://bit.ly/2SpSxeT</a>'
-    });
-}
-
-function showUpdateHistory(){
-    $.alert({
-        icon: 'fa fa-check',
-        animation: 'top',
-        closeAnimation: 'bottom',
-        columnClass: 'col-md-4 col-md-offset-4',
-        type: 'blue',
-        title: '系統更新',
-        content: '2月27日起不限單雙號可買兒童口罩，每次最多持3張兒童健保卡代購！<br /><br />全民抗疫，請保持耐心與禮貌哦！<br />感謝製作口罩的人們日夜趕工<br /><br />詳請請點選地圖右下角的 <i class="fas fa-info"></i> 按鈕了解',
-        autoClose:'ok|5000',
-        backgroundDismiss: true
-    });
-}
-
-function showUpdateProcess(){
-    gtag('event', 'click', {
-        'event_category': '地圖工具',
-        'event_label': '更新地圖'
-    });
-    
-    var jc = $.dialog({
-        icon: 'fa fa-spinner fa-spin',
-        animation: 'top',
-        closeAnimation: 'bottom',
-        columnClass: 'col-md-4 col-md-offset-4',
-        type: 'orange',
-        title: '資料更新中',
-        content: '正在抓取最新診所&口罩庫存資訊...',
-        onOpen: function(){
-            reloadStrongholdData(false);
-            jc.setIcon('fas fa-check');
-            jc.setType('green');
-            jc.close();
-        }
-    });
-}
-
 function showUpdateProcessByManual(){   
     var jc = $.dialog({
         icon: 'fa fa-spinner fa-spin',
@@ -227,5 +158,75 @@ function showQuestionInfo(){
         '<BR /><BR />●備註的部分<br>' +
         '可請藥師一樣連線至 VPN 後進入「看診資料及掛號費」：(1)每日固定看診時段(2)「固定看診時段備註欄」，可修正藥局販賣口罩起迄時間及相關欲通知民眾事項',
         backgroundDismiss: true
+    });
+}
+
+
+function showInfoMessage(){
+    gtag('event', 'click', {
+        'event_category': '提醒工具',
+        'event_label': '提醒資訊'
+    });
+    $.alert({
+        animation: 'top',
+        closeAnimation: 'bottom',
+        columnClass: 'col-md-6 col-md-offset-3',
+        type: 'blue',
+        title: '提醒',
+        content: '❕部分藥局因採發放號碼牌方式，方便民眾購買口罩，系統目前無法顯示已發送號碼牌數量。<br /><br />❕口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。<br /><br />❕全民抗疫，請保持耐心與禮貌哦。<br />' +
+        '<br /><a target="_blank" href="https://www.facebook.com/TWCDC/posts/10157875518563407"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/p960x960/88101392_10157875518523407_8749554612014415872_o.png?_nc_cat=1&_nc_ohc=l9qWPxpPJVAAX-1vkU4&_nc_ht=scontent.ftpe8-3.fna&oh=9e2552c0a186e22bd5f3e91519dd299b&oe=5EB6EBFC" /></a>',
+        backgroundDismiss: true
+    });
+}
+
+function showWarningMessage(){
+    gtag('event', 'click', {
+        'event_category': '提醒工具',
+        'event_label': '重要訊息'
+    });
+    $.alert({
+        animation: 'top',
+        closeAnimation: 'bottom',
+        columnClass: 'col-md-8 col-md-offset-2',
+        type: 'red',
+        title: '重要通知',
+        content: '嚴重特殊傳染性肺炎（COVID-19）防治及紓困振興特別條例<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTWCDC%2Fposts%2F10157875934988407&width=350&show_text=true&appId=544411143087055&height=622" width="350" height="622" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>'
+    });
+}
+
+function showUpdateHistory(){
+    $.alert({
+        icon: 'fa fa-check',
+        animation: 'top',
+        closeAnimation: 'bottom',
+        columnClass: 'col-md-4 col-md-offset-4',
+        type: 'blue',
+        title: '系統更新',
+        content: '2月27日起不限單雙號可買兒童口罩，每次最多持3張兒童健保卡代購！<br /><br />全民抗疫，請保持耐心與禮貌哦！<br />感謝製作口罩的人們日夜趕工<br /><br />詳請請點選地圖右下角的 <i class="fas fa-info"></i> 按鈕了解',
+        autoClose:'ok|5000',
+        backgroundDismiss: true
+    });
+}
+
+function showUpdateProcess(){
+    gtag('event', 'click', {
+        'event_category': '地圖工具',
+        'event_label': '更新地圖'
+    });
+    
+    var jc = $.dialog({
+        icon: 'fa fa-spinner fa-spin',
+        animation: 'top',
+        closeAnimation: 'bottom',
+        columnClass: 'col-md-4 col-md-offset-4',
+        type: 'orange',
+        title: '資料更新中',
+        content: '正在抓取最新診所&口罩庫存資訊...',
+        onOpen: function(){
+            reloadStrongholdData(false);
+            jc.setIcon('fas fa-check');
+            jc.setType('green');
+            jc.close();
+        }
     });
 }
