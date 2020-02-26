@@ -173,7 +173,7 @@ function showInfoMessage(){
         columnClass: 'col-md-6 col-md-offset-3',
         type: 'blue',
         title: '提醒',
-        content: '<span style="color:red;">❕2/26 今晚6點至7點半健保署系統維護，口罩庫存資訊會暫停運作維修！</span><br /><br />❕部分藥局因採發放號碼牌方式，方便民眾購買口罩，系統目前無法顯示已發送號碼牌數量。<br /><br />❕口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。<br /><br />❕全民抗疫，請保持耐心與禮貌哦。<br />' +
+        content: '❕部分藥局因採發放號碼牌方式，方便民眾購買口罩，系統目前無法顯示已發送號碼牌數量。<br /><br />❕口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。<br /><br />❕全民抗疫，請保持耐心與禮貌哦。<br />' +
         '<br /><a target="_blank" href="https://www.facebook.com/TWCDC/posts/10157875518563407"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/p960x960/88101392_10157875518523407_8749554612014415872_o.png?_nc_cat=1&_nc_ohc=l9qWPxpPJVAAX-1vkU4&_nc_ht=scontent.ftpe8-3.fna&oh=9e2552c0a186e22bd5f3e91519dd299b&oe=5EB6EBFC" /></a>',
         backgroundDismiss: true
     });
@@ -202,7 +202,7 @@ function showUpdateHistory(){
         columnClass: 'col-md-4 col-md-offset-4',
         type: 'blue',
         title: '系統更新',
-        content: '<span style="color:red;">2/26 今晚6點至7點半健保署系統維護，口罩庫存資訊會暫停運作維修！</span><br /><br />2月27日起不限單雙號可買兒童口罩，每次最多持3張兒童健保卡代購！<br /><br />全民抗疫，請保持耐心與禮貌哦！<br />感謝製作口罩的人們日夜趕工<br /><br />詳請請點選地圖右下角的 <i class="fas fa-info"></i> 按鈕了解',
+        content: '2月27日起不限單雙號可買兒童口罩，每次最多持3張兒童健保卡代購！<br /><br />全民抗疫，請保持耐心與禮貌哦！<br />感謝製作口罩的人們日夜趕工<br /><br />詳請請點選地圖右下角的 <i class="fas fa-info"></i> 按鈕了解',
         autoClose:'ok|5000',
         backgroundDismiss: true
     });
