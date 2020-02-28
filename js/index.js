@@ -99,6 +99,7 @@ function showVersionHistory(){
         type: 'green',
         title: '版本資訊',
         content: '<table class="table table-bordered table-condensed table-striped"><tr><th>版本</th><th>歷程</th></tr>' +
+        '<tr><td>02/28</td><td>新增口罩庫存最後回報時間(藥局詳細資訊內)</td></tr>' +
         '<tr><td>02/22</td><td>稍微加快讀取速度</td></tr>' +
         '<tr><td>02/21</td><td>新增北市健康服務中心據點<br />新增衛生所的營業時間與公告</td></tr>' +
         '<tr><td>02/20</td><td>調整程式載入順序及新增資訊錯誤排解說明<br />調整搜尋提示＆新增疾管署粉絲團訊息</td></tr>' +
@@ -138,7 +139,6 @@ function showTwcdcFB(){
     });
 }
 
-
 function showQuestionInfo(){
     gtag('event', 'click', {
         'event_category': '提醒工具',
@@ -151,16 +151,15 @@ function showQuestionInfo(){
         closeAnimation: 'bottom',
         columnClass: 'col-md-6 col-md-offset-3',
         type: 'green',
-        title: '資訊有誤',
-        content: '如果藥局的庫存或者備註有誤，可以禮貌提醒藥師確認系統資料，' + 
+        title: '資訊有誤嗎',
+        content: '如果藥局的庫存或者備註有誤，可以禮貌提醒藥師確認系統資料' + 
         '<BR /><BR />●庫存的部分<br>' +
         '可請藥師瀏覽『<a target="_blank" href="http://ws.nhi.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMjkyL2NrZmlsZS9mYmUzNWVmZC0zMDkyLTRjNWEtOTAyZi0zMDIxN2I0YzYyMWQucGRm&n=MTA5MDIwNiBVc2VyR3VpZGVfUVA1X3YzLjAucGRm&icon=.pdf">於防疫口罩管控系統VPN登錄作業使用者手冊</a>』的第五頁，<BR />有說明負數的操作方式。' +
         '<BR /><BR />●備註的部分<br>' +
-        '可請藥師一樣連線至 VPN 後進入「看診資料及掛號費」：(1)每日固定看診時段(2)「固定看診時段備註欄」，可修正藥局販賣口罩起迄時間及相關欲通知民眾事項',
+        '可請藥師一樣連線至VPN後進入「看診資料及掛號費」：(1)每日固定看診時段(2)「固定看診時段備註欄」，可修正藥局販賣口罩起迄時間及相關欲通知民眾事項。',
         backgroundDismiss: true
     });
 }
-
 
 function showInfoMessage(){
     gtag('event', 'click', {
@@ -202,7 +201,7 @@ function showUpdateHistory(){
         columnClass: 'col-md-4 col-md-offset-4',
         type: 'blue',
         title: '系統更新',
-        content: '2月27日起不限單雙號可買兒童口罩，每次最多持3張兒童健保卡代購！<br /><br />全民抗疫，請保持耐心與禮貌哦！<br />感謝製作口罩的人們日夜趕工<br /><br />詳請請點選地圖右下角的 <i class="fas fa-info"></i> 按鈕了解',
+        content: '2月27日起不限單雙號可買兒童口罩，每次最多持3張兒童健保卡代購！<br /><br />系統每分鐘自動與衛服部更新庫存。<br /><br />全民抗疫，請保持耐心與禮貌哦！<br /><br />詳請請點選地圖右下角的 <i class="fas fa-info"></i> 按鈕了解',
         autoClose:'ok|5000',
         backgroundDismiss: true
     });
