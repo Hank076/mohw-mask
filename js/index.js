@@ -100,6 +100,7 @@ function showVersionHistory(){
         title: '版本資訊',
         content: '<table class="table table-bordered table-condensed table-striped"><tr><th>版本</th><th>歷程</th></tr>' +
         //'<tr><td>02/28</td><td>新增口罩庫存最後回報時間(藥局詳細資訊內)</td></tr>' +
+        '<tr><td>02/29</td><td>新增重要公告</td></tr>' +
         '<tr><td>02/22</td><td>稍微加快讀取速度</td></tr>' +
         '<tr><td>02/21</td><td>新增北市健康服務中心據點<br />新增衛生所的營業時間與公告</td></tr>' +
         '<tr><td>02/20</td><td>調整程式載入順序及新增資訊錯誤排解說明<br />調整搜尋提示＆新增疾管署粉絲團訊息</td></tr>' +
@@ -161,6 +162,23 @@ function showQuestionInfo(){
     });
 }
 
+function showUpdateHistory(){
+    $.alert({
+        icon: 'fa fa-check',
+        animation: 'top',
+        closeAnimation: 'bottom',
+        columnClass: 'col-md-4 col-md-offset-4',
+        type: 'blue',
+        title: '系統更新',
+        content: '🔔案32的詳細資訊請點選地圖右下角的<i class="fas fa-exclamation-triangle"></i>按鈕！<br /><br />' + 
+        '🔔2月27日起不限單雙號可買兒童口罩，每次最多持3張兒童健保卡代購！<br /><br />' + 
+        '🔔本系統每分鐘自動與衛服部更新庫存。<br /><br />' + 
+        '🔔全民抗疫，請保持耐心與禮貌哦！',
+        autoClose:'ok|5000',
+        backgroundDismiss: true
+    });
+}
+
 function showInfoMessage(){
     gtag('event', 'click', {
         'event_category': '提醒工具',
@@ -172,8 +190,11 @@ function showInfoMessage(){
         columnClass: 'col-md-6 col-md-offset-3',
         type: 'blue',
         title: '提醒',
-        content: '❕部分藥局因採發放號碼牌方式，方便民眾購買口罩，系統目前無法顯示已發送號碼牌數量。<br /><br />❕口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。<br /><br />❕全民抗疫，請保持耐心與禮貌哦。<br />' +
-        '<br /><a target="_blank" href="https://www.facebook.com/TWCDC/posts/10157875518563407"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/p960x960/88101392_10157875518523407_8749554612014415872_o.png?_nc_cat=1&_nc_ohc=l9qWPxpPJVAAX-1vkU4&_nc_ht=scontent.ftpe8-3.fna&oh=9e2552c0a186e22bd5f3e91519dd299b&oe=5EB6EBFC" /></a>',
+        content: '❕案32的詳細資訊請點選地圖右下角的<i class="fas fa-exclamation-triangle"></i>按鈕 <br /><br />' + 
+        '❕部分藥局因採發放號碼牌方式，方便民眾購買口罩，系統目前無法顯示已發送號碼牌數量。<br /><br />' + 
+        '❕口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。<br /><br />' + 
+        '❕全民抗疫，請保持耐心與禮貌哦。<br /><br />' +
+        '<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10157875518563407"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/p960x960/88101392_10157875518523407_8749554612014415872_o.png?_nc_cat=1&_nc_ohc=l9qWPxpPJVAAX-1vkU4&_nc_ht=scontent.ftpe8-3.fna&oh=9e2552c0a186e22bd5f3e91519dd299b&oe=5EB6EBFC" /></a>',
         backgroundDismiss: true
     });
 }
@@ -186,24 +207,14 @@ function showWarningMessage(){
     $.alert({
         animation: 'top',
         closeAnimation: 'bottom',
-        columnClass: 'col-md-8 col-md-offset-2',
+        columnClass: 'col-md-6 col-md-offset-3',
         type: 'red',
         title: '重要通知',
-        content: '嚴重特殊傳染性肺炎（COVID-19）防治及紓困振興特別條例<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTWCDC%2Fposts%2F10157875934988407&width=350&show_text=true&appId=544411143087055&height=622" width="350" height="622" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>'
-    });
-}
-
-function showUpdateHistory(){
-    $.alert({
-        icon: 'fa fa-check',
-        animation: 'top',
-        closeAnimation: 'bottom',
-        columnClass: 'col-md-4 col-md-offset-4',
-        type: 'blue',
-        title: '系統更新',
-        content: '2月27日起不限單雙號可買兒童口罩，每次最多持3張兒童健保卡代購！<br /><br />系統每分鐘自動與衛服部更新庫存。<br /><br />全民抗疫，請保持耐心與禮貌哦！<br /><br />詳請請點選地圖右下角的 <i class="fas fa-info"></i> 按鈕了解',
-        autoClose:'ok|5000',
-        backgroundDismiss: true
+        content: '案32(外籍看護)於2月16日至24日間，<br />' + 
+        '曾多次搭乘公車、捷運等大眾交通運輸，並有多處公共場所活動史，<br />' +
+        '提醒曾於所列時段出入相關場所的民眾，請自主健康管理14天，<br />' + 
+        '如有疑似症狀，請儘速戴口罩就醫，並主動告知醫師活動接觸史。<br />'+
+        '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTWCDC%2Fphotos%2Fa.187029023406%2F10157880909138407%2F%3Ftype%3D3&width=350&show_text=true&appId=544411143087055&height=665" width="350" height="665" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>'
     });
 }
 
