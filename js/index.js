@@ -99,8 +99,7 @@ function showVersionHistory(){
         type: 'green',
         title: '版本資訊',
         content: '<table class="table table-bordered table-condensed table-striped"><tr><th>版本</th><th>歷程</th></tr>' +
-        //'<tr><td>02/28</td><td>新增口罩庫存最後回報時間(藥局詳細資訊內)</td></tr>' +
-        '<tr><td>02/29</td><td>新增重要公告</td></tr>' +
+        '<tr><td>02/29</td><td>新增口罩庫存最後回報時間(於藥局詳細資訊內)<br />新增重要公告</td></tr>' +
         '<tr><td>02/22</td><td>稍微加快讀取速度</td></tr>' +
         '<tr><td>02/21</td><td>新增北市健康服務中心據點<br />新增衛生所的營業時間與公告</td></tr>' +
         '<tr><td>02/20</td><td>調整程式載入順序及新增資訊錯誤排解說明<br />調整搜尋提示＆新增疾管署粉絲團訊息</td></tr>' +
