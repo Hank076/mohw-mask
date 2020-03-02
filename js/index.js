@@ -85,6 +85,44 @@ function showUpdateProcessByManual(){
     });
 }
 
+function showTopMessage(){
+    $.alert({
+        icon: 'fa fa-check',
+        animation: 'top',
+        closeAnimation: 'bottom',
+        columnClass: 'col-md-4 col-md-offset-4',
+        type: 'blue',
+        title: '系統更新',
+        content: 
+        '🔔3/2衛生福利部疾病管制署記者會：​口罩實名制3/5起調整，每人每7天可多領一片：兒童每7天5片，成人每7天3片。<br /><br />' + 
+        '🔔案32的詳細資訊請點選地圖右下角的<i class="fas fa-exclamation-triangle"></i>按鈕！<br /><br />' + 
+        '🔔本系統每分鐘自動與衛服部更新庫存。<br /><br />' + 
+        '🔔全民抗疫，請保持耐心與禮貌哦！',
+        autoClose:'ok|5000',
+        backgroundDismiss: true
+    });
+}
+
+function showInfoMessage(){
+    gtag('event', 'click', {
+        'event_category': '提醒工具',
+        'event_label': '提醒資訊'
+    });
+    $.alert({
+        animation: 'top',
+        closeAnimation: 'bottom',
+        columnClass: 'col-md-6 col-md-offset-3',
+        type: 'blue',
+        title: '提醒',
+        content: '❕3/2衛生福利部疾病管制署記者會：​口罩實名制3/5起調整，每人每7天可多領一片：兒童每7天5片，成人每7天3片。<br /><br />' + 
+        '❕部分藥局因採發放號碼牌方式，方便民眾購買口罩，系統目前無法顯示已發送號碼牌數量。<br /><br />' + 
+        '❕口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。<br /><br />' + 
+        '❕全民抗疫，請保持耐心與禮貌哦。<br /><br />' +
+        '<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10157875518563407"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/p960x960/88101392_10157875518523407_8749554612014415872_o.png?_nc_cat=1&_nc_ohc=l9qWPxpPJVAAX-1vkU4&_nc_ht=scontent.ftpe8-3.fna&oh=9e2552c0a186e22bd5f3e91519dd299b&oe=5EB6EBFC" /></a>',
+        backgroundDismiss: true
+    });
+}
+
 function showVersionHistory(){
     gtag('event', 'click', {
         'event_category': '提醒工具',
@@ -157,43 +195,6 @@ function showQuestionInfo(){
         '可請藥師瀏覽『<a target="_blank" href="http://ws.nhi.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMjkyL2NrZmlsZS9mYmUzNWVmZC0zMDkyLTRjNWEtOTAyZi0zMDIxN2I0YzYyMWQucGRm&n=MTA5MDIwNiBVc2VyR3VpZGVfUVA1X3YzLjAucGRm&icon=.pdf">於防疫口罩管控系統VPN登錄作業使用者手冊</a>』的第五頁，<BR />有說明負數的操作方式。' +
         '<BR /><BR />●備註的部分<br>' +
         '可請藥師一樣連線至VPN後進入「看診資料及掛號費」：(1)每日固定看診時段(2)「固定看診時段備註欄」，可修正藥局販賣口罩起迄時間及相關欲通知民眾事項。',
-        backgroundDismiss: true
-    });
-}
-
-function showUpdateHistory(){
-    $.alert({
-        icon: 'fa fa-check',
-        animation: 'top',
-        closeAnimation: 'bottom',
-        columnClass: 'col-md-4 col-md-offset-4',
-        type: 'blue',
-        title: '系統更新',
-        content: '🔔案32的詳細資訊請點選地圖右下角的<i class="fas fa-exclamation-triangle"></i>按鈕！<br /><br />' + 
-        '🔔2月27日起不限單雙號可買兒童口罩，每次最多持3張兒童健保卡代購！<br /><br />' + 
-        '🔔本系統每分鐘自動與衛服部更新庫存。<br /><br />' + 
-        '🔔全民抗疫，請保持耐心與禮貌哦！',
-        autoClose:'ok|5000',
-        backgroundDismiss: true
-    });
-}
-
-function showInfoMessage(){
-    gtag('event', 'click', {
-        'event_category': '提醒工具',
-        'event_label': '提醒資訊'
-    });
-    $.alert({
-        animation: 'top',
-        closeAnimation: 'bottom',
-        columnClass: 'col-md-6 col-md-offset-3',
-        type: 'blue',
-        title: '提醒',
-        content: '❕案32的詳細資訊請點選地圖右下角的<i class="fas fa-exclamation-triangle"></i>按鈕 <br /><br />' + 
-        '❕部分藥局因採發放號碼牌方式，方便民眾購買口罩，系統目前無法顯示已發送號碼牌數量。<br /><br />' + 
-        '❕口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。<br /><br />' + 
-        '❕全民抗疫，請保持耐心與禮貌哦。<br /><br />' +
-        '<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10157875518563407"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/p960x960/88101392_10157875518523407_8749554612014415872_o.png?_nc_cat=1&_nc_ohc=l9qWPxpPJVAAX-1vkU4&_nc_ht=scontent.ftpe8-3.fna&oh=9e2552c0a186e22bd5f3e91519dd299b&oe=5EB6EBFC" /></a>',
         backgroundDismiss: true
     });
 }
