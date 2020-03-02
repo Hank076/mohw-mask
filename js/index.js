@@ -137,7 +137,7 @@ function showVersionHistory(){
         type: 'green',
         title: '版本資訊',
         content: '<table class="table table-bordered table-condensed table-striped"><tr><th>版本</th><th>歷程</th></tr>' +
-        '<tr><td>03/02</td><td>新增大人小孩口罩最後新增減少時間(於詳細資訊停留於庫存數量上出現)<br />新增領取數量異動公告</td></tr>' +
+        '<tr><td>03/02</td><td>新增大人小孩口罩最後新增減少時間(於詳細資訊點擊回報時間出現)<br />新增領取數量異動公告</td></tr>' +
         '<tr><td>02/29</td><td>新增口罩庫存最後回報時間(於藥局詳細資訊內)<br />新增重要公告</td></tr>' +
         '<tr><td>02/22</td><td>稍微加快讀取速度</td></tr>' +
         '<tr><td>02/21</td><td>新增北市健康服務中心據點<br />新增衛生所的營業時間與公告</td></tr>' +
