@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, minimum-scale=1, maximum-scale=1, viewport-fit=cover, user-scalable=no">
     <meta name="format-detection" content="telephone=no">
     <meta name="author" content="Pupu(DotNet)">
     <meta name="twitter:card" content="summary" />
@@ -26,13 +26,13 @@
     <meta name="msapplication-TileColor" content="#00aba9">
     <meta name="theme-color" content="#ffffff">
 
-    <link href="css/style.css?r=202003021440" rel="stylesheet" type="text/css">
+    <link href="css/style.css?r=202003021730" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.6.0/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.4.1/MarkerCluster.Default.css" integrity="sha256-LWhzWaQGZRsWFrrJxg+6Zn8TT84k0/trtiHBc6qcGpY=" crossorigin="anonymous" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.4/jquery-confirm.min.css" integrity="sha256-VxlXnpkS8UAw3dJnlJj8IjIflIWmDUVQbXD9grYXr98=" crossorigin="anonymous" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css" integrity="sha256-mmgLkCYLUQbXn0B1SRqzHar6dCnv9oZFPEC1g1cwlkk=" crossorigin="anonymous" />
-    
+
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-19433453-6"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -44,10 +44,20 @@
 
 <body>
     <noscript><strong>本頁面需要瀏覽器啟用 JavaScript</strong></noscript>
-    <div id="topblock">
-        <div id="readme">
-            <b>口罩地圖</b>&nbsp;<small id="mask_inventory_last_update"></small>　<a target="_blank" href="https://line.me/R/ti/p/@taiwancdc">疾管署 LINE <i class='fab fa-line'></i></a><br />
-            作者：<a target="_blank" href="https://www.facebook.com/pupu21/posts/3176888778992065">Pupu(DotNet)</a>&nbsp;<div class="fb-like" data-href="https://mohw-mask.pu.idv.tw/" data-width="" data-layout="button_count" data-action="like" data-size="small" data-share="true"></div>
+    <div class="topblock">
+        <div class="readme">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col">
+                        <b>口罩地圖</b>&nbsp;<small id="mask_inventory_last_update"></small>　<a target="_blank" href="https://line.me/R/ti/p/@taiwancdc">疾管署 LINE <i class='fab fa-line'></i></a>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        作者：<a target="_blank" href="https://www.facebook.com/pupu21/posts/3176888778992065">Pupu(DotNet)</a>&nbsp;<div class="fb-like" data-href="https://mohw-mask.pu.idv.tw/" data-width="" data-layout="button_count" data-action="like" data-size="small" data-share="true"></div>
+                    </div>
+                </div>
+            </div>
         </div>
         <div class="maptools">
             &nbsp;<input class="filter_ctl" type="radio" id="show_all" name="type" value="0" checked><label for="show_all">全部</label>
@@ -59,7 +69,6 @@
             <button class="filter_ctl" id="filter" type="button">搜尋 <i class='fas fa-search'></i></button>&nbsp;
         </div>
     </div>
-
     <div id="omap">
         <br /><br /><br /><br /><span style="color: red; font-size: large;">找口罩中，請稍後...</span>
     </div>
@@ -71,11 +80,11 @@
     <script src="js/leaflet-markercluster.placementstrategies.js"></script>
     <script src="js/Leaflet.Control.Custom.js"></script>
         
-    <script src="js/pharmacy_auto.js?r=202003021440"></script>
-    <script src="js/omap.js?r=202003021440"></script>
+    <script src="js/pharmacy_auto.js?r=202003021730"></script>
+    <script src="js/omap.js?r=202003021730"></script>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.4/jquery-confirm.min.js" integrity="sha256-Ka8obxsHNCz6H9hRpl8X4QV3XmhxWyqBpk/EpHYyj9k=" crossorigin="anonymous"></script>
-    <script src="js/index.js?r=202003021440"></script>
+    <script src="js/index.js?r=202003021730"></script>
     
     <script async defer crossorigin="anonymous" src="https://connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v6.0&appId=544411143087055&autoLogAppEvents=1"></script>
 </body>
