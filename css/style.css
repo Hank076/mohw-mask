@@ -6,6 +6,11 @@ body,
     /*width: 100vw;*/
     width: 100%;
 }
+
+a {
+    border-bottom: 1px dotted;
+}
+
 .topblock {
     height:auto;
     width: 100%;
@@ -46,6 +51,7 @@ body,
 
 .more_info {
     position: relative;
+    border-bottom: 1px dotted;
 }
 
 .more_info .title {
