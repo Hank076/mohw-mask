@@ -34,7 +34,15 @@ body,
     background-color: #f1f9fbc3;
     z-index: 10;
     float: right;
+    position: absolute;
+    right: 0;
+    top: 0;
 }
+@media (max-width: 650px) {
+    .maptools {
+        position: initial;
+    }
+  }
 /*Wraperclass for the divicon*/
 .map-label {
     position: absolute;
