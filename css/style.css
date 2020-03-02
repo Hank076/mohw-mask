@@ -50,11 +50,13 @@ body,
 
 .more_info .title {
     position: absolute;
-    top: 20px;
-    background: silver;
+    top: 15px;
+    background: #2f3542;
     padding: 4px;
-    left: 0;
+    right: 0;
     white-space: nowrap;
+    border-radius: 5px;
+    color:white;
 }
 /*Wraperclass for the divicon*/
 .map-label {
