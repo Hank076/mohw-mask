@@ -118,7 +118,7 @@ function showInfoMessage(){
         '❕部分藥局因採發放號碼牌方式，方便民眾購買口罩，系統目前無法顯示已發送號碼牌數量。<br /><br />' + 
         '❕口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。<br /><br />' + 
         '❕全民抗疫，請保持耐心與禮貌哦。<br /><br />' +
-        '<a target="_blank" href="https://www.facebook.com/mohw.gov.tw/posts/1495860620580351"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/p960x960/88163899_1495860597247020_8203246969670336512_o.jpg?_nc_cat=1&_nc_sid=8024bb&_nc_ohc=IKZELDVMS7gAX9WV2kB&_nc_ht=scontent.ftpe8-3.fna&_nc_tp=6&oh=6828a08a1d04c339ecc632057035c712&oe=5EB986A7" /></a>',
+        '<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10157892503933407"><img src="https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.0-9/p960x960/88191421_10157892661348407_1015538978415181824_o.png?_nc_cat=104&_nc_sid=8024bb&_nc_ohc=SAdou2Pyc-gAX9YcO7W&_nc_ht=scontent.ftpe8-4.fna&oh=452c2709b073a9863734401124db40d0&oe=5EF84D37" /></a>',
         backgroundDismiss: true
     });
 }
