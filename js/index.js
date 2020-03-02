@@ -94,8 +94,8 @@ function showTopMessage(){
         type: 'blue',
         title: '系統更新',
         content: 
-        '🔔3/2衛生福利部疾病管制署記者會：​<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10157892503933407">口罩實名制3/5起調整，每人每7天可多領一片：兒童每7天5片，成人每7天3片</a>。<br /><br />' + 
-        '🔔案32的詳細資訊請點選地圖右下角的<i class="fas fa-exclamation-triangle"></i>按鈕！<br /><br />' + 
+        '🔔口罩實名制3/5起調整：兒童每7天5片，成人每7天3片。詳右下角的 <i class="fas fa-info"></i> 按鈕！<br /><br />' + 
+        '🔔案32的詳細資訊請點選右下角的<i class="fas fa-exclamation-triangle"></i>按鈕！<br /><br />' + 
         '🔔本系統每分鐘自動與衛服部更新庫存。<br /><br />' + 
         '🔔全民抗疫，請保持耐心與禮貌哦！',
         autoClose:'ok|5000',
@@ -114,11 +114,11 @@ function showInfoMessage(){
         columnClass: 'col-md-6 col-md-offset-3',
         type: 'blue',
         title: '提醒',
-        content: '❕3/2衛生福利部疾病管制署記者會：​<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10157892503933407">口罩實名制3/5起調整，每人每7天可多領一片：兒童每7天5片，成人每7天3片</a>。<br /><br />' + 
+        content: '❕口罩實名制3/5起調整，每人每7天可多領一片：兒童每7天5片，成人每7天3片。<br /><br />' + 
         '❕部分藥局因採發放號碼牌方式，方便民眾購買口罩，系統目前無法顯示已發送號碼牌數量。<br /><br />' + 
         '❕口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。<br /><br />' + 
         '❕全民抗疫，請保持耐心與禮貌哦。<br /><br />' +
-        '<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10157875518563407"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/p960x960/88101392_10157875518523407_8749554612014415872_o.png?_nc_cat=1&_nc_ohc=l9qWPxpPJVAAX-1vkU4&_nc_ht=scontent.ftpe8-3.fna&oh=9e2552c0a186e22bd5f3e91519dd299b&oe=5EB6EBFC" /></a>',
+        '<a target="_blank" href="https://www.facebook.com/mohw.gov.tw/posts/1495860620580351"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/p960x960/88163899_1495860597247020_8203246969670336512_o.jpg?_nc_cat=1&_nc_sid=8024bb&_nc_ohc=IKZELDVMS7gAX9WV2kB&_nc_ht=scontent.ftpe8-3.fna&_nc_tp=6&oh=6828a08a1d04c339ecc632057035c712&oe=5EB986A7" /></a>',
         backgroundDismiss: true
     });
 }
