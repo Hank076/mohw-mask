@@ -2896,6 +2896,7 @@ locations = [
 {lng:121.520736,lat:25.007656,name:'永和大樹藥局',id:'5931033961',tel:'0229233377',addr:'新北市永和區福和路143號1、2樓',memo:'口罩販賣時段：19:30起',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
 {lng:121.509243,lat:25.009147,name:'荃恩藥局',id:'5931033970',tel:'0229220237',addr:'新北市永和區中山路1段172號1樓',memo:'口罩販賣時間:早上8:40-10:40',business_week:'OOOOOOXXXXXXXXOOOOOOX'},
 {lng:121.523346,lat:24.99947,name:'悠活藥局',id:'5931033989',tel:'0231516288',addr:'新北市永和區得和路330號1樓',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
+{lng:121.506993,lat:25.009644,name:'新資生永貞大藥局',id:'5931033998',tel:'0229227202',addr:'新北市永和區永貞路429號1樓',memo:'一至日均販售口罩，下午1點現場排隊暨發送號碼牌，售完為止',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
 {lng:121.50264,lat:25.003369,name:'大榮藥局',id:'5931040019',tel:'0222497965',addr:'新北市中和區中山路2段127號',memo:'口罩早上9:30現場排',business_week:'OOOOOOOOOOOOOXOOOOOOX'},
 {lng:121.481375,lat:25.002413,name:'溫莎藥局',id:'5931040037',tel:'0282277275',addr:'新北市中和區員山路292號',memo:'固定週--至周六早上9點開始排隊開始領口罩.售完為止.4/2-4/5 藥師休息露營去',business_week:'OOOOOOXOOOOOOXOOOOOOX'},
 {lng:121.473997,lat:25.002364,name:'瑞發藥局',id:'5931040055',tel:'0222235319',addr:'新北市中和區民享街56－1號',memo:'口罩代售時間自08:00;號碼牌發放時間自08:00',business_week:'OOOOOOOOOOOOOOOOOOOOX'},
