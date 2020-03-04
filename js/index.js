@@ -94,6 +94,7 @@ function showTopMessage(){
         type: 'blue',
         title: '系統更新',
         content: 
+        '🔔數量有顏色囉(也會跟著搜尋條件連動)!<br /><span style="background-color:var(--inventory-hight);">大於 50% 綠色</span>, <span style="background-color:var(--inventory-medium);">20~50% 橘色</span>, <span style="background-color:var(--inventory-low);">小於 20% 紅色</span>！<br /><br />' + 
         '🔔口罩實名制3/5起調整：兒童每7天5片，成人每7天3片。詳右下角的 <i class="fas fa-info"></i> 按鈕！<br /><br />' + 
         '🔔案32的詳細資訊請點選右下角的<i class="fas fa-exclamation-triangle"></i>按鈕！<br /><br />' + 
         '🔔本系統每分鐘自動與衛服部更新庫存。<br /><br />' + 
@@ -114,10 +115,12 @@ function showInfoMessage(){
         columnClass: 'col-md-6 col-md-offset-3',
         type: 'blue',
         title: '提醒',
-        content: '❕口罩實名制3/5起調整，每人每7天可多領一片：兒童每7天5片，成人每7天3片。<br /><br />' + 
-        '❕部分藥局因採發放號碼牌方式，方便民眾購買口罩，系統目前無法顯示已發送號碼牌數量。<br /><br />' + 
-        '❕口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。<br /><br />' + 
-        '❕全民抗疫，請保持耐心與禮貌哦。<br /><br />' +
+        content: 
+        '❕ 數量有顏色囉(也會跟著搜尋條件連動)!<br /><span style="background-color:var(--inventory-hight);">大於 50% 綠色</span>, <span style="background-color:var(--inventory-medium);">20~50% 橘色</span>, <span style="background-color:var(--inventory-low);">小於 20% 紅色</span>！<br /><br />' + 
+        '❕ 口罩實名制3/5起調整，每人每7天可多領一片：兒童每7天5片，成人每7天3片。<br /><br />' + 
+        '❕ 部分藥局因採發放號碼牌方式，方便民眾購買口罩，系統目前無法顯示已發送號碼牌數量。<br /><br />' + 
+        '❕ 口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。<br /><br />' + 
+        '❕ 全民抗疫，請保持耐心與禮貌哦。<br /><br />' +
         '<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10157892503933407"><img src="https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.0-9/p960x960/88191421_10157892661348407_1015538978415181824_o.png?_nc_cat=104&_nc_sid=8024bb&_nc_ohc=SAdou2Pyc-gAX9YcO7W&_nc_ht=scontent.ftpe8-4.fna&oh=452c2709b073a9863734401124db40d0&oe=5EF84D37" /></a>',
         backgroundDismiss: true
     });
@@ -137,6 +140,7 @@ function showVersionHistory(){
         type: 'green',
         title: '版本資訊',
         content: '<table class="table table-bordered table-condensed table-striped"><tr><th>版本</th><th>歷程</th></tr>' +
+        '<tr><td>03/04</td><td>新增剩餘口罩數量顏色<br />優化圖標的呈現方式</td></tr>' +
         '<tr><td>03/02</td><td>新增大人小孩口罩最後新增減少時間(於詳細資訊點擊回報時間出現)<br />新增領取數量異動公告</td></tr>' +
         '<tr><td>02/29</td><td>新增口罩庫存最後回報時間(於藥局詳細資訊內)<br />新增重要公告</td></tr>' +
         '<tr><td>02/22</td><td>稍微加快讀取速度</td></tr>' +
