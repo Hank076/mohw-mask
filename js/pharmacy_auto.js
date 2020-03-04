@@ -1465,6 +1465,7 @@ locations = [
 {lng:120.226416,lat:22.978334,name:'令和藥局',id:'5905320715',tel:'062673578',addr:'臺南市東區崇善路269號1樓',memo:'2/28.2/29.3/1公休，口罩請於3/2 9:00起購買',business_week:'OOOOOOXOOOOOOXOOOOOOX'},
 {lng:120.214964,lat:22.972617,name:'中華崇德藥局',id:'5905320724',tel:'062880800',addr:'臺南市東區中華東路三段181、183號1樓',memo:'口罩販賣時段：19:30起',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
 {lng:120.216984,lat:22.962395,name:'大樹大同藥局',id:'5905320733',tel:'062158700',addr:'臺南市東區大同路二段227、229號1樓',memo:'口罩販賣時段：下午7:30起至售完為止',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
+{lng:120.214714,lat:22.995378,name:'榮記藥健康藥局',id:'5905320742',tel:'062760588',addr:'臺南市東區成大里育樂街156－4號底層',memo:'口罩販售時間星期一至星期五下午3點-5點，星期六下午2點-4點',business_week:'OOOOOOXOOOOOOXXXXXXXX'},
 {lng:120.192979,lat:22.981422,name:'聖安健保藥局',id:'5905330024',tel:'062916898',addr:'臺南市南區健康路二段173號1樓',memo:'星期一~星期六',business_week:'OOOOOOXOOOOOOXOOOOOOX'},
 {lng:120.191471,lat:22.98331,name:'千越藥局',id:'5905330097',tel:'062910303',addr:'臺南市南區金華路二段247號',memo:'星期一到周日每日9點到晚上10點',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
 {lng:120.187945,lat:22.982048,name:'進祥藥局',id:'5905330113',tel:'062630571',addr:'臺南市南區文南里健康路2段342－1號1樓',memo:'口罩販賣：星期一~星期六 上午09:00~12:00',business_week:'OOOOOOXOOOOOOXOOOOOOX'},
