@@ -40,7 +40,7 @@ var geoSuccess = function(position) {
 };
 
 var geoError = function(error) {
-    if(galog === false){
+    if(omap === undefined){
         createMap();
     }
     //console.log('Error occurred. Error: ' + error.message + '(' + error.code + ')');
@@ -66,10 +66,10 @@ function getUserGEOInfo(galog) {
             maximumAge: 0
         };
 
-        // 跟使用者拿所在位置
+        //跟使用者拿所在位置
         navigator.geolocation.getCurrentPosition(geoSuccess, geoError, options);
     }else{
-        if(galog === false){
+        if(omap === undefined){
             createMap();
         }
     }
