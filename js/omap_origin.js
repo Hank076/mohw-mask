@@ -14,6 +14,7 @@ var mask_inventory_last_update = '';
 var show_inventory_hight = true;
 var show_inventory_medium = true;
 var show_inventory_low = true;
+var show_inventory_zero = false;
 
 $(function () {
     getUserGEOInfo(false); //取得使用者位置資訊
@@ -219,7 +220,7 @@ function strongholdInfo(stronghold) {
 
         detailData = "大人最後增加時間: "+maskInventoryInfo[4]+"<br />小孩最後增加時間: "+maskInventoryInfo[6]+"<br />大人最後減少時間: "+maskInventoryInfo[5]+"<br />小孩最後減少時間: "+maskInventoryInfo[7];
 
-        infoHTML += "<br /><span class='more_info' title='"+ detailData + "'>最後回報時間：" + reportTime + "</span><br />";
+        infoHTML += "<br /><span class='more-inventory-sale-info' title='"+ detailData + "'>最後回報時間：" + reportTime + "</span><br />";
         //infoHTML += "<br />更新時間：" + maskInventoryInfo[2] + "<br />";
         mask_inventory_last_update = maskInventoryInfo[3].substr(5).replace(/-/g, "/");
     }
@@ -275,40 +276,6 @@ function loadMaskInventory(isAsyncMode) {
     });
 }
 
-function loadMaskInventory_old(isAsyncMode) {
-    mask_inventory = [];
-    //"data/maskdata.csv"
-    //https://data.nhi.gov.tw/resource/mask/maskdata.csv
-
-    var nowDate = new Date();
-    var currentMinutes = nowDate.getMinutes();
-    currentMinutes = ((parseInt((currentMinutes + 10) / 10) - 1) * 10) + 5;
-    var date = new Date(nowDate.getFullYear(), (nowDate.getMonth() + 1), nowDate.getDate(), nowDate.getHours(), currentMinutes);
-    var cacheNumber = date.getTime();
-
-    $.ajax({
-        url: "data/maskdata.csv",
-        async: isAsyncMode,
-        cache: false,
-        data: {
-            r: cacheNumber
-        },
-        dataType: "text",
-        success: function (csvd) {
-            var data = csvd.split("\n");
-            for (var i in data) {
-                if ({}.hasOwnProperty.call(data, i)) {
-                    var currentData = data[i].split(",");
-                    if ($.trim(currentData[0]) != '') {
-                        mask_inventory[currentData[0]] = [currentData[4], currentData[5], currentData[6]];
-                    }
-                }
-            }
-            createStrongholdData(); //更新地圖
-        }
-    });
-}
-
 function createStrongholdData(){
 
     if(markers !== undefined){
@@ -353,8 +320,7 @@ function createStrongholdData(){
             }
 
             if(inventory == "無庫存"){
-                //不顯示沒有庫存資訊的據點
-                if((dont_show_null_inventory || show_adult_inventory || show_child_inventory) && add_status){
+                if(show_inventory_zero === false && add_status){
                     add_status = false;
                 }
             }
@@ -485,7 +451,7 @@ function createStrongholdData(){
                         showQuestionInfo();
                     });
 
-                    $(".more_info").click(function () {
+                    $(".more-inventory-sale-info").click(function () {
                         var $title = $(this).find(".title");
                         if (!$title.length) {
                             $(this).append('<span class="title">' + $(this).attr("title") + '</span>');

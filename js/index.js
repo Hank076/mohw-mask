@@ -23,16 +23,14 @@ function showUpdateProcessByManual(){
         content: '正在過濾相關診所&口罩庫存資訊...',
         onOpen: function(){
 
-            dont_show_null_inventory = $("#dont_show_null_inventory").is(":checked");
             dont_show_no_open = $("#dont_show_no_open").is(":checked");
+            show_inventory_hight = $("#inventory_hight").is(":checked");
+            show_inventory_medium = $("#inventory_medium").is(":checked");
+            show_inventory_low = $("#inventory_low").is(":checked");
+            show_inventory_zero = $("#inventory_zero").is(":checked");
+
             var type = $("input[name='type']:checked").val();
             var ga_event_label = '';
-    
-            if(dont_show_null_inventory){
-                ga_event_label += '有庫存, ';
-            }else{
-                ga_event_label += '不論庫存, ';
-            }
     
             if(dont_show_no_open){
                 ga_event_label += '有營業, ';
@@ -44,25 +42,38 @@ function showUpdateProcessByManual(){
                 //不過濾
                 show_adult_inventory = false;
                 show_child_inventory = false;
-                ga_event_label += '所有';
+                ga_event_label += '所有, ';
     
             }else if(type == '1'){
                 //只顯示成人 > 0
                 show_adult_inventory = true;
                 show_child_inventory = false;
-                ga_event_label += '僅成人';
+                ga_event_label += '僅成人, ';
     
             }else if(type == '2'){
                 //只顯示兒童 > 0
                 show_adult_inventory = false;
                 show_child_inventory = true;
-                ga_event_label += '僅兒童';
+                ga_event_label += '僅兒童, ';
     
             }else if(type == '3'){
                 //顯示成人+兒童 > 0
                 show_adult_inventory = true;
                 show_child_inventory = true;
-                ga_event_label += '成人與兒童';
+                ga_event_label += '成人與兒童, ';
+            }
+
+            if(show_inventory_hight){
+                ga_event_label += '庫存>50%, ';
+            }
+            if(show_inventory_medium){
+                ga_event_label += '庫存20~50%, ';
+            }
+            if(show_inventory_low){
+                ga_event_label += '庫存<20%, ';
+            }
+            if(show_inventory_zero){
+                ga_event_label += '無庫存, ';
             }
     
             gtag('event', 'click', {
@@ -94,7 +105,7 @@ function showTopMessage(){
         type: 'blue',
         title: '系統更新',
         content: 
-        '🔔數量有顏色囉(也會跟著搜尋條件連動)!<br /><span style="background-color:var(--inventory-hight);">大於 50% 綠色</span>, <span style="background-color:var(--inventory-medium);">20~50% 橘色</span>, <span style="background-color:var(--inventory-low);">小於 20% 紅色</span>！<br /><br />' + 
+        '🔔數量有顏色囉(也會跟著搜尋條件連動)！<br /><span class="inventory-hight">大於 50% 綠色</span> <span class="inventory-medium">20~50% 橘色</span> <span class="inventory-low">小於 20% 紅色</span><br /><br />' + 
         '🔔口罩實名制3/5起調整：兒童每7天5片，成人每7天3片。詳右下角的 <i class="fas fa-info"></i> 按鈕！<br /><br />' + 
         '🔔案32的詳細資訊請點選右下角的<i class="fas fa-exclamation-triangle"></i>按鈕！<br /><br />' + 
         '🔔本系統每分鐘自動與衛服部更新庫存。<br /><br />' + 
@@ -116,7 +127,7 @@ function showInfoMessage(){
         type: 'blue',
         title: '提醒',
         content: 
-        '❕ 數量有顏色囉(也會跟著搜尋條件連動)!<br /><span style="background-color:var(--inventory-hight);">大於 50% 綠色</span>, <span style="background-color:var(--inventory-medium);">20~50% 橘色</span>, <span style="background-color:var(--inventory-low);">小於 20% 紅色</span>！<br /><br />' + 
+        '❕ 數量有顏色囉(也會跟著搜尋條件連動)！<br /><span class="inventory-hight">大於 50% 綠色</span> <span class="inventory-medium">20~50% 橘色</span> <span class="inventory-low">小於 20% 紅色</span><br /><br />' + 
         '❕ 口罩實名制3/5起調整，每人每7天可多領一片：兒童每7天5片，成人每7天3片。<br /><br />' + 
         '❕ 部分藥局因採發放號碼牌方式，方便民眾購買口罩，系統目前無法顯示已發送號碼牌數量。<br /><br />' + 
         '❕ 口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。<br /><br />' + 
@@ -140,6 +151,7 @@ function showVersionHistory(){
         type: 'green',
         title: '版本資訊',
         content: '<table class="table table-bordered table-condensed table-striped"><tr><th>版本</th><th>歷程</th></tr>' +
+        '<tr><td>03/05</td><td>新增口罩數量分級搜尋功能</td></tr>' +
         '<tr><td>03/04</td><td>新增剩餘口罩數量顏色<br />優化圖標的呈現方式</td></tr>' +
         '<tr><td>03/02</td><td>新增大人小孩口罩最後新增減少時間(於詳細資訊點擊回報時間出現)<br />新增領取數量異動公告</td></tr>' +
         '<tr><td>02/29</td><td>新增口罩庫存最後回報時間(於藥局詳細資訊內)<br />新增重要公告</td></tr>' +
@@ -199,7 +211,7 @@ function showQuestionInfo(){
         '<BR /><BR />●庫存的部分<br>' +
         '可請藥師瀏覽『<a target="_blank" href="http://ws.nhi.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMjkyL2NrZmlsZS9mYmUzNWVmZC0zMDkyLTRjNWEtOTAyZi0zMDIxN2I0YzYyMWQucGRm&n=MTA5MDIwNiBVc2VyR3VpZGVfUVA1X3YzLjAucGRm&icon=.pdf">於防疫口罩管控系統VPN登錄作業使用者手冊</a>』的第五頁，<BR />有說明負數的操作方式。' +
         '<BR /><BR />●備註的部分<br>' +
-        '可請藥師一樣連線至VPN後進入「看診資料及掛號費」：(1)每日固定看診時段(2)「固定看診時段備註欄」，可修正藥局販賣口罩起迄時間及相關欲通知民眾事項。',
+        '可請藥師一樣連線至VPN後進入「<a target="_blank" href="http://bit.ly/2ScrpB6">看診資料及掛號費</a>」：(1)每日固定看診時段(2)「固定看診時段備註欄」，可修正藥局販賣口罩起迄時間及相關欲通知民眾事項。',
         backgroundDismiss: true
     });
 }
