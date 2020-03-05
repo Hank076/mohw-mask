@@ -64,13 +64,13 @@ function showUpdateProcessByManual(){
             }
 
             if(show_inventory_hight){
-                ga_event_label += '庫存>50%, ';
+                ga_event_label += '庫存大於50％, ';
             }
             if(show_inventory_medium){
-                ga_event_label += '庫存20~50%, ';
+                ga_event_label += '庫存20~50％, ';
             }
             if(show_inventory_low){
-                ga_event_label += '庫存<20%, ';
+                ga_event_label += '庫存小於20％, ';
             }
             if(show_inventory_zero){
                 ga_event_label += '無庫存, ';
