@@ -230,9 +230,7 @@ locations = [
 {lng:121.525825,lat:25.066473,name:'誠意中西藥局',id:'5901103236',tel:'0225950951',addr:'臺北市中山區林森北路613號',business_week:'OOOOOOXOOOOOOXOOOOOOX'},
 {lng:121.541786,lat:25.048401,name:'長安藥局',id:'5901103272',tel:'0227772740',addr:'臺北市中山區長安東路2段171－3號',memo:'上午9:30-晚上10:30',business_week:'OOOOOOXOOOOOOXOOOOOOX'},
 {lng:121.525506,lat:25.062326,name:'仁一藥局',id:'5901103325',tel:'0225711742',addr:'臺北市中山區林森北路520號',memo:'口罩發放時間下午4點開始發號碼牌4-8點領取',business_week:'OOOOOOXOOOOOOOOOOOOOO'},
-{lng:121.548762,lat:25.08241,name:'大直小太陽藥局',id:'5901103334',tel:'0285093208',addr:'臺北市中山區北安路607之1號',memo:'口罩販賣時間:
-周一至周五 下午三點到五點
-六日 請看現場公告',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
+{lng:121.548762,lat:25.08241,name:'大直小太陽藥局',id:'5901103334',tel:'0285093208',addr:'臺北市中山區北安路607之1號',memo:'口罩販賣時間:周一至周五 下午三點到五點六日 請看現場公告',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
 {lng:121.540826,lat:25.059556,name:'王中興藥局',id:'5901103343',tel:'0225034281',addr:'臺北市中山區龍江路273號',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
 {lng:121.549052,lat:25.082426,name:'美康正康藥局',id:'5901103352',tel:'0225323077',addr:'臺北市中山區北安路616之1號、618號2樓之1',memo:'販賣口罩時間:14-30~售完',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
 {lng:121.548172,lat:25.080728,name:'大直永安藥局',id:'5901103405',tel:'0225332125',addr:'臺北市中山區北安路567之2號',memo:'週一到週日 下午13點 領號碼牌 領完號碼牌馬上開始銷售口罩',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
@@ -402,8 +400,7 @@ locations = [
 {lng:121.510287,lat:25.082995,name:'康佑藥局',id:'5901153665',tel:'0228119981',addr:'臺北市士林區延平北路5段176號',memo:'口罩代售時間自1500:1700；現場排隊',business_week:'OOOOOOXOOOOOOXOOOOOOX'},
 {lng:121.521473,lat:25.088502,name:'愛佳藥局',id:'5901153674',tel:'0228811199',addr:'臺北市士林區承德路4段222之1號',memo:'週一~週五及週日上午10點開始販售防疫口罩(實名制口罩)，週六休息不販售。',business_week:'OOOOOXOOOOOOXOOOOOOXO'},
 {lng:121.509931,lat:25.080338,name:'安奕藥局',id:'5901153683',tel:'0228133289',addr:'臺北市士林區葫蘆街30巷12號',memo:'防疫口罩購買時間:早上9:30-12:00',business_week:'OOOOOOXOOOOOOXOOOOOOX'},
-{lng:121.532885,lat:25.109385,name:'全予藥局',id:'5901153709',tel:'0228386955',addr:'臺北市士林區德行東路221號',memo:'周一至週六:上午11點發號碼牌   下午3點領取口罩
-週日:公休',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
+{lng:121.532885,lat:25.109385,name:'全予藥局',id:'5901153709',tel:'0228386955',addr:'臺北市士林區德行東路221號',memo:'周一至週六:上午11點發號碼牌   下午3點領取口罩週日:公休',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
 {lng:121.52205,lat:25.084599,name:'前港盛康藥局',id:'5901153727',tel:'0228831079',addr:'臺北市士林區前港街28號',business_week:'OOOOOXXOOOOOXXOOOOOXX'},
 {lng:121.532774,lat:25.118845,name:'藥本家藥局',id:'5901153745',tel:'0228766682',addr:'臺北市士林區中山北路7段14巷26號',memo:'周一至周五13:00開賣成人防疫口罩。兒童口罩直接購買。週六 日休息',business_week:'OOOOOXXOOOOOXXOOOOOXX'},
 {lng:121.530433,lat:25.114835,name:'天母盛康藥局',id:'5901153790',tel:'0228720208',addr:'臺北市士林區天母東路8巷84號',memo:'每天下午13:30開始販賣政府防疫口罩，下午13:20開始發號碼牌',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
@@ -560,11 +557,7 @@ locations = [
 {lng:121.5175026,lat:25.0243715,name:'全民藥局',id:'5901182255',tel:'0223695759',addr:'臺北市中正區廈門街87號',business_week:'OOOOOXXOOOOOXXXXXXXXX'},
 {lng:121.506373,lat:25.035082,name:'和平藥局',id:'5901183323',tel:'0223755303',addr:'臺北市中正區中華路2段43號',memo:'1/23-1/29 春節休假',business_week:'OOOOOOXOOOOOOXOOOOOOX'},
 {lng:121.517272,lat:25.030996,name:'丞良藥局',id:'5901183387',tel:'0233938868',addr:'臺北市中正區南昌路1段78號地下1樓',memo:'週一週五12;00發號碼牌，下午4:00~9:30領口罩，週六早上9:00發號碼牌11:00~12:30下午4:00~6:30領口罩',business_week:'OOOOOOXOOOOOOXOOOOOXX'},
-{lng:121.52341,lat:25.040612,name:'慶安藥局',id:'5901183396',tel:'0223582385',addr:'臺北市中正區徐州路26號',memo:'口罩配售時間：
-週一、週二、週三、週五：09：00～12：00、17：00～21：00
-週四：17：00～21：00
-週六：09：00～12：00、14：30～17：00
-週日及國定假日休息。',business_week:'OOOXOOXXXXXXOXOOOOOXX'},
+{lng:121.52341,lat:25.040612,name:'慶安藥局',id:'5901183396',tel:'0223582385',addr:'臺北市中正區徐州路26號',memo:'口罩配售時間：週一、週二、週三、週五：09：00～12：00、17：00～21：00週四：17：00～21：00週六：09：00～12：00、14：30～17：00週日及國定假日休息。',business_week:'OOOXOOXXXXXXOXOOOOOXX'},
 {lng:121.523719,lat:25.022361,name:'怡誠藥局',id:'5901183510',tel:'0223626905',addr:'臺北市中正區汀州路2段212號',business_week:'OOOOOOXOOOOOOXOOOOOOX'},
 {lng:121.511622,lat:25.026916,name:'達昌藥局',id:'5901183529',tel:'0223390109',addr:'臺北市中正區汀州路1段207號',memo:'口罩配發時間 每日下午13:00開始',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
 {lng:121.524263,lat:25.021895,name:'大愛生活藥局',id:'5901183645',tel:'0223661155',addr:'臺北市中正區汀州路2段232號',memo:'下午14:10開始發放號碼牌後馬上販賣口罩',business_week:'OOOOOXOOOOOOXOOOOOOXO'},
@@ -2803,10 +2796,7 @@ locations = [
 {lng:121.4984,lat:25.060414,name:'光興藥局',id:'5931025352',tel:'0289725780',addr:'新北市三重區正義南路60之4號1樓',memo:'口罩代售時間自14:30-17:30號碼牌發放時間自:14:20',business_week:'OOOOOOXOOOOOOXOOOOOXX'},
 {lng:121.4772,lat:25.067324,name:'宗安藥師藥局',id:'5931025361',tel:'0229874243',addr:'新北市三重區頂崁街208號1樓',memo:'口罩實名制早上9點開始作業，當日配額歸零即止，週日店休清潔',business_week:'OOOOOOXOOOOOOXOOOOOOX'},
 {lng:121.491436,lat:25.084055,name:'晨星藥局',id:'5931025370',tel:'0289856533',addr:'新北市三重區五華街123號1樓',memo:'國定假日執行調劑業務。口罩販賣時間--早上九點至售完為止，九點發放號碼牌，現場領不得離開。',business_week:'OOOOOOXOOOOOOXOOOOOOX'},
-{lng:121.483581,lat:25.078583,name:'昌誠藥局',id:'5931025398',tel:'0222876338',addr:'新北市三重區三和路4段161號1樓',memo:'早上：星期二～六 8:30
-下午：星期一 2:30
-星期日、國訂假日店休
-以上口罩發放時間',business_week:'OOOOOOXOOOXOXXOOOXOXX'},
+{lng:121.483581,lat:25.078583,name:'昌誠藥局',id:'5931025398',tel:'0222876338',addr:'新北市三重區三和路4段161號1樓',memo:'早上：星期二～六 8:30下午：星期一 2:30星期日、國訂假日店休以上口罩發放時間',business_week:'OOOOOOXOOOXOXXOOOXOXX'},
 {lng:121.493058,lat:25.067439,name:'利民藥局',id:'5931025432',tel:'0229852826',addr:'新北市三重區自強路1段171號、173號1樓及2樓',memo:'號碼牌發放時間10:00 口罩領取時間14:00',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
 {lng:121.482453,lat:25.075981,name:'尚好藥局',id:'5931025441',tel:'0222863232',addr:'新北市三重區力行路2段142號1樓',memo:'防疫酒精未進貨，週一~週六早上9點40分開賣口罩，售完為止',business_week:'OOOOOOXOOOOOOXOOOOOOX'},
 {lng:121.496981,lat:25.065789,name:'正欣藥局',id:'5931025478',tel:'0229878878',addr:'新北市三重區正義北路113號2樓之1',memo:'口罩代售時間自14:30-17:30(現場排隊)',business_week:'OOOOOOXOOOOOOXOOOOOOX'},
@@ -2867,10 +2857,7 @@ locations = [
 {lng:121.514352,lat:25.012004,name:'榮總藥局',id:'5931033023',tel:'0229216596',addr:'新北市永和區信義路15號1樓',business_week:'OOOOOOXOOOOOOXOOOOOOX'},
 {lng:121.520129,lat:25.013964,name:'弘光藥局',id:'5931033032',tel:'0229282000',addr:'新北市永和區竹林路中興里66巷19號1樓',memo:'早上9點至晚上10點',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
 {lng:121.514771,lat:25.013607,name:'博昇藥局',id:'5931033078',tel:'0229267273',addr:'新北市永和區仁愛路22號1樓',business_week:'OOOOOXXOOOOOXXOOOOOXX'},
-{lng:121.510568,lat:25.01331,name:'康宏安藥局',id:'5931033087',tel:'0229288118',addr:'新北市永和區保福路2段78號1樓',memo:'營業時間：9:00-22:30
-全年無休
-口罩代售時間：
-每日下午3點開始。',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
+{lng:121.510568,lat:25.01331,name:'康宏安藥局',id:'5931033087',tel:'0229288118',addr:'新北市永和區保福路2段78號1樓',memo:'營業時間：9:00-22:30全年無休口罩代售時間：每日下午3點開始。',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
 {lng:121.515828,lat:25.010167,name:'皇家藥師藥局',id:'5931033103',tel:'0289216867',addr:'新北市永和區中正路720號1樓',business_week:'OOOOOOXOOOOOOXOOOOOXX'},
 {lng:121.517612,lat:25.00609,name:'永利藥局',id:'5931033130',tel:'0229291655',addr:'新北市永和區永利路9、11號1樓',memo:'早上9:00排隊發號碼牌，中午12:00~晚上9:30依號碼牌領回口罩及健保卡(中午12:00後不受理建保口罩業務)',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
 {lng:121.518552,lat:25.007578,name:'緣來藥師藥局',id:'5931033176',tel:'0229211798',addr:'新北市永和區福和路250、252號1樓',business_week:'OOOOOOXOOOOOOXOOOOOXX'},
@@ -2899,10 +2886,7 @@ locations = [
 {lng:121.518893,lat:25.007467,name:'欣安大藥局',id:'5931033863',tel:'0222326685',addr:'新北市永和區福和路221號1樓',memo:'每天口罩AM10:00發號碼牌，10:10-21:00開始販賣售完為止',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
 {lng:121.524414,lat:25.001521,name:'菁大健保藥局',id:'5931033872',tel:'0229289383',addr:'新北市永和區秀朗路2段118號1樓',memo:'09:00-21:00',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
 {lng:121.517144,lat:25.004442,name:'十路藥局',id:'5931033881',tel:'0229258955',addr:'新北市永和區永貞路164號1樓',memo:'早上10點開始販售口罩',business_week:'OOOOOOXOOOOOOXOOOOOOX'},
-{lng:121.51109,lat:25.006917,name:'康杏安藥局',id:'5931033890',tel:'0229298968',addr:'新北市永和區保平路60號1樓',memo:'營業時間：9:00-22:30
-全年無休
-口罩代售時間：
-每日下午3點半開',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
+{lng:121.51109,lat:25.006917,name:'康杏安藥局',id:'5931033890',tel:'0229298968',addr:'新北市永和區保平路60號1樓',memo:'營業時間：9:00-22:30全年無休口罩代售時間：每日下午3點半開',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
 {lng:121.516971,lat:25.005692,name:'德美藥局',id:'5931033907',tel:'0229274951',addr:'新北市永和區中正路455號1樓',memo:'口罩販售時間1300 現場排隊購買',business_week:'OOOOOOOOOOOOOOOOOOOOX'},
 {lng:121.515621,lat:24.997616,name:'宜田藥局',id:'5931033916',tel:'0229425935',addr:'新北市永和區中正路111號2樓',business_week:'OOOOOOXOOOOOOXOOOOOXX'},
 {lng:121.512157,lat:25.00407,name:'康和藥局',id:'5931033925',tel:'0222310300',addr:'新北市永和區中和路589號1樓',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
@@ -2949,8 +2933,7 @@ locations = [
 {lng:121.502975,lat:24.995766,name:'九崧藥局',id:'5931042424',tel:'0222451379',addr:'新北市中和區南華路20號1樓',business_week:'OOOOOOXOOOOOOXOOOOOOX'},
 {lng:121.511773,lat:24.991045,name:'威安藥局',id:'5931042577',tel:'0229485117',addr:'新北市中和區景新街328號1樓',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
 {lng:121.494891,lat:24.992364,name:'安華藥局',id:'5931042611',tel:'0222489079',addr:'新北市中和區圓通路293之2號2樓',memo:'週一到週五9點開始現場排隊販售口罩，售完為止(六無販賣，日休)',business_week:'OOOOOOXOOOOOXXOOOOOXX'},
-{lng:121.503506,lat:24.990202,name:'恩溢藥局',id:'5931042648',tel:'0222452450',addr:'新北市中和區復興路79號1樓.2樓',memo:'星期一~星期六早上9:20發放號碼牌，當天下午13:30~22:00憑號碼牌+健保卡購買。
-星期日下午15:30發放號碼牌，當天15:30~22:00憑號碼牌+健保卡購買',business_week:'OOOOOOXOOOOOOOOOOOOOO'},
+{lng:121.503506,lat:24.990202,name:'恩溢藥局',id:'5931042648',tel:'0222452450',addr:'新北市中和區復興路79號1樓.2樓',memo:'星期一~星期六早上9:20發放號碼牌，當天下午13:30~22:00憑號碼牌+健保卡購買。星期日下午15:30發放號碼牌，當天15:30~22:00憑號碼牌+健保卡購買',business_week:'OOOOOOXOOOOOOOOOOOOOO'},
 {lng:121.517352,lat:24.992243,name:'上元藥局',id:'5931042728',tel:'0229408050',addr:'新北市中和區景平路160號2樓',memo:'口罩代售時間自15:00至18:00；現場排隊',business_week:'OOOOOOXOOOOOOXOOOOOXX'},
 {lng:121.467807,lat:25.003004,name:'弘安藥局',id:'5931042782',tel:'0229646489',addr:'新北市中和區德光路121之1號1樓',memo:'發售口罩時間:下午1:00到1:45',business_week:'OOXOOOXOOOOOOXOOOOOXX'},
 {lng:121.468993,lat:25.001575,name:'民德藥局',id:'5931042808',tel:'0289514746',addr:'新北市中和區民德路61－1號1樓',memo:'週一到週六下午3點15開始現場排隊販售口罩，售完為止(日無販賣)',business_week:'OOOOOOXOOOOOOXOOOOOOX'},
@@ -2986,10 +2969,7 @@ locations = [
 {lng:121.469624,lat:25.003983,name:'宥元藥局',id:'5931044044',tel:'0289535473',addr:'新北市中和區德光路62號1樓',memo:'週一至周六每天早上10:15發放號碼牌，下午三點到晚上十點之間憑號碼牌買口罩，急需健保卡者可現場等候',business_week:'OOOOOOXOOOOOOXOOOOOOX'},
 {lng:121.510862,lat:24.988502,name:'康富力藥局',id:'5931044133',tel:'0229429896',addr:'新北市中和區仁愛街32號1樓',memo:'口罩代售時間：周一至周五9:30及18:00、週六週日10:30及18:00現場販售',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
 {lng:121.490948,lat:24.989598,name:'安和藥師藥局',id:'5931044188',tel:'0222433708',addr:'新北市中和區錦和路410號1樓',business_week:'OOOOOOXOOOOOOXOOOOOOX'},
-{lng:121.517252,lat:24.992771,name:'康廷安藥局',id:'5931044204',tel:'0286683599',addr:'新北市中和區大勇街16號1樓',memo:'營業時間：9:00-22:30
-全年無休
-口罩代售時間：
-每日下午2:30點開始',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
+{lng:121.517252,lat:24.992771,name:'康廷安藥局',id:'5931044204',tel:'0286683599',addr:'新北市中和區大勇街16號1樓',memo:'營業時間：9:00-22:30全年無休口罩代售時間：每日下午2:30點開始',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
 {lng:121.500686,lat:25.005026,name:'杏安藥局',id:'5931044240',tel:'0222430281',addr:'新北市中和區莊敬路35號1樓',memo:'早上8:30發放號碼牌,保留購買權利至當日20:00',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
 {lng:121.496285,lat:24.999302,name:'冠品藥師藥局',id:'5931044268',tel:'0222452129',addr:'新北市中和區連城路119號1樓',business_week:'OOOOOOXOOOOOOOOOOOOOO'},
 {lng:121.493837,lat:24.991304,name:'維康藥局雙和店',id:'5931044277',tel:'0222431962',addr:'新北市中和區圓通路252號1樓',business_week:'OOOOOXXOOOOOXXXXXXXXX'},
@@ -3144,8 +3124,7 @@ locations = [
 {lng:121.426181,lat:25.013065,name:'宏發藥局',id:'5931068302',tel:'0222048303',addr:'新北市新莊區民安西路263號1樓',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
 {lng:121.447499,lat:25.037005,name:'惠欣藥局',id:'5931068375',tel:'0229978962',addr:'新北市新莊區全泰里建中街72－1號1樓',memo:'口罩包裝工作完成立即上傳APP開放領取',business_week:'OOOOOOXOOOOOOXOOOOOOX'},
 {lng:121.444809,lat:25.051926,name:'合康藥師藥局',id:'5931068455',tel:'0229924496',addr:'新北市新莊區中平里中平路306號',memo:'PM2:00發號碼牌及同時發售口罩',business_week:'OOOOOOXOOOOOOXOOOOOOX'},
-{lng:121.42606,lat:25.014702,name:'健安藥局',id:'5931068464',tel:'0222043765',addr:'新北市新莊區光和里民安西路209號1樓',memo:'星期一到六 早上8點半 下午2點半 發號碼牌
-星期日沒營業',business_week:'OOOOOOXOOOOOOXOOOOOOX'},
+{lng:121.42606,lat:25.014702,name:'健安藥局',id:'5931068464',tel:'0222043765',addr:'新北市新莊區光和里民安西路209號1樓',memo:'星期一到六 早上8點半 下午2點半 發號碼牌星期日沒營業',business_week:'OOOOOOXOOOOOOXOOOOOOX'},
 {lng:121.428203,lat:25.017062,name:'凱盛藥局',id:'5931068508',tel:'0222024914',addr:'新北市新莊區光榮里西盛街199號',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
 {lng:121.452118,lat:25.049887,name:'永安藥局',id:'5931068535',tel:'0222765900',addr:'新北市新莊區中港里中港路321號2樓',memo:'口罩代售時間自08:00-售完為止；現場排隊',business_week:'OOOOOOXOOOOOOXOOOOOOX'},
 {lng:121.422153,lat:25.019188,name:'春元藥局',id:'5931068580',tel:'0222085202',addr:'新北市新莊區南港里龍安路278巷2號1樓',memo:'口罩平日10點開賣.週日9點開賣',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
@@ -3287,10 +3266,7 @@ locations = [
 {lng:121.376976,lat:24.962557,name:'快安藥師藥局',id:'5931080148',tel:'0226792356',addr:'新北市鶯歌區中正一路94、96號',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
 {lng:121.325372,lat:24.972483,name:'嘉泰藥師藥局',id:'5931081216',tel:'0226709668',addr:'新北市鶯歌區鶯桃路2段31號1樓',memo:'每日早上10點發放口罩號碼牌，3/8.3/22.星期日公休',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
 {lng:121.340605,lat:24.94437,name:'文瑞藥局',id:'5931081234',tel:'0226780589',addr:'新北市鶯歌區尖山路296號',business_week:'OOOOOOXOOOOOOXOOOOOOX'},
-{lng:121.350323,lat:24.953447,name:'唯新示範藥局',id:'5931081289',tel:'0286775363',addr:'新北市鶯歌區建國路161號1樓',memo:'每日領口罩時間為15:30。
-3/5起每日發放政府配給成人200份(3張)，兒童40份(5張)。
-若當日無售完隔日將繼續販售，售完為止。
-請自備零錢！恕不找零與換錢！敬請配合謝謝～',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
+{lng:121.350323,lat:24.953447,name:'唯新示範藥局',id:'5931081289',tel:'0286775363',addr:'新北市鶯歌區建國路161號1樓',memo:'每日領口罩時間為15:30。3/5起每日發放政府配給成人200份(3張)，兒童40份(5張)。若當日無售完隔日將繼續販售，售完為止。請自備零錢！恕不找零與換錢！敬請配合謝謝～',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
 {lng:121.336723,lat:24.940068,name:'佑家藥局',id:'5931081305',tel:'0226798282',addr:'新北市鶯歌區中正三路151號1樓',business_week:'OOOOOOXOOOOOOXOOOOOOX'},
 {lng:121.350035,lat:24.953395,name:'祐兒藥局',id:'5931081332',tel:'0286781907',addr:'新北市鶯歌區南鶯里建國路171號1樓',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
 {lng:121.350806,lat:24.953467,name:'鶯歌宏達藥局',id:'5931081378',tel:'0226709693',addr:'新北市鶯歌區國慶街138號1樓',memo:'口罩發放時間下午2-4點，人力不足其他時段沒辦法供應',business_week:'XXXXXXXOOOOOOOXXXXXXX'},
@@ -3501,9 +3477,7 @@ locations = [
 {lng:121.468168,lat:24.988184,name:'誠恩藥局',id:'5931133171',tel:'0222665533',addr:'新北市土城區金城路3段137號1樓',business_week:'OOOOOOOOOOOOOXOOOOOXX'},
 {lng:121.467542,lat:24.99024,name:'陽光活力藥局',id:'5931133199',tel:'0222610590',addr:'新北市土城區延和路103號1樓',memo:'週一到週六早上8點發放，週日早上9點發放',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
 {lng:121.449819,lat:24.987506,name:'樂利藥局',id:'5931133206',tel:'0222630092',addr:'新北市土城區裕民路77號1樓',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
-{lng:121.436088,lat:24.967021,name:'貓頭鷹藥妝藥局',id:'5931133313',tel:'0222695659',addr:'新北市土城區中央路3段88號、90號1樓',memo:'口罩15:00發放，
-門口現場排隊，
-無發號碼牌。',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
+{lng:121.436088,lat:24.967021,name:'貓頭鷹藥妝藥局',id:'5931133313',tel:'0222695659',addr:'新北市土城區中央路3段88號、90號1樓',memo:'口罩15:00發放，門口現場排隊，無發號碼牌。',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
 {lng:121.465585,lat:24.986391,name:'城安大藥局',id:'5931133331',tel:'0222646561',addr:'新北市土城區金城路3段40號',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
 {lng:121.454642,lat:24.983051,name:'大欣藥局',id:'5931133340',tel:'0222653208',addr:'新北市土城區裕民路251號',memo:'口罩販賣時段:晚上7:00至9:00，現場排隊，售完為止',business_week:'OOOOOOOOOOOOOOOOOOOOO'},
 {lng:121.467398,lat:24.987373,name:'麗膚藥局',id:'5931133359',tel:'0222640600',addr:'新北市土城區金城路3段164號1樓',memo:'口罩代售時間，週一至五，下午2點至4點',business_week:'OOOOOOXOOOOOOXOOOOOXX'},
@@ -4414,9 +4388,7 @@ locations = [
 {lng:121.739561,lat:24.752273,name:'康禾藥局',id:'5934010200',tel:'039361977',addr:'宜蘭縣宜蘭市泰山路150號',memo:'口罩庫存以現場數量為準',business_week:'OOOOOOXOOOOOOXOOOOOOX'},
 {lng:121.762313,lat:24.759441,name:'中一藥局',id:'5934010228',tel:'039385962',addr:'宜蘭縣宜蘭市慈安路41－3號',memo:'上午9:00-12:30下午5:00-9:00',business_week:'OOOOOOXXXXXXXXOOOOOOX'},
 {lng:121.755549,lat:24.750254,name:'厚生藥局',id:'5934010282',tel:'039322166',addr:'宜蘭縣宜蘭市復興路22號',business_week:'OOOOOOXOOOOOOXOOOOOOX'},
-{lng:121.753279,lat:24.760813,name:'中興藥局',id:'5934011403',tel:'039369769',addr:'宜蘭縣宜蘭市中山路3段209號',memo:'領取防疫口罩時間—無號碼牌.現場排隊領取
-週一～週五 早上8:30開始到售完！
-週六～週日 下午2:00開始到售完！',business_week:'OOOOOOXOOOOOOOOOOOOOO'},
+{lng:121.753279,lat:24.760813,name:'中興藥局',id:'5934011403',tel:'039369769',addr:'宜蘭縣宜蘭市中山路3段209號',memo:'領取防疫口罩時間—無號碼牌.現場排隊領取週一～週五 早上8:30開始到售完！週六～週日 下午2:00開始到售完！',business_week:'OOOOOOXOOOOOOOOOOOOOO'},
 {lng:121.753471,lat:24.750557,name:'李藥局',id:'5934011510',tel:'039362234',addr:'宜蘭縣宜蘭市中山路2段211號',business_week:'OOOOOOXOOOOOOXOOOOOOX'},
 {lng:121.755119,lat:24.757157,name:'宜生藥局',id:'5934011529',tel:'039327893',addr:'宜蘭縣宜蘭市新民路111號',memo:'周一至周六 上午8點至9點 (或100名成人口罩售完)  周一至周五 晚上8點至口罩售完   週六 下午四點至口罩售完',business_week:'OOOOOOXOOOOOOXOOOOOXX'},
 {lng:121.756317,lat:24.755183,name:'宜和藥局',id:'5934011538',tel:'039332451',addr:'宜蘭縣宜蘭市光復路36號1樓',memo:'固定休星期日 營業時間 早上8.00-晚上9.00 中午12..1..休1小時',business_week:'OOOOOOXOOOOOOXOOOOOOX'},
