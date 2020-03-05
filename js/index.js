@@ -9,7 +9,7 @@ $(function() {
         showUpdateProcessByManual();
     });
 
-    var clock = setInterval(function() {reloadStrongholdData(true);} , 60000);
+    //var clock = setInterval(function() {reloadStrongholdData(true);} , 60000);
 });
 
 function showUpdateProcessByManual(){   
@@ -103,9 +103,9 @@ function showTopMessage(){
         closeAnimation: 'bottom',
         columnClass: 'col-md-4 col-md-offset-4',
         type: 'blue',
-        title: '系統更新',
+        title: '系統提示',
         content: 
-        '🔔數量有顏色囉(也會跟著搜尋條件連動)！<br /><span class="inventory-hight">大於 50% 綠色</span> <span class="inventory-medium">20~50% 橘色</span> <span class="inventory-low">小於 20% 紅色</span><br /><br />' + 
+        '🔔庫存有顏色囉(也會跟著搜尋條件連動)！<br /><span class="inventory-hight">大於 50% 綠色</span> <span class="inventory-medium">20~50% 橘色</span> <span class="inventory-low">小於 20% 紅色</span><br /><br />' + 
         '🔔口罩實名制3/5起調整：兒童每7天5片，成人每7天3片。詳右下角的 <i class="fas fa-info"></i> 按鈕！<br /><br />' + 
         '🔔案32的詳細資訊請點選右下角的<i class="fas fa-exclamation-triangle"></i>按鈕！<br /><br />' + 
         '🔔本系統每分鐘自動與衛服部更新庫存。<br /><br />' + 
@@ -125,13 +125,14 @@ function showInfoMessage(){
         closeAnimation: 'bottom',
         columnClass: 'col-md-6 col-md-offset-3',
         type: 'blue',
-        title: '提醒',
+        title: '資訊',
         content: 
-        '❕ 數量有顏色囉(也會跟著搜尋條件連動)！<br /><span class="inventory-hight">大於 50% 綠色</span> <span class="inventory-medium">20~50% 橘色</span> <span class="inventory-low">小於 20% 紅色</span><br /><br />' + 
-        '❕ 口罩實名制3/5起調整，每人每7天可多領一片：兒童每7天5片，成人每7天3片。<br /><br />' + 
-        '❕ 部分藥局因採發放號碼牌方式，方便民眾購買口罩，系統目前無法顯示已發送號碼牌數量。<br /><br />' + 
-        '❕ 口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。<br /><br />' + 
-        '❕ 全民抗疫，請保持耐心與禮貌哦。<br /><br />' +
+        '🔔庫存有顏色囉(也會跟著搜尋條件連動)！<br /><span class="inventory-hight">大於 50% 綠色</span> <span class="inventory-medium">20~50% 橘色</span> <span class="inventory-low">小於 20% 紅色</span><br />' + 
+        '以上以成人 600 片, 兒童 200 片為判斷基準。<br /><br />' + 
+        '🔔部分藥局因採發放號碼牌方式，方便民眾購買口罩，系統目前無法顯示已發送號碼牌數量。<br /><br />' + 
+        '🔔口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。<br /><br />' + 
+        '🔔本系統每分鐘自動與衛服部更新庫存。<br /><br />' + 
+        '🔔全民抗疫，請保持耐心與禮貌哦！<br /><br />' +
         '<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10157892503933407"><img src="https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.0-9/p960x960/88191421_10157892661348407_1015538978415181824_o.png?_nc_cat=104&_nc_sid=8024bb&_nc_ohc=SAdou2Pyc-gAX9YcO7W&_nc_ht=scontent.ftpe8-4.fna&oh=452c2709b073a9863734401124db40d0&oe=5EF84D37" /></a>',
         backgroundDismiss: true
     });
