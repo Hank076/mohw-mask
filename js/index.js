@@ -12,7 +12,7 @@ $(function() {
     var clock = setInterval(function() {reloadStrongholdData(true);} , 60000);
 });
 
-function showUpdateProcessByManual(){   
+var showUpdateProcessByManual = function(){   
     var jc = $.dialog({
         icon: 'fa fa-spinner fa-spin',
         animation: 'top',
@@ -96,7 +96,7 @@ function showUpdateProcessByManual(){
     });
 }
 
-function showTopMessage(){
+var showTopMessage = function(){
     $.alert({
         icon: 'fa fa-check',
         animation: 'top',
@@ -115,7 +115,7 @@ function showTopMessage(){
     });
 }
 
-function showInfoMessage(){
+var showInfoMessage = function(){
     gtag('event', 'click', {
         'event_category': '提醒工具',
         'event_label': '提醒資訊'
@@ -138,7 +138,7 @@ function showInfoMessage(){
     });
 }
 
-function showVersionHistory(){
+var showVersionHistory = function(){
     gtag('event', 'click', {
         'event_category': '提醒工具',
         'event_label': '網站歷程'
@@ -177,7 +177,7 @@ function showVersionHistory(){
     });
 }
 
-function showTwcdcFB(){
+var showTwcdcFB = function(){
     gtag('event', 'click', {
         'event_category': '提醒工具',
         'event_label': '疾管署粉絲團'
@@ -195,7 +195,7 @@ function showTwcdcFB(){
     });
 }
 
-function showQuestionInfo(){
+var showQuestionInfo = function(){
     gtag('event', 'click', {
         'event_category': '提醒工具',
         'event_label': '資訊有誤怎麼辦'
@@ -217,7 +217,7 @@ function showQuestionInfo(){
     });
 }
 
-function showWarningMessage(){
+var showWarningMessage = function(){
     gtag('event', 'click', {
         'event_category': '提醒工具',
         'event_label': '重要訊息'
@@ -236,7 +236,7 @@ function showWarningMessage(){
     });
 }
 
-function showUpdateProcess(){
+var showUpdateProcess = function(){
     gtag('event', 'click', {
         'event_category': '地圖工具',
         'event_label': '更新地圖'

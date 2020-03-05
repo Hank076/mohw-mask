@@ -28,7 +28,9 @@ var geoSuccess = function(position) {
     if(marker_user !== undefined){
         marker_user.setLatLng([default_lat, default_lng]);
     }else{
-        createMap();
+        if(omap === undefined){
+            createMap();
+        }
 
         marker_user = L.marker([default_lat, default_lng]).bindTooltip("我", {
             direction: "top",
@@ -51,7 +53,7 @@ var geoError = function(error) {
     //   3: timed out
 };
 
-function getUserGEOInfo(galog) {
+var getUserGEOInfo = function(galog) {
     if(galog === true){
         gtag('event', 'click', {
             'event_category': '地圖工具',
@@ -73,13 +75,13 @@ function getUserGEOInfo(galog) {
             createMap();
         }
     }
-}
+};
 
-function onMapLoad() {
+var onMapLoad = function() {
     showTopMessage();
-}
+};
 
-function createMap() {
+var createMap = function() {
     
     omap = L.map('omap',{
         zoomControl: false
@@ -119,9 +121,9 @@ function createMap() {
     });
 
     loadMaskInventory(false); //取得口罩剩餘數量
-}
+};
 
-function createCustomButton() {
+var createCustomButton = function() {
 
     L.control.custom({
         position: 'bottomright',
@@ -165,13 +167,13 @@ function createCustomButton() {
     $("#twcdc_fb_btn").click(function(event) {
         showTwcdcFB();
     });
-}
+};
 
-function reloadStrongholdData(isAsyncMode){
+var reloadStrongholdData = function(isAsyncMode){
     loadMaskInventory(isAsyncMode); //取得口罩剩餘數量
-}
+};
 
-function checkTimerOpen(t1, t2, t3, status){
+var checkTimerOpen = function(t1, t2, t3, status){
     var nowDate = new Date();
     var current_hour = nowDate.getHours();
     
@@ -196,20 +198,19 @@ function checkTimerOpen(t1, t2, t3, status){
         return status;
     }
     */
-}
+};
 
-function strongholdInfo(stronghold) {
+var strongholdInfo = function(stronghold) {
     var name = stronghold.name;
     var tel = stronghold.tel;
     var addr = stronghold.addr;
-    var memo = $.trim(stronghold.memo);
     var maskInventoryInfo = mask_inventory[stronghold.id];
 
     var infoHTML = "<h3>" + name + "</h3>";
     infoHTML += "電話：<a href='tel:+886" + tel + "'><i class='fas fa-phone-alt'></i> " + tel + "</a><br />";
     infoHTML += "地址：<a target='_blank' href='https://www.google.com/maps/dir/?api=1&destination=" + addr + "'><i class='fas fa-map-marked-alt'></i> " + addr + "</a><br />";
 
-    infoHTML += "<br /><b>口罩剩餘數量</b> (<span class='question_btn' title='資訊有誤嗎？'>資訊有誤嗎？</span>)<br />";
+    infoHTML += "<br /><b>口罩剩餘數量</b> (<span class='question_btn link-style' title='資訊有誤嗎？'>資訊有誤嗎？</span>)<br />";
     if (maskInventoryInfo === undefined) {
         infoHTML += "無資料" + "<br />";
     } else {
@@ -227,29 +228,34 @@ function strongholdInfo(stronghold) {
 
         detailData = "大人最後增加時間: "+maskInventoryInfo[4]+"<br />小孩最後增加時間: "+maskInventoryInfo[6]+"<br />大人最後減少時間: "+maskInventoryInfo[5]+"<br />小孩最後減少時間: "+maskInventoryInfo[7];
 
-        infoHTML += "<br /><span class='more-inventory-sale-info' title='"+ detailData + "'>最後回報時間：" + reportTime + "</span><br />";
+        infoHTML += "<br /><span class='moreBusinessInfo' title='"+ detailData + "'>最後回報時間：" + reportTime + "</span><br />";
         //infoHTML += "<br />更新時間：" + maskInventoryInfo[2] + "<br />";
         mask_inventory_last_update = maskInventoryInfo[3].substr(5).replace(/-/g, "/");
     }
     
     if (stronghold.business_week != undefined) {
         var business_week = stronghold.business_week.split('');
-        infoHTML += "<br/><b>營業資訊(O:營業, X:無營業, 空白:未知)</b><br/>";
-        infoHTML += "<table class='tg'><tr><th class='tg-lboi'></th><th class='tg-lboi'>一</th><th class='tg-lboi'>二</th><th class='tg-lboi'>三</th><th class='tg-lboi'>四</th><th class='tg-lboi'>五</th><th class='tg-lboi'>六</th><th class='tg-lboi'>日</th></tr><tr><td class='tg-lboi'>上</td><td class='tg-lboi'>" + business_week[0] + "</td><td class='tg-lboi'>" + business_week[1] + "</td><td class='tg-lboi'>" + business_week[2] + "</td><td class='tg-lboi'>" + business_week[3] + "</td><td class='tg-lboi'>" + business_week[4] + "</td><td class='tg-weekend'>" + business_week[5] + "</td><td class='tg-weekend'>" + business_week[6] + "</td></tr><tr><td class='tg-lboi'>下</td><td class='tg-lboi'>" + business_week[7] + "</td><td class='tg-lboi'>" + business_week[8] + "</td><td class='tg-lboi'>" + business_week[9] + "</td><td class='tg-lboi'>" + business_week[10] + "</td><td class='tg-lboi'>" + business_week[11] + "</td><td class='tg-weekend'>" + business_week[12] + "</td><td class='tg-weekend'>" + business_week[13] + "</td></tr><tr><td class='tg-lboi'>晚</td><td class='tg-lboi'>" + business_week[14] + "</td><td class='tg-lboi'>" + business_week[15] + "</td><td class='tg-lboi'>" + business_week[16] + "</td><td class='tg-lboi'>" + business_week[17] + "</td><td class='tg-lboi'>" + business_week[18] + "</td><td class='tg-weekend'>" + business_week[19] + "</td><td class='tg-weekend'>" + business_week[20] + "</td></tr></table><br />";
+        infoHTML += "<br/><b>營業資訊</b><span class='showBusinessWeek link-style'> (點我顯示或隱藏)</span><br/>";
+        infoHTML += "<table id='businessWeek' style='display:none;' class='tg'><tr><th class='tg-lboi'></th><th class='tg-lboi'>一</th><th class='tg-lboi'>二</th><th class='tg-lboi'>三</th><th class='tg-lboi'>四</th><th class='tg-lboi'>五</th><th class='tg-lboi'>六</th><th class='tg-lboi'>日</th></tr><tr><td class='tg-lboi'>上</td><td class='tg-lboi'>" + business_week[0] + "</td><td class='tg-lboi'>" + business_week[1] + "</td><td class='tg-lboi'>" + business_week[2] + "</td><td class='tg-lboi'>" + business_week[3] + "</td><td class='tg-lboi'>" + business_week[4] + "</td><td class='tg-weekend'>" + business_week[5] + "</td><td class='tg-weekend'>" + business_week[6] + "</td></tr><tr><td class='tg-lboi'>下</td><td class='tg-lboi'>" + business_week[7] + "</td><td class='tg-lboi'>" + business_week[8] + "</td><td class='tg-lboi'>" + business_week[9] + "</td><td class='tg-lboi'>" + business_week[10] + "</td><td class='tg-lboi'>" + business_week[11] + "</td><td class='tg-weekend'>" + business_week[12] + "</td><td class='tg-weekend'>" + business_week[13] + "</td></tr><tr><td class='tg-lboi'>晚</td><td class='tg-lboi'>" + business_week[14] + "</td><td class='tg-lboi'>" + business_week[15] + "</td><td class='tg-lboi'>" + business_week[16] + "</td><td class='tg-lboi'>" + business_week[17] + "</td><td class='tg-lboi'>" + business_week[18] + "</td><td class='tg-weekend'>" + business_week[19] + "</td><td class='tg-weekend'>" + business_week[20] + "</td></tr></table>";
     }
 
-    if (memo.length > 0) {
-        if(memo.indexOf('口罩') != -1){ 
-            infoHTML += "<span id='highred'>備註：" + stronghold.memo + '</span>';
-        }else{
-            infoHTML += "備註：" + stronghold.memo;
+    if(stronghold.memo !== undefined){
+        var memo = $.trim(stronghold.memo);
+        if (memo.length > 0) {
+            if(memo.indexOf('口罩') != -1){ 
+                infoHTML += "<br/><span id='highred'>備註：" + memo + '</span>';
+            }else{
+                infoHTML += "<br/>備註：" + memo;
+            }
         }
+    }else{
+        infoHTML += "<br />";
     }
 
     return infoHTML;
-}
+};
 
-function loadMaskInventory(isAsyncMode) {
+var loadMaskInventory = function(isAsyncMode) {
     mask_inventory = [];
     //"data/maskdata.csv"
     //https://data.nhi.gov.tw/resource/mask/maskdata.csv
@@ -281,9 +287,9 @@ function loadMaskInventory(isAsyncMode) {
             createStrongholdData(); //更新地圖
         }
     });
-}
+};
 
-function createStrongholdData(){
+var createStrongholdData = function(){
 
     if(markers !== undefined){
         markers.clearLayers(); //清除 markers
@@ -411,12 +417,13 @@ function createStrongholdData(){
 
             if(add_status){
 
-                var memo = $.trim(stronghold.memo);
                 var more = '';
-
-                if(memo.length > 0){
-                    if(stronghold.memo.indexOf('口罩') != -1 || stronghold.memo.indexOf('號碼') != -1){ 
-                        more = "購買規則▶";
+                if(stronghold.memo !== undefined){
+                    var memo = $.trim(stronghold.memo);
+                    if(memo.length > 0){
+                        if(memo.indexOf('口罩') != -1 || memo.indexOf('號碼') != -1){ 
+                            more = "購買規則▶";
+                        }
                     }
                 }
 
@@ -458,13 +465,17 @@ function createStrongholdData(){
                         showQuestionInfo();
                     });
 
-                    $(".more-inventory-sale-info").click(function () {
+                    $(".moreBusinessInfo").click(function () {
                         var $title = $(this).find(".title");
                         if (!$title.length) {
                             $(this).append('<span class="title">' + $(this).attr("title") + '</span>');
                         } else {
                             $title.remove();
                         }
+                    });
+
+                    $(".showBusinessWeek").click(function(event) {
+                        $('#businessWeek').toggle(500);
                     });
 
                     gtag('event', 'click', {
@@ -480,9 +491,9 @@ function createStrongholdData(){
     omap.addLayer(markers);
 
     $('#mask_inventory_last_update').text(' (更新時間：' + mask_inventory_last_update.replace("2020/","") + ')');
-}
+};
 
-var calcLastTimeRange = function (timesData) {
+var calcLastTimeRange = function(timesData) {
     //如果時間格式是正確的，那下面這一步轉化時間格式就可以不用了
     var dateBegin = new Date(timesData.replace(/-/g, "/"));//將-轉化為/，使用new Date
     var dateEnd = new Date();//獲取當前時間

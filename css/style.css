@@ -58,18 +58,16 @@ a {
     margin-right:auto !important;
 }
 
-.question_btn {
-    position: relative;
+.link-style{
     border-bottom: 1px dotted;
 }
 
 /*inventory detail*/
-.more-inventory-sale-info {
+.moreBusinessInfo {
     position: relative;
     border-bottom: 1px dotted;
 }
-
-.more-inventory-sale-info .title {
+.moreBusinessInfo .title {
     position: absolute;
     top: 15px;
     background: #2f3542;
