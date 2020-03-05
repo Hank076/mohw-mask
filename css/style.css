@@ -1,10 +1,3 @@
-:root{
-    --inventory-hight: #A5D6A7;
-    --inventory-medium: #FFCC80;
-    --inventory-low: #ef9a9a;
-    --inventory-zero: #EEEEEE;
-}
-
 html,
 body,
 #omap {
@@ -16,6 +9,10 @@ body,
 
 a {
     border-bottom: 1px dotted;
+}
+
+.site-title {
+    font-size: 20px;
 }
 
 .topblock {
@@ -43,24 +40,36 @@ a {
     overflow: hidden;
 }
 .maptools {
-    background-color: #EEEEEEc3;
+    background-color: #EEEEEEF2;
+    border: 1px solid;
+    border-color: white;
     z-index: 10;
     float: right;
     position: absolute;
     right: 0;
     top: 0;
 }
-@media (max-width: 650px) {
+@media (max-width: 700px) {
     .maptools {
         position: initial;
     }
 }
-.more_info {
+.pretty{
+    margin-right:auto !important;
+}
+
+.question_btn {
     position: relative;
     border-bottom: 1px dotted;
 }
 
-.more_info .title {
+/*inventory detail*/
+.more-inventory-sale-info {
+    position: relative;
+    border-bottom: 1px dotted;
+}
+
+.more-inventory-sale-info .title {
     position: absolute;
     top: 15px;
     background: #2f3542;
@@ -70,7 +79,25 @@ a {
     border-radius: 5px;
     color:#fdfdfd;
 }
-/*Wraperclass for the divicon*/
+
+/*inventory level*/
+.inventory-hight{
+    background-color: #A5D6A7 !important;
+}
+
+.inventory-medium{
+    background-color: #FFCC80 !important;
+}
+
+.inventory-low{
+    background-color: #ef9a9a !important;
+}
+
+.inventory-zero{
+    background-color: #EEEEEE !important;
+}
+
+/*divicon*/
 .map-label {
     position: absolute;
     bottom: 0;left: -50%;
@@ -78,7 +105,6 @@ a {
     flex-direction: column;
     text-align: center;
 }
-/*Wrap the content of the divicon (text) in this class*/
 .map-label-content {
     /*position: relative; left: -50%;*/
     background-color: #fff;
@@ -92,7 +118,8 @@ a {
     font-size: 14px;
     color: #272626;
 }
-/*Add this arrow*/
+
+/*divicon Add this arrow*/
 .map-label-arrow {
     width: 0px; height: 0px; /*left: 50%;*/
     border-style: solid;
@@ -103,6 +130,8 @@ a {
 .leaflet-div-icon{
     border: none;
 }
+
+/*business hours*/
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#bbb;}
 .tg td{font-family:Arial, sans-serif;padding:5px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#bbb;color:#594F4F;background-color:#E0FFEB;}
 .tg th{font-family:Arial, sans-serif;font-weight:normal;padding:5px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#bbb;color:#493F3F;background-color:#9DE0AD;}
