@@ -248,8 +248,6 @@ var strongholdInfo = function(stronghold) {
                 infoHTML += "<br/>備註：" + memo;
             }
         }
-    }else{
-        infoHTML += "<br />";
     }
 
     return infoHTML;

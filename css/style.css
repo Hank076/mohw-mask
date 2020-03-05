@@ -76,6 +76,7 @@ a {
     white-space: nowrap;
     border-radius: 5px;
     color:#fdfdfd;
+    z-index: 1;
 }
 
 /*inventory level*/
