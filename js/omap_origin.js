@@ -40,7 +40,9 @@ var geoSuccess = function(position) {
 };
 
 var geoError = function(error) {
-    createMap();
+    if(galog === false){
+        createMap();
+    }
     //console.log('Error occurred. Error: ' + error.message + '(' + error.code + ')');
     // error.code can be:
     //   0: unknown error
@@ -67,7 +69,9 @@ function getUserGEOInfo(galog) {
         // 跟使用者拿所在位置
         navigator.geolocation.getCurrentPosition(geoSuccess, geoError, options);
     }else{
-        createMap();
+        if(galog === false){
+            createMap();
+        }
     }
 }
 
