@@ -235,7 +235,13 @@ var strongholdInfo = function(stronghold) {
 
         infoHTML += "<br /><span class='moreBusinessInfo' title='"+ detailData + "'>最後回報時間：" + reportTime + "</span><br />";
         //infoHTML += "<br />更新時間：" + maskInventoryInfo[2] + "<br />";
-        mask_inventory_last_update = maskInventoryInfo[3].substr(5).replace(/-/g, "/");
+
+        //顯示最新的更新時間
+        var newDate = Date.parse(maskInventoryInfo[3].replace(/-/g, "/"));
+        var currectDate = Date.parse(mask_inventory_last_update.replace(/-/g, "/"));
+        if((newDate - currectDate > 0) || mask_inventory_last_update == ''){
+            mask_inventory_last_update = maskInventoryInfo[3];
+        }
     }
     
     if (stronghold.business_week != undefined) {
@@ -499,7 +505,7 @@ var createStrongholdData = function(){
     }
     omap.addLayer(markers);
 
-    $('#mask_inventory_last_update').text(mask_inventory_last_update.replace("2020/",""));
+    $('#mask_inventory_last_update').text(mask_inventory_last_update.substr(5).replace(/-/g, "/"));
 };
 
 var calcLastTimeRange = function(timesData) {
