@@ -170,6 +170,11 @@ var createCustomButton = function() {
 };
 
 var reloadStrongholdData = function(isAsyncMode){
+    $('#reload_btn').attr('disabled', true);
+    $("#reload_btn i").removeClass();
+    $("#reload_btn i").addClass('fas fa-sync fa-spin fa-fw');
+    $('#mask_inventory_last_update').html('<span id="process_status" class="fa fa-spinner fa-spin"></span>');
+    
     loadMaskInventory(isAsyncMode); //取得口罩剩餘數量
 };
 
@@ -283,6 +288,12 @@ var loadMaskInventory = function(isAsyncMode) {
                 }
             }
             createStrongholdData(); //更新地圖
+        },
+        complete: function(jqXHR, textStatus){
+          // Handle the complete event
+          $("#reload_btn i").removeClass();
+          $("#reload_btn i").addClass('fas fa-sync');
+          $('#reload_btn').attr('disabled', false);
         }
     });
 };
@@ -420,7 +431,7 @@ var createStrongholdData = function(){
                     var memo = $.trim(stronghold.memo);
                     if(memo.length > 0){
                         if(memo.indexOf('口罩') != -1 || memo.indexOf('號碼') != -1){ 
-                            more = "購買規則▶";
+                            more = "購買規則<span class='fas fa-angle-right'></span>";
                         }
                     }
                 }
@@ -488,7 +499,7 @@ var createStrongholdData = function(){
     }
     omap.addLayer(markers);
 
-    $('#mask_inventory_last_update').text(' (更新時間：' + mask_inventory_last_update.replace("2020/","") + ')');
+    $('#mask_inventory_last_update').text(mask_inventory_last_update.replace("2020/",""));
 };
 
 var calcLastTimeRange = function(timesData) {
