@@ -29,8 +29,8 @@ a {
     padding-left: 2px;
     padding-top: 2px;
 }
-.readme a {
-    color:white;
+.whiteText {
+    color:white !important;
 }
 #highred{
     color: red;
