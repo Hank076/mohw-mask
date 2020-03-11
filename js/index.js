@@ -94,7 +94,7 @@ var showUpdateProcessByManual = function(){
             jc.close();
         }
     });
-}
+};
 
 var showTopMessage = function(){
     $.alert({
@@ -105,14 +105,13 @@ var showTopMessage = function(){
         type: 'blue',
         title: '系統提示',
         content: 
-        '🔔「口罩實名制2.0」3月12日起試營運線上預購。詳右下角的 <i class="fas fa-info"></i> 按鈕！<br /><br />' + 
-        '🔔案32的詳細資訊請點選右下角的<i class="fas fa-exclamation-triangle"></i>按鈕！<br /><br />' + 
+        '🔔「口罩實名制2.0」3月12日起試營運線上預購。預購請點 <i class="fas fa-shopping-cart"></i> 按鈕(限用讀卡機)！<br /><br />' + 
         '🔔本系統每分鐘自動與衛服部更新庫存。<br /><br />' + 
         '🔔全民抗疫，請保持耐心與禮貌哦！',
         autoClose:'ok|5000',
         backgroundDismiss: true
     });
-}
+};
 
 var showInfoMessage = function(){
     gtag('event', 'click', {
@@ -126,6 +125,7 @@ var showInfoMessage = function(){
         type: 'blue',
         title: '資訊',
         content: 
+        '🔔「口罩實名制2.0」3月12日起試營運線上預購。預購請點 <i class="fas fa-shopping-cart"></i> 按鈕(限用讀卡機)！<br /><br />' + 
         '🔔部分藥局因採發放號碼牌方式方便民眾購買口罩，系統目前無法顯示已發送號碼牌數量。<br />' + 
         '🔔口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。<br />' + 
         '🔔本系統每分鐘自動與衛服部更新庫存。<br />' + 
@@ -133,7 +133,7 @@ var showInfoMessage = function(){
         '<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10157915536263407"><img src="https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.0-9/s960x960/89108045_10157915536093407_3321281661487808512_o.png?_nc_cat=105&_nc_sid=8024bb&_nc_ohc=IhlGcgUgZuUAX-MdGSE&_nc_ht=scontent.ftpe8-1.fna&oh=9a0e7468241958a58c76fefbf145642e&oe=5E94F323" /></a>',
         backgroundDismiss: true
     });
-}
+};
 
 var showVersionHistory = function(){
     gtag('event', 'click', {
@@ -172,7 +172,7 @@ var showVersionHistory = function(){
         '</table>',
         backgroundDismiss: true
     });
-}
+};
 
 var showTwcdcFB = function(){
     gtag('event', 'click', {
@@ -190,7 +190,7 @@ var showTwcdcFB = function(){
         content: '<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FTWCDC&tabs=timeline&width=340&height=500&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=false&appId=544411143087055" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>',
         backgroundDismiss: true
     });
-}
+};
 
 var showQuestionInfo = function(){
     gtag('event', 'click', {
@@ -212,7 +212,7 @@ var showQuestionInfo = function(){
         '可請藥師一樣連線至VPN後進入「<a target="_blank" href="http://bit.ly/2ScrpB6">看診資料及掛號費</a>」：(1)每日固定看診時段(2)「固定看診時段備註欄」，可修正藥局販賣口罩起迄時間及相關欲通知民眾事項。',
         backgroundDismiss: true
     });
-}
+};
 
 var showWarningMessage = function(){
     gtag('event', 'click', {
@@ -231,7 +231,7 @@ var showWarningMessage = function(){
         '如有疑似症狀，請儘速戴口罩就醫，並主動告知醫師活動接觸史。<br />'+
         '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTWCDC%2Fphotos%2Fa.187029023406%2F10157880909138407%2F%3Ftype%3D3&width=350&show_text=true&appId=544411143087055&height=665" width="350" height="665" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>'
     });
-}
+};
 
 var showUpdateProcess = function(){
     gtag('event', 'click', {
@@ -254,4 +254,11 @@ var showUpdateProcess = function(){
             jc.close();
         }
     });
-}
+};
+
+var buy_mask = function(){
+    gtag('event', 'click', {
+        'event_category': '提醒工具',
+        'event_label': '口罩預購'
+    });
+};

@@ -130,12 +130,12 @@ var createCustomButton = function() {
         content : '<button id="back_btn" type="button" class="btn btn-default" title="回到我的位置">'+
                   '    <i class="fas fa-crosshairs"></i>'+
                   '</button>'+
-                  '<button id="exclamation_btn" type="button" class="btn btn-danger" title="重要">'+
-                  '    <i class="fas fa-exclamation-triangle"></i>'+
-                  '</button>'+
                   '<button id="info_btn" type="button" class="btn btn-info" title="公告">'+
                   '    <i class="fas fa-info"></i>'+
                   '</button>'+
+                  '<a target="_blank" id="buy_mask" href="https://emask.taiwan.gov.tw/" class="btn btn-primary whiteText" title="預購口罩" onclick="buy_mask();">'+
+                  '    <i class="fas fa-shopping-cart"></i>'+
+                  '</a>'+
                   '<button id="reload_btn" type="button" class="btn btn-primary" title="重新整理">'+
                   '    <i class="fas fa-sync"></i>'+
                   '</button>'+
@@ -148,6 +148,12 @@ var createCustomButton = function() {
         classes : 'btn-group-vertical bt-group-sm',
         style   : {margin: '10px', padding: '0px 0 0 0', cursor: 'pointer',}
     }).addTo(omap);
+
+    /*
+                  '<button id="exclamation_btn" type="button" class="btn btn-danger" title="重要">'+
+                  '    <i class="fas fa-exclamation-triangle"></i>'+
+                  '</button>'+
+    */
 
     $("#back_btn").click(function(event) {
         getUserGEOInfo(true); //取得使用者位置資訊
