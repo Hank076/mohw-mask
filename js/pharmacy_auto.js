@@ -5268,7 +5268,7 @@ locations = [
 {"lng":"120.543205","lat":"23.711928","name":"眼光藥局","id":"5939012384","tel":"055324462","addr":"雲林縣斗六市信義里鎮北路25－1號","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"中午 12:30 開賣口罩至人潮結束 ，下午販售至 18:00 結束;  午休時間 : 13:00 - 14:00"},
 {"lng":"120.547957","lat":"23.709232","name":"陽光藥局","id":"5939012400","tel":"055362097","addr":"雲林縣斗六市永安路69號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩販售:週一及週六19:00-售完"},
 {"lng":"120.537371","lat":"23.698342","name":"德昌藥局","id":"5939012428","tel":"055340870","addr":"雲林縣斗六市明德路101號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩每日9點30至11點30現場排隊"},
-{"lng":"120.537121","lat":"23.704016","name":"禾民藥局","id":"5939012455","tel":"055342486","addr":"雲林縣斗六市民生南路73號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩代售時間自14:00，現場排隊，售完為止"},
+{"lng":"120.537121","lat":"23.704016","name":"禾民藥局","id":"5939012455","tel":"055342486","addr":"雲林縣斗六市民生南路73號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩代售時間自14:00,現場排隊,售完為止"},
 {"lng":"120.551283","lat":"23.711291","name":"二水鄭家藥局","id":"5939012464","tel":"055323788","addr":"雲林縣斗六市文化路234號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上9點發售口罩。無號碼牌。星期日不定期休。"},
 {"lng":"120.534419","lat":"23.712578","name":"家康藥局","id":"5939012473","tel":"055362871","addr":"雲林縣斗六市西平路183號","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"1430-賣完為止"},
 {"lng":"120.553172","lat":"23.711623","name":"世明中西藥局","id":"5939012526","tel":"055333109","addr":"雲林縣斗六市文化路324－1號","business_week":"OOOOOOXOOOOOOXXXXXXXX","memo":"口罩販售:於營業時間9:00~售完為止"},
