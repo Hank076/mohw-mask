@@ -105,6 +105,7 @@ var showTopMessage = function(){
         type: 'blue',
         title: '系統提示',
         content: 
+        '🔔衛服部庫存系統不穩定，故庫存數量異常，待衛服部恢復後即可自動恢復正常！<br /><br />' + 
         '🔔「口罩實名制2.0」3月12日起試營運線上預購。預購請點 <i class="fas fa-shopping-cart"></i> 按鈕(限用讀卡機)！<br /><br />' + 
         '🔔本系統每分鐘自動與衛服部更新庫存。<br /><br />' + 
         '🔔全民抗疫，請保持耐心與禮貌哦！',
