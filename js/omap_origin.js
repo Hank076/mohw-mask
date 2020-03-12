@@ -260,7 +260,7 @@ var strongholdInfo = function(stronghold) {
         var memo = $.trim(stronghold.memo);
         if (memo.length > 0) {
             if(memo.indexOf('口罩') != -1){ 
-                infoHTML += "<br/><span id='highred'>備註：" + memo + '</span>';
+                infoHTML += "<br/><span class='highred'>備註：" + memo + '</span>';
             }else{
                 infoHTML += "<br/>備註：" + memo;
             }
@@ -531,10 +531,12 @@ var calcLastTimeRange = function(timesData) {
     var timesString = '';
 
     if (dayDiff != 0) {
-        timesString = dayDiff + '天前';
+        timesString = '<span class="highred" >' + dayDiff + '天前!</span>';
     } else if (dayDiff == 0 && hours != 0) {
-        timesString = hours + '小時前';
-    } else if (dayDiff == 0 && hours == 0) {
+        timesString = '<span class="highred" >' + hours + '小時前!</span>';
+    } else if (dayDiff == 0 && hours == 0 && minutes >=30) {
+        timesString = '<span class="highred" >' + minutes + '分鍾前</span>';
+    }else if (dayDiff == 0 && hours == 0) {
         timesString = minutes + '分鍾前';
     }
 
