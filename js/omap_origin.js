@@ -239,7 +239,7 @@ var strongholdInfo = function(stronghold) {
 
         detailData = "大人最後增加時間: "+maskInventoryInfo[4]+"<br />小孩最後增加時間: "+maskInventoryInfo[6]+"<br />大人最後減少時間: "+maskInventoryInfo[5]+"<br />小孩最後減少時間: "+maskInventoryInfo[7];
 
-        infoHTML += "<br /><span class='moreBusinessInfo' title='"+ detailData + "'>最後回報時間：" + reportTime + "</span><br />";
+        infoHTML += "<br /><span class='moreBusinessInfo' title='"+ detailData + "'>最後異動時間：" + reportTime + "</span><br />";
         //infoHTML += "<br />更新時間：" + maskInventoryInfo[2] + "<br />";
 
         //顯示最新的更新時間
@@ -531,12 +531,12 @@ var calcLastTimeRange = function(timesData) {
     var timesString = '';
 
     if (dayDiff != 0) {
-        timesString = '<span class="highred" >' + dayDiff + '天前!</span>';
+        timesString = '<span class="highred" >' + dayDiff + '天前</span>';
     } else if (dayDiff == 0 && hours != 0) {
-        timesString = '<span class="highred" >' + hours + '小時前!</span>';
-    } else if (dayDiff == 0 && hours == 0 && minutes >=30) {
+        timesString = '<span class="highred" >' + hours + '小時前</span>';
+    } else if (dayDiff == 0 && hours == 0 && minutes >= 40) {
         timesString = '<span class="highred" >' + minutes + '分鍾前</span>';
-    }else if (dayDiff == 0 && hours == 0) {
+    } else if (dayDiff == 0 && hours == 0) {
         timesString = minutes + '分鍾前';
     }
 
