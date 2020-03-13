@@ -105,10 +105,10 @@ var showTopMessage = function(){
         type: 'blue',
         title: '系統提示',
         content: 
-        '🔔衛服部庫存系統上午出現不穩定的狀況，詳細可點入藥局資訊查看庫存最後異動時間。<br /><br />' + 
-        '🔔「口罩實名制2.0」3月12日起試營運線上預購。預購請點 <i class="fas fa-shopping-cart"></i> 按鈕(限用讀卡機)！<br /><br />' + 
-        '🔔本系統每分鐘自動與衛服部更新庫存。<br /><br />' + 
-        '🔔全民抗疫，請保持耐心與禮貌哦！',
+        '🔔口罩實名制2.0「不會」透過電話聯絡民眾，民眾若接到電話聯繫預購口罩事宜，請立刻掛斷，並撥打165反詐騙專線查證！<br /><br />' +
+        '🔔本網站會自動與衛服部更新庫存，不用手動重新整理。<br />' + 
+        '🔔全民抗疫，請保持耐心與禮貌哦！' +
+        '<img src="images/11590578973176.jpg" />',
         autoClose:'ok|5000',
         backgroundDismiss: true
     });
@@ -126,11 +126,11 @@ var showInfoMessage = function(){
         type: 'blue',
         title: '資訊',
         content: 
-        '🔔「口罩實名制2.0」3月12日起試營運線上預購。預購請點 <i class="fas fa-shopping-cart"></i> 按鈕(限用讀卡機)！<br /><br />' + 
-        '🔔衛服部庫存系統目前偶有不穩定的狀況，詳細可點入藥局資訊查看庫存最後異動時間。<br />' + 
+        '🔔口罩實名制2.0 3月12日起試營運線上預購。預購請點 <i class="fas fa-shopping-cart"></i> 按鈕(限用讀卡機)！<br /><br />' + 
+        '🔔口罩實名制2.0「不會」透過電話聯絡民眾，民眾若接到電話聯繫預購口罩事宜，請立刻掛斷，並撥打165反詐騙專線查證！<br /><br />' +
         '🔔部分藥局因採發放號碼牌方式方便民眾購買口罩，系統目前無法顯示已發送號碼牌數量。<br />' + 
         '🔔口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。<br />' + 
-        '🔔本系統每分鐘自動與衛服部更新庫存。<br />' + 
+        '🔔本網站會自動與衛服部更新庫存，不用手動重新整理。<br />' + 
         '🔔全民抗疫，請保持耐心與禮貌哦！<br />' +
         '<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10157915536263407"><img src="https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.0-9/s960x960/89108045_10157915536093407_3321281661487808512_o.png?_nc_cat=105&_nc_sid=8024bb&_nc_ohc=IhlGcgUgZuUAX-MdGSE&_nc_ht=scontent.ftpe8-1.fna&oh=9a0e7468241958a58c76fefbf145642e&oe=5E94F323" /></a>',
         backgroundDismiss: true
