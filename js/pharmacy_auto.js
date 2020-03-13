@@ -3183,7 +3183,6 @@ locations = [
 {"lng":"121.445967","lat":"25.040071","name":"英謙藥局","id":"593106A422","tel":"0222774822","addr":"新北市新莊區新泰路261號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.426186","lat":"25.026506","name":"喜悅藥局","id":"593106A477","tel":"0222047442","addr":"新北市新莊區後港一路55號1樓","business_week":"OOOOOOXOOXOOOXOOOOOXO","memo":".2\/28日晚診休診."},
 {"lng":"121.426088","lat":"25.015343","name":"明仁健保藥局","id":"593106A511","tel":"0222085175","addr":"新北市新莊區民安西路195號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"13:00販售口罩(直接排隊~藥師做義工請勿辱罵)"},
-{"lng":"121.446727","lat":"25.049189","name":"臻善美藥局","id":"593106A520","tel":"0289914303","addr":"新北市新莊區幸福路786號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販售：週一至週四、週六，早上9點半開始販售"},
 {"lng":"121.448214","lat":"25.043409","name":"一心春天藥局","id":"593106A566","tel":"0289929482","addr":"新北市新莊區中和街13號1樓、地下室","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日下午15:30開始販售口罩， 國定假日不休診"},
 {"lng":"121.416782","lat":"25.028934","name":"記安大藥局","id":"593106A584","tel":"0222095331","addr":"新北市新莊區天祥街46號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"口罩販售時段：一至六下午3:30開始(星期日無販售口罩)"},
 {"lng":"121.449296","lat":"25.037661","name":"全鎵藥局","id":"593106A600","tel":"0222761550","addr":"新北市新莊區建中街22號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"星期一到三18:00 星期四到日8:30"},
