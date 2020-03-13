@@ -108,7 +108,7 @@ var showTopMessage = function(){
         '🔔口罩實名制2.0「不會」透過電話聯絡民眾，民眾若接到電話聯繫預購口罩事宜，請立刻掛斷，並撥打165反詐騙專線查證！<br /><br />' +
         '🔔本網站會自動與衛服部更新庫存，不用手動重新整理。<br />' + 
         '🔔全民抗疫，請保持耐心與禮貌哦！' +
-        '<img src="images/11590578973176.jpg" />',
+        '<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10157924622148407"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/p960x960/89722690_10157924621723407_7172991835571224576_o.jpg?_nc_cat=1&_nc_sid=8024bb&_nc_ohc=aux9598BIKcAX-dfP7K&_nc_ht=scontent.ftpe8-3.fna&_nc_tp=6&oh=336444db3b6771084cdbf2a95d23cc64&oe=5E8FC0AD" /></a>',
         autoClose:'ok|5000',
         backgroundDismiss: true
     });
