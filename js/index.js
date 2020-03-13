@@ -9,7 +9,7 @@ $(function() {
         showUpdateProcessByManual();
     });
 
-    var clock = setInterval(function() {reloadStrongholdData(true);} , 60000);
+    var clock = setInterval(function() {reloadStrongholdData(true);} , 120000);
 });
 
 var showUpdateProcessByManual = function(){   
