@@ -103,7 +103,7 @@ var showTopMessage = function(){
         closeAnimation: 'bottom',
         columnClass: 'col-md-4 col-md-offset-4',
         type: 'blue',
-        title: '系統提示',
+        title: '重要通知',
         content: 
         '🔔口罩實名制2.0「不會」透過電話聯絡民眾，民眾若接到電話聯繫預購口罩事宜，請立刻掛斷，並撥打165反詐騙專線查證！<br /><br />' +
         '🔔本網站會自動與衛服部更新庫存，不用手動重新整理。<br />' + 
@@ -126,7 +126,7 @@ var showInfoMessage = function(){
         type: 'blue',
         title: '資訊',
         content: 
-        '🔔口罩實名制2.0 3月12日起試營運線上預購。預購請點 <i class="fas fa-shopping-cart"></i> 按鈕(限用讀卡機)！<br /><br />' + 
+        '🔔口罩實名制2.0 預購將於 3/18(三) 晚上8點截止。預購請點 <i class="fas fa-shopping-cart"></i> 按鈕(限用讀卡機)！<br /><br />' + 
         '🔔口罩實名制2.0「不會」透過電話聯絡民眾，民眾若接到電話聯繫預購口罩事宜，請立刻掛斷，並撥打165反詐騙專線查證！<br /><br />' +
         '🔔部分藥局因採發放號碼牌方式方便民眾購買口罩，系統目前無法顯示已發送號碼牌數量。<br />' + 
         '🔔口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。<br />' + 
@@ -151,6 +151,11 @@ var showVersionHistory = function(){
         type: 'green',
         title: '版本資訊',
         content: '<table class="table table-bordered table-condensed table-striped"><tr><th>版本</th><th>歷程</th></tr>' +
+        '<tr><td>03/14</td><td>新增防詐騙公告</td></tr>' +
+        '<tr><td>03/13</td><td>衛服部公告庫存資料改為三分鐘更新一次</td></tr>' +
+        '<tr><td>03/12</td><td>因應衛服部庫存系統不穩定新增公告及程式應變處理</td></tr>' +
+        '<tr><td>03/10</td><td>新增口罩實名制2.0相關規則公告</td></tr>' +
+        '<tr><td>03/06</td><td>調整 Facebook SDK 問題</td></tr>' +
         '<tr><td>03/05</td><td>新增口罩數量分級搜尋功能</td></tr>' +
         '<tr><td>03/04</td><td>新增剩餘口罩數量顏色<br />優化圖標的呈現方式</td></tr>' +
         '<tr><td>03/02</td><td>新增大人小孩口罩最後新增減少時間(於詳細資訊點擊回報時間出現)<br />新增領取數量異動公告</td></tr>' +

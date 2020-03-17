@@ -133,7 +133,7 @@ var createCustomButton = function() {
                   '<button id="info_btn" type="button" class="btn btn-info" title="公告">'+
                   '    <i class="fas fa-info"></i>'+
                   '</button>'+
-                  '<a target="_blank" id="buy_mask" href="https://emask.taiwan.gov.tw/" class="btn btn-primary whiteText" title="預購口罩" onclick="buy_mask();">'+
+                  '<a target="_blank" id="buy_mask" href="https://emask.taiwan.gov.tw/" class="btn btn-default" title="預購口罩" onclick="buy_mask();">'+
                   '    <i class="fas fa-shopping-cart"></i>'+
                   '</a>'+
                   '<button id="reload_btn" type="button" class="btn btn-primary" title="重新整理">'+
