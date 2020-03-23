@@ -105,7 +105,7 @@ var showTopMessage = function(){
         type: 'blue',
         title: '重要通知',
         content: 
-        '🔔口罩實名制2.0 付款期間為 3/19 早上 8:00 起至 3/21 晚上 8:00 止<br /><br />' + 
+        '🔔已收到口罩付款成功簡訊後，可於 3/26~4/1 持領取序號至超商領取。<br /><br />' + 
         '🔔本網站會自動與衛服部更新庫存，不用手動重新整理。<br />' + 
         '🔔全民抗疫，請保持耐心與禮貌哦！' +
         '<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10157924622148407"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/p960x960/89722690_10157924621723407_7172991835571224576_o.jpg?_nc_cat=1&_nc_sid=8024bb&_nc_ohc=aux9598BIKcAX-dfP7K&_nc_ht=scontent.ftpe8-3.fna&_nc_tp=6&oh=336444db3b6771084cdbf2a95d23cc64&oe=5E8FC0AD" /></a>',
@@ -126,7 +126,7 @@ var showInfoMessage = function(){
         type: 'blue',
         title: '資訊',
         content: 
-        '🔔口罩實名制2.0 付款期間為 3/19 早上 8:00 起至 3/21 晚上 8:00 止<br /><br />' + 
+        '🔔已收到口罩付款成功簡訊後，可於 3/26~4/1 持領取序號至超商領取。<br /><br />' + 
         '🔔部分藥局因採發放號碼牌方式方便民眾購買口罩，系統目前無法顯示已發送號碼牌數量。<br />' + 
         '🔔口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。<br />' + 
         '🔔本網站會自動與衛服部更新庫存，不用手動重新整理。<br />' + 
