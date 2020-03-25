@@ -319,7 +319,7 @@ locations = [
 {"lng":"121.606059","lat":"25.055447","name":"亞博藥師藥局","id":"5901121672","tel":"0227838090","addr":"臺北市南港區興華路81號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.6152","lat":"25.045397","name":"佳龍藥局","id":"5901121725","tel":"0227885951","addr":"臺北市南港區研究院路2段80號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一至週日中午12:30發放號碼牌 13:00-14:30前100號領取口罩 13:30-14:30後100號領取口罩"},
 {"lng":"121.616697","lat":"25.051754","name":"湳港藥局","id":"5901121734","tel":"0227892200","addr":"臺北市南港區研究院路1段101巷12號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一至週日，14:30準時開賣，售完為止"},
-{"lng":"121.6157","lat":"25.050309","name":"進慧藥局","id":"5901121798","tel":"0227887049","addr":"臺北市南港區研究院路1段163號","business_week":"OOOOOOXXXXXXXXOOXOOXX"},
+{"lng":"121.6157","lat":"25.050309","name":"進慧藥局","id":"5901121798","tel":"0227887049","addr":"臺北市南港區研究院路1段163號","business_week":"OOOOOOXXXXXXXXOOXOOXX","memo":"於星期一到六早上9點開始販賣口罩，賣完爲止"},
 {"lng":"121.58529","lat":"25.045698","name":"儀安健保藥局","id":"5901121823","tel":"0227859893","addr":"臺北市南港區同德路74號","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"0228早午診 0229早午晚診 0301早晚診"},
 {"lng":"121.606128","lat":"25.055167","name":"泓安藥局","id":"5901121841","tel":"0227861083","addr":"臺北市南港區興華路75號","business_week":"OOOOOOOOOOOOXXOOOOOXO"},
 {"lng":"121.620503","lat":"25.039854","name":"健涵藥局","id":"5901121850","tel":"0227837285","addr":"臺北市南港區舊莊街1段147號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"發口罩{號碼牌}時間：周間(一到五)早上8點 周末(六日) 早上9點 發放至晚上8點 非現取會與APP有落差"},
