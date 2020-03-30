@@ -232,11 +232,11 @@ var showWarningMessage = function(){
         columnClass: 'col-md-6 col-md-offset-3',
         type: 'red',
         title: '重要通知',
-        content: '案32(外籍看護)於2月16日至24日間，<br />' + 
-        '曾多次搭乘公車、捷運等大眾交通運輸，並有多處公共場所活動史，<br />' +
-        '提醒曾於所列時段出入相關場所的民眾，請自主健康管理14天，<br />' + 
-        '如有疑似症狀，請儘速戴口罩就醫，並主動告知醫師活動接觸史。<br />'+
-        '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTWCDC%2Fphotos%2Fa.187029023406%2F10157880909138407%2F%3Ftype%3D3&width=350&show_text=true&appId=544411143087055&height=665" width="350" height="665" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>'
+        content: '針對案 268 於 2/2 下午5:20-6:55曾於金山老街，<br />' + 
+        '及 3/15 下午14:30-16:50曾於烏來老街活動，' +
+        '地方政府已安排防疫人員前往完成消毒工作，<br />' + 
+        '提醒該時段在此二處之民眾注意身體健康，<br />' + 
+        '如有發燒或上呼吸道症狀請即刻就醫並告知可能暴露史，無需過度恐慌。'
     });
 };
 
