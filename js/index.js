@@ -105,7 +105,7 @@ var showTopMessage = function(){
         type: 'blue',
         title: '重要通知',
         content: 
-        '🔔3/25起第二輪口罩預購(詳右下角 <i class="fas fa-info"></i> 按鈕)。<br /><br />' + 
+        '🔔自 4 月 9 日起，每14天可以購買口罩，成人 9 片或兒童 10 片，不限單雙號，可任選成人或兒童(詳右下角 <i class="fas fa-info"></i> 按鈕)。<br /><br />' + 
         '🔔已收到口罩付款成功簡訊後，可於 3/26~4/1 持領取序號至超商領取。<br /><br />' + 
         '🔔本網站會自動與衛服部更新庫存，不用手動重新整理。<br />' + 
         '🔔全民抗疫，請保持耐心與禮貌哦！' +
@@ -127,13 +127,12 @@ var showInfoMessage = function(){
         type: 'blue',
         title: '資訊',
         content: 
-        '🔔3/25起第二輪口罩預購(這次只有兩天)。<br /><br />' + 
-        '🔔已收到口罩付款成功簡訊後，可於 3/26~4/1 持領取序號至超商領取。<br /><br />' + 
+        '🔔自 4 月 9 日起，每14天可以購買口罩，成人 9 片或兒童 10 片，不限單雙號，可任選成人或兒童。<br /><br />' + 
         '🔔部分藥局因採發放號碼牌方式方便民眾購買口罩，系統目前無法顯示已發送號碼牌數量。<br />' + 
         '🔔口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。<br />' + 
         '🔔本網站會自動與衛服部更新庫存，不用手動重新整理。<br />' + 
         '🔔全民抗疫，請保持耐心與禮貌哦！<br />' +
-        '<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10157958521558407"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/p960x960/90433616_10157958624923407_4623375016736587776_o.jpg?_nc_cat=107&_nc_sid=8024bb&_nc_ohc=N4mgRAV_VDUAX---zXM&_nc_ht=scontent.ftpe8-3.fna&_nc_tp=6&oh=dbccf3fe0483c8422f8d271f8e037d07&oe=5E9E29B9" /></a>',
+        '<a target="_blank" href="https://www.facebook.com/mohw.gov.tw/posts/1521806084652471"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/p960x960/91515165_1521806007985812_7754339500448284672_o.jpg?_nc_cat=1&_nc_sid=8024bb&_nc_ohc=NQjMDcv34k8AX9dICnF&_nc_ht=scontent.ftpe8-3.fna&_nc_tp=6&oh=b8514032d318f1c6f239b850403b67dd&oe=5EA8D2C0" /></a>',
         backgroundDismiss: true
     });
 };
