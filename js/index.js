@@ -132,7 +132,7 @@ var showInfoMessage = function(){
         '🔔口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。<br />' + 
         '🔔本網站會自動與衛服部更新庫存，不用手動重新整理。<br />' + 
         '🔔全民抗疫，請保持耐心與禮貌哦！<br />' +
-        '<a target="_blank" href="https://www.facebook.com/mohw.gov.tw/posts/1521806084652471"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/p960x960/91515165_1521806007985812_7754339500448284672_o.jpg?_nc_cat=1&_nc_sid=8024bb&_nc_ohc=NQjMDcv34k8AX9dICnF&_nc_ht=scontent.ftpe8-3.fna&_nc_tp=6&oh=b8514032d318f1c6f239b850403b67dd&oe=5EA8D2C0" /></a>',
+        '<a target="_blank" href="https://www.facebook.com/mohw.gov.tw/posts/1521806084652471"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/p960x960/90987352_1521837217982691_3897026442742988800_o.jpg?_nc_cat=1&_nc_sid=8024bb&_nc_ohc=7QaYJKn4L1UAX9wmM11&_nc_ht=scontent.ftpe8-3.fna&_nc_tp=6&oh=0c7ad52db2fc5328e1af93008d1efa80&oe=5EA547D4" /></a>',
         backgroundDismiss: true
     });
 };
