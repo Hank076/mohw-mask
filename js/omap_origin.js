@@ -130,6 +130,9 @@ var createCustomButton = function() {
         content : '<button id="back_btn" type="button" class="btn btn-default" title="回到我的位置">'+
                   '    <i class="fas fa-crosshairs"></i>'+
                   '</button>'+
+                  '<button id="exclamation_btn" type="button" class="btn btn-danger" title="重要">'+
+                  '    <i class="fas fa-exclamation-triangle"></i>'+
+                  '</button>'+
                   '<button id="info_btn" type="button" class="btn btn-info" title="公告">'+
                   '    <i class="fas fa-info"></i>'+
                   '</button>'+
