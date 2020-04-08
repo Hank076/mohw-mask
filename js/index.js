@@ -151,6 +151,11 @@ var showVersionHistory = function(){
         type: 'green',
         title: '版本資訊',
         content: '<table class="table table-bordered table-condensed table-striped"><tr><th>版本</th><th>歷程</th></tr>' +
+        '<tr><td>04/08</td><td>新增公告</td></tr>' +
+        '<tr><td>03/30</td><td>新增公告</td></tr>' +
+        '<tr><td>03/23</td><td>新增公告</td></tr>' +
+        '<tr><td>03/19</td><td>新增公告</td></tr>' +
+        '<tr><td>03/17</td><td>新增公告</td></tr>' +
         '<tr><td>03/14</td><td>新增防詐騙公告</td></tr>' +
         '<tr><td>03/13</td><td>衛服部公告庫存資料改為三分鐘更新一次</td></tr>' +
         '<tr><td>03/12</td><td>因應衛服部庫存系統不穩定新增公告及程式應變處理</td></tr>' +
