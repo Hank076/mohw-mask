@@ -105,11 +105,11 @@ var showTopMessage = function(){
         type: 'blue',
         title: '重要通知',
         content: 
-        '🔔自 4 月 9 日起，每14天可以購買口罩，成人 9 片或兒童 10 片，不限單雙號，可任選成人或兒童(詳右下角 <i class="fas fa-info"></i> 按鈕)。<br /><br />' + 
-        '🔔已收到口罩付款成功簡訊後，可於 3/26~4/1 持領取序號至超商領取。<br /><br />' + 
+        '🔔自 4 月 9 日起，每14天可以購買口罩，成人 9 片或兒童 10 片，不限單雙號，可任選成人或兒童。<br /><br />' + 
+        '🔔口罩第4期開始預購，已經預購第3期的朋友，要等到第5期開放才可以預購！(詳右下角 <i class="fas fa-info"></i> 按鈕)。<br /><br />' + 
         '🔔本網站會自動與衛服部更新庫存，不用手動重新整理。<br />' + 
         '🔔全民抗疫，請保持耐心與禮貌哦！' +
-        '<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10157924622148407"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/p960x960/89722690_10157924621723407_7172991835571224576_o.jpg?_nc_cat=1&_nc_sid=8024bb&_nc_ohc=aux9598BIKcAX-dfP7K&_nc_ht=scontent.ftpe8-3.fna&_nc_tp=6&oh=336444db3b6771084cdbf2a95d23cc64&oe=5E8FC0AD" /></a>',
+        '<a target="_blank" href="https://www.facebook.com/tfda2014.tw/posts/2619081645042264"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/s960x960/92021062_2619081475042281_1886773884682764288_o.jpg?_nc_cat=106&_nc_sid=8024bb&_nc_ohc=qXt-aC0RDtIAX8H9HeX&_nc_ht=scontent.ftpe8-3.fna&_nc_tp=7&oh=58e649aa9569c9ef35a017ec5100d19b&oe=5EB1C9E7" /></a>',
         autoClose:'ok|5000',
         backgroundDismiss: true
     });
@@ -127,12 +127,12 @@ var showInfoMessage = function(){
         type: 'blue',
         title: '資訊',
         content: 
-        '🔔自 4 月 9 日起，每14天可以購買口罩，成人 9 片或兒童 10 片，不限單雙號，可任選成人或兒童。<br /><br />' + 
+        '🔔口罩第4期開始預購，已經預購第3期的朋友，要等到第5期開放才可以預購！<br /><br />' + 
         '🔔部分藥局因採發放號碼牌方式方便民眾購買口罩，系統目前無法顯示已發送號碼牌數量。<br />' + 
         '🔔口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。<br />' + 
         '🔔本網站會自動與衛服部更新庫存，不用手動重新整理。<br />' + 
         '🔔全民抗疫，請保持耐心與禮貌哦！<br />' +
-        '<a target="_blank" href="https://www.facebook.com/mohw.gov.tw/posts/1521806084652471"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/p960x960/90987352_1521837217982691_3897026442742988800_o.jpg?_nc_cat=1&_nc_sid=8024bb&_nc_ohc=7QaYJKn4L1UAX9wmM11&_nc_ht=scontent.ftpe8-3.fna&_nc_tp=6&oh=0c7ad52db2fc5328e1af93008d1efa80&oe=5EA547D4" /></a>',
+        '<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10158018210863407"><img src="https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.0-9/p960x960/92715393_10158018154798407_6365615125830828032_o.jpg?_nc_cat=104&_nc_sid=8024bb&_nc_ohc=I5LhNTOipJ8AX80S7SM&_nc_ht=scontent.ftpe8-4.fna&_nc_tp=6&oh=34796ccff77afecba067aac3663d84a4&oe=5EB15A90" /></a>',
         backgroundDismiss: true
     });
 };
@@ -232,11 +232,11 @@ var showWarningMessage = function(){
         columnClass: 'col-md-6 col-md-offset-3',
         type: 'red',
         title: '重要通知',
-        content: '針對案 268 於 2/2 下午5:20-6:55曾於金山老街，<br />' + 
-        '及 3/15 下午14:30-16:50曾於烏來老街活動，' +
-        '地方政府已安排防疫人員前往完成消毒工作，<br />' + 
-        '提醒該時段在此二處之民眾注意身體健康，<br />' + 
-        '如有發燒或上呼吸道症狀請即刻就醫並告知可能暴露史，無需過度恐慌。'
+        content: '與他人保持室內1.5公尺、室外1公尺的社交安全距離，<br />' + 
+        '若無法保持請配戴口罩' +
+        '搭乘大眾運輸時，應全程配戴口罩並配合量測體溫，<br />' + 
+        '若身體不適請戴口罩速就醫，主動告知旅遊、接觸史等，並落實生病在家休息。<br />' + 
+        '<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10158011707018407"><img src="https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.0-9/91502601_10158011706738407_4566462933378269184_o.jpg?_nc_cat=105&_nc_sid=8024bb&_nc_ohc=13sKNLjc5uUAX81GYO4&_nc_ht=scontent.ftpe8-1.fna&oh=aed86e6a4e3bc9a64065a8ff55200f48&oe=5EB47096" /></a>'
     });
 };
 
