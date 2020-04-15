@@ -106,7 +106,7 @@ var showTopMessage = function(){
         title: '重要通知',
         content: 
         '🔔自 4 月 9 日起，每14天可以購買口罩，成人 9 片或兒童 10 片，不限單雙號，可任選成人或兒童。<br /><br />' + 
-        '🔔口罩第4期開始預購，已經預購第3期的朋友，要等到第5期開放才可以預購！(詳右下角 <i class="fas fa-info"></i> 按鈕)。<br /><br />' + 
+        '🔔口罩第5期開始預購，已經預購第4期的朋友，要等到第6期開放才可以預購！(詳右下角 <i class="fas fa-info"></i> 按鈕)。<br /><br />' + 
         '🔔本網站會自動與衛服部更新庫存，不用手動重新整理。<br />' + 
         '🔔全民抗疫，請保持耐心與禮貌哦！' +
         '<a target="_blank" href="https://www.facebook.com/tfda2014.tw/posts/2619081645042264"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/s960x960/92021062_2619081475042281_1886773884682764288_o.jpg?_nc_cat=106&_nc_sid=8024bb&_nc_ohc=qXt-aC0RDtIAX8H9HeX&_nc_ht=scontent.ftpe8-3.fna&_nc_tp=7&oh=58e649aa9569c9ef35a017ec5100d19b&oe=5EB1C9E7" /></a>',
@@ -127,12 +127,12 @@ var showInfoMessage = function(){
         type: 'blue',
         title: '資訊',
         content: 
-        '🔔口罩第4期開始預購，已經預購第3期的朋友，要等到第5期開放才可以預購！<br /><br />' + 
+        '🔔口罩第5期開始預購，已經預購第4期的朋友，要等到第6期開放才可以預購！<br /><br />' + 
         '🔔部分藥局因採發放號碼牌方式方便民眾購買口罩，系統目前無法顯示已發送號碼牌數量。<br />' + 
         '🔔口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。<br />' + 
         '🔔本網站會自動與衛服部更新庫存，不用手動重新整理。<br />' + 
         '🔔全民抗疫，請保持耐心與禮貌哦！<br />' +
-        '<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10158018210863407"><img src="https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.0-9/p960x960/92715393_10158018154798407_6365615125830828032_o.jpg?_nc_cat=104&_nc_sid=8024bb&_nc_ohc=I5LhNTOipJ8AX80S7SM&_nc_ht=scontent.ftpe8-4.fna&_nc_tp=6&oh=34796ccff77afecba067aac3663d84a4&oe=5EB15A90" /></a>',
+        '<a target="_blank" href="https://www.facebook.com/mohw.gov.tw/posts/1536565343176545"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/p960x960/93136182_1536565256509887_7094341883345764352_o.jpg?_nc_cat=1&_nc_sid=8024bb&_nc_ohc=BwALjLYmBwkAX80D3Zf&_nc_ht=scontent.ftpe8-3.fna&_nc_tp=6&oh=690b6fb163bbc8041fbf693ef4dbc474&oe=5EBBEF87" /></a>',
         backgroundDismiss: true
     });
 };
@@ -151,6 +151,7 @@ var showVersionHistory = function(){
         type: 'green',
         title: '版本資訊',
         content: '<table class="table table-bordered table-condensed table-striped"><tr><th>版本</th><th>歷程</th></tr>' +
+        '<tr><td>04/15</td><td>新增公告</td></tr>' +
         '<tr><td>04/08</td><td>新增公告</td></tr>' +
         '<tr><td>03/30</td><td>新增公告</td></tr>' +
         '<tr><td>03/23</td><td>新增公告</td></tr>' +
