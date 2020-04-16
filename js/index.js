@@ -151,6 +151,7 @@ var showVersionHistory = function(){
         type: 'green',
         title: '版本資訊',
         content: '<table class="table table-bordered table-condensed table-striped"><tr><th>版本</th><th>歷程</th></tr>' +
+        '<tr><td>04/16</td><td>衛服部無預警更新資料格式，緊急配合調整</td></tr>' +
         '<tr><td>04/15</td><td>新增公告</td></tr>' +
         '<tr><td>04/08</td><td>新增公告</td></tr>' +
         '<tr><td>03/30</td><td>新增公告</td></tr>' +
