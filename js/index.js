@@ -1,3 +1,5 @@
+var bShowWarningMessage = true;
+
 $(function() {
     
     $("#info").click(function(event) {
@@ -96,47 +98,6 @@ var showUpdateProcessByManual = function(){
     });
 };
 
-var showTopMessage = function(){
-    $.alert({
-        icon: 'fa fa-check',
-        animation: 'top',
-        closeAnimation: 'bottom',
-        columnClass: 'col-md-4 col-md-offset-4',
-        type: 'blue',
-        title: '重要通知',
-        content: 
-        '🔔自 4 月 9 日起，每14天可以購買口罩，成人 9 片或兒童 10 片，不限單雙號，可任選成人或兒童。<br /><br />' + 
-        '🔔口罩第5期開始預購，已經預購第4期的朋友，要等到第6期開放才可以預購！(詳右下角 <i class="fas fa-info"></i> 按鈕)。<br /><br />' + 
-        '🔔本網站會自動與衛服部更新庫存，不用手動重新整理。<br />' + 
-        '🔔全民抗疫，請保持耐心與禮貌哦！' +
-        '<a target="_blank" href="https://www.facebook.com/tfda2014.tw/posts/2619081645042264"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/s960x960/92021062_2619081475042281_1886773884682764288_o.jpg?_nc_cat=106&_nc_sid=8024bb&_nc_ohc=qXt-aC0RDtIAX8H9HeX&_nc_ht=scontent.ftpe8-3.fna&_nc_tp=7&oh=58e649aa9569c9ef35a017ec5100d19b&oe=5EB1C9E7" /></a>',
-        autoClose:'ok|5000',
-        backgroundDismiss: true
-    });
-};
-
-var showInfoMessage = function(){
-    gtag('event', 'click', {
-        'event_category': '提醒工具',
-        'event_label': '提醒資訊'
-    });
-    $.alert({
-        animation: 'top',
-        closeAnimation: 'bottom',
-        columnClass: 'col-md-6 col-md-offset-3',
-        type: 'blue',
-        title: '資訊',
-        content: 
-        '🔔口罩第5期開始預購，已經預購第4期的朋友，要等到第6期開放才可以預購！<br /><br />' + 
-        '🔔部分藥局因採發放號碼牌方式方便民眾購買口罩，系統目前無法顯示已發送號碼牌數量。<br />' + 
-        '🔔口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。<br />' + 
-        '🔔本網站會自動與衛服部更新庫存，不用手動重新整理。<br />' + 
-        '🔔全民抗疫，請保持耐心與禮貌哦！<br />' +
-        '<a target="_blank" href="https://www.facebook.com/mohw.gov.tw/posts/1536565343176545"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/p960x960/93136182_1536565256509887_7094341883345764352_o.jpg?_nc_cat=1&_nc_sid=8024bb&_nc_ohc=BwALjLYmBwkAX80D3Zf&_nc_ht=scontent.ftpe8-3.fna&_nc_tp=6&oh=690b6fb163bbc8041fbf693ef4dbc474&oe=5EBBEF87" /></a>',
-        backgroundDismiss: true
-    });
-};
-
 var showVersionHistory = function(){
     gtag('event', 'click', {
         'event_category': '提醒工具',
@@ -151,6 +112,7 @@ var showVersionHistory = function(){
         type: 'green',
         title: '版本資訊',
         content: '<table class="table table-bordered table-condensed table-striped"><tr><th>版本</th><th>歷程</th></tr>' +
+        '<tr><td>04/20</td><td>新增緊急公告</td></tr>' +
         '<tr><td>04/16</td><td>衛服部無預警更新資料格式，緊急配合調整</td></tr>' +
         '<tr><td>04/15</td><td>新增公告</td></tr>' +
         '<tr><td>04/08</td><td>新增公告</td></tr>' +
@@ -206,24 +168,43 @@ var showTwcdcFB = function(){
     });
 };
 
-var showQuestionInfo = function(){
+var showTopMessage = function(){
+    $.alert({
+        icon: 'fa fa-check',
+        animation: 'top',
+        closeAnimation: 'bottom',
+        columnClass: 'col-md-4 col-md-offset-4',
+        type: 'blue',
+        title: '重要通知',
+        content: 
+        '🔔自 4 月 9 日起，每14天可以購買口罩，成人 9 片或兒童 10 片，不限單雙號，可任選成人或兒童。<br /><br />' + 
+        '🔔口罩第5期開始預購，已經預購第4期的朋友，要等到第6期開放才可以預購！(詳右下角 <i class="fas fa-info"></i> 按鈕)。<br /><br />' + 
+        '🔔本網站會自動與衛服部更新庫存，不用手動重新整理。<br />' + 
+        '🔔全民抗疫，請保持耐心與禮貌哦！' +
+        '<a target="_blank" href="https://www.facebook.com/mohw.gov.tw/posts/1536565343176545"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/p960x960/93312757_1540920682741011_7710226660150214656_o.jpg?_nc_cat=1&_nc_sid=8024bb&_nc_ohc=VvgUWRlJMTsAX_YnxKn&_nc_ht=scontent.ftpe8-3.fna&_nc_tp=6&oh=8bab2aedb3192f447467016fe9c7ef2b&oe=5EC46464" /></a>',
+        autoClose:'ok|10000',
+        backgroundDismiss: true
+    });
+};
+
+var showInfoMessage = function(){
     gtag('event', 'click', {
         'event_category': '提醒工具',
-        'event_label': '資訊有誤怎麼辦'
+        'event_label': '提醒資訊'
     });
-
     $.alert({
-        icon: 'fa fa-question-circle',
         animation: 'top',
         closeAnimation: 'bottom',
         columnClass: 'col-md-6 col-md-offset-3',
-        type: 'green',
-        title: '資訊有誤嗎',
-        content: '如果藥局的庫存或者備註有誤，可以禮貌提醒藥師確認系統資料' + 
-        '<BR /><BR />●庫存的部分<br>' +
-        '可請藥師瀏覽『<a target="_blank" href="http://ws.nhi.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMjkyL2NrZmlsZS9mYmUzNWVmZC0zMDkyLTRjNWEtOTAyZi0zMDIxN2I0YzYyMWQucGRm&n=MTA5MDIwNiBVc2VyR3VpZGVfUVA1X3YzLjAucGRm&icon=.pdf">於防疫口罩管控系統VPN登錄作業使用者手冊</a>』的第五頁，<BR />有說明負數的操作方式。' +
-        '<BR /><BR />●備註的部分<br>' +
-        '可請藥師一樣連線至VPN後進入「<a target="_blank" href="http://bit.ly/2ScrpB6">看診資料及掛號費</a>」：(1)每日固定看診時段(2)「固定看診時段備註欄」，可修正藥局販賣口罩起迄時間及相關欲通知民眾事項。',
+        type: 'blue',
+        title: '資訊',
+        content: 
+        '🔔口罩第5期開始預購，已經預購第4期的朋友，要等到第6期開放才可以預購！<br /><br />' + 
+        '🔔部分藥局因採發放號碼牌方式方便民眾購買口罩，系統目前無法顯示已發送號碼牌數量。<br />' + 
+        '🔔口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。<br />' + 
+        '🔔本網站會自動與衛服部更新庫存，不用手動重新整理。<br />' + 
+        '🔔全民抗疫，請保持耐心與禮貌哦！<br />' +
+        '<a target="_blank" href="https://www.facebook.com/mohw.gov.tw/posts/1536565343176545"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/p960x960/93136182_1536565256509887_7094341883345764352_o.jpg?_nc_cat=1&_nc_sid=8024bb&_nc_ohc=BwALjLYmBwkAX80D3Zf&_nc_ht=scontent.ftpe8-3.fna&_nc_tp=6&oh=690b6fb163bbc8041fbf693ef4dbc474&oe=5EBBEF87" /></a>',
         backgroundDismiss: true
     });
 };
@@ -239,11 +220,15 @@ var showWarningMessage = function(){
         columnClass: 'col-md-6 col-md-offset-3',
         type: 'red',
         title: '重要通知',
-        content: '與他人保持室內1.5公尺、室外1公尺的社交安全距離，<br />' + 
-        '若無法保持請配戴口罩' +
+        content: 
+        '針對敦睦遠訓支隊24例部分個案下船後曾至國內約90多處公共場所活動，<br />' + 
+        '提醒民眾若曾於所列時段及地點活動，應自主健康管理，外出時請佩戴口罩，<br />' + 
+        '若有不適，請撥打1922防疫專線，就醫時主動告知活動暴露史。<br /><br />' +
+        '敦睦艦隊COVID-19(武漢肺炎)確診個案活動足跡：' + 
+        '<a target="_blank" href="https://bit.ly/2xyUgs3">https://bit.ly/2xyUgs3</a><br />' +
         '搭乘大眾運輸時，應全程配戴口罩並配合量測體溫，<br />' + 
         '若身體不適請戴口罩速就醫，主動告知旅遊、接觸史等，並落實生病在家休息。<br />' + 
-        '<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10158011707018407"><img src="https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.0-9/91502601_10158011706738407_4566462933378269184_o.jpg?_nc_cat=105&_nc_sid=8024bb&_nc_ohc=13sKNLjc5uUAX81GYO4&_nc_ht=scontent.ftpe8-1.fna&oh=aed86e6a4e3bc9a64065a8ff55200f48&oe=5EB47096" /></a>'
+        '<a target="_blank" href="https://www.facebook.com/mohw.gov.tw/posts/1541640766002336"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/p960x960/93845678_1541643309335415_4409080797483499520_o.jpg?_nc_cat=1&_nc_sid=8024bb&_nc_ohc=iapvmCgyEpIAX8PHBkc&_nc_ht=scontent.ftpe8-3.fna&_nc_tp=6&oh=873de6d93cfb1d322897b76089d83dc1&oe=5EC42D2B" /></a>'
     });
 };
 
@@ -269,6 +254,29 @@ var showUpdateProcess = function(){
         }
     });
 };
+
+var showQuestionInfo = function(){
+    gtag('event', 'click', {
+        'event_category': '提醒工具',
+        'event_label': '資訊有誤怎麼辦'
+    });
+
+    $.alert({
+        icon: 'fa fa-question-circle',
+        animation: 'top',
+        closeAnimation: 'bottom',
+        columnClass: 'col-md-6 col-md-offset-3',
+        type: 'green',
+        title: '資訊有誤嗎',
+        content: '如果藥局的庫存或者備註有誤，可以禮貌提醒藥師確認系統資料' + 
+        '<BR /><BR />●庫存的部分<br>' +
+        '可請藥師瀏覽『<a target="_blank" href="http://ws.nhi.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMjkyL2NrZmlsZS9mYmUzNWVmZC0zMDkyLTRjNWEtOTAyZi0zMDIxN2I0YzYyMWQucGRm&n=MTA5MDIwNiBVc2VyR3VpZGVfUVA1X3YzLjAucGRm&icon=.pdf">於防疫口罩管控系統VPN登錄作業使用者手冊</a>』的第五頁，<BR />有說明負數的操作方式。' +
+        '<BR /><BR />●備註的部分<br>' +
+        '可請藥師一樣連線至VPN後進入「<a target="_blank" href="http://bit.ly/2ScrpB6">看診資料及掛號費</a>」：(1)每日固定看診時段(2)「固定看診時段備註欄」，可修正藥局販賣口罩起迄時間及相關欲通知民眾事項。',
+        backgroundDismiss: true
+    });
+};
+
 
 var buy_mask = function(){
     gtag('event', 'click', {

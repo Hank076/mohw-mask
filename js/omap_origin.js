@@ -78,7 +78,11 @@ var getUserGEOInfo = function(galog) {
 };
 
 var onMapLoad = function() {
-    showTopMessage();
+    if(bShowWarningMessage){
+        showWarningMessage();
+    }else{
+        showTopMessage();
+    }
 };
 
 var createMap = function() {
