@@ -3520,6 +3520,7 @@ locations = [
 {"lng":"121.288563","lat":"24.990445","name":"合祥藥局","id":"5932013972","tel":"033703010","addr":"桃園市桃園區國際路二段8號1樓","business_week":"XXXXXXXOOOOOOXOOOOOOX","memo":"口罩販賣時段:下午3:00起至售完為止"},
 {"lng":"121.292424","lat":"25.018118","name":"安慶藥局","id":"5932013981","tel":"033027267","addr":"桃園市桃園區安慶街91號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時間:14:00~16:00"},
 {"lng":"121.293974","lat":"25.018349","name":"同德辰安藥局","id":"5932014004","tel":"033012028","addr":"桃園市桃園區同德十街25號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.307675","lat":"24.999839","name":"庭昌藥局","id":"5932014022","tel":"033337233","addr":"桃園市桃園區中正路387號Ｂ1樓","business_week":"OOOOOOOXXXXXXXOXOXOXX"},
 {"lng":"121.309096","lat":"24.993421","name":"大廟藥局","id":"5932014031","tel":"033337006","addr":"桃園市桃園區中山路158號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.30139","lat":"25.005133","name":"奇美大藥局","id":"5932014040","tel":"033587727","addr":"桃園市桃園區中正五街185號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.269414","lat":"24.979021","name":"佳赫藥局","id":"5932017069","tel":"033701037","addr":"桃園市桃園區龍壽街48號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時間：9:00-11:00，售完為止"},
