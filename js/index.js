@@ -1,4 +1,4 @@
-var bShowWarningMessage = true;
+var bShowWarningMessage = false;
 
 $(function() {
     
@@ -177,11 +177,11 @@ var showTopMessage = function(){
         type: 'blue',
         title: '重要通知',
         content: 
-        '🔔自 4 月 9 日起，每14天可以購買口罩，成人 9 片或兒童 10 片，不限單雙號，可任選成人或兒童。<br /><br />' + 
-        '🔔口罩第5期開始預購，已經預購第4期的朋友，要等到第6期開放才可以預購！(詳右下角 <i class="fas fa-info"></i> 按鈕)。<br /><br />' + 
+        '🔔隨著國內疫情趨緩，邀請大家，無論個人或業者，一起來響應「防疫新生活運動」！<br /><br />' + 
+        '🔔口罩預購詳右下角 <i class="fas fa-info"></i> 按鈕。<br /><br />' + 
         '🔔本網站會自動與衛服部更新庫存，不用手動重新整理。<br />' + 
         '🔔全民抗疫，請保持耐心與禮貌哦！' +
-        '<a target="_blank" href="https://www.facebook.com/mohw.gov.tw/posts/1536565343176545"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/p960x960/93312757_1540920682741011_7710226660150214656_o.jpg?_nc_cat=1&_nc_sid=8024bb&_nc_ohc=VvgUWRlJMTsAX_YnxKn&_nc_ht=scontent.ftpe8-3.fna&_nc_tp=6&oh=8bab2aedb3192f447467016fe9c7ef2b&oe=5EC46464" /></a>',
+        '<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10158161807228407"><img src="https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.0-9/p960x960/97254310_10158161757048407_1936067409022550016_o.jpg?_nc_cat=100&_nc_sid=8024bb&_nc_ohc=z0Lwhr9hhTQAX8L8xUm&_nc_ht=scontent.ftpe8-2.fna&_nc_tp=6&oh=45ea9bf2352370193a4cfca1a006c966&oe=5EEAF510" /></a>',
         autoClose:'ok|10000',
         backgroundDismiss: true
     });
