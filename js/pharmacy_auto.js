@@ -5303,7 +5303,7 @@ locations = [
 {"lng":"120.159409","lat":"23.199565","name":"年豐藥局","id":"5941181054","tel":"067946247","addr":"臺南市將軍區忠嘉里忠興42－10號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOO","memo":"星期一~日18:00~20:00"},
 {"lng":"120.1409258","lat":"23.2872075","name":"憲宗藥局","id":"5941190017","tel":"067864225","addr":"臺南市北門區東壁里704號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販售時間:星期一~六 早上08:00~11:00 ，星期日早上08:00開始 售完為止!!"},
 {"lng":"120.135809","lat":"23.286501","name":"謝藥局","id":"5941190044","tel":"067864192","addr":"臺南市北門區保吉里412號1樓","business_week":"OOXOOOXOOOOOOOOOOXOOO","memo":"星期一~日 06:00售完"},
-{"lng":"120.290186","lat":"23.078825","name":"慶豐綜合藥局","id":"5941200045","tel":"065014888","addr":"臺南市新市區新和里民生路57號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩代售時間為上午7:00至售完為止.  ** 6\/13 當天下午3:00後才有販售"},
+{"lng":"120.290186","lat":"23.078825","name":"慶豐綜合藥局","id":"5941200045","tel":"065014888","addr":"臺南市新市區新和里民生路57號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩代售時間為上午7:00至售完為止."},
 {"lng":"120.294564","lat":"23.079851","name":"安耕藥局","id":"5941201159","tel":"065995345","addr":"臺南市新市區中正路331號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.291845","lat":"23.076525","name":"安麗兒藥局新市店","id":"5941201161","tel":"065012699","addr":"臺南市新市區新和里中正路260號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"09:00領號碼牌~4點後領口罩至售完"},
 {"lng":"120.354604","lat":"23.101929","name":"瑞興藥局","id":"5941220029","tel":"065781151","addr":"臺南市山上區南洲里66號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"星期一-日08:30-售完"},
