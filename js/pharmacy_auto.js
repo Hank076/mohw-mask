@@ -497,7 +497,7 @@ locations = [
 {"lng":"121.557794","lat":"25.034881","name":"杏一光復藥局","id":"5901173676","tel":"0287804626","addr":"臺北市信義區光復南路449之1號","business_week":"OOOOOOOOOOOOOOOOOOOXX"},
 {"lng":"121.55643","lat":"25.021274","name":"洪暘藥局","id":"5901173694","tel":"0227337099","addr":"臺北市信義區富陽街86號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.55767","lat":"25.033838","name":"專品光復藥局","id":"5901173710","tel":"0227586682","addr":"臺北市信義區光復南路467之1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午三點販售口罩"},
-{"lng":"121.555409","lat":"25.022893","name":"康健信安藥局","id":"5901173729","tel":"0287324166","addr":"臺北市信義區信安街151號","business_week":"OXOXOOXOOOOOXXOOOOXXX"},
+{"lng":"121.555409","lat":"25.022893","name":"康健信安藥局","id":"5901173729","tel":"0287324166","addr":"臺北市信義區信安街151號","business_week":"OOOXOOXOOOOOXXOXOOXXX"},
 {"lng":"121.576721","lat":"25.039594","name":"尚頤中西藥局","id":"5901173738","tel":"0227253818","addr":"臺北市信義區虎林街145號","business_week":"OOOOOXXOOOOOOOOOOOOOO"},
 {"lng":"121.574482","lat":"25.037341","name":"躍獅興雅藥局","id":"5901173747","tel":"0287808429","addr":"臺北市信義區松德路128號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販售時段：週一至週六，下午1~2點和5~6點，成人各100份、兒童各10份 ，整點開始發號碼牌，非販售時段恕不受理。"},
 {"lng":"121.570103","lat":"25.043431","name":"上好藥師藥局","id":"5901173765","tel":"0227677088","addr":"臺北市信義區永吉路30巷101弄48號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
