@@ -3393,7 +3393,7 @@ locations = [
 {"lng":"121.637324","lat":"25.220908","name":"仁又堂藥局","id":"5931270026","tel":"0224982468","addr":"新北市金山區信義路17號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.638392","lat":"25.221067","name":"金宏仁藥局","id":"5931270044","tel":"0224982402","addr":"新北市金山區中山路190巷2號","business_week":"OOOOOOOOOOOOXXOOOOOXX"},
 {"lng":"121.639811","lat":"25.21912","name":"躍獅五福藥局","id":"5931271103","tel":"0224081608","addr":"新北市金山區中山路99號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販售時段:早上八點至售完為止"},
-{"lng":"121.6903086","lat":"25.1784668","name":"萬里藥局","id":"5931280013","tel":"0224922235","addr":"新北市萬里區瑪鍊路90號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"口罩配售週一至週五下午2:30~5:00週六上午10:00~12:00逾時不候週日奉令停售"},
+{"lng":"121.6903086","lat":"25.1784668","name":"萬里藥局","id":"5931280013","tel":"0224922235","addr":"新北市萬里區瑪鍊路90號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"端午連假暫停發放口罩"},
 {"lng":"121.6905699","lat":"25.1786405","name":"北海岸藥局","id":"5931281074","tel":"0224922022","addr":"新北市萬里區瑪鍊路98號","business_week":"OOOOOOXXXXXXXXOOOOOXX","memo":"6\/25.26.27早上8:00-12:00拿藥，下午休診"},
 {"lng":"121.293748","lat":"25.02199","name":"家佳藥局","id":"5932010019","tel":"033175618","addr":"桃園市桃園區瑞慶里莊一街80號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"口罩發放時間：周一~周五晚上七點開始>周末休息"},
 {"lng":"121.293354","lat":"25.022817","name":"安琪兒藥局","id":"5932010202","tel":"033016965","addr":"桃園市桃園區莊敬路二段76號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"販賣口罩時間：週一~週六14:30起17:00止"},
