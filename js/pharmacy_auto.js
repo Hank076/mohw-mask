@@ -492,7 +492,7 @@ locations = [
 {"lng":"121.569529","lat":"25.023808","name":"康怡健保藥局","id":"5901173407","tel":"0227206193","addr":"臺北市信義區吳興街467巷2弄12號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"成人口罩領取時間14:00~18:00，兒童營業時間皆可領.其餘時間仍以調劑為主，謝謝配合"},
 {"lng":"121.557037","lat":"25.020377","name":"御安藥局","id":"5901173498","tel":"0227323997","addr":"臺北市信義區和平東路3段359號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.568867","lat":"25.043242","name":"新興健保藥局","id":"5901173587","tel":"0227494892","addr":"臺北市信義區永吉路30巷113號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
-{"lng":"121.57669","lat":"25.038958","name":"松德盛康藥局","id":"5901173603","tel":"0287891622","addr":"臺北市信義區松德路40號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩代售時間自09:00; 現場排隊"},
+{"lng":"121.57669","lat":"25.038958","name":"松德盛康藥局","id":"5901173603","tel":"0287891622","addr":"臺北市信義區松德路40號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩代售時間自09:00到下午13:00; 其餘時間不販售"},
 {"lng":"121.577271","lat":"25.043337","name":"杏一永春藥局","id":"5901173658","tel":"0227495938","addr":"臺北市信義區松山路292巷17號","business_week":"OXXOXOXOOOOOOXXOOXOXX"},
 {"lng":"121.557794","lat":"25.034881","name":"杏一光復藥局","id":"5901173676","tel":"0287804626","addr":"臺北市信義區光復南路449之1號","business_week":"OOOOOOOOOOOOOOOOOOOXX"},
 {"lng":"121.55643","lat":"25.021274","name":"洪暘藥局","id":"5901173694","tel":"0227337099","addr":"臺北市信義區富陽街86號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
