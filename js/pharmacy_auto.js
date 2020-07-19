@@ -3867,7 +3867,7 @@ locations = [
 {"lng":"121.222916","lat":"24.947468","name":"建德藥局","id":"5932108430","tel":"034686662","addr":"桃園市平鎮區北勢里金陵路103號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"國定假日皆休診.口罩販售時段:上午9:30起至售完為止"},
 {"lng":"121.221907","lat":"24.945161","name":"大益藥局","id":"5932108529","tel":"034578962","addr":"桃園市平鎮區金陵路224號","business_week":"OOOOOOOOOOOOOXXXXXXXX","memo":"口罩販賣時段:早上8:30起至售完為止."},
 {"lng":"121.203165","lat":"24.951269","name":"天健示範藥局","id":"5932108574","tel":"034937169","addr":"桃園市平鎮區文化街252號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩販賣時段:早上9點至口罩售完"},
-{"lng":"121.218018","lat":"24.9317","name":"鼎祥藥局","id":"5932109857","tel":"034679124","addr":"桃園市平鎮區關爺北路四二號","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"口罩販賣時段:早上09:00售完為止"},
+{"lng":"121.218018","lat":"24.9317","name":"鼎祥藥局","id":"5932109857","tel":"034679124","addr":"桃園市平鎮區關爺北路四二號","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"口罩販賣時段:早上09:00售完為止六日營業至12:00時"},
 {"lng":"121.213934","lat":"24.953804","name":"優達藥局","id":"5932109955","tel":"034943488","addr":"桃園市平鎮區廣明路六六號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"口罩販賣時段:8點成人兒童售完為止"},
 {"lng":"121.216306","lat":"24.942188","name":"新英藥局","id":"5932109973","tel":"034687729","addr":"桃園市平鎮區中豐路208號1樓","business_week":"OOOOOOXOOXOOXXOOOOOXX","memo":"口罩販賣時段:營業時段內 有空閒就賣 售完為止  祝大家平安健康"},
 {"lng":"121.227471","lat":"24.928852","name":"康健複合式連鎖藥局","id":"593210A078","tel":"034684601","addr":"桃園市平鎮區金陵路三段91號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時段:9:00開始賣完為止"},
