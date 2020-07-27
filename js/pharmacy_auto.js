@@ -333,7 +333,7 @@ locations = [
 {"lng":"121.526009","lat":"25.088981","name":"士林三安藥局","id":"5901150342","tel":"0228812631","addr":"臺北市士林區大南路11號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5236009","lat":"25.0955096","name":"博惠藥局","id":"5901150397","tel":"0228320379","addr":"臺北市士林區華榮街16號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"121.525115","lat":"25.108884","name":"有德堂大藥局","id":"5901150459","tel":"0228318387","addr":"臺北市士林區中山北路6段227號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
-{"lng":"121.51013","lat":"25.082512","name":"太安藥局","id":"5901150468","tel":"0228111468","addr":"臺北市士林區延平北路5段157號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
+{"lng":"121.51013","lat":"25.082512","name":"太安藥局","id":"5901150468","tel":"0228111468","addr":"臺北市士林區延平北路5段157號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.509407","lat":"25.085899","name":"三原藥局","id":"5901150511","tel":"0228111888","addr":"臺北市士林區延平北路5段293號","business_week":"OOOOOOXXXXXXXXOOOOOXX"},
 {"lng":"121.530158","lat":"25.112193","name":"田倉藥局","id":"5901150548","tel":"0288662188","addr":"臺北市士林區士東路124號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"-"},
 {"lng":"121.526737","lat":"25.111678","name":"日康藥局","id":"5901150575","tel":"0228358558","addr":"臺北市士林區士東路12號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
