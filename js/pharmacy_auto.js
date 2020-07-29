@@ -881,7 +881,7 @@ locations = [
 {"lng":"120.625126","lat":"24.343187","name":"大甲啄木鳥藥局","id":"5903030110","tel":"0426804502","addr":"臺中市大甲區中山路1段905號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"(1)週一~週五每日AM09:00開始販售口罩(2)週六日AM11:40開始販售口罩(3)週日有發放口罩喔!啄木鳥藥局歡迎您   ^__________^"},
 {"lng":"120.620075","lat":"24.341507","name":"聖佑藥局","id":"5903030138","tel":"0426760156","addr":"臺中市大甲區中山路1段576號1樓","business_week":"OOOOOOXOOXOOOXOOXOOXX"},
 {"lng":"120.625974","lat":"24.345864","name":"盈盈藥局","id":"5903030156","tel":"0426804212","addr":"臺中市大甲區文武路18號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
-{"lng":"120.623305","lat":"24.350798","name":"民和藥局","id":"5903030165","tel":"0426871212","addr":"臺中市大甲區德興路68號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"周一到周五早上8:00至早上10:00，販賣實名制口罩"},
+{"lng":"120.623305","lat":"24.350798","name":"民和藥局","id":"5903030165","tel":"0426871212","addr":"臺中市大甲區德興路68號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"周一到周五早上8:00至早上10:00，販賣實名制口罩(視情況調整)"},
 {"lng":"120.620871","lat":"24.348048","name":"慶安藥局","id":"5903030174","tel":"0426802933","addr":"臺中市大甲區文武路178之3號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"每日營業時間皆代售防疫口罩，週日晚間休息。"},
 {"lng":"120.626408","lat":"24.346764","name":"志明藥局","id":"5903030183","tel":"0426876221","addr":"臺中市大甲區民生路21號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.633843","lat":"24.344696","name":"大甲合和藥局","id":"5903030192","tel":"0426802310","addr":"臺中市大甲區甲后路5段269號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"固定周一到周六，營業時間開始販賣防疫口罩"},
