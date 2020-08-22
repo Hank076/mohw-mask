@@ -2943,7 +2943,7 @@ locations = [
 {"lng":"121.393073","lat":"24.970857","name":"正宜藥局","id":"5931070044","tel":"0226805678","addr":"新北市樹林區佳園路1段39號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.410251","lat":"25.015999","name":"仁一藥局","id":"5931070053","tel":"0226893915","addr":"新北市樹林區中正路622號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩代售時間自09:00;現場排隊 (周日均為公休日)"},
 {"lng":"121.427692","lat":"24.993631","name":"鴻真藥局","id":"5931070062","tel":"0226828977","addr":"新北市樹林區保安街1段20巷6號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
-{"lng":"121.393595","lat":"24.972394","name":"耀鴻藥局","id":"5931070080","tel":"0226808989","addr":"新北市樹林區中山路3段76號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每周三停發口罩，改為每周日發放口罩"},
+{"lng":"121.393595","lat":"24.972394","name":"耀鴻藥局","id":"5931070080","tel":"0226808989","addr":"新北市樹林區中山路3段76號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每周三停發口罩、改為每周日發放口罩"},
 {"lng":"121.422337","lat":"24.994096","name":"日弘藥師藥局","id":"5931070099","tel":"0226871919","addr":"新北市樹林區復興路29號","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"口罩代售時間自08:45~中午前；現場排隊；周日休"},
 {"lng":"121.421344","lat":"24.989972","name":"江藥局","id":"5931070142","tel":"0226828001","addr":"新北市樹林區日新街102號1樓","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"周一到周五早上10:00-下午1:00 下午4:00-晚上10:00販售口罩"},
 {"lng":"121.409269","lat":"25.0169","name":"明川藥師藥局","id":"5931070213","tel":"0226894728","addr":"新北市樹林區三福街1號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
