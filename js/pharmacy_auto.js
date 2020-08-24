@@ -51,7 +51,7 @@ locations = [
 {"lng":"121.56597","lat":"25.057162","name":"光點延新藥局","id":"5901013460","tel":"0227667795","addr":"臺北市松山區延壽街101號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.56477","lat":"25.058258","name":"民生盛康藥局","id":"5901013497","tel":"0227460758","addr":"臺北市松山區民生東路5段204號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.550038","lat":"25.055685","name":"杏一台北長庚藥局","id":"5901013504","tel":"0225149463","addr":"臺北市松山區敦化北路199巷2弄3號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
-{"lng":"121.55223","lat":"25.057856","name":"立赫民生藥局","id":"5901013513","tel":"0227139200","addr":"臺北市松山區民生東路4段68號","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"週一至六14:00~18:00販售實名制口罩"},
+{"lng":"121.55223","lat":"25.057856","name":"立赫民生藥局","id":"5901013513","tel":"0227139200","addr":"臺北市松山區民生東路4段72號","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"週一至六14:00~18:00販售實名制口罩"},
 {"lng":"121.560139","lat":"25.058776","name":"大樹松山藥局","id":"5901013522","tel":"0227562226","addr":"臺北市松山區民生東路5段107號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販售時間：14:00 - 16:00"},
 {"lng":"121.566247","lat":"25.052005","name":"佑全松山南京東藥局","id":"5901013531","tel":"0227687807","addr":"臺北市松山區南京東路5段291巷7號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.553124","lat":"25.057129","name":"躍獅敦北藥局","id":"5901013540","tel":"0227155691","addr":"臺北市松山區民生東路4段80巷5號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
