@@ -272,7 +272,7 @@ locations = [
 {"lng":"121.592816","lat":"25.070098","name":"躍獅寶湖藥局","id":"5901113143","tel":"0287928335","addr":"臺北市內湖區民權東路6段123巷28號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩: 周一至周日 下午三點-五點 現場排隊售完為止  防疫酒精每日上午9:30開始  每日限量 售完為止"},
 {"lng":"121.589045","lat":"25.081803","name":"傑昇藥局","id":"5901113198","tel":"0227925957","addr":"臺北市內湖區內湖路2段227號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.579693","lat":"25.054657","name":"新安健保藥局","id":"5901113205","tel":"0227932289","addr":"臺北市內湖區新明路402號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"口罩代售時間自上午9點15分起至中午12點30分止"},
-{"lng":"121.584647","lat":"25.057114","name":"仕德安藥局","id":"5901113223","tel":"0227961683","addr":"臺北市內湖區新明路210號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"下午2：30代售口罩，售完為止"},
+{"lng":"121.584647","lat":"25.057114","name":"仕德安藥局","id":"5901113223","tel":"0227961683","addr":"臺北市內湖區新明路210號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上9：30發放號碼牌，販售口罩時間10am-18pm，逾期取消，名額釋出。"},
 {"lng":"121.590993","lat":"25.081072","name":"大內湖藥局","id":"5901113250","tel":"0227956286","addr":"臺北市內湖區成功路4段12號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"每日早上9:00發放"},
 {"lng":"121.5909","lat":"25.086408","name":"樂齡藥師藥局","id":"5901113269","tel":"0227919707","addr":"臺北市內湖區內湖路3段103號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"如有出訪，會暫時外出"},
 {"lng":"121.56733","lat":"25.083767","name":"喜越藥局","id":"5901113296","tel":"0226271955","addr":"臺北市內湖區內湖路1段285巷59弄7號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
