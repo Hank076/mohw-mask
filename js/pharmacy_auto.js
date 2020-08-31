@@ -717,7 +717,7 @@ locations = [
 {"lng":"120.2917","lat":"22.718438","name":"家安藥局","id":"5902042769","tel":"073600066","addr":"高雄市楠梓區後昌新路13號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"120.34406","lat":"22.644806","name":"明曜藥局","id":"5902050092","tel":"073803807","addr":"高雄市三民區澄和路96號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業日13:30販售口罩當場排隊.當場販售.售完為止"},
 {"lng":"120.310827","lat":"22.644748","name":"杏安藥局","id":"5902050154","tel":"073111606","addr":"高雄市三民區十全一路91 號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業日上午8點半為販賣口罩時間.售完為止"},
-{"lng":"120.335194","lat":"22.643009","name":"瑞鶴藥局","id":"5902050298","tel":"073862757","addr":"高雄市三民區寶德里義德路25號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午2:00至4:00午休勿擾，每日09:00至22:00發售。"},
+{"lng":"120.335194","lat":"22.643009","name":"瑞鶴藥局","id":"5902050298","tel":"073862757","addr":"高雄市三民區寶德里義德路25號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午2:00至4:00午休勿擾，每日10:00至22:00發售。"},
 {"lng":"120.32089","lat":"22.671893","name":"信彰藥師藥局","id":"5902050323","tel":"073422376","addr":"高雄市三民區鼎中路627號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩代售時間自早上9點10分開始現場過卡領買口罩"},
 {"lng":"120.324091","lat":"22.647405","name":"日星藥局","id":"5902050350","tel":"073845188","addr":"高雄市三民區寶龍里惠德街38號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"銷售口罩時間:星期一至五16:00-22:00；星期六09:00-11:30，售完為止"},
 {"lng":"120.300957","lat":"22.647659","name":"安成藥局","id":"5902050378","tel":"073229295","addr":"高雄市三民區察哈爾二街63號","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"AM8:30~11:00領口罩"},
