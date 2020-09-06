@@ -4635,7 +4635,7 @@ locations = [
 {"lng":"120.320841","lat":"23.923739","name":"新鎮安藥局","id":"5937231149","tel":"048986537","addr":"彰化縣芳苑鄉仁愛村斗苑路芳苑段184號1樓","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"周一至周五早上7點賣口罩"},
 {"lng":"120.321953","lat":"23.854427","name":"順順藥局","id":"5937241065","tel":"048946379","addr":"彰化縣大城鄉東城村東平路63－1號","business_week":"OOOOOOOOOOOOXOOOOOOXO","memo":"固定周一至週六08:00開始發放號碼牌並依序販售口罩，售完為止"},
 {"lng":"120.42707","lat":"23.862823","name":"宏吉藥局","id":"5937251105","tel":"048976709","addr":"彰化縣竹塘鄉竹塘村仁愛街50號","business_week":"OOOOOOXOOOOOXXOXXOXXX","memo":"固定周一到周六，早上7:50開始販賣防疫口罩(無發放號碼牌)"},
-{"lng":"120.42594","lat":"23.860806","name":"上明藥局","id":"5937251123","tel":"048970600","addr":"彰化縣竹塘鄉竹塘村竹塘街66號","business_week":"OOOOXOOOOOOXOXXXXXXXX","memo":"有兒童(藍色)平面口罩"},
+{"lng":"120.42594","lat":"23.860806","name":"上明藥局","id":"5937251123","tel":"048970600","addr":"彰化縣竹塘鄉竹塘村竹塘街66號","business_week":"OOOOXOOOOOOXOXXXXXXXX","memo":"有兒童(藍色，粉色)平面口罩"},
 {"lng":"120.42799","lat":"23.860805","name":"竹塘健保藥局","id":"5937251150","tel":"048976180","addr":"彰化縣竹塘鄉竹塘村文化街50號","business_week":"OOOOOOXOOOOOOXXXXXXXX"},
 {"lng":"120.426741","lat":"23.859132","name":"竹塘張藥局","id":"5937251169","tel":"048972216","addr":"彰化縣竹塘鄉中興街56號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"120.494366","lat":"23.851738","name":"呂藥局","id":"5937260033","tel":"048895552","addr":"彰化縣溪州鄉溪州里中興路1號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"7:00開始發放號碼牌，依序販售口罩，售完為止"},
