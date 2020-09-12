@@ -60,7 +60,7 @@ locations = [
 {"lng":"121.554791","lat":"25.040657","name":"延吉大藥局","id":"5901020385","tel":"0227819227","addr":"臺北市大安區延吉街153號1樓","business_week":"OOOOOXXOOOOOXXOOOOXXX","memo":"8:30開始排隊販賣口罩"},
 {"lng":"121.544635","lat":"25.028469","name":"杏友藥局","id":"5901020465","tel":"0227079451","addr":"臺北市大安區復興南路2段151巷25號","business_week":"OOOOOOXOOOOOOOOOOOOXO"},
 {"lng":"121.528509","lat":"25.02271","name":"師大藥局","id":"5901020554","tel":"0223623479","addr":"臺北市大安區師大路99號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
-{"lng":"121.54256","lat":"25.042768","name":"施寶藥局","id":"5901020563","tel":"0227114175","addr":"臺北市大安區安東街50－5號1樓","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"口罩代售時間週一至週五全天.周六周日及公訂例假日公休"},
+{"lng":"121.54256","lat":"25.042768","name":"施寶藥局","id":"5901020563","tel":"0227114175","addr":"臺北市大安區安東街50－5號1樓","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"週一至週五早上九點到下午七點.周六周日及公訂例假日公休"},
 {"lng":"121.532433","lat":"25.018166","name":"燕福藥局","id":"5901020590","tel":"0223627307","addr":"臺北市大安區羅斯福路3段283巷14弄14號之3","business_week":"OOOOOOOXXXXXXXOOOOOOO","memo":"口罩銷售服務時間:19:00開始"},
 {"lng":"121.545445","lat":"25.034014","name":"龍護大藥局","id":"5901020616","tel":"0223250686","addr":"臺北市大安區大安路1段224巷7號1Ｆ","business_week":"OOOOOOOOOOOOOXOOOOOOO"},
 {"lng":"121.546722","lat":"25.03762","name":"新廣生藥局","id":"5901020634","tel":"0227071221","addr":"臺北市大安區仁愛路4段34號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"固定周日公休"},
