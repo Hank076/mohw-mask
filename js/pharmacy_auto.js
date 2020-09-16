@@ -1329,7 +1329,7 @@ locations = [
 {"lng":"120.191471","lat":"22.98331","name":"千越藥局","id":"5905330097","tel":"062910303","addr":"臺南市南區金華路二段247號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週1-6 早上9點-晚上10點 週日休息"},
 {"lng":"120.187945","lat":"22.982048","name":"進祥藥局","id":"5905330113","tel":"062630571","addr":"臺南市南區文南里健康路2段342－1號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.180735","lat":"22.931145","name":"勝一藥局","id":"5905330159","tel":"062626168","addr":"臺南市南區省躬里灣裡路90號1樓","business_week":"OOOOOXOOOOOOXOOOOOOXO","memo":"口罩實名制，時間下午2~4點，週一~五，週日，(週六公休)"},
-{"lng":"120.215031","lat":"22.970609","name":"為美藥局","id":"5905330186","tel":"062679315","addr":"臺南市南區大同路二段558－1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日(週日至周六)早上9:00開始發放號碼牌.依序販售口罩"},
+{"lng":"120.215031","lat":"22.970609","name":"為美藥局","id":"5905330186","tel":"062679315","addr":"臺南市南區大同路二段558－1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日(週日至周六)早上9:00開始販售口罩"},
 {"lng":"120.182356","lat":"22.925663","name":"合樂藥局","id":"5905330220","tel":"062625016","addr":"臺南市南區灣裡路309號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"120.189313","lat":"22.97767","name":"宏祐健保藥局","id":"5905330239","tel":"062632580","addr":"臺南市南區新孝路59號","business_week":"OOOOOOXOOOOOXXOOOOOOX","memo":"周一-週五口罩代售時間15:00，週六10:00:現場排隊"},
 {"lng":"120.213856","lat":"22.975812","name":"太子藥局大同店","id":"5905330275","tel":"062158339","addr":"臺南市南區大同路二段348號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販售時段：星期一至星期日，9:00起至售完為止。"},
