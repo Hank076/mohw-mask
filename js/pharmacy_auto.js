@@ -766,6 +766,7 @@ locations = [
 {"lng":"120.331731","lat":"22.629953","name":"政德藥局","id":"5902080376","tel":"077114371","addr":"高雄市苓雅區正大里武廟路29號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"自5\/01日~5\/31日，營業日0700~開始為販賣口罩時間.售完為止"},
 {"lng":"120.299724","lat":"22.617616","name":"廣德泰藥局","id":"5902080465","tel":"073340769","addr":"高雄市苓雅區苓雅二路76號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上8點30開始販賣口罩，售完為止"},
 {"lng":"120.335649","lat":"22.623034","name":"弘宗藥局","id":"5902080474","tel":"077211088","addr":"高雄市苓雅區武智街2號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"每日於上午08:05開始購買並請耐心排隊。週日販售時間15:00前"},
+{"lng":"120.331959","lat":"22.619578","name":"福海藥局","id":"5902080518","tel":"077618855","addr":"高雄市苓雅區武慶三路58號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上09:10開始代售口罩，現場排隊售完為止，售出不退換。"},
 {"lng":"120.319313","lat":"22.618206","name":"三和藥局","id":"5902080527","tel":"077220808","addr":"高雄市苓雅區廣州二街117號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"營業時間早7:30~晚10:00"},
 {"lng":"120.333188","lat":"22.630646","name":"柏松藥局","id":"5902080545","tel":"077119786","addr":"高雄市苓雅區輔仁路175號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"全日代售口罩! 售完為止!"},
 {"lng":"120.32176","lat":"22.620925","name":"一加藥局","id":"5902080616","tel":"077212748","addr":"高雄市苓雅區和平一路四二號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"09\/01~09\/30 營業日8:00開始販賣口罩"},
