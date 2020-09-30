@@ -807,7 +807,7 @@ locations = [
 {"lng":"120.306017","lat":"22.60221","name":"協和藥局","id":"5902092554","tel":"075377769","addr":"高雄市前鎮區中華五路983號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩代售 除星期天休息 周一至周六早上8.30~晚上8:30。"},
 {"lng":"120.313974","lat":"22.610011","name":"羿昇藥局","id":"5902092572","tel":"073387737","addr":"高雄市前鎮區一心一路492號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"自9\/1日~9\/30日，營業日10:00~12:00為販賣口罩時間 *週日休息*"},
 {"lng":"120.324704","lat":"22.606777","name":"晏昇藥局","id":"5902092643","tel":"077235136","addr":"高雄市前鎮區凱旋三路81號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"口罩代售時間:早上8:00(現場排隊，並同時發放號碼牌與領取口罩)"},
-{"lng":"120.305627","lat":"22.602625","name":"吉昌藥局","id":"5902092787","tel":"073368782","addr":"高雄市前鎮區正勤路100號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業日19:00~21:00為販賣口罩時間.售完為止"},
+{"lng":"120.305627","lat":"22.602625","name":"吉昌藥局","id":"5902092787","tel":"073368782","addr":"高雄市前鎮區正勤路100號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.312779","lat":"22.610048","name":"民權丁丁藥局","id":"5902092887","tel":"079650177","addr":"高雄市前鎮區民權二路345號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩代售時間自09:00;現場排隊"},
 {"lng":"120.334642","lat":"22.609312","name":"廣泰藥局","id":"5902092896","tel":"077162166","addr":"高雄市前鎮區瑞北路56號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"固定周一至周六，依店內公告為準"},
 {"lng":"120.316453","lat":"22.612929","name":"健家藥局","id":"5902092910","tel":"073389986","addr":"高雄市前鎮區二聖二路45號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"早上9:30開始販售口罩，售完為止，週日不販售"},
