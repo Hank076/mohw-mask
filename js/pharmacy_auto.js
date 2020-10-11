@@ -2811,7 +2811,7 @@ locations = [
 {"lng":"121.448094","lat":"25.043428","name":"一心春天藥局","id":"593106A566","tel":"0289929482","addr":"新北市新莊區中和街13號1樓、地下室","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日下午15:30開始販售口罩， 國定假日不休診"},
 {"lng":"121.416782","lat":"25.028934","name":"記安大藥局","id":"593106A584","tel":"0222095331","addr":"新北市新莊區天祥街46號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.449296","lat":"25.037661","name":"全鎵藥局","id":"593106A600","tel":"0222761550","addr":"新北市新莊區建中街22號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
-{"lng":"121.455778","lat":"25.054235","name":"中原藥局","id":"593106A628","tel":"0289920668","addr":"新北市新莊區中原路93號1樓","business_week":"OOXXOOOOOOOOXXOOOOOXX","memo":"營業時間均販售口罩"},
+{"lng":"121.455778","lat":"25.054235","name":"中原藥局","id":"593106A628","tel":"0289920668","addr":"新北市新莊區中原路93號1樓","business_week":"OOXXOOOOOOOOOXOOOOOOX","memo":"營業時間均販售口罩"},
 {"lng":"121.424533","lat":"25.025239","name":"薇妮藥妝藥局","id":"593106A637","tel":"0282010817","addr":"新北市新莊區民安路99號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上9點到晚上9點購買口罩"},
 {"lng":"121.416715","lat":"25.026957","name":"薇妮雙鳳藥局","id":"593106A646","tel":"0229076993","addr":"新北市新莊區雙鳳路21號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.454988","lat":"25.048314","name":"宏福藥局","id":"593106A708","tel":"0229985225","addr":"新北市新莊區自信街55號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時段:上午7:00起至售完為止"},
