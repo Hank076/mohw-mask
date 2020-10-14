@@ -3875,7 +3875,7 @@ locations = [
 {"lng":"121.821408","lat":"24.853998","name":"杏元藥局","id":"5934041125","tel":"039772700","addr":"宜蘭縣頭城鎮新興路16號","business_week":"OOOOOOOOOOOOXXOOOOOOO"},
 {"lng":"121.823732","lat":"24.85796","name":"頭城藥局","id":"5934041161","tel":"039770618","addr":"宜蘭縣頭城鎮開蘭路134號","business_week":"OOOOOOXOOOOOXXOOOOOXO","memo":"星期一至星期五  代售口罩時間  晚上7:00-9:00  星期六代售時間早上10:00-12:00  109.10.01口罩提早換發16:00-18:00"},
 {"lng":"121.820782","lat":"24.857103","name":"永仁藥局","id":"5934041170","tel":"039789788","addr":"宜蘭縣頭城鎮吉祥路88巷25號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"口罩發放 星期一至六早上07:30"},
-{"lng":"121.824948","lat":"24.86016","name":"晴天藥局","id":"5934041205","tel":"039789121","addr":"宜蘭縣頭城鎮開蘭路181號","business_week":"OOOOOOOXXXXXXXOOXOOXX","memo":"口罩代售時間：周一到六上午9:30-11:30(現場排隊)、其餘時間無販售"},
+{"lng":"121.824948","lat":"24.86016","name":"晴天藥局","id":"5934041205","tel":"039789121","addr":"宜蘭縣頭城鎮開蘭路181號","business_week":"OOOOOOOXXXXXXXOOXOOXX"},
 {"lng":"121.76953","lat":"24.818718","name":"和風藥局","id":"5934051149","tel":"039883511","addr":"宜蘭縣礁溪鄉中山路1段69號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.771735","lat":"24.824155","name":"岩峰藥局","id":"5934051167","tel":"039887542","addr":"宜蘭縣礁溪鄉中山路2段21號2樓","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"上班時間內"},
 {"lng":"121.761171","lat":"24.784166","name":"廣福藥師藥局","id":"5934051229","tel":"039285887","addr":"宜蘭縣礁溪鄉礁溪路1段66號","business_week":"OXOOOOOOXOOOOXOXOOOXX","memo":"星期1.3.4.5 PM1:30-21:00星期六PM1:30-17:00，日AM10-12點賣口罩星期二公休"},
