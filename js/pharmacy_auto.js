@@ -1786,7 +1786,7 @@ locations = [
 {"lng":"120.977136","lat":"24.807705","name":"安康藥局","id":"5912012746","tel":"035437048","addr":"新竹市東區民族路112號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"口罩代售時段 : 早上 8:00至晚上8:00。"},
 {"lng":"120.968362","lat":"24.796624","name":"博弘藥局","id":"5912012773","tel":"035619470","addr":"新竹市東區南大路387號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販售時間(平日)下午15:00起至售完為止(假日)上午8:00起至售完為止"},
 {"lng":"121.015682","lat":"24.784191","name":"佑信大藥局","id":"5912012862","tel":"036663578","addr":"新竹市東區新莊里光復路一段362─13號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販售時段:AM9:00~AM12:00"},
-{"lng":"121.022384","lat":"24.781722","name":"金佑信藥局","id":"5912012924","tel":"036663185","addr":"新竹市東區光復路一段176號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩協辦時間:早上9點到中午12點"},
+{"lng":"121.022384","lat":"24.781722","name":"金佑信藥局","id":"5912012924","tel":"036663185","addr":"新竹市東區光復路一段176號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.969521","lat":"24.797636","name":"新芳鄰藥局","id":"5912012933","tel":"035622183","addr":"新竹市東區南大路402號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"口罩發放禮拜1-5八點半，禮拜六下午兩點，禮拜天休息"},
 {"lng":"120.965474","lat":"24.80234","name":"澄清藥局","id":"5912012942","tel":"035246942","addr":"新竹市東區西大路374號1樓","business_week":"OOOOOOXXXXXXXXXXXXXXX","memo":"販賣時段 : 週一至週六0800--1200，週日休息"},
 {"lng":"121.013479","lat":"24.783841","name":"杏康健保特約藥局","id":"5912012988","tel":"035772966","addr":"新竹市東區光復路一段525巷23號1樓","business_week":"OOOOOXOOOOOOXOOOOOOXO","memo":"09:00-21:00賣口罩 (週六公休)"},
