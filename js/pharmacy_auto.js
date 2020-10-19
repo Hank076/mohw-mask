@@ -4556,7 +4556,6 @@ locations = [
 {"lng":"120.679846","lat":"23.758999","name":"大明藥局","id":"5938041863","tel":"0492652500","addr":"南投縣竹山鎮大明路482號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時段：14:00 - 16:00"},
 {"lng":"120.685767","lat":"23.759992","name":"優適藥局","id":"5938041872","tel":"0492630355","addr":"南投縣竹山鎮大明路149－5號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販售時間：每日早上9:30分至晚上8:30分，售完為止。全年無休~"},
 {"lng":"120.683435","lat":"23.757372","name":"明仁藥局","id":"5938041881","tel":"0492659650","addr":"南投縣竹山鎮集山路三段948－2號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"防疫口罩販售時間：每日上午9時至12時"},
-{"lng":"120.724045","lat":"23.81734","name":"順方藥局","id":"5938041890","tel":"0492623188","addr":"南投縣竹山鎮田中巷58號","business_week":"OOOOOOXOOOXOXXXXXXXXX"},
 {"lng":"120.779007","lat":"23.826739","name":"家禾藥局","id":"5938050120","tel":"0492760565","addr":"南投縣集集鎮民生路237號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩代售：w1~w6 上午 9：00"},
 {"lng":"120.788131","lat":"23.828966","name":"省安藥局","id":"5938050139","tel":"0492763442","addr":"南投縣集集鎮民生路31號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週一至週六營業時間上午9點開始販售口罩"},
 {"lng":"120.702312","lat":"23.837585","name":"奇藥局","id":"5938061249","tel":"0492732678","addr":"南投縣名間鄉南雅村102號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"代售口罩時段：週一到週五：早上9點~10點，晚上7點~8點。(其餘時段，不予代售)"},
