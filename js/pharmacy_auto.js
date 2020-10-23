@@ -3301,7 +3301,7 @@ locations = [
 {"lng":"121.250205","lat":"24.928402","name":"新元藥局","id":"5932020459","tel":"034563356","addr":"桃園市中壢區龍平里龍東路44號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"口罩販賣時段：每週一至週六上午10點開始"},
 {"lng":"121.258513","lat":"24.97432","name":"禾安藥局","id":"5932020502","tel":"034627066","addr":"桃園市中壢區福德路52號1F","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩代售時間自13:00起"},
 {"lng":"121.216159","lat":"24.958476","name":"生富藥師藥局","id":"5932020548","tel":"034941475","addr":"桃園市中壢區新明里中央西路二段76號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時段：早上7:30後"},
-{"lng":"121.21708","lat":"24.955503","name":"國泰藥局","id":"5932020575","tel":"034937136","addr":"桃園市中壢區中正路342號","business_week":"OOOOOOXXXXXXXXXXXXXXX","memo":"口罩販賣時段：早上7:30至12:00、國定假日、周日停售口罩"},
+{"lng":"121.21708","lat":"24.955503","name":"國泰藥局","id":"5932020575","tel":"034937136","addr":"桃園市中壢區中正路342號","business_week":"OOOOOOXXXXXXXXXXXXXXX"},
 {"lng":"121.250762","lat":"24.979176","name":"崧德堂藥局","id":"5932020691","tel":"034555035","addr":"桃園市中壢區文化路362號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時段：早上08：30 現場排隊領取"},
 {"lng":"121.22681","lat":"24.965855","name":"成星藥局","id":"5932020717","tel":"034528435","addr":"桃園市中壢區水尾里環北路437號","business_week":"OOXOOOXOOXOOOXOOXOOXX","memo":"口罩販賣時段:12:30-14:30"},
 {"lng":"121.259607","lat":"24.97602","name":"立昇藥局","id":"5932020753","tel":"034557032","addr":"桃園市中壢區成功里成功路123號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時段：13:00-販售 ， 售完為止"},
