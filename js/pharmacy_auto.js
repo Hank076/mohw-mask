@@ -3910,7 +3910,7 @@ locations = [
 {"lng":"120.653159","lat":"24.441045","name":"德徽藥局","id":"5935021207","tel":"037869253","addr":"苗栗縣苑裡鎮南興路125號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩發售時間:星期一~六早上9:00~售完為止"},
 {"lng":"120.65524","lat":"24.440862","name":"永信藥師藥局","id":"5935021261","tel":"037857069","addr":"苗栗縣苑裡鎮新生路35號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週一至週日    口罩全日販售"},
 {"lng":"120.653964","lat":"24.440844","name":"全家藥局","id":"5935021270","tel":"037861997","addr":"苗栗縣苑裡鎮信義路23之1號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩販賣時段：08:30-售完。星期六有時候是半天"},
-{"lng":"120.654612","lat":"24.446119","name":"國豐藥師藥局","id":"5935021323","tel":"037866516","addr":"苗栗縣苑裡鎮苑北里2鄰天下路186號","business_week":"XXXXXXXOOOOOOOOOOOOOO","memo":"實名制口罩販售時間13-15點 其餘時間無販售"},
+{"lng":"120.654612","lat":"24.446119","name":"國豐藥師藥局","id":"5935021323","tel":"037866516","addr":"苗栗縣苑裡鎮苑北里2鄰天下路186號","business_week":"XXXXXXXOOOOOOOOOOOOOO"},
 {"lng":"120.65408","lat":"24.440146","name":"安康藥局","id":"5935021403","tel":"037856591","addr":"苗栗縣苑裡鎮新興路78號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"口罩販賣時段：2\/9~2\/16休息(有貼公告)週一~週六 9:00~售完\/營業週一~五：8-12，15-20；週六：8-12，請先來電洽詢"},
 {"lng":"120.65397","lat":"24.442519","name":"信和大心藥局","id":"5935021412","tel":"037861352","addr":"苗栗縣苑裡鎮為公路34－3號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上八點開始販售~~售完為止"},
 {"lng":"120.656103","lat":"24.440709","name":"苑裡啄木鳥藥局","id":"5935021421","tel":"037854589","addr":"苗栗縣苑裡鎮世界路一段25號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
