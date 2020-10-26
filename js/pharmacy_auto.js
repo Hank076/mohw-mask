@@ -43,7 +43,7 @@ locations = [
 {"lng":"121.563947","lat":"25.049197","name":"啄木鳥藥局","id":"5901013362","tel":"0227422413","addr":"臺北市松山區八德路4段209號、211號（1、2層）","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.575529","lat":"25.050178","name":"玖田藥局","id":"5901013371","tel":"0227666578","addr":"臺北市松山區八德路4段655號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩(週一到週日)營業時間販售；Line：@ahh3248m 協助預購或可購日查詢"},
 {"lng":"121.569309","lat":"25.051077","name":"一安正昇藥局","id":"5901013399","tel":"0227680993","addr":"臺北市松山區南京東路5段309號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
-{"lng":"121.553504","lat":"25.046075","name":"杏一延吉藥局","id":"5901013433","tel":"0225798450","addr":"臺北市松山區延吉街32號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"國定假日有提供藥事服務， 週一到週六中午12:00-15:00可買實名制口罩， 周日停售"},
+{"lng":"121.553504","lat":"25.046075","name":"杏一延吉藥局","id":"5901013433","tel":"0225798450","addr":"臺北市松山區延吉街32號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"國定假日有提供藥事服務， 實名制口罩:週一到週六12:00-15:00， 週日停售"},
 {"lng":"121.54657","lat":"25.048043","name":"松山八德藥局","id":"5901013442","tel":"0227782773","addr":"臺北市松山區八德路2段400號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時段：14:00 - 16:00"},
 {"lng":"121.577035","lat":"25.050743","name":"新德大藥局","id":"5901013451","tel":"0227673402","addr":"臺北市松山區饒河街204號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.56597","lat":"25.057162","name":"光點延新藥局","id":"5901013460","tel":"0227667795","addr":"臺北市松山區延壽街101號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩每日 早上9點 & 晚上9點  各發一次 ; 週日不販售"},
