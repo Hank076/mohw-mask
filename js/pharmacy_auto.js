@@ -1232,7 +1232,7 @@ locations = [
 {"lng":"120.251942","lat":"22.970621","name":"大樹仁德藥局","id":"5905270176","tel":"062797466","addr":"臺南市仁德區中正路二段1152號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時段：14:00 - 16:00"},
 {"lng":"120.251565","lat":"22.971898","name":"朝伯藥局","id":"5905270185","tel":"062796655","addr":"臺南市仁德區中正路三段1號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"配合防疫口罩販售時間：依藥局的營業時間"},
 {"lng":"120.291832","lat":"22.967846","name":"安新藥局","id":"5905280010","tel":"063306008","addr":"臺南市歸仁區民族北街17巷14號","business_week":"OOOXOOXOOOXOOXOXOXOXX","memo":"販售口罩時間: 週一三五15:00~  \/ 週二四六09:00~"},
-{"lng":"120.278786","lat":"22.952386","name":"獅甲藥局","id":"5905280047","tel":"063388387","addr":"臺南市歸仁區六甲里六甲路203號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日早上7:50開始"},
+{"lng":"120.278786","lat":"22.952386","name":"獅甲藥局","id":"5905280047","tel":"063388387","addr":"臺南市歸仁區六甲里六甲路203號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"每日早上7:50開始"},
 {"lng":"120.288788","lat":"22.967208","name":"元康保健藥局","id":"5905280092","tel":"062309055","addr":"臺南市歸仁區中山路二段229號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"販售時間下午1點開始至售完.星期日無販售口罩"},
 {"lng":"120.28744","lat":"22.967624","name":"大樹青青藥局","id":"5905280109","tel":"062300301","addr":"臺南市歸仁區中山路三段12號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時段：14:00 - 16:00"},
 {"lng":"120.287899","lat":"22.969242","name":"義德藥局歸仁店","id":"5905280127","tel":"062300399","addr":"臺南市歸仁區民權北路75號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間8:30-12:00，16:00-21:00。六日到20:00"},
