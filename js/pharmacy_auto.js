@@ -1702,7 +1702,7 @@ locations = [
 {"lng":"121.765353","lat":"25.127574","name":"永霖藥局","id":"5911071170","tel":"0224680858","addr":"基隆市信義區東信路67號","business_week":"OOOOOOXOOOOOOXXXXXXXX","memo":"10\/9 10\/10只有上午班"},
 {"lng":"121.749052","lat":"25.128865","name":"祐康藥局","id":"5911071376","tel":"0224279521","addr":"基隆市信義區信一路115號1樓","business_week":"OOOOOOOXXXXXXXOOOOOXX","memo":"防疫口罩星期一~星期六早上8點~10點現場排隊售完為止"},
 {"lng":"121.747715","lat":"25.130153","name":"家安藥師藥局","id":"5911071447","tel":"0224223917","addr":"基隆市信義區信二路257、259號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
-{"lng":"121.773894","lat":"25.136619","name":"深美藥局","id":"5911071456","tel":"0224685728","addr":"基隆市信義區深澳坑路1－58號","business_week":"OOOOOXOOOOOOXXOOOOOXX","memo":"週一至五於全天販賣口罩；週日09:00-12:00"},
+{"lng":"121.773894","lat":"25.136619","name":"深美藥局","id":"5911071456","tel":"0224685728","addr":"基隆市信義區深澳坑路1－58號","business_week":"OOOOOXOOOOOOXXOOOOOXX","memo":"週一至五於11:00~19:00販賣口罩；週日09:00-12:00"},
 {"lng":"121.761421","lat":"25.127574","name":"蘋果藥局","id":"5911071483","tel":"0224685158","addr":"基隆市信義區東明路97號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.782695","lat":"25.133745","name":"小不點健保藥局","id":"5911071536","tel":"0224683985","addr":"基隆市信義區深溪路126號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"121.782547","lat":"25.134806","name":"元登藥局","id":"5911071572","tel":"0224663826","addr":"基隆市信義區深溪路149號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
