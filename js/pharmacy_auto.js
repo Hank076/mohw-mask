@@ -3993,7 +3993,7 @@ locations = [
 {"lng":"120.626986","lat":"24.106191","name":"烏日福倫藥局","id":"5936151419","tel":"0423360318","addr":"臺中市烏日區中山路2段112號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"AM0800~PM0800，星期日不販售防疫口罩"},
 {"lng":"120.622054","lat":"24.107537","name":"上齊健保藥局","id":"5936151455","tel":"0423380876","addr":"臺中市烏日區三民街157號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週一至週五上午10點開始代售防疫口罩，週六週日不售口罩。"},
 {"lng":"120.54292","lat":"24.16452","name":"彰益藥局","id":"5936160070","tel":"0426991255","addr":"臺中市大肚區沙田路三段564號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"口罩週一到週六，8點開賣"},
-{"lng":"120.580729","lat":"24.172649","name":"建昌藥局","id":"5936160105","tel":"0426910357","addr":"臺中市大肚區蔗廓里遊園路二段168號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一至週日，早上8點開始換發口罩至庫存歸零"},
+{"lng":"120.580729","lat":"24.172649","name":"建昌藥局","id":"5936160105","tel":"0426910357","addr":"臺中市大肚區蔗廓里遊園路二段168號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一至週日，早上8點開始販售口罩至庫存歸零"},
 {"lng":"120.544998","lat":"24.153092","name":"大佶安藥局","id":"5936160132","tel":"0426992453","addr":"臺中市大肚區頂街里沙田路二段734號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"現場領口罩(週一到週日早上7:30~晚上9:30)"},
 {"lng":"120.564715","lat":"24.123462","name":"大吉興藥局","id":"5936161264","tel":"0426938422","addr":"臺中市大肚區沙田路一段452－1號","business_week":"OOOOOOXOOOOOOXXXXXXXX"},
 {"lng":"120.546124","lat":"24.191299","name":"葆信藥局","id":"5936170094","tel":"0426352782","addr":"臺中市龍井區沙田路四段600號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販售:星期一~星期六 08:00 開始;現場排隊"},
