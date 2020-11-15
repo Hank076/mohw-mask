@@ -3129,7 +3129,7 @@ locations = [
 {"lng":"121.315796","lat":"24.992651","name":"正安藥局","id":"5932011692","tel":"033329461","addr":"桃園市桃園區東山里安東街58號","business_week":"OOOOOOOOOOOOXOOOOOOXX","memo":"口罩販賣時段：09:00起 售完為止"},
 {"lng":"121.303193","lat":"24.990304","name":"中山藥局","id":"5932011772","tel":"033346614","addr":"桃園市桃園區玉山里復興路369號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時間：11:00起，售完為止"},
 {"lng":"121.298567","lat":"25.001808","name":"永祥大藥局","id":"5932011870","tel":"033337161","addr":"桃園市桃園區永安路528號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩販賣時段：週一至週六早上9點"},
-{"lng":"121.311593","lat":"24.997472","name":"健安藥局","id":"5932011898","tel":"033344624","addr":"桃園市桃園區北門里民生路295號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"口罩販賣時段：週一至週六上午9:00開始販售....售完為止"},
+{"lng":"121.311593","lat":"24.997472","name":"健安藥局","id":"5932011898","tel":"033344624","addr":"桃園市桃園區北門里民生路295號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時段：上午9:00開始販售....售完為止"},
 {"lng":"121.301893","lat":"24.99905","name":"長鴻藥師藥局","id":"5932012359","tel":"033324728","addr":"桃園市桃園區中興里永安路277之5號","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"口罩販賣時段：一到六，早上9:00售完為止，週日下午1:00售完為止"},
 {"lng":"121.297478","lat":"25.018982","name":"聖昌藥師藥局","id":"5932012402","tel":"033266654","addr":"桃園市桃園區莊敬里中正路1238號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩販賣時段:早上8:00開始，售完為止 星期日店休"},
 {"lng":"121.314141","lat":"24.985368","name":"吉生藥局","id":"5932012493","tel":"033626220","addr":"桃園市桃園區延平路32號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
