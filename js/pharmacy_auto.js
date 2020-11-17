@@ -1131,7 +1131,7 @@ locations = [
 {"lng":"120.72552","lat":"24.158926","name":"西德藥局","id":"5903291015","tel":"0424366711","addr":"臺中市北屯區太順路80號1樓","business_week":"OXOXOOXOOOOOXXOOOOOXX","memo":"防疫口罩每日下午4時開始販售 星期六早上9-12點"},
 {"lng":"120.700446","lat":"24.179127","name":"全成北屯藥局","id":"5903291042","tel":"0422463518","addr":"臺中市北屯區北屯路439－11號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"防疫口罩每日8:30開始販售"},
 {"lng":"120.316588","lat":"23.307358","name":"永麗藥師藥局","id":"5905010018","tel":"066377898","addr":"臺南市新營區三民路76之10號","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"上午8:30~11:00;下午2:30~5:00;晚上6:30~9:00現場排隊販售口罩，無發放號碼牌."},
-{"lng":"120.313914","lat":"23.30236","name":"大安藥局","id":"5905010027","tel":"066322366","addr":"臺南市新營區中山路257號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩代售時間9AM-12PM；5PM-7PM；現場排隊"},
+{"lng":"120.313914","lat":"23.30236","name":"大安藥局","id":"5905010027","tel":"066322366","addr":"臺南市新營區中山路257號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩代售時間9AM-12PM；現場排隊"},
 {"lng":"120.311956","lat":"23.309891","name":"橘子藥局","id":"5905010036","tel":"066351881","addr":"臺南市新營區民權路118之2號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"[口罩販售]週一至週五09:00-19:00，週六10:00-12:00，週日公休!，國定假日09:00-17:00"},
 {"lng":"120.304815","lat":"23.30861","name":"松柏藥局","id":"5905010063","tel":"066590063","addr":"臺南市新營區新南里新北街1號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"販賣口罩時間同固定看診時段"},
 {"lng":"120.314554","lat":"23.30286","name":"長壽藥局","id":"5905010072","tel":"066324001","addr":"臺南市新營區中山路219號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販售時間：8:00~售完"},
