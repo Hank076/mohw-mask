@@ -2851,7 +2851,7 @@ locations = [
 {"lng":"121.441306","lat":"25.174802","name":"聖天藥局","id":"5931101704","tel":"0226215677","addr":"新北市淡水區重建街218號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩代售時間自9:00-11:00(其他時間不販售) 現場排隊 星期日休息"},
 {"lng":"121.4464927","lat":"25.1831857","name":"優德仕藥局","id":"5931101919","tel":"0226236573","addr":"新北市淡水區新市一路3段103號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩代售時間自11:00~22:00"},
 {"lng":"121.442279","lat":"25.17631","name":"文川藥局","id":"5931101937","tel":"0286319033","addr":"新北市淡水區中山北路1段93號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"販售防疫口罩時間8:30-12:00，15:00-18:00，18:30-21:30"},
-{"lng":"121.440112","lat":"25.182297","name":"伯宇藥局","id":"5931101955","tel":"0226236006","addr":"新北市淡水區新春街103號－8","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"雙鋼印口罩全天販售.售完為止"},
+{"lng":"121.440112","lat":"25.182297","name":"伯宇藥局","id":"5931101955","tel":"0226236006","addr":"新北市淡水區新春街103號－8","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"雙鋼印口罩全天販售.售完為止"},
 {"lng":"121.441658","lat":"25.175104","name":"良順藥局","id":"5931101973","tel":"0226218111","addr":"新北市淡水區中山北路1段24號1樓","business_week":"OOOOOOXOOOOOOOOOOOOOO"},
 {"lng":"121.441637","lat":"25.175519","name":"淡水春天生活藥局","id":"5931101991","tel":"0226257059","addr":"新北市淡水區中山北路1段49號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"15:10發號碼牌，15:30販售口罩"},
 {"lng":"121.461734","lat":"25.137807","name":"躍獅竹圍藥局","id":"5931102078","tel":"0228090565","addr":"新北市淡水區民生路46號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上9點販售口罩"},
