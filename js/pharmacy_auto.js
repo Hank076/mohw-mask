@@ -392,7 +392,7 @@ locations = [
 {"lng":"121.515354","lat":"25.114229","name":"康賢藥局","id":"5901162780","tel":"0228219295","addr":"臺北市北投區西安街1段359號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"週一至週五下午1:30-3:30發售口罩，週六、週日不發售口罩。"},
 {"lng":"121.503295","lat":"25.135663","name":"大家藥局","id":"5901162806","tel":"0228959000","addr":"臺北市北投區光明路182號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.525833","lat":"25.123592","name":"維康藥局","id":"5901162833","tel":"0228206343","addr":"臺北市北投區石牌路2段191．193號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩發放時間為每日下午3點排隊，現場購賣"},
-{"lng":"121.501704","lat":"25.130443","name":"杏嘉藥局","id":"5901162879","tel":"0228982340","addr":"臺北市北投區清江路68號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上9點-晚上9:30販售口罩，售完為止"},
+{"lng":"121.501704","lat":"25.130443","name":"杏嘉藥局","id":"5901162879","tel":"0228982340","addr":"臺北市北投區清江路68號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"販售實名制口罩時間為星期一到星期六早上9點-中午12點"},
 {"lng":"121.514979","lat":"25.112622","name":"小豬藥局","id":"5901163107","tel":"0228217099","addr":"臺北市北投區石牌路1段166巷83號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.518327","lat":"25.118676","name":"石牌健康人生藥局","id":"5901163152","tel":"0228225169","addr":"臺北市北投區石牌路2段187號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"防疫口罩大人.小孩代售時間:星期一~星期六(下午2點~4點)"},
 {"lng":"121.501195","lat":"25.130151","name":"鴻恩藥局","id":"5901163214","tel":"0228926410","addr":"臺北市北投區中央南路1段129號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩代售時間自09:00 ，現場排隊"},
