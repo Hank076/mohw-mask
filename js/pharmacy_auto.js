@@ -2400,7 +2400,7 @@ locations = [
 {"lng":"121.490632","lat":"25.068935","name":"欽勝藥局","id":"5931024971","tel":"0229857389","addr":"新北市三重區重陽路4段6號2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.487187","lat":"25.081935","name":"慈惠藥局","id":"5931025110","tel":"0222809009","addr":"新北市三重區仁愛街516號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.498668","lat":"25.066304","name":"小林健保藥局","id":"5931025174","tel":"0229763895","addr":"新北市三重區文化北路61－1號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"上午09:00開始販售防疫口罩，售完為止。"},
-{"lng":"121.488645","lat":"25.051306","name":"榮康藥局","id":"5931025192","tel":"0229772723","addr":"新北市三重區成功路81號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩發售時間:星期一~星期六中午12:00~晚上9:30"},
+{"lng":"121.488645","lat":"25.051306","name":"榮康藥局","id":"5931025192","tel":"0229772723","addr":"新北市三重區成功路81號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.495344","lat":"25.071993","name":"祐銘藥局","id":"5931025236","tel":"0229769001","addr":"新北市三重區龍門路22號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"10\/10上午營業，下午晚上休息"},
 {"lng":"121.48131","lat":"25.079858","name":"黎明藥師藥局","id":"5931025245","tel":"0282870958","addr":"新北市三重區三和路4段227號1樓","business_week":"XXXXXXXOOOOOOXOOOOOOX"},
 {"lng":"121.483747","lat":"25.077639","name":"仁愛健保藥局","id":"5931025254","tel":"0222805160","addr":"新北市三重區力行路2段153號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"有口罩庫存時，全時段販售"},
