@@ -2556,6 +2556,7 @@ locations = [
 {"lng":"121.513557","lat":"25.003594","name":"和欣泰藥局","id":"5931044508","tel":"0229290867","addr":"新北市中和區永貞路223號1樓","business_week":"OOOOOOOOOOOOXXOOOOOXO","memo":"藥局營業時間內都可購買"},
 {"lng":"121.474487","lat":"25.005965","name":"中和環球藥局","id":"5931044571","tel":"0222211812","addr":"新北市中和區中山路3段121號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"防疫口罩販售時間早上8點至晚上21點止"},
 {"lng":"121.509515","lat":"24.990248","name":"躍獅天晴藥局","id":"5931044580","tel":"0229491931","addr":"新北市中和區和平街9號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"販賣口罩起迄時間 ：0900~2200"},
+{"lng":"121.501306","lat":"24.995449","name":"成合藥局","id":"5931044599","tel":"222483605","addr":"新北市中和區景平路429之2號1樓","business_week":"OOOOOOOXXXXXXXOOOOOOO","memo":"11月休7\/8\/21\/22四天;因口罩服務藥師請病假，防疫口罩暫停服務一個月"},
 {"lng":"121.502162","lat":"24.998822","name":"安泰大藥局","id":"5931044615","tel":"0282459423","addr":"新北市中和區南山路35號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"上午8:15開始販售防疫口罩"},
 {"lng":"121.510917","lat":"24.99733","name":"奕采藥局","id":"5931044624","tel":"0229429770","addr":"新北市中和區宜安路77號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一~週六10:00~18:00販售口罩(週日停售)"},
 {"lng":"121.513268","lat":"25.00397","name":"貞心藥局","id":"5931044642","tel":"0229203865","addr":"新北市中和區永貞路280之1號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"領口罩時間為下午一點"},
