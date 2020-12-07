@@ -2510,7 +2510,7 @@ locations = [
 {"lng":"121.517352","lat":"24.992243","name":"上元藥局","id":"5931042728","tel":"0229408050","addr":"新北市中和區景平路160號2樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"口罩代售時間自15:00至17:00；現場排隊"},
 {"lng":"121.468993","lat":"25.001575","name":"民德藥局","id":"5931042808","tel":"0289514746","addr":"新北市中和區民德路61－1號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週一到週六下午3點15開始現場排隊販售口罩，售完為止(日無販賣)"},
 {"lng":"121.481143","lat":"25.002371","name":"家嘉藥局","id":"5931042817","tel":"0282281388","addr":"新北市中和區員山路377號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日9點開賣口罩，免排隊。"},
-{"lng":"121.482175","lat":"24.995565","name":"正陽藥師藥局","id":"5931042853","tel":"0282287336","addr":"新北市中和區連城路354號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"早上9點販售實名制口罩"},
+{"lng":"121.482175","lat":"24.995565","name":"正陽藥師藥局","id":"5931042853","tel":"0282287336","addr":"新北市中和區連城路354號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.468982","lat":"25.00219","name":"家家藥局","id":"5931042899","tel":"0229587512","addr":"新北市中和區民德路43號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩每日09:00憑健保卡領取。實際領取資格以讀健保卡判別主。若有剩餘量星期天仍會繼續販售。"},
 {"lng":"121.505156","lat":"25.002767","name":"藥安藥局","id":"5931043047","tel":"0222447066","addr":"新北市中和區廣福路16號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期日公休"},
 {"lng":"121.512732","lat":"25.003047","name":"育新藥局","id":"5931043109","tel":"0229283479","addr":"新北市中和區中安街40巷6號","business_week":"OOOXOOXOOXXOOXOOXXOOX","memo":"週一、二、三、五、六早上八點開始販售，售完為止(四、日無販賣)"},
