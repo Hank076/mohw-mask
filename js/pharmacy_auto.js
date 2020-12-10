@@ -2556,7 +2556,7 @@ locations = [
 {"lng":"121.526325","lat":"24.995032","name":"禾心藥局","id":"5931044820","tel":"0286688922","addr":"新北市中和區秀朗路3段64號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩每日下午三點發放號碼牌，請依序在外排隊"},
 {"lng":"121.501893","lat":"24.990196","name":"和霖生活藥局","id":"5931044848","tel":"0222458227","addr":"新北市中和區復興路289號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時段:上午9:00至下午22:00"},
 {"lng":"121.510907","lat":"24.998622","name":"誼安健業藥局","id":"5931044875","tel":"0286600058","addr":"新北市中和區宜安路118巷20號1樓","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"國定假日和星期日早上休息 ，早上9點發口罩"},
-{"lng":"121.499205","lat":"25.004404","name":"壹品藥局","id":"5931044884","tel":"0222481818","addr":"新北市中和區福祥路55號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩號碼牌發放時間自14:30;口罩販售時間自14:30開始"},
+{"lng":"121.499205","lat":"25.004404","name":"壹品藥局","id":"5931044884","tel":"0222481818","addr":"新北市中和區福祥路55號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩隨時賣"},
 {"lng":"121.498185","lat":"25.001616","name":"芳碩藥局","id":"5931044928","tel":"0282458816","addr":"新北市中和區連城路47巷2號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.502408","lat":"24.995671","name":"安騏生活藥局","id":"5931044955","tel":"0222445130","addr":"新北市中和區南華路15號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.522608","lat":"24.9928","name":"佳禾藥局","id":"5931044973","tel":"0229428989","addr":"新北市中和區自立路32號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
