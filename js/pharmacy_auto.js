@@ -1443,7 +1443,7 @@ locations = [
 {"lng":"120.281401","lat":"22.624191","name":"宏光藥局","id":"5907280027","tel":"075211299","addr":"高雄市鹽埕區七賢三路92號一樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間: 11:00~21:00 (口罩代售時間15:00-21:00)"},
 {"lng":"120.2979","lat":"22.665068","name":"明倫藥局","id":"5907290023","tel":"075520736","addr":"高雄市鼓山區明倫路150號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午2:30開始販售口罩"},
 {"lng":"120.294038","lat":"22.660511","name":"新高橋藥局裕明店","id":"5907290050","tel":"075224680","addr":"高雄市鼓山區裕誠路1680號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
-{"lng":"120.292275","lat":"22.670878","name":"康喜藥局","id":"5907290103","tel":"075550060","addr":"高雄市鼓山區華榮路607號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期一至星期六早上9:00~22:00周日公休"},
+{"lng":"120.292275","lat":"22.670878","name":"康喜藥局","id":"5907290103","tel":"075550060","addr":"高雄市鼓山區華榮路607號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"營業時間星期一至星期六早上9:00~22:00，周日公休"},
 {"lng":"120.296738","lat":"22.666163","name":"新高橋藥局華榮店","id":"5907290112","tel":"075534727","addr":"高雄市鼓山區華榮路287號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午2:30開始販售口罩"},
 {"lng":"120.288891","lat":"22.665381","name":"美館久億藥局","id":"5907290158","tel":"075227762","addr":"高雄市鼓山區美術東二路245、247號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"星期一~星期六10:00開始販賣口罩.售完為止"},
 {"lng":"120.278761","lat":"22.655916","name":"為安藥局","id":"5907290176","tel":"075212912","addr":"高雄市鼓山區九如四路959號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"口罩販賣時間：星期一至星期六下午13:30開始，賣完為止"},
