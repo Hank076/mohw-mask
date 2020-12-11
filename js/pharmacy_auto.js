@@ -1842,7 +1842,7 @@ locations = [
 {"lng":"120.674626","lat":"24.171382","name":"匯平藥局","id":"5917051010","tel":"0422975556","addr":"臺中市北區北平路二段82號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"上午10時開始發號碼牌，中午12時開始領口罩"},
 {"lng":"120.665517","lat":"24.160546","name":"育光中西藥局","id":"5917051056","tel":"0422037520","addr":"臺中市北區健行里梅亭街660號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"上午9時開始發號碼牌(週日發放時間請電話洽詢)"},
 {"lng":"120.675817","lat":"24.168914","name":"格霖大藥局","id":"5917051449","tel":"0422925076","addr":"臺中市北區山西路二段70號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上10點-晚上9點"},
-{"lng":"120.684128","lat":"24.166839","name":"展弘藥局","id":"5917052713","tel":"0422307388","addr":"臺中市北區漢口路4段380號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩販售週一至週六9:00-12:00 14:30-21:30視現場領藥機動調整"},
+{"lng":"120.684128","lat":"24.166839","name":"展弘藥局","id":"5917052713","tel":"0422307388","addr":"臺中市北區漢口路4段380號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.694128","lat":"24.160909","name":"盈佑藥局","id":"5917052928","tel":"0422376737","addr":"臺中市北區進化路639號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"週一至週五上午9點到下午9點賣口罩 下午12~15點休息週六下午晚上都休息"},
 {"lng":"120.678425","lat":"24.169436","name":"康諾得藥局","id":"5917052955","tel":"0422923037","addr":"臺中市北區梅川西路4段163號1樓","business_week":"OOOOOOOOOOOOOXXXXXXXX","memo":"口罩販售 週一至週六AM 09:00 到PM 17:00"},
 {"lng":"120.682364","lat":"24.167185","name":"漢口鹿藥局","id":"5917053078","tel":"0422355918","addr":"臺中市北區漢口路四段355號","business_week":"OOOXOOOOOOXOOXOOOXOXO","memo":"早上8:30點開始販售"},
