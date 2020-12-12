@@ -589,7 +589,7 @@ locations = [
 {"lng":"121.544663","lat":"24.993464","name":"健安藥局","id":"5901203179","tel":"0229323757","addr":"臺北市文山區景興路165號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"營業時間08:30-21:30"},
 {"lng":"121.538756","lat":"25.001973","name":"逸全生活藥局","id":"5901203188","tel":"0229326185","addr":"臺北市文山區羅斯福路5段222號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.556874","lat":"24.99958","name":"躍獅新芳藥局","id":"5901203204","tel":"0229308172","addr":"臺北市文山區興隆路3段16號（實際營業地址：1樓）","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
-{"lng":"121.55833","lat":"25.000306","name":"綠杏萬芳藥局","id":"5901203213","tel":"0229349516","addr":"臺北市文山區興隆路3段111號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"口罩販售時間週一至週六0830~13:00為止"},
+{"lng":"121.55833","lat":"25.000306","name":"綠杏萬芳藥局","id":"5901203213","tel":"0229349516","addr":"臺北市文山區興隆路3段111號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"口罩販售時間週一至週六0830~13:00止，其餘時間不販售口罩"},
 {"lng":"121.539645","lat":"24.999784","name":"躍獅景新藥局","id":"5901203222","tel":"0229356221","addr":"臺北市文山區羅斯福路6段30號","business_week":"XXXXXXXOOOOOOOXXXXXXX","memo":"口罩販售時間為14:00至賣完為止"},
 {"lng":"121.567524","lat":"24.983443","name":"大愛幸福藥局","id":"5901203240","tel":"0229379977","addr":"臺北市文山區木新路2段221號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"全時段販售，售完為止，感謝配合!"},
 {"lng":"121.569489","lat":"24.98756","name":"躍獅木柵藥局","id":"5901203268","tel":"0286617752","addr":"臺北市文山區指南路1段28號","business_week":"XXXXXXXOOOOOOXOOOOOOX","memo":"固定每天下午3點到8點販售， 星期日休息"},
