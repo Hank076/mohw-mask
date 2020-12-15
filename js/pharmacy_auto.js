@@ -3888,7 +3888,7 @@ locations = [
 {"lng":"120.627137","lat":"24.350312","name":"上慧藥局","id":"5936030479","tel":"0426873515","addr":"臺中市大甲區順天路342號","business_week":"OOOOOOXOOOXOOXOXOOOXX","memo":"星期一至星期六 早上8:30開始販賣防疫口罩"},
 {"lng":"120.626733","lat":"24.350055","name":"安新藥局","id":"5936031574","tel":"0426764686","addr":"臺中市大甲區順天路385號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.654737","lat":"24.38116","name":"日南藥局","id":"5936031583","tel":"0426816949","addr":"臺中市大甲區通天路178之1號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"109\/05\/01，109\/05\/02(上午+下午+晚上)上班"},
-{"lng":"120.623397","lat":"24.347032","name":"金鼎藥局","id":"5936031609","tel":"0426805312","addr":"臺中市大甲區文武路67號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"星期一至星期六 最遲早上08：10 開始販賣防疫口罩。10\/10公休"},
+{"lng":"120.623397","lat":"24.347032","name":"金鼎藥局","id":"5936031609","tel":"0426805312","addr":"臺中市大甲區文武路67號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"星期一至星期六 最遲早上08：10 開始販賣防疫口罩。1\/1公休"},
 {"lng":"120.620696","lat":"24.346877","name":"大甲福倫藥局","id":"5936031707","tel":"0426765518","addr":"臺中市大甲區蔣公路202號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週三公休.週日不公休..每日15:00-23:00開始販售.售完為止."},
 {"lng":"120.574183","lat":"24.269381","name":"持田健保藥局","id":"5936040021","tel":"0426229133","addr":"臺中市清水區鰲峰路24號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.576221","lat":"24.268486","name":"中央藥局","id":"5936040117","tel":"0426222176","addr":"臺中市清水區鎮北街56號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
