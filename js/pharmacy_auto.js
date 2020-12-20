@@ -3517,7 +3517,7 @@ locations = [
 {"lng":"121.220647","lat":"24.947255","name":"天晴藥局","id":"5932101011","tel":"034596503","addr":"桃園市平鎮區和平路125號3樓","business_week":"OOOXOOXXOOOXXXOXXOXXX","memo":"口罩販賣時段:8-10點"},
 {"lng":"121.21088","lat":"24.900354","name":"平鎮中豐藥局","id":"5932101039","tel":"034690939","addr":"桃園市平鎮區中豐路山頂段164號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販售時間：14:00 - 16:00"},
 {"lng":"121.203461","lat":"24.954563","name":"日安藥局","id":"5932101066","tel":"034916178","addr":"桃園市平鎮區復興街108號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時段:8-12:00"},
-{"lng":"121.248564","lat":"24.915533","name":"佳仁藥局","id":"5932101084","tel":"034609335","addr":"桃園市平鎮區平東路243號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時段:12:00，售完為止(通常售完時段為12:30-12:45)，請民眾自行參考。"},
+{"lng":"121.248564","lat":"24.915533","name":"佳仁藥局","id":"5932101084","tel":"034609335","addr":"桃園市平鎮區平東路243號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時段:8:00-20:00"},
 {"lng":"121.206018","lat":"24.944582","name":"平鎮延平藥局","id":"5932101137","tel":"034918187","addr":"桃園市平鎮區延平路二段430巷79–16號","business_week":"OOOOOOXOOOOOOXXOXOOXX","memo":"口罩販售時段:8:30-20:00"},
 {"lng":"121.214003","lat":"24.946288","name":"晨安藥局","id":"5932108305","tel":"034925202","addr":"桃園市平鎮區振興西路99號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"販售時段:早上8:00..... 22:00販賣"},
 {"lng":"121.210042","lat":"24.900099","name":"信泰藥局","id":"5932108378","tel":"034695253","addr":"桃園市平鎮區南豐路33號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩販賣時段:上午9:00 ( 星期日不發口罩)"},
