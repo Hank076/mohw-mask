@@ -3551,7 +3551,7 @@ locations = [
 {"lng":"121.177101","lat":"24.792267","name":"佳仁藥局","id":"5933010144","tel":"035872298","addr":"新竹縣關西鎮中興路12號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"全年無休(星期日不定期)"},
 {"lng":"121.175948","lat":"24.793859","name":"康和藥局","id":"5933011178","tel":"035870068","addr":"新竹縣關西鎮正義路79號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"依看診時間供民眾取藥"},
 {"lng":"121.176154","lat":"24.792688","name":"高平堂藥局","id":"5933011196","tel":"035872263","addr":"新竹縣關西鎮正義路66號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"相關公告 請搜尋FB【高平堂藥局】"},
-{"lng":"121.176552","lat":"24.791471","name":"安東藥師藥局","id":"5933011258","tel":"035872385","addr":"新竹縣關西鎮中山路62號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"口罩販賣時段：星期一至六14:00-17:00、星期日08:00-11:00"},
+{"lng":"121.176552","lat":"24.791471","name":"安東藥師藥局","id":"5933011258","tel":"035872385","addr":"新竹縣關西鎮中山路62號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"口罩販賣時段：星期一至六08:00-21:00、星期日08:00-17:00"},
 {"lng":"121.080752","lat":"24.82769","name":"廣和藥局","id":"5933020104","tel":"035885959","addr":"新竹縣新埔鎮中正路292號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時段：8:00-21:00 售完為止"},
 {"lng":"121.07656","lat":"24.827891","name":"康立藥局新埔店","id":"5933021236","tel":"035896129","addr":"新竹縣新埔鎮中正路381號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時段:周一~周六下午2:00-4:00售完為止;現場排隊"},
 {"lng":"121.079778","lat":"24.827607","name":"梁藥局","id":"5933021254","tel":"035885439","addr":"新竹縣新埔鎮中正路233號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩代售時間：07:30現場排隊，發完為止"},
