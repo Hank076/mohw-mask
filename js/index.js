@@ -1,4 +1,4 @@
-var bShowWarningMessage = false;
+var bShowWarningMessage = true;
 
 $(function() {
     
@@ -112,6 +112,7 @@ var showVersionHistory = function(){
         type: 'green',
         title: '版本資訊',
         content: '<table class="table table-bordered table-condensed table-striped"><tr><th>版本</th><th>歷程</th></tr>' +
+        '<tr><td>12/22</td><td>新增緊急公告</td></tr>' +
         '<tr><td>04/20</td><td>新增緊急公告</td></tr>' +
         '<tr><td>04/16</td><td>衛服部無預警更新資料格式，緊急配合調整</td></tr>' +
         '<tr><td>04/15</td><td>新增公告</td></tr>' +
@@ -177,11 +178,11 @@ var showTopMessage = function(){
         type: 'blue',
         title: '重要通知',
         content: 
-        '🔔隨著國內疫情趨緩，邀請大家，無論個人或業者，一起來響應「防疫新生活運動」！<br /><br />' + 
+        '🔔12/31起，口罩實名制度更新，14天10片，並由工廠統一包裝！<br /><br />' + 
         '🔔口罩預購詳右下角 <i class="fas fa-info"></i> 按鈕。<br /><br />' + 
         '🔔本網站會自動與衛服部更新庫存，不用手動重新整理。<br />' + 
         '🔔全民抗疫，請保持耐心與禮貌哦！' +
-        '<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10158161807228407"><img src="https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.0-9/p960x960/97254310_10158161757048407_1936067409022550016_o.jpg?_nc_cat=100&_nc_sid=8024bb&_nc_ohc=z0Lwhr9hhTQAX8L8xUm&_nc_ht=scontent.ftpe8-2.fna&_nc_tp=6&oh=45ea9bf2352370193a4cfca1a006c966&oe=5EEAF510" /></a>',
+        '<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10158714843658407"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/131787059_10158714843608407_2254970955887584044_o.jpg?_nc_cat=1&ccb=2&_nc_sid=8bfeb9&_nc_ohc=kG2Jnznc6_QAX97WEIV&_nc_ht=scontent.ftpe8-3.fna&oh=a44ec570f169bb423e40260fa92cc281&oe=600599BC" /></a>',
         autoClose:'ok|10000',
         backgroundDismiss: true
     });
@@ -199,12 +200,13 @@ var showInfoMessage = function(){
         type: 'blue',
         title: '資訊',
         content: 
-        '🔔口罩第5期開始預購，已經預購第4期的朋友，要等到第6期開放才可以預購！<br /><br />' + 
-        '🔔部分藥局因採發放號碼牌方式方便民眾購買口罩，系統目前無法顯示已發送號碼牌數量。<br />' + 
+        '🔔案 765 國內活動軌跡 <a target="_blank" href="https://www.facebook.com/mohw.gov.tw/posts/1766988340134243">查看詳細資訊</a><br /><br />' + 
+        '🔔12/31起，口罩實名制度更新，14天10片，並由工廠統一包裝！<br />' + 
+        '🔔部分藥局因採發放號碼牌方式方便民眾購買口罩，故系統無法顯示已發送號碼牌數量。<br />' + 
         '🔔口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。<br />' + 
         '🔔本網站會自動與衛服部更新庫存，不用手動重新整理。<br />' + 
         '🔔全民抗疫，請保持耐心與禮貌哦！<br />' +
-        '<a target="_blank" href="https://www.facebook.com/mohw.gov.tw/posts/1536565343176545"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/p960x960/93136182_1536565256509887_7094341883345764352_o.jpg?_nc_cat=1&_nc_sid=8024bb&_nc_ohc=BwALjLYmBwkAX80D3Zf&_nc_ht=scontent.ftpe8-3.fna&_nc_tp=6&oh=690b6fb163bbc8041fbf693ef4dbc474&oe=5EBBEF87" /></a>',
+        '<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10158714843658407"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/131787059_10158714843608407_2254970955887584044_o.jpg?_nc_cat=1&ccb=2&_nc_sid=8bfeb9&_nc_ohc=kG2Jnznc6_QAX97WEIV&_nc_ht=scontent.ftpe8-3.fna&oh=a44ec570f169bb423e40260fa92cc281&oe=600599BC" /></a>',
         backgroundDismiss: true
     });
 };
@@ -221,14 +223,12 @@ var showWarningMessage = function(){
         type: 'red',
         title: '重要通知',
         content: 
-        '針對敦睦遠訓支隊24例部分個案下船後曾至國內約90多處公共場所活動，<br />' + 
+        '案 765 國內活動軌跡<br />' + 
         '提醒民眾若曾於所列時段及地點活動，應自主健康管理，外出時請佩戴口罩，<br />' + 
         '若有不適，請撥打1922防疫專線，就醫時主動告知活動暴露史。<br /><br />' +
-        '敦睦艦隊COVID-19(武漢肺炎)確診個案活動足跡：' + 
-        '<a target="_blank" href="https://bit.ly/2xyUgs3">https://bit.ly/2xyUgs3</a><br />' +
         '搭乘大眾運輸時，應全程配戴口罩並配合量測體溫，<br />' + 
         '若身體不適請戴口罩速就醫，主動告知旅遊、接觸史等，並落實生病在家休息。<br />' + 
-        '<a target="_blank" href="https://www.facebook.com/mohw.gov.tw/posts/1541640766002336"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/p960x960/93845678_1541643309335415_4409080797483499520_o.jpg?_nc_cat=1&_nc_sid=8024bb&_nc_ohc=iapvmCgyEpIAX8PHBkc&_nc_ht=scontent.ftpe8-3.fna&_nc_tp=6&oh=873de6d93cfb1d322897b76089d83dc1&oe=5EC42D2B" /></a>'
+        '<a target="_blank" href="https://www.facebook.com/mohw.gov.tw/posts/1766988340134243"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/132045602_1767021860130891_8253924041608659321_o.png?_nc_cat=107&ccb=2&_nc_sid=730e14&_nc_ohc=-VJUrEJqC3gAX9h0O5E&_nc_ht=scontent.ftpe8-3.fna&oh=64c2915036bfaf923dd15714670d02f6&oe=60064000" /></a>'
     });
 };
 
