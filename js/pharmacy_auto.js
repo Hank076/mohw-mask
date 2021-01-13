@@ -556,7 +556,7 @@ locations = [
 {"lng":"121.538448","lat":"25.003221","name":"康宜庭萬隆藥局","id":"5901202654","tel":"0229348662","addr":"臺北市文山區羅斯福路5段202號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩14:30開始發號碼牌, 建議13:30就來排隊"},
 {"lng":"121.569669","lat":"24.986829","name":"振大藥局","id":"5901202681","tel":"0229393385","addr":"臺北市文山區永安街22巷16號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.566017","lat":"24.98292","name":"躍獅奕新藥局","id":"5901202752","tel":"0222340378","addr":"臺北市文山區木新路2段275號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"開門即開賣口罩，賣完為止"},
-{"lng":"121.56864","lat":"24.988719","name":"宜康藥局","id":"5901202789","tel":"0286619862","addr":"臺北市文山區保儀路7號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"六、日不發口罩。周一至五下午1:30-5:00發售；售完為止。"},
+{"lng":"121.56864","lat":"24.988719","name":"宜康藥局","id":"5901202789","tel":"0286619862","addr":"臺北市文山區保儀路7號","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"六、日不發口罩。周一至五下午1:30-5:00發售；售完為止。"},
 {"lng":"121.541429","lat":"24.991259","name":"欣安景美藥局","id":"5901202841","tel":"0229316008","addr":"臺北市文山區景文街77號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天口罩PM14:30發號碼牌15:00-21:00開始販賣售完為止"},
 {"lng":"121.564164","lat":"24.98236","name":"北一藥師藥局","id":"5901202850","tel":"0222348686","addr":"臺北市文山區木新路3段47號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"若有庫存，開門即開賣口罩"},
 {"lng":"121.537959","lat":"25.002027","name":"萬隆大藥局","id":"5901202949","tel":"0229334580","addr":"臺北市文山區羅斯福路5段218巷15號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"9：00~23：00"},
