@@ -3664,7 +3664,7 @@ locations = [
 {"lng":"120.816332","lat":"24.545438","name":"德昌藥局","id":"5935010160","tel":"037320641","addr":"苗栗縣苗栗市恭敬里中正路1182號","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"口罩發售時間:每日09:00~售完為止"},
 {"lng":"120.827279","lat":"24.572826","name":"正欣藥局","id":"5935010222","tel":"037264502","addr":"苗栗縣苗栗市清華里褔星街60號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"口罩販賣時段：08:00-售完"},
 {"lng":"120.830893","lat":"24.571671","name":"德鑫藥局","id":"5935010259","tel":"037261698","addr":"苗栗縣苗栗市清華里為公路348號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"口罩販賣時段：0730開始到售完  星期日休息"},
-{"lng":"120.824574","lat":"24.5688","name":"天恩藥局","id":"5935011523","tel":"037277285","addr":"苗栗縣苗栗市中正路49號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"口罩販賣時段：08:00 到售完(上班時間都可)"},
+{"lng":"120.824574","lat":"24.5688","name":"天恩藥局","id":"5935011523","tel":"037277285","addr":"苗栗縣苗栗市中正路49號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩販賣時段：08:00 到售完(上班時間都可)"},
 {"lng":"120.820694","lat":"24.559381","name":"佳美藥局","id":"5935011621","tel":"037373366","addr":"苗栗縣苗栗市中山路493號","business_week":"XXXXXOXOOOOOXXOOOOOXX","memo":"口罩販賣時段：平日14:00-售完，周六08:00-售完，星期日休息."},
 {"lng":"120.820952","lat":"24.557424","name":"佳禾藥局","id":"5935011738","tel":"037373041","addr":"苗栗縣苗栗市青苗里建台街7號","business_week":"OOOXOOOOOXXOXXOOXXOXX","memo":"口罩7：30開始販賣，販賣時段：營業時間至售完為止"},
 {"lng":"120.820054","lat":"24.558259","name":"芳鄰國際連鎖藥局","id":"5935011783","tel":"037330580","addr":"苗栗縣苗栗市中山路567號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時段：09:000開始販售~售完"},
