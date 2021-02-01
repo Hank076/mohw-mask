@@ -1,4 +1,14 @@
 var bShowWarningMessage = true;
+var warningDateline = 20210210;
+var fullDate = new Date();
+var yyyy = fullDate.getFullYear();
+var MM = (fullDate.getMonth() + 1) >= 10 ? (fullDate.getMonth() + 1) : ("0" + (fullDate.getMonth() + 1));
+var dd = fullDate.getDate() < 10 ? ("0"+fullDate.getDate()) : fullDate.getDate();
+var today = yyyy + MM + dd;
+
+if(parseInt(today) >= warningDateline){
+    bShowWarningMessage = false;
+}
 
 $(function() {
     
@@ -12,6 +22,7 @@ $(function() {
     });
 
     var clock = setInterval(function() {reloadStrongholdData(true);} , 120000);
+    
 });
 
 var showUpdateProcessByManual = function(){   
@@ -112,6 +123,7 @@ var showVersionHistory = function(){
         type: 'green',
         title: '版本資訊',
         content: '<table class="table table-bordered table-condensed table-striped"><tr><th>版本</th><th>歷程</th></tr>' +
+        '<tr><td>02/01</td><td>新增緊急公告</td></tr>' +
         '<tr><td>01/20</td><td>新增緊急公告</td></tr>' +
         '<tr><td>12/22</td><td>新增緊急公告</td></tr>' +
         '<tr><td>04/20</td><td>新增緊急公告</td></tr>' +
@@ -183,13 +195,13 @@ var showInfoMessage = function(){
         title: '資訊',
         content: 
         '01/20起調整醫療院所門禁及人員管制措施。 👉<a target="_blank" href="https://www.facebook.com/mohw.gov.tw/posts/1790278104471933">詳細資訊</a><br />' + 
-        '12/31起，口罩實名制度更新，14天10片，並由工廠統一包裝。<br />' + 
+        '因應春節將近，交通部公告應變措施。 👉<a target="_blank" href="https://www.facebook.com/motc.gov.tw/posts/1728586150635286">詳細資訊</a><br />' + 
         '部分藥局採發放號碼牌方便民眾購買口罩，故系統無法顯示已發送號碼牌數量。<br />' + 
         '口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。<br />' + 
-        '本網站會自動與衛服部更新庫存，不用手動重新整理。<br />' + 
+        '本網站會自動更新庫存，不用重新整理。<br />' + 
         '全民抗疫，請保持耐心與禮貌哦！<br /><br />' +
-        '案 863、864、865 國內活動軌跡 👉<a target="_blank" href="https://www.facebook.com/mohw.gov.tw/posts/1790288061137604">詳細資訊</a><br /><br />' + 
-        '<a target="_blank" href="https://www.facebook.com/mohw.gov.tw/posts/1790288061137604"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/s720x720/139307588_1790287797804297_8691015545101468484_o.png?_nc_cat=1&ccb=2&_nc_sid=730e14&_nc_ohc=q3vpbvo95cMAX-hHIrx&_nc_ht=scontent.ftpe8-3.fna&_nc_tp=30&oh=dae9f14dd30ddb935e8caaea3f48ed50&oe=602F6160" /></a>',
+        '案 908 國內活動軌跡 👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10158826796508407">詳細資訊</a><br /><br />' + 
+        '<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10158826796508407"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/142785965_10158826864148407_2100204353397089090_o.jpg?_nc_cat=1&ccb=2&_nc_sid=730e14&_nc_ohc=Ssj8zH6iSfsAX99sNjn&_nc_ht=scontent.ftpe8-3.fna&oh=2dc3bbb831b1f6489397e5b06ea36dd7&oe=603BDEE5" /></a>',
         backgroundDismiss: true
     });
 };
@@ -203,12 +215,12 @@ var showTopMessage = function(){
         type: 'blue',
         title: '重要通知',
         content: 
-        '01/20起調整醫療院所門禁及人員管制措施。 👉<a target="_blank" href="https://www.facebook.com/mohw.gov.tw/posts/1790278104471933">詳細資訊</a><br />' + 
-        '12/31起，口罩實名制度更新，14天10片，並由工廠統一包裝。<br /><br />' + 
+        '01/20起調整醫療院所門禁及人員管制措施。<br />👉<a target="_blank" href="https://www.facebook.com/mohw.gov.tw/posts/1790278104471933">詳細資訊</a><br /><br />' + 
+        '因應春節將近，交通部公告應變措施。<br />👉<a target="_blank" href="https://www.facebook.com/motc.gov.tw/posts/1728586150635286">詳細資訊</a><br /><br />' + 
         '口罩預購詳右下角 <i class="fas fa-info"></i> 按鈕。<br /><br />' + 
-        '本網站會自動與衛服部更新庫存，不用手動重新整理。<br />' + 
+        '本網站會自動更新庫存，不用重新整理。<br />' + 
         '全民抗疫，請保持耐心與禮貌哦！' +
-        '<a target="_blank" href="https://www.facebook.com/mohw.gov.tw/posts/1790278104471933"><img src="https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.0-0/p526x296/139841970_1790278034471940_2788396254040254338_o.jpg?_nc_cat=109&ccb=2&_nc_sid=730e14&_nc_ohc=T5mwJelE3ZMAX9EgsKN&_nc_ht=scontent.ftpe8-1.fna&tp=6&oh=c1ff33604abcc449f339ceeb95f80fc7&oe=602E2EB9" /></a>',
+        '<a target="_blank" href="https://www.facebook.com/motc.gov.tw/posts/1728586150635286"><img src="https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.0-9/142807646_1729348313892403_8206700273940874609_o.jpg?_nc_cat=100&ccb=2&_nc_sid=730e14&_nc_ohc=rtKLs7DEnaQAX8y3Gk9&_nc_ht=scontent.ftpe8-2.fna&oh=cc9e7bbaa588ec377766b85994ee1119&oe=603B973C" /></a>',
         autoClose:'ok|10000',
         backgroundDismiss: true
     });
@@ -224,14 +236,14 @@ var showWarningMessage = function(){
         closeAnimation: 'bottom',
         columnClass: 'col-md-6 col-md-offset-3',
         type: 'red',
-        title: '重要通知',
+        title: '緊急通知',
         content: 
         '提醒民眾若曾於所列時段及地點活動，應自主健康管理，外出時請佩戴口罩，<br />' + 
         '若有不適，請撥打1922防疫專線，就醫時主動告知活動暴露史。<br />' +
         '搭乘大眾運輸時，應全程配戴口罩並配合量測體溫，<br />' + 
         '若身體不適請戴口罩速就醫，主動告知旅遊、接觸史等，並落實生病在家休息。<br /><br />' + 
-        '案 863、864、865 國內活動軌跡 👉<a target="_blank" href="https://www.facebook.com/mohw.gov.tw/posts/1790288061137604">詳細資訊</a><br /><br />' + 
-        '<a target="_blank" href="https://www.facebook.com/mohw.gov.tw/posts/1790288061137604"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/s720x720/139307588_1790287797804297_8691015545101468484_o.png?_nc_cat=1&ccb=2&_nc_sid=730e14&_nc_ohc=q3vpbvo95cMAX-hHIrx&_nc_ht=scontent.ftpe8-3.fna&_nc_tp=30&oh=dae9f14dd30ddb935e8caaea3f48ed50&oe=602F6160" /></a>'
+        '案 908 國內活動軌跡 👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10158826796508407">詳細資訊</a><br /><br />' + 
+        '<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10158826796508407"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/142785965_10158826864148407_2100204353397089090_o.jpg?_nc_cat=1&ccb=2&_nc_sid=730e14&_nc_ohc=Ssj8zH6iSfsAX99sNjn&_nc_ht=scontent.ftpe8-3.fna&oh=2dc3bbb831b1f6489397e5b06ea36dd7&oe=603BDEE5" /></a>'
     });
 };
 
