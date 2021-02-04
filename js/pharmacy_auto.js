@@ -902,7 +902,7 @@ locations = [
 {"lng":"120.703624","lat":"24.107796","name":"聖康藥局","id":"5903200176","tel":"0422700625","addr":"臺中市大里區立仁路79號1樓","business_week":"OOOOOOXOOOOOOOOOOOOOO"},
 {"lng":"120.704283","lat":"24.094694","name":"博德藥局","id":"5903200194","tel":"0424968642","addr":"臺中市大里區成功2路104號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"開門就賣，賣到打烊"},
 {"lng":"120.683953","lat":"24.115447","name":"信元藥局","id":"5903200229","tel":"0424876051","addr":"臺中市大里區益民路2段372號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午4點發號碼牌並依序販賣"},
-{"lng":"120.692355","lat":"24.106728","name":"廣信藥局","id":"5903200318","tel":"0424829981","addr":"臺中市大里區益民路1段164號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"星期一至星期六1330~2230、星期日無代售"},
+{"lng":"120.692355","lat":"24.106728","name":"廣信藥局","id":"5903200318","tel":"0424829981","addr":"臺中市大里區益民路1段164號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.678782","lat":"24.112407","name":"國光丁丁藥局","id":"5903200372","tel":"0424069711","addr":"臺中市大里區國光路2段551－1號1樓","business_week":"XXXXXXXOOOXOOOOOOXOOO","memo":"星期一至星期日早上9點依排隊順序直接領取"},
 {"lng":"120.690511","lat":"24.090747","name":"祐仁健保藥局","id":"5903200425","tel":"0424964321","addr":"臺中市大里區仁化路816號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"販賣實名制口罩無時間限制.週日公休"},
 {"lng":"120.663984","lat":"24.088163","name":"合康藥局","id":"5903200461","tel":"0424078383","addr":"臺中市大里區中投西路3段223號1樓","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"只賣禮拜234早上 早上8:00開賣 下午不賣"},
