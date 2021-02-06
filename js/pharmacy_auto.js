@@ -423,7 +423,7 @@ locations = [
 {"lng":"121.578304","lat":"25.03965","name":"三立藥局","id":"5901173176","tel":"0227271401","addr":"臺北市信義區忠孝東路5段492巷34號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"下午1點現場作業，不發號碼牌。"},
 {"lng":"121.564342","lat":"25.027717","name":"大鳥藥局","id":"5901173201","tel":"0223455025","addr":"臺北市信義區莊敬路354號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.554199","lat":"25.024363","name":"濟生中西藥局","id":"5901173210","tel":"0227358452","addr":"臺北市信義區崇德街41號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"最新資訊FB:Jcp濟生中西藥局 #口罩:每天早8點開始 #營業時間:星期1245:早9點~晚9點 星期36:早9點~晚8點 (中午休12-15點)"},
-{"lng":"121.563422","lat":"25.027818","name":"正和藥局","id":"5901173238","tel":"0223455186","addr":"臺北市信義區吳興街225巷6號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"防疫口罩週一~週日14:00開始發放，售完為止"},
+{"lng":"121.563422","lat":"25.027818","name":"正和藥局","id":"5901173238","tel":"0223455186","addr":"臺北市信義區吳興街225巷6號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"防疫口罩週一~週日14:00開始發放、售完為止"},
 {"lng":"121.579164","lat":"25.037414","name":"上禾藥師藥局","id":"5901173283","tel":"0227592686","addr":"臺北市信義區林口街27號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.577035","lat":"25.044479","name":"荐荃藥師藥局","id":"5901173292","tel":"0227492866","addr":"臺北市信義區虎林街68之3號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"3\/23停電 停發口罩一次"},
 {"lng":"121.575264","lat":"25.041263","name":"新永春藥局","id":"5901173372","tel":"0227667385","addr":"臺北市信義區忠孝東路5段423巷1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販售時段：每周一到日，早上10點開始發售至售完"},
