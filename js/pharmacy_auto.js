@@ -539,7 +539,7 @@ locations = [
 {"lng":"121.55343","lat":"25.001661","name":"銘依藥局","id":"5901201755","tel":"0229308538","addr":"臺北市文山區興隆路2段301巷4－1號","business_week":"OOOOOOXOOOOOXXOOOOOOX"},
 {"lng":"121.547004","lat":"24.999517","name":"舒博威藥局","id":"5901201826","tel":"0229306805","addr":"臺北市文山區興隆路2段95巷3號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上8:30開始販售口罩"},
 {"lng":"121.554186","lat":"24.97989","name":"巧康藥局","id":"5901201835","tel":"0229372061","addr":"臺北市文山區木新路3段262、264號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日下午3點進行口罩作業"},
-{"lng":"121.539844","lat":"24.991001","name":"佳醫景美藥局","id":"5901201871","tel":"0286636659","addr":"臺北市文山區羅斯福路6段290號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"周一至周六上午11:30發號碼牌，12:00-14:30販售，其餘時段不進行販售。星期日不販售口罩。"},
+{"lng":"121.539844","lat":"24.991001","name":"佳醫景美藥局","id":"5901201871","tel":"0286636659","addr":"臺北市文山區羅斯福路6段290號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"周一至周六12:00-14:30販售，其餘時段不進行販售。星期日不販售口罩。"},
 {"lng":"121.547763","lat":"24.999554","name":"華君藥局","id":"5901202047","tel":"0229319510","addr":"臺北市文山區興隆路2段60號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天12:00販售口罩，不發號碼牌"},
 {"lng":"121.562067","lat":"24.989007","name":"皇興藥師藥局","id":"5901202216","tel":"0229365553","addr":"臺北市文山區木柵路2段121號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"121.538294","lat":"25.002028","name":"宇康藥局","id":"5901202396","tel":"0229307066","addr":"臺北市文山區羅斯福路5段218巷7號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"口罩：週一至週六下午3:00pm開始發售"},
