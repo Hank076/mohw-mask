@@ -2626,7 +2626,7 @@ locations = [
 {"lng":"121.449206","lat":"25.049073","name":"真美滿藥局","id":"593106A342","tel":"0229919473","addr":"新北市新莊區幸福路729號2樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.435112","lat":"25.032953","name":"輔大美康藥局","id":"593106A379","tel":"0229013056","addr":"新北市新莊區中正路510號之1，1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"121.424699","lat":"25.024213","name":"元大藥局","id":"593106A388","tel":"0222020082","addr":"新北市新莊區富國路204號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上8點半 ~晚上10半"},
-{"lng":"121.449261","lat":"25.034847","name":"新新藥局","id":"593106A404","tel":"0229945994","addr":"新北市新莊區新泰路62號2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一至周六早上8:30與晚上7:30開始。休息時間:12-2點半"},
+{"lng":"121.449261","lat":"25.034847","name":"新新藥局","id":"593106A404","tel":"0229945994","addr":"新北市新莊區新泰路62號2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.426088","lat":"25.015343","name":"明仁健保藥局","id":"593106A511","tel":"0222085175","addr":"新北市新莊區民安西路195號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"15:00-18:00販售口罩"},
 {"lng":"121.448094","lat":"25.043428","name":"一心春天藥局","id":"593106A566","tel":"0289929482","addr":"新北市新莊區中和街13號1樓、地下室","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日下午15:30開始販售口罩， 國定假日不休診"},
 {"lng":"121.416782","lat":"25.028934","name":"記安大藥局","id":"593106A584","tel":"0222095331","addr":"新北市新莊區天祥街46號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
