@@ -1462,7 +1462,7 @@ locations = [
 {"lng":"120.317309","lat":"22.647801","name":"東京藥局","id":"5907320428","tel":"073874567","addr":"高雄市三民區建工路685號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名登入口罩販售時間: 每日9:00-晚上20:00"},
 {"lng":"120.325311","lat":"22.669284","name":"金鼎大藥局","id":"5907320437","tel":"073473271","addr":"高雄市三民區鼎力路376及378號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販售時間:早上8:00~售完為止"},
 {"lng":"120.318082","lat":"22.646206","name":"建元健保藥局","id":"5907320464","tel":"073927865","addr":"高雄市三民區興昌街83巷9號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
-{"lng":"120.322768","lat":"22.649342","name":"康誠藥局","id":"5907320535","tel":"073893889","addr":"高雄市三民區建工路616號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"110年01月01日元旦當天休假1日。"},
+{"lng":"120.322768","lat":"22.649342","name":"康誠藥局","id":"5907320535","tel":"073893889","addr":"高雄市三民區建工路616號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.341268","lat":"22.63974","name":"德安藥局","id":"5907320571","tel":"073970323","addr":"高雄市三民區陽明路83號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"營業時間8:00~13:00， 15:00~21:00販賣口罩.售完為止"},
 {"lng":"120.294088","lat":"22.645961","name":"丸之內藥局","id":"5907320580","tel":"073156688","addr":"高雄市三民區十全二路321、323號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"星期天營業時間1030~1800"},
 {"lng":"120.333098","lat":"22.643713","name":"勁康健保藥局","id":"5907320633","tel":"073966716","addr":"高雄市三民區義華路402號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"早上9點40分開始銷售口罩"},
