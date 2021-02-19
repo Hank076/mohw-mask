@@ -649,7 +649,7 @@ locations = [
 {"lng":"120.344503","lat":"22.644736","name":"澄和藥局","id":"5902050565","tel":"073923111","addr":"高雄市三民區澄和路66號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩 販售時間14:00到21:00止"},
 {"lng":"120.310519","lat":"22.644774","name":"建昌藥局","id":"5902050592","tel":"073232356","addr":"高雄市三民區十全一路105號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"賣口罩時間：周一至週五下午1:00起，周六至週日上午10:00起，售完為止。"},
 {"lng":"120.302003","lat":"22.642227","name":"嘉益藥局","id":"5902050636","tel":"073110157","addr":"高雄市三民區重慶街30號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
-{"lng":"120.300571","lat":"22.644306","name":"仁生藥局","id":"5902050770","tel":"073118765","addr":"高雄市三民區民享里熱河二街78號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時間:上午8:30-11:00"},
+{"lng":"120.300571","lat":"22.644306","name":"仁生藥局","id":"5902050770","tel":"073118765","addr":"高雄市三民區民享里熱河二街78號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.286785","lat":"22.6388","name":"友泰藥局","id":"5902050798","tel":"073125236","addr":"高雄市三民區中和街169號","business_week":"OOOOOOXOOOOOXXOOOOOOX"},
 {"lng":"120.329622","lat":"22.638651","name":"皇安藥局","id":"5902050903","tel":"073866779","addr":"高雄市三民區九如一路461號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"營業日08:15~08:30可先領取號碼牌，上午08:30~12:00及下午3:00~10:.00為販賣口罩時間，售完為止"},
 {"lng":"120.321486","lat":"22.65769","name":"雅信藥局","id":"5902050912","tel":"073830821","addr":"高雄市三民區鼎山街326號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩販售時間星期一至六上午8時開賣，售完為止。請自備零錢~"},
