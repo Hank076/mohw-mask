@@ -2228,7 +2228,7 @@ locations = [
 {"lng":"121.447894","lat":"24.998397","name":"盛生藥局","id":"5931017663","tel":"0289697299","addr":"新北市板橋區合宜路99號（1樓）","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.481899","lat":"25.060651","name":"建宏藥局","id":"5931020017","tel":"0229714533","addr":"新北市三重區名源街16號","business_week":"OOOOOOXOOOOOOXOOOOOOO","memo":"星期一至六 早上八點起受理購買口罩。"},
 {"lng":"121.491649","lat":"25.083576","name":"唯安藥局","id":"5931020044","tel":"0229875750","addr":"新北市三重區五華街130號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
-{"lng":"121.482171","lat":"25.067572","name":"上豪藥局","id":"5931020133","tel":"0229820399","addr":"新北市三重區中正北路220號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上9點 發號碼牌，中午12點領口罩!!!  星期天公休"},
+{"lng":"121.482171","lat":"25.067572","name":"上豪藥局","id":"5931020133","tel":"0229820399","addr":"新北市三重區中正北路220號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期天公休"},
 {"lng":"121.49319","lat":"25.066675","name":"優達藥局","id":"5931020320","tel":"0229803986","addr":"新北市三重區大智街108號1Ｆ","business_week":"OOOOOOXOOOOOOXOOOOOOO"},
 {"lng":"121.485518","lat":"25.058925","name":"新迪化中西藥局","id":"5931020400","tel":"0229884755","addr":"新北市三重區三陽路27號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.496354","lat":"25.071926","name":"久泰藥局","id":"5931020428","tel":"0229735880","addr":"新北市三重區仁愛街36號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
