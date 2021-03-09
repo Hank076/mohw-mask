@@ -1451,7 +1451,7 @@ locations = [
 {"lng":"120.305296","lat":"22.726319","name":"德昌藥局","id":"5907310379","tel":"073619998","addr":"高雄市楠梓區德賢路215號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"賣口罩時間：周一至週日9:00至11:00，14:30至16:30，19:00至22:00，售完為止。"},
 {"lng":"120.312892","lat":"22.71975","name":"宸實藥局","id":"5907310388","tel":"073642142","addr":"高雄市楠梓區後昌路47巷23－1號","business_week":"OOOOOXXOOOOOOXOOOOOOX"},
 {"lng":"120.326282","lat":"22.658607","name":"大豐藥局","id":"5907320062","tel":"073980133","addr":"高雄市三民區大豐一路471號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名口罩販售，週一至周六早上09:30販售。"},
-{"lng":"120.327858","lat":"22.653066","name":"莊敬藥局","id":"5907320133","tel":"073976079","addr":"高雄市三民區大昌一路28號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週一至週六上午9:30開始現場販售口罩、售完為止、週日公休。"},
+{"lng":"120.327858","lat":"22.653066","name":"莊敬藥局","id":"5907320133","tel":"073976079","addr":"高雄市三民區大昌一路28號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.320454","lat":"22.667155","name":"新高橋藥局天祥店","id":"5907320179","tel":"073102683","addr":"高雄市三民區天祥一路117號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"上午10:00開始販售口罩"},
 {"lng":"120.310911","lat":"22.644749","name":"吉田藥局","id":"5907320240","tel":"073119701","addr":"高雄市三民區十全一路87號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販售:星期一~六早上8:30-晚上10:00"},
 {"lng":"120.327286","lat":"22.659938","name":"明誠藥局","id":"5907320259","tel":"073108636","addr":"高雄市三民區明誠一路172號","business_week":"OOOOOOXOOOOOXXOOOOOOO","memo":"星期一到星期六早上9點售口罩.星期日下午3點售口罩"},
