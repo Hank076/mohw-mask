@@ -2960,7 +2960,7 @@ locations = [
 {"lng":"121.61721","lat":"25.001997","name":"介新大藥局","id":"5931181104","tel":"0226648149","addr":"新北市深坑區文化街94號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"執業時段請電洽藥局"},
 {"lng":"121.60557","lat":"25.001711","name":"信東深坑北深藥局","id":"5931181159","tel":"0277092976","addr":"新北市深坑區北深路3段103號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"口罩代售時間自13:00 ; 現場排隊"},
 {"lng":"121.618358","lat":"25.003735","name":"健康小站藥局","id":"5931181195","tel":"0226629568","addr":"新北市深坑區埔新里北深路2段75號","business_week":"OOOOOOXOOOOOOXOOOOOXO","memo":"口罩領取時間 早上10點下午到9點"},
-{"lng":"121.620909","lat":"25.00282","name":"怡恩藥局","id":"5931181239","tel":"0226620285","addr":"新北市深坑區埔新街41號","business_week":"OOOOOOXOOOOOXOOOOOOXO","memo":"口罩周一至周六中午1200開始 週日1830開始;現場排隊 不發號碼牌"},
+{"lng":"121.620909","lat":"25.00282","name":"怡恩藥局","id":"5931181239","tel":"0226620285","addr":"新北市深坑區埔新街41號","business_week":"OOOOOOXOOOOOXOOOOOOXO","memo":"口罩周一至周五中午1200開始 週日1830開始;周六停賣;現場排隊 不發號碼牌"},
 {"lng":"121.65566","lat":"24.995847","name":"碇康藥局","id":"5931190514","tel":"0226634229","addr":"新北市石碇區潭邊里石崁24－1號","business_week":"XOOXXXXOOOXXXXOOOXXXX"},
 {"lng":"121.503175","lat":"25.25816","name":"三芝藥師藥局","id":"5931211045","tel":"0286353982","addr":"新北市三芝區中正路1段43號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"即日起週六與週日停止代售政府防疫口罩。"},
 {"lng":"121.504949","lat":"25.256236","name":"富康輝藥局","id":"5931211063","tel":"0226363836","addr":"新北市三芝區中正路1段86.88號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"防疫口罩1400點後販售"},
