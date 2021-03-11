@@ -1269,7 +1269,7 @@ locations = [
 {"lng":"120.179315","lat":"22.992715","name":"信美藥局","id":"5905380140","tel":"062980142","addr":"臺南市安平區建平里平通路142號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"上午9:00口罩銷售"},
 {"lng":"120.16796","lat":"22.985959","name":"凱順藥局","id":"5905380177","tel":"062999752","addr":"臺南市安平區育平里健康三街39號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"防疫口罩每日9:00開始，售完為止。"},
 {"lng":"120.173987","lat":"22.984373","name":"怡家藥局","id":"5905380239","tel":"062970519","addr":"臺南市安平區國平里華平路146─5號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"口罩:週二、五晚上6:00~8:00；週一、三、四、六早上09:00~11:00"},
-{"lng":"120.175904","lat":"22.995755","name":"康富聯合藥局","id":"5905380248","tel":"062971960","addr":"臺南市安平區華平路652號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩購買時間:早上九點開始。盒裝醫療口罩、特殊色熱賣中！"},
+{"lng":"120.175904","lat":"22.995755","name":"康富聯合藥局","id":"5905380248","tel":"062971960","addr":"臺南市安平區華平路652號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.180602","lat":"22.989558","name":"永華啄木鳥藥局","id":"5905380266","tel":"062985173","addr":"臺南市安平區文平里永華路二段369號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"春節營業時間請電洽或依現場公告"},
 {"lng":"120.175377","lat":"22.994249","name":"心悅藥局","id":"5905380275","tel":"062973727","addr":"臺南市安平區華平里華平路537號1樓","business_week":"OOOOOOXXXXXXXXOOOOOXX"},
 {"lng":"120.351081","lat":"22.641517","name":"北京藥局文山店","id":"5907010043","tel":"077676766","addr":"高雄市鳳山區青年路二段367號1．2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
