@@ -1495,7 +1495,7 @@ locations = [
 {"lng":"120.298596","lat":"22.617241","name":"健順藥局","id":"5907350195","tel":"072695832","addr":"高雄市苓雅區自強三路140號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"自2\/6起，營業日0830~22:00為口罩販售時間，售完為止"},
 {"lng":"120.32955","lat":"22.629197","name":"仁愛藥師藥局","id":"5907350220","tel":"077222300","addr":"高雄市苓雅區中正一路230號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.340153","lat":"22.631825","name":"人和藥局","id":"5907350266","tel":"077490883","addr":"高雄市苓雅區正義路180－6號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"藥局販售口罩時間，依藥局門口公告時間為主(售完為止)"},
-{"lng":"120.326689","lat":"22.635008","name":"瓏耀藥局","id":"5907350293","tel":"077115288","addr":"高雄市苓雅區憲政路76號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩供應時間15點至20點，以現場存貨為準"},
+{"lng":"120.326689","lat":"22.635008","name":"瓏耀藥局","id":"5907350293","tel":"077115288","addr":"高雄市苓雅區憲政路76號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩供應時間15點至20點、以現場存貨為準"},
 {"lng":"120.306902","lat":"22.621377","name":"辰安藥局","id":"5907350300","tel":"075365545","addr":"高雄市苓雅區青年一路185－2號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"自3\/1日~3\/31日，星期一至五09:00開始販售口罩.售完為止 六日11點開賣"},
 {"lng":"120.317206","lat":"22.619182","name":"御康藥局","id":"5907350319","tel":"073313535","addr":"高雄市苓雅區光華一路35號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.319662","lat":"22.622732","name":"安杏藥局","id":"5907350328","tel":"077511739","addr":"高雄市苓雅區四維二路94－17號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"口罩代售時間自早上10-12點，現場排隊"},
