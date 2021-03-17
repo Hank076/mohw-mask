@@ -1128,7 +1128,7 @@ locations = [
 {"lng":"120.318777","lat":"23.192566","name":"安安藥局隆田店","id":"5905140039","tel":"065795705","addr":"臺南市官田區中山路一段15號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"全日口罩販賣"},
 {"lng":"120.140524","lat":"23.141691","name":"博士藥師專業藥局","id":"5905170019","tel":"067874226","addr":"臺南市七股區大埕里357號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"更改時間早上7:30起"},
 {"lng":"120.149245","lat":"23.148438","name":"建昌藥局","id":"5905170037","tel":"067873777","addr":"臺南市七股區大寮里1之11號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"防疫口罩週一至週五08:30~19:30，週六08:30~11:00"},
-{"lng":"120.159409","lat":"23.199565","name":"建昌藥局漚汪店","id":"5905180042","tel":"067941889","addr":"臺南市將軍區忠興里1－6號1樓","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"口罩販賣 周一至周六9:00-11:00"},
+{"lng":"120.159409","lat":"23.199565","name":"建昌藥局漚汪店","id":"5905180042","tel":"067941889","addr":"臺南市將軍區忠興里1－6號1樓","business_week":"OOOOOOOOOOOOOOOOOOOXX"},
 {"lng":"120.293871","lat":"23.079578","name":"新和德健保藥局","id":"5905200030","tel":"065997603","addr":"臺南市新市區中正路319－1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"政府防疫口罩發放時間-下午2點至8點，售完為止"},
 {"lng":"120.291606","lat":"23.075155","name":"欣和德藥局","id":"5905200058","tel":"065895658","addr":"臺南市新市區中正路200號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"政府防疫口罩發放時間:下午2點至8點。售完為止"},
 {"lng":"120.291333","lat":"23.075073","name":"華林藥局","id":"5905200067","tel":"065896703","addr":"臺南市新市區中正路143號","business_week":"OOOOOOXOOXOOXXOOOOOXO","memo":"周一至周六早上07:30開始販賣口罩，售完為止。"},
