@@ -3094,7 +3094,7 @@ locations = [
 {"lng":"121.232452","lat":"24.967997","name":"新家福藥局","id":"5932022355","tel":"034621658","addr":"桃園市中壢區福州二街419號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販售時間：09:00~售完為止"},
 {"lng":"121.229109","lat":"24.946061","name":"得康藥局","id":"5932022373","tel":"034686738","addr":"桃園市中壢區龍岡路二段89、91號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.225605","lat":"24.957175","name":"家佳聯合藥局","id":"5932022524","tel":"034273960","addr":"桃園市中壢區中光路14號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"口罩販賣時段：週一至週五：8:30-10:30 ;週未沒有提供口罩販售"},
-{"lng":"121.255567","lat":"24.932476","name":"安和藥局","id":"5932022533","tel":"034378627","addr":"桃園市中壢區龍東路368號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"2\/07、2\/21、2\/28.(星期ㄖ08:00-10:00)"},
+{"lng":"121.255567","lat":"24.932476","name":"安和藥局","id":"5932022533","tel":"034378627","addr":"桃園市中壢區龍東路368號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.225506","lat":"24.964279","name":"東南藥局","id":"5932022579","tel":"034273116","addr":"桃園市中壢區慈惠三街137號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"口罩販賣時段：10:00-12:00"},
 {"lng":"121.216267","lat":"24.955354","name":"中壢中正藥局","id":"5932022631","tel":"034014100","addr":"桃園市中壢區中正路363、365號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時段：14:00"},
 {"lng":"121.228102","lat":"24.94748","name":"博士藥師藥局","id":"5932022640","tel":"034280557","addr":"桃園市中壢區健行路220號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"營業時間:8:00-12:00; 14:30-21:30"},
