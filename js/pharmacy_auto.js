@@ -3300,7 +3300,7 @@ locations = [
 {"lng":"121.367423","lat":"25.056848","name":"安寶親子藥局","id":"5932077476","tel":"033281688","addr":"桃園市龜山區文化二路51號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"口罩販賣時段：8:00開始發放號碼牌"},
 {"lng":"121.380197","lat":"25.054711","name":"左外野藥局","id":"5932077510","tel":"033271503","addr":"桃園市龜山區文光街6號1樓","business_week":"OOOOXOOOOOOXOOOOOOXOO","memo":"口罩販售時間：AM10:30-12:30 ， PM5:30-7:30售完止(週五公休)"},
 {"lng":"121.331084","lat":"24.996168","name":"泰麟大藥局","id":"5932077529","tel":"032133728","addr":"桃園市龜山區陸光路96號","business_week":"XXXXXXXOOOOOOOOOOOOOO"},
-{"lng":"121.368303","lat":"25.059455","name":"維康藥局","id":"5932077538","tel":"033283880","addr":"桃園市龜山區復興一路88號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"121.368303","lat":"25.059455","name":"維康藥局","id":"5932077538","tel":"033283880","addr":"桃園市龜山區復興一路88號1樓","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"平日上午10點至晚上7點執業"},
 {"lng":"121.327863","lat":"24.970064","name":"慶昇藥局","id":"5932080035","tel":"033648037","addr":"桃園市八德區桃鶯路一Ｏ二號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"口罩販賣時段：9:00~12:00"},
 {"lng":"121.300811","lat":"24.962646","name":"厚仁藥局","id":"5932080080","tel":"033611071","addr":"桃園市八德區大義里永福街11號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩販賣時段：09:00."},
 {"lng":"121.300465","lat":"24.963961","name":"安慧藥局","id":"5932080099","tel":"033636131","addr":"桃園市八德區介壽路一段733號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"口罩販賣時段：AM9:30-PM10:30"},
