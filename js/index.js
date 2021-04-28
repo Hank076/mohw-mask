@@ -1,5 +1,5 @@
 var bShowWarningMessage = true;
-var warningDateline = 20210210;
+var warningDateline = 20210514;
 var fullDate = new Date();
 var yyyy = fullDate.getFullYear();
 var MM = (fullDate.getMonth() + 1) >= 10 ? (fullDate.getMonth() + 1) : ("0" + (fullDate.getMonth() + 1));
@@ -123,6 +123,7 @@ var showVersionHistory = function(){
         type: 'green',
         title: '版本資訊',
         content: '<table class="table table-bordered table-condensed table-striped"><tr><th>版本</th><th>歷程</th></tr>' +
+        '<tr><td>04/28</td><td>新增緊急公告</td></tr>' +
         '<tr><td>02/01</td><td>新增緊急公告</td></tr>' +
         '<tr><td>01/20</td><td>新增緊急公告</td></tr>' +
         '<tr><td>12/22</td><td>新增緊急公告</td></tr>' +
@@ -194,14 +195,13 @@ var showInfoMessage = function(){
         type: 'blue',
         title: '資訊',
         content: 
-        '01/20起調整醫療院所門禁及人員管制措施。 👉<a target="_blank" href="https://www.facebook.com/mohw.gov.tw/posts/1790278104471933">詳細資訊</a><br />' + 
-        '因應春節將近，交通部公告應變措施。 👉<a target="_blank" href="https://www.facebook.com/motc.gov.tw/posts/1728586150635286">詳細資訊</a><br />' + 
+        '公費COVID-19疫苗接種對象已經開放到第6類。<br />👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159035682048407">詳細資訊</a><br /><br />' + 
         '部分藥局採發放號碼牌方便民眾購買口罩，故系統無法顯示已發送號碼牌數量。<br />' + 
         '口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。<br />' + 
         '本網站會自動更新庫存，不用重新整理。<br />' + 
         '全民抗疫，請保持耐心與禮貌哦！<br /><br />' +
-        '案 908 國內活動軌跡 👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10158826796508407">詳細資訊</a><br /><br />' + 
-        '<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10158826796508407"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/142785965_10158826864148407_2100204353397089090_o.jpg?_nc_cat=1&ccb=2&_nc_sid=730e14&_nc_ohc=Ssj8zH6iSfsAX99sNjn&_nc_ht=scontent.ftpe8-3.fna&oh=2dc3bbb831b1f6489397e5b06ea36dd7&oe=603BDEE5" /></a>',
+        '案 1112 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159037712413407">詳細資訊</a><br /><br />' + 
+        '<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159037712413407"><img src="https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.6435-9/176913432_10159037710973407_1160931403234544996_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=730e14&_nc_ohc=Wd8Riw-JzIMAX-KrvuH&_nc_ht=scontent.ftpe8-4.fna&oh=a8b91b391f642e3f0da1b275b09a3582&oe=60ADD964" /></a>',
         backgroundDismiss: true
     });
 };
@@ -215,8 +215,8 @@ var showTopMessage = function(){
         type: 'blue',
         title: '重要通知',
         content: 
-        '01/20起調整醫療院所門禁及人員管制措施。<br />👉<a target="_blank" href="https://www.facebook.com/mohw.gov.tw/posts/1790278104471933">詳細資訊</a><br /><br />' + 
-        '因應春節將近，交通部公告應變措施。<br />👉<a target="_blank" href="https://www.facebook.com/motc.gov.tw/posts/1728586150635286">詳細資訊</a><br /><br />' + 
+        '案 1112 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159037712413407">詳細資訊</a><br /><br />' + 
+        '公費COVID-19疫苗接種對象已經開放到第6類。<br />👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159035682048407">詳細資訊</a><br /><br />' + 
         '口罩預購詳右下角 <i class="fas fa-info"></i> 按鈕。<br /><br />' + 
         '本網站會自動更新庫存，不用重新整理。<br />' + 
         '全民抗疫，請保持耐心與禮貌哦！' +
@@ -242,8 +242,9 @@ var showWarningMessage = function(){
         '若有不適，請撥打1922防疫專線，就醫時主動告知活動暴露史。<br />' +
         '搭乘大眾運輸時，應全程配戴口罩並配合量測體溫，<br />' + 
         '若身體不適請戴口罩速就醫，主動告知旅遊、接觸史等，並落實生病在家休息。<br /><br />' + 
-        '案 908 國內活動軌跡 👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10158826796508407">詳細資訊</a><br /><br />' + 
-        '<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10158826796508407"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/142785965_10158826864148407_2100204353397089090_o.jpg?_nc_cat=1&ccb=2&_nc_sid=730e14&_nc_ohc=Ssj8zH6iSfsAX99sNjn&_nc_ht=scontent.ftpe8-3.fna&oh=2dc3bbb831b1f6489397e5b06ea36dd7&oe=603BDEE5" /></a>'
+        '案 1091 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159026141423407">詳細資訊</a><br />' + 
+        '案 1112 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159037712413407">詳細資訊</a><br /><br />' + 
+        '<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159037712413407"><img src="https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.6435-9/176913432_10159037710973407_1160931403234544996_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=730e14&_nc_ohc=Wd8Riw-JzIMAX-KrvuH&_nc_ht=scontent.ftpe8-4.fna&oh=a8b91b391f642e3f0da1b275b09a3582&oe=60ADD964" /></a>'
     });
 };
 
