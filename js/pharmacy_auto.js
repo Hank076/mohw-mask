@@ -2401,7 +2401,7 @@ locations = [
 {"lng":"121.500686","lat":"25.005026","name":"杏安藥局","id":"5931044240","tel":"0222430281","addr":"新北市中和區莊敬路35號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上8:30發放號碼牌,保留購買權利至當日20:00"},
 {"lng":"121.496285","lat":"24.999302","name":"冠品藥師藥局","id":"5931044268","tel":"0222452129","addr":"新北市中和區連城路119號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOO"},
 {"lng":"121.493837","lat":"24.991304","name":"維康藥局雙和店","id":"5931044277","tel":"0222431962","addr":"新北市中和區圓通路252號1樓","business_week":"OOOOOOOOOOOOOOXXXXXXX","memo":"防疫口罩請帶健保卡領取!星期天不發放防疫口罩!"},
-{"lng":"121.51309","lat":"24.988882","name":"順心藥局","id":"5931044357","tel":"0229429680","addr":"新北市中和區景新街439號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"自3月4日起、口罩發放號碼牌及領取時間為週一到週六：下午3點到5點半止"},
+{"lng":"121.51309","lat":"24.988882","name":"順心藥局","id":"5931044357","tel":"0229429680","addr":"新北市中和區景新街439號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制口罩販售至4\/30，不再販售，謝謝"},
 {"lng":"121.509238","lat":"24.998582","name":"藥聯藥師藥局","id":"5931044375","tel":"0229481198","addr":"新北市中和區宜安路143號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.472475","lat":"25.000883","name":"躍獅康銓藥局","id":"5931044393","tel":"0229646452","addr":"新北市中和區莒光路146號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOO","memo":"政府防疫口罩：週一到週六9:30~22:00販售口罩，週日停售口罩."},
 {"lng":"121.496459","lat":"25.003369","name":"喬登藥局","id":"5931044419","tel":"0222470273","addr":"新北市中和區景平路697號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
