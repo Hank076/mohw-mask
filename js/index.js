@@ -1,5 +1,5 @@
 var bShowWarningMessage = true;
-var warningDateline = 20210514;
+var warningDateline = 20210517;
 var fullDate = new Date();
 var yyyy = fullDate.getFullYear();
 var MM = (fullDate.getMonth() + 1) >= 10 ? (fullDate.getMonth() + 1) : ("0" + (fullDate.getMonth() + 1));
@@ -123,6 +123,7 @@ var showVersionHistory = function(){
         type: 'green',
         title: '版本資訊',
         content: '<table class="table table-bordered table-condensed table-striped"><tr><th>版本</th><th>歷程</th></tr>' +
+        '<tr><td>05/03</td><td>新增緊急公告</td></tr>' +
         '<tr><td>04/28</td><td>新增緊急公告</td></tr>' +
         '<tr><td>02/01</td><td>新增緊急公告</td></tr>' +
         '<tr><td>01/20</td><td>新增緊急公告</td></tr>' +
@@ -200,8 +201,8 @@ var showInfoMessage = function(){
         '口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。<br />' + 
         '本網站會自動更新庫存，不用重新整理。<br />' + 
         '全民抗疫，請保持耐心與禮貌哦！<br /><br />' +
-        '案 1112 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159037712413407">詳細資訊</a><br /><br />' + 
-        '<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159037712413407"><img src="https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.6435-9/176913432_10159037710973407_1160931403234544996_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=730e14&_nc_ohc=Wd8Riw-JzIMAX-KrvuH&_nc_ht=scontent.ftpe8-4.fna&oh=a8b91b391f642e3f0da1b275b09a3582&oe=60ADD964" /></a>',
+        '案 1136 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159049135818407">詳細資訊</a><br /><br />' + 
+        '<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159049135818407"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.6435-9/182332569_10159049135208407_3145278916011752357_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=lLwvmMs1-WMAX9iCNbW&_nc_ht=scontent.ftpe8-3.fna&oh=b649b9a13358830995d1fbcb35754fa4&oe=60B4531C" /></a>',
         backgroundDismiss: true
     });
 };
@@ -215,7 +216,7 @@ var showTopMessage = function(){
         type: 'blue',
         title: '重要通知',
         content: 
-        '案 1112 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159037712413407">詳細資訊</a><br /><br />' + 
+        '案 1136 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159049135818407">詳細資訊</a><br /><br />' + 
         '公費COVID-19疫苗接種對象已經開放到第6類。<br />👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159035682048407">詳細資訊</a><br /><br />' + 
         '口罩預購詳右下角 <i class="fas fa-info"></i> 按鈕。<br /><br />' + 
         '本網站會自動更新庫存，不用重新整理。<br />' + 
@@ -243,8 +244,9 @@ var showWarningMessage = function(){
         '搭乘大眾運輸時，應全程配戴口罩並配合量測體溫，<br />' + 
         '若身體不適請戴口罩速就醫，主動告知旅遊、接觸史等，並落實生病在家休息。<br /><br />' + 
         '案 1091 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159026141423407">詳細資訊</a><br />' + 
-        '案 1112 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159037712413407">詳細資訊</a><br /><br />' + 
-        '<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159037712413407"><img src="https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.6435-9/176913432_10159037710973407_1160931403234544996_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=730e14&_nc_ohc=Wd8Riw-JzIMAX-KrvuH&_nc_ht=scontent.ftpe8-4.fna&oh=a8b91b391f642e3f0da1b275b09a3582&oe=60ADD964" /></a>'
+        '案 1112 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159037712413407">詳細資訊</a><br />' + 
+        '案 1136 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159049135818407">詳細資訊</a><br /><br />' + 
+        '<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159049135818407"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.6435-9/182332569_10159049135208407_3145278916011752357_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=lLwvmMs1-WMAX9iCNbW&_nc_ht=scontent.ftpe8-3.fna&oh=b649b9a13358830995d1fbcb35754fa4&oe=60B4531C" /></a>'
     });
 };
 
