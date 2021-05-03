@@ -201,6 +201,13 @@ var showInfoMessage = function(){
         '口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。<br />' + 
         '本網站會自動更新庫存，不用重新整理。<br />' + 
         '全民抗疫，請保持耐心與禮貌哦！<br /><br />' +
+        '案 1091 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159026141423407">詳細資訊</a><br />' + 
+        '案 1112 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159037712413407">詳細資訊</a><br />' + 
+        '案 1127 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/photos/a.187029023406/10159045019733407">詳細資訊</a><br />' + 
+        '案 1128 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/photos/a.187029023406/10159044451993407">詳細資訊</a><br />' + 
+        '案 1129 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159044450843407">詳細資訊</a><br />' + 
+        '案 1120 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159042111823407">詳細資訊</a><br />' + 
+        '案 1134 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/photos/a.187029023406/10159046855578407">詳細資訊</a><br />' + 
         '案 1136 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159049135818407">詳細資訊</a><br /><br />' + 
         '<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159049135818407"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.6435-9/182332569_10159049135208407_3145278916011752357_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=lLwvmMs1-WMAX9iCNbW&_nc_ht=scontent.ftpe8-3.fna&oh=b649b9a13358830995d1fbcb35754fa4&oe=60B4531C" /></a>',
         backgroundDismiss: true
@@ -245,6 +252,11 @@ var showWarningMessage = function(){
         '若身體不適請戴口罩速就醫，主動告知旅遊、接觸史等，並落實生病在家休息。<br /><br />' + 
         '案 1091 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159026141423407">詳細資訊</a><br />' + 
         '案 1112 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159037712413407">詳細資訊</a><br />' + 
+        '案 1127 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/photos/a.187029023406/10159045019733407">詳細資訊</a><br />' + 
+        '案 1128 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/photos/a.187029023406/10159044451993407">詳細資訊</a><br />' + 
+        '案 1129 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159044450843407">詳細資訊</a><br />' + 
+        '案 1120 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159042111823407">詳細資訊</a><br />' + 
+        '案 1134 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/photos/a.187029023406/10159046855578407">詳細資訊</a><br />' + 
         '案 1136 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159049135818407">詳細資訊</a><br /><br />' + 
         '<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159049135818407"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.6435-9/182332569_10159049135208407_3145278916011752357_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=lLwvmMs1-WMAX9iCNbW&_nc_ht=scontent.ftpe8-3.fna&oh=b649b9a13358830995d1fbcb35754fa4&oe=60B4531C" /></a>'
     });
