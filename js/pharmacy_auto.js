@@ -2532,7 +2532,7 @@ locations = [
 {"lng":"121.434938","lat":"25.032539","name":"建昌藥局","id":"5931068599","tel":"0229015422","addr":"新北市新莊區福營里中正路557號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販售時間:中午12:00起至售完為止"},
 {"lng":"121.428331","lat":"25.027166","name":"瑞豐大藥局","id":"5931068624","tel":"0222049932","addr":"新北市新莊區建福里後港一路105號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.456318","lat":"25.044486","name":"福華藥局","id":"5931068633","tel":"0289917390","addr":"新北市新莊區自立里復興路2段109號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
-{"lng":"121.455363","lat":"25.040197","name":"翔昱健保藥局","id":"5931068660","tel":"0229983056","addr":"新北市新莊區恆安里中港路120號","business_week":"OOXXXOOXXXXXXXOOOOOOO"},
+{"lng":"121.455363","lat":"25.040197","name":"翔昱健保藥局","id":"5931068660","tel":"0229983056","addr":"新北市新莊區恆安里中港路120號","business_week":"OOOXXOOXXXXXXXOOOOOOO"},
 {"lng":"121.428094","lat":"25.019012","name":"庭安藥局","id":"5931068722","tel":"0222080528","addr":"新北市新莊區民有里西盛街172號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.425981","lat":"25.022592","name":"森活藥局","id":"5931068759","tel":"0222027927","addr":"新北市新莊區民安路220－1號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.425144","lat":"25.023921","name":"東京大藥局","id":"5931068819","tel":"0222063806","addr":"新北市新莊區民安路176號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩代售時間為9:30開始現場排隊販售"},
