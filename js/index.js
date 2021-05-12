@@ -1,5 +1,5 @@
 var bShowWarningMessage = true;
-var warningDateline = 20210517;
+var warningDateline = 20210608;
 var fullDate = new Date();
 var yyyy = fullDate.getFullYear();
 var MM = (fullDate.getMonth() + 1) >= 10 ? (fullDate.getMonth() + 1) : ("0" + (fullDate.getMonth() + 1));
@@ -196,20 +196,13 @@ var showInfoMessage = function(){
         type: 'blue',
         title: '資訊',
         content: 
+        '🔔因應社區傳播風險升高，指揮中心即日起至6月8日，<br />提升疫情警戒至第二級，實施相關限制措施，嚴守社區防線<br /><br />' + 
         '公費COVID-19疫苗接種對象已經開放到第6類。<br />👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159035682048407">詳細資訊</a><br /><br />' + 
         '部分藥局採發放號碼牌方便民眾購買口罩，故系統無法顯示已發送號碼牌數量。<br />' + 
         '口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。<br />' + 
         '本網站會自動更新庫存，不用重新整理。<br />' + 
         '全民抗疫，請保持耐心與禮貌哦！<br /><br />' +
-        '案 1091 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159026141423407">詳細資訊</a><br />' + 
-        '案 1112 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159037712413407">詳細資訊</a><br />' + 
-        '案 1127 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/photos/a.187029023406/10159045019733407">詳細資訊</a><br />' + 
-        '案 1128 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/photos/a.187029023406/10159044451993407">詳細資訊</a><br />' + 
-        '案 1129 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159044450843407">詳細資訊</a><br />' + 
-        '案 1120 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159042111823407">詳細資訊</a><br />' + 
-        '案 1134 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/photos/a.187029023406/10159046855578407">詳細資訊</a><br />' + 
-        '案 1136 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159049135818407">詳細資訊</a><br /><br />' + 
-        '<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159049135818407"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.6435-9/182332569_10159049135208407_3145278916011752357_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=lLwvmMs1-WMAX9iCNbW&_nc_ht=scontent.ftpe8-3.fna&oh=b649b9a13358830995d1fbcb35754fa4&oe=60B4531C" /></a>',
+        '<a target="_blank" href="https://www.facebook.com/TWCDC/photos/a.187029023406/10159069054723407/"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.6435-0/p552x414/183442705_10159069054728407_2050353347920699546_n.png?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=gFJI9roAGR0AX_XOGZg&_nc_ht=scontent.ftpe8-3.fna&tp=30&oh=46569991beca03b8885bc12859dd0774&oe=60BF1BB1" /></a>',
         backgroundDismiss: true
     });
 };
@@ -223,12 +216,12 @@ var showTopMessage = function(){
         type: 'blue',
         title: '重要通知',
         content: 
-        '案 1136 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159049135818407">詳細資訊</a><br /><br />' + 
+        '🔔因應社區傳播風險升高，指揮中心即日起至6月8日，<br />提升疫情警戒至第二級，實施相關限制措施，嚴守社區防線<br /><br />' + 
         '公費COVID-19疫苗接種對象已經開放到第6類。<br />👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159035682048407">詳細資訊</a><br /><br />' + 
         '口罩預購詳右下角 <i class="fas fa-info"></i> 按鈕。<br /><br />' + 
         '本網站會自動更新庫存，不用重新整理。<br />' + 
         '全民抗疫，請保持耐心與禮貌哦！' +
-        '<a target="_blank" href="https://www.facebook.com/motc.gov.tw/posts/1728586150635286"><img src="https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.0-9/142807646_1729348313892403_8206700273940874609_o.jpg?_nc_cat=100&ccb=2&_nc_sid=730e14&_nc_ohc=rtKLs7DEnaQAX8y3Gk9&_nc_ht=scontent.ftpe8-2.fna&oh=cc9e7bbaa588ec377766b85994ee1119&oe=603B973C" /></a>',
+        '<a target="_blank" href="https://www.facebook.com/TWCDC/photos/a.187029023406/10159069054723407/"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.6435-0/p552x414/183442705_10159069054728407_2050353347920699546_n.png?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=gFJI9roAGR0AX_XOGZg&_nc_ht=scontent.ftpe8-3.fna&tp=30&oh=46569991beca03b8885bc12859dd0774&oe=60BF1BB1" /></a>',
         autoClose:'ok|10000',
         backgroundDismiss: true
     });
@@ -246,19 +239,11 @@ var showWarningMessage = function(){
         type: 'red',
         title: '緊急通知',
         content: 
-        '提醒民眾若曾於所列時段及地點活動，應自主健康管理，外出時請佩戴口罩，<br />' + 
+        '🔔因應社區傳播風險升高，指揮中心即日起至6月8日，<br />提升疫情警戒至第二級，實施相關限制措施，嚴守社區防線<br /><br />' + 
         '若有不適，請撥打1922防疫專線，就醫時主動告知活動暴露史。<br />' +
         '搭乘大眾運輸時，應全程配戴口罩並配合量測體溫，<br />' + 
         '若身體不適請戴口罩速就醫，主動告知旅遊、接觸史等，並落實生病在家休息。<br /><br />' + 
-        '案 1091 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159026141423407">詳細資訊</a><br />' + 
-        '案 1112 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159037712413407">詳細資訊</a><br />' + 
-        '案 1127 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/photos/a.187029023406/10159045019733407">詳細資訊</a><br />' + 
-        '案 1128 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/photos/a.187029023406/10159044451993407">詳細資訊</a><br />' + 
-        '案 1129 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159044450843407">詳細資訊</a><br />' + 
-        '案 1120 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159042111823407">詳細資訊</a><br />' + 
-        '案 1134 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/photos/a.187029023406/10159046855578407">詳細資訊</a><br />' + 
-        '案 1136 公共場所活動史 👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159049135818407">詳細資訊</a><br /><br />' + 
-        '<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159049135818407"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.6435-9/182332569_10159049135208407_3145278916011752357_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=lLwvmMs1-WMAX9iCNbW&_nc_ht=scontent.ftpe8-3.fna&oh=b649b9a13358830995d1fbcb35754fa4&oe=60B4531C" /></a>'
+        '<a target="_blank" href="https://www.facebook.com/TWCDC/photos/a.187029023406/10159069054723407/"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.6435-0/p552x414/183442705_10159069054728407_2050353347920699546_n.png?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=gFJI9roAGR0AX_XOGZg&_nc_ht=scontent.ftpe8-3.fna&tp=30&oh=46569991beca03b8885bc12859dd0774&oe=60BF1BB1" /></a>'
     });
 };
 
