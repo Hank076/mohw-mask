@@ -906,7 +906,7 @@ locations = [
 {"lng":"120.661468","lat":"24.148754","name":"美村全成藥局","id":"5903240170","tel":"0423014006","addr":"臺中市西區美村路1段222號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天販賣口罩時段為 09:30~12:00   14:00~21:00"},
 {"lng":"120.670011","lat":"24.147671","name":"鑫祐藥局","id":"5903240198","tel":"0423027778","addr":"臺中市西區民權路302－5號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上09:00-11:00先領號碼牌，11:00起憑號碼牌購買，週一至週六早上銷售，週日停售"},
 {"lng":"120.661308","lat":"24.151048","name":"捷登藥局","id":"5903240205","tel":"0423191929","addr":"臺中市西區公益路106號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上9:00 開始販售口罩，售完為止."},
-{"lng":"120.661833","lat":"24.139386","name":"美術藥局","id":"5903240278","tel":"0423725286","addr":"臺中市西區美村路一段567號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"星期一到六，售完為止。"},
+{"lng":"120.661833","lat":"24.139386","name":"美術藥局","id":"5903240278","tel":"0423725286","addr":"臺中市西區美村路一段567號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"口罩星期一到六，售完為止。"},
 {"lng":"120.661469","lat":"24.15299","name":"美村大藥局","id":"5903240287","tel":"0423288121","addr":"臺中市西區美村路一段62號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"周一至周六，限定9:30~中午12點販售口罩，其餘時間停售"},
 {"lng":"120.661497","lat":"24.145304","name":"早齋藥局","id":"5903240358","tel":"0423029168","addr":"臺中市西區美村路一段342號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"周一至周六09:00-11:00販售口罩"},
 {"lng":"120.660109","lat":"24.136355","name":"宇祥藥局","id":"5903240367","tel":"0423728239","addr":"臺中市西區五權五街119號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
