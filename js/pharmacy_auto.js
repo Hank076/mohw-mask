@@ -4282,7 +4282,7 @@ locations = [
 {"lng":"120.429322","lat":"23.645901","name":"尚成藥局","id":"5939081094","tel":"055912472","addr":"雲林縣大埤鄉中山路76號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"販賣口罩時間：0800-0900；1400-1500"},
 {"lng":"120.500156","lat":"23.757502","name":"明泰藥局","id":"5939090146","tel":"055842824","addr":"雲林縣莿桐鄉莿桐村中山路106號","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"販賣口罩時間08:30至完售"},
 {"lng":"120.519431","lat":"23.777814","name":"西河藥局","id":"5939091170","tel":"055842950","addr":"雲林縣莿桐鄉饒平村饒平路102號","business_week":"OOOOOOOOOOOOOXOOOOXXX","memo":"8:00開始販賣口罩"},
-{"lng":"120.523586","lat":"23.776342","name":"禾季藥局","id":"5939091269","tel":"055713685","addr":"雲林縣莿桐鄉興貴村興北10之14號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"販賣口罩時間08:00至完售"},
+{"lng":"120.523586","lat":"23.776342","name":"禾季藥局","id":"5939091269","tel":"055713685","addr":"雲林縣莿桐鄉興貴村興北10之14號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"販賣口罩時間08:00至完售"},
 {"lng":"120.513422","lat":"23.736949","name":"大美社區藥局","id":"5939091278","tel":"055848579","addr":"雲林縣莿桐鄉大美村23－1號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.6162","lat":"23.759052","name":"仁愛藥局","id":"5939100030","tel":"055892259","addr":"雲林縣林內鄉林中村中正路184號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.61455","lat":"23.758782","name":"文生堂藥局","id":"5939100058","tel":"055895103","addr":"雲林縣林內鄉光復路22號","business_week":"OOOOOXXOOOOOOXOOOOOOX","memo":"口罩星期一到星期六早上8點開始販賣 售完為止11月25.26日休息"},
