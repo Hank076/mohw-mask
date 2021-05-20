@@ -120,7 +120,7 @@ locations = [
 {"lng":"121.519115","lat":"25.053557","name":"時春藥局","id":"5901090181","tel":"0225597918","addr":"臺北市大同區赤峰街4號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"121.515044","lat":"25.05485","name":"建祥藥局","id":"5901090243","tel":"0225556476","addr":"臺北市大同區寧夏路17號、17－1號","business_week":"OOOOOXXOOOOOOXOOOOOXX","memo":"週六中午12點到晚上8點"},
 {"lng":"121.511035","lat":"25.06806","name":"正利民藥局","id":"5901090289","tel":"0225924842","addr":"臺北市大同區延平北路3段105號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一至週六早上開始配售，下午2:00~4:00休息，週日販售剩餘口罩."},
-{"lng":"121.514619","lat":"25.07303","name":"泰元藥局","id":"5901090323","tel":"0225914592","addr":"臺北市大同區哈密街91號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩代售: 每天上午 9:00開始，75%酒精供貨中"},
+{"lng":"121.514619","lat":"25.07303","name":"泰元藥局","id":"5901090323","tel":"0225914592","addr":"臺北市大同區哈密街91號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩代售: 每天上午 9:00開始"},
 {"lng":"121.512944","lat":"25.059258","name":"保慶藥局","id":"5901090369","tel":"0225538988","addr":"臺北市大同區保安街21號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.507656","lat":"25.053588","name":"快安藥局","id":"5901091473","tel":"0225561925","addr":"臺北市大同區南京西路282、284號","business_week":"XXXXXXXOOOOOXXXXXXXXX","memo":"下午2:00開始販售口罩，  至傍晚18:00，星期日休息"},
 {"lng":"121.511467","lat":"25.060289","name":"得意藥師藥局","id":"5901091544","tel":"0225534294","addr":"臺北市大同區延平北路2段229號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
