@@ -474,7 +474,7 @@ locations = [
 {"lng":"121.500693","lat":"25.02336","name":"信昌藥局","id":"5901190177","tel":"0223054898","addr":"臺北市萬華區長泰街36號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"販售口罩時間:週一~週六9:30~20:45;售完為止"},
 {"lng":"121.499962","lat":"25.026277","name":"民和藥局","id":"5901190211","tel":"0223038134","addr":"臺北市萬華區民和街5號1樓","business_week":"OOOOOOOOOOOOOXOOOOOXX"},
 {"lng":"121.5025","lat":"25.039949","name":"生活大藥局","id":"5901190220","tel":"0223618609","addr":"臺北市萬華區貴陽街2段124號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
-{"lng":"121.493256","lat":"25.033962","name":"民鈺藥局","id":"5901190284","tel":"0223084270","addr":"臺北市萬華區環河南路2段139號1樓","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"口罩"},
+{"lng":"121.493256","lat":"25.033962","name":"民鈺藥局","id":"5901190284","tel":"0223084270","addr":"臺北市萬華區環河南路2段139號1樓","business_week":"OOOOOOXOOOOOOXXXXXXXX","memo":"因疫情，星期一到星期六，每日營業時間為早上9點到下午4點半，星期日休息，每日12點到12點半為休息"},
 {"lng":"121.504577","lat":"25.042163","name":"您永安藥局","id":"5901190408","tel":"0223317119","addr":"臺北市萬華區昆明街162號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.501626","lat":"25.02279","name":"皇祥藥局","id":"5901190426","tel":"0223375676","addr":"臺北市萬華區萬青街165號1樓","business_week":"OOOOOOXOOOOOXOOOOOOOX","memo":"口罩9.30到9.00(4\/3~4\/4)休假"},
 {"lng":"121.49466","lat":"25.027909","name":"安聖藥局","id":"5901190444","tel":"0223037620","addr":"臺北市萬華區西園路2段256號1Ｆ","business_week":"OOOOOOXOOOOOOXXXXXXXX","memo":"服務時間:周一至周五9:00~18:00，周六9:00~18:00，例假日休息。口罩如有庫存則營業時間即開放購買"},
