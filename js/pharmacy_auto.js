@@ -4832,7 +4832,7 @@ locations = [
 {"lng":"120.533325","lat":"22.689952","name":"睦昌藥局","id":"5943060030","tel":"087622433","addr":"屏東縣長治鄉崑崙路188之15號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"上午9點至晚上9點為口罩販賣時間.售完為止"},
 {"lng":"120.575712","lat":"22.70306","name":"忠安中西藥局","id":"5943060049","tel":"087621326","addr":"屏東縣長治鄉中山路10號","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"營業日07:30為販賣口罩時間.售完為止"},
 {"lng":"120.533268","lat":"22.689785","name":"臺灣人藥師藥局","id":"5943060058","tel":"087625315","addr":"屏東縣長治鄉崙上村崑崙路188－10號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
-{"lng":"120.520729","lat":"22.679219","name":"長興藥師藥局","id":"5943060067","tel":"087382328","addr":"屏東縣長治鄉長興路306號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"營業時間販售.週日固定公休."},
+{"lng":"120.520729","lat":"22.679219","name":"長興藥師藥局","id":"5943060067","tel":"087382328","addr":"屏東縣長治鄉長興路306號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"下午2;30後開始販售.週日固定公休."},
 {"lng":"120.527102","lat":"22.677546","name":"佑安藥局","id":"5943061082","tel":"087383958","addr":"屏東縣長治鄉新潭村長興路24之1號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"每天下午5點半開始賣實名制口罩，售完為止!我們每週週休二日"},
 {"lng":"120.511721","lat":"22.665106","name":"瑞安藥局","id":"5943061091","tel":"087237236","addr":"屏東縣長治鄉瑞源路11號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"營業日08;00開始.12點到2點休息"},
 {"lng":"120.52454","lat":"22.673984","name":"宏大藥師藥局潭頭店","id":"5943061135","tel":"087369957","addr":"屏東縣長治鄉潭頭路155號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業日上午8:30點起販賣口罩，售完為止"},
