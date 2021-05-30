@@ -2842,7 +2842,7 @@ locations = [
 {"lng":"121.431915","lat":"25.060021","name":"台灣藥局","id":"5931161353","tel":"0222971969","addr":"新北市泰山區明志路1段282－286號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.424219","lat":"25.039057","name":"仁安藥局","id":"5931161433","tel":"0229015586","addr":"新北市泰山區明志路3段174號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.433508","lat":"25.062438","name":"紅葉藥局","id":"5931161460","tel":"0222960328","addr":"新北市泰山區楓江路8號2樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
-{"lng":"121.433084","lat":"25.055298","name":"旭晨藥局","id":"5931161488","tel":"0222970013","addr":"新北市泰山區仁愛路90號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期一到六全日看診，星期日休診"},
+{"lng":"121.433084","lat":"25.055298","name":"旭晨藥局","id":"5931161488","tel":"0222970013","addr":"新北市泰山區仁愛路90號1樓","business_week":"OOOOOOXXXXXXXXOOOOOOX","memo":"星期一到六 8:00~12:0AM， 17:30~21:00營業"},
 {"lng":"121.434162","lat":"25.056194","name":"苗園健保特約藥局","id":"5931161513","tel":"0222970736","addr":"新北市泰山區仁愛路92號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"口罩販賣時間如同營業時間"},
 {"lng":"121.433953","lat":"25.055732","name":"得安藥師藥局","id":"5931161540","tel":"0229000992","addr":"新北市泰山區仁愛路128號1樓","business_week":"OOOOOOXXXXXXXXOOOOOXX","memo":"營業時間皆有販售口罩，週日休"},
 {"lng":"121.430352","lat":"25.039715","name":"立赫輔大藥局","id":"5931161577","tel":"0229060306","addr":"新北市泰山區貴子路65號1樓","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"營業時間：9:30-19:30"},
