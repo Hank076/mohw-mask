@@ -251,7 +251,7 @@ locations = [
 {"lng":"121.584753","lat":"25.045641","name":"麗康藥局","id":"5901121449","tel":"0226515236","addr":"臺北市南港區同德路51號","business_week":"OOOOOOXOOOOOOOOOOOOOO"},
 {"lng":"121.583236","lat":"25.044788","name":"親親藥局","id":"5901121501","tel":"0226537635","addr":"臺北市南港區玉成街140巷7號1樓","business_week":"OOOOOOOOOOOOOOOOOOOXO"},
 {"lng":"121.585894","lat":"25.04574","name":"上丞藥師藥局","id":"5901121574","tel":"0226535589","addr":"臺北市南港區成福路10號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"春節期間2\/5-2\/7休息"},
-{"lng":"121.61657","lat":"25.054014","name":"健園藥局","id":"5901121583","tel":"0227851567","addr":"臺北市南港區研究院路1段19號1樓","business_week":"OOOOOOOOOOOOXXOOOOOXX"},
+{"lng":"121.61657","lat":"25.054014","name":"健園藥局","id":"5901121583","tel":"0227851567","addr":"臺北市南港區研究院路1段19號1樓","business_week":"OOOOOOOOOOOOXXOOOOOXX","memo":"6\/14日端午節休息"},
 {"lng":"121.588267","lat":"25.040919","name":"新東發藥局","id":"5901121618","tel":"0227855190","addr":"臺北市南港區成福路198號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.616512","lat":"25.051809","name":"富康活力藥局","id":"5901121627","tel":"0227828810","addr":"臺北市南港區研究院路1段101巷8號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一至週六，每天09:00開始販售口罩，請記得帶健保卡&零錢，售完為止。"},
 {"lng":"121.606059","lat":"25.055447","name":"亞博藥師藥局","id":"5901121672","tel":"0227838090","addr":"臺北市南港區興華路81號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
