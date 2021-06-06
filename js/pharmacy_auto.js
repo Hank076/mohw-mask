@@ -2682,7 +2682,7 @@ locations = [
 {"lng":"121.652863","lat":"25.064899","name":"康元中西綜合藥局","id":"5931111915","tel":"0286923648","addr":"新北市汐止區大同路2段219號","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"周一到周六下午三點至五點發放.假日停售"},
 {"lng":"121.662388","lat":"25.070236","name":"我家藥局","id":"5931111951","tel":"0286910840","addr":"新北市汐止區中正路29號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"春節期間看診時段請電洽"},
 {"lng":"121.66322","lat":"25.063966","name":"滿益藥局","id":"5931111988","tel":"0286421562","addr":"新北市汐止區仁愛路130號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"口罩代售時間自13:30 ， 現場排隊"},
-{"lng":"121.621272","lat":"25.041603","name":"吉安康健保藥師藥局","id":"5931112047","tel":"0226405881","addr":"新北市汐止區宜興街11號1樓","business_week":"XXXXXXXXXOXXOXXXOXXOX"},
+{"lng":"121.621272","lat":"25.041603","name":"吉安康健保藥師藥局","id":"5931112047","tel":"0226405881","addr":"新北市汐止區宜興街11號1樓","business_week":"XXXXXXXXXXXXXXXXOXXOX","memo":"營業時間以現場公告為主"},
 {"lng":"121.621101","lat":"25.041259","name":"裕和藥局","id":"5931112083","tel":"0226609119","addr":"新北市汐止區宜興街4號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"22.30停發口罩"},
 {"lng":"121.633454","lat":"25.064469","name":"汐芷藥局","id":"5931112136","tel":"0226924087","addr":"新北市汐止區福德一路255號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.663313","lat":"25.068086","name":"汐止健康人生藥局","id":"5931112145","tel":"0286421820","addr":"新北市汐止區忠孝東路269號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"9:30~22:00，口罩代售時間自14:00~17:00 ；現場排隊"},
