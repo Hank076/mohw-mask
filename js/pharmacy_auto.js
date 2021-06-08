@@ -1186,7 +1186,7 @@ locations = [
 {"lng":"120.19026","lat":"22.969653","name":"康而富藥局","id":"5905330346","tel":"062639373","addr":"臺南市南區鹽埕里金華路1段375號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"星期一~星期六 12:00開始販售到17:00(售完為止) 星期日.國定假日公休"},
 {"lng":"120.188268","lat":"22.959741","name":"明興啄木鳥藥局","id":"5905330355","tel":"062620793","addr":"臺南市南區明興路51號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"星期一~六 10:00售完"},
 {"lng":"120.191035","lat":"23.005838","name":"日日康藥局","id":"5905340011","tel":"062595259","addr":"臺南市中西區武聖路137號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
-{"lng":"120.194881","lat":"22.999108","name":"福氣藥局","id":"5905340057","tel":"062221590","addr":"臺南市中西區民族路三段179號1樓","business_week":"OOOOOOXOOOOOXXOOOOOOO","memo":"16-19點販售健保口罩"},
+{"lng":"120.194881","lat":"22.999108","name":"福氣藥局","id":"5905340057","tel":"062221590","addr":"臺南市中西區民族路三段179號1樓","business_week":"OOOOOOXXXXXXXXOOOOOXO"},
 {"lng":"120.19165","lat":"22.98835","name":"麗欣健保藥局","id":"5905340075","tel":"062209393","addr":"臺南市中西區永華路一段194號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"w1~w6早上9:30開始發放口罩"},
 {"lng":"120.1981962","lat":"22.9908462","name":"東北藥局","id":"5905340155","tel":"062226753","addr":"臺南市中西區福安里西門路二段14號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"上午9點至晚上10點，星期日公休"},
 {"lng":"120.196875","lat":"22.993256","name":"田邊藥局","id":"5905340164","tel":"062200106","addr":"臺南市中西區中正路236號","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"口罩下午1:00販售售完為止.請自備零錢，"},
