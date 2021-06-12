@@ -1,5 +1,5 @@
 var bShowWarningMessage = true;
-var warningDateline = 20210608;
+var warningDateline = 20210629;
 var fullDate = new Date();
 var yyyy = fullDate.getFullYear();
 var MM = (fullDate.getMonth() + 1) >= 10 ? (fullDate.getMonth() + 1) : ("0" + (fullDate.getMonth() + 1));
@@ -196,13 +196,12 @@ var showInfoMessage = function(){
         type: 'blue',
         title: '資訊',
         content: 
-        '🔔因應社區傳播風險升高，指揮中心即日起至6月8日，<br />提升疫情警戒至第二級，實施相關限制措施，嚴守社區防線<br /><br />' + 
-        '公費COVID-19疫苗接種對象已經開放到第6類。<br />👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159035682048407">詳細資訊</a><br /><br />' + 
+        '🔔全國疫情警戒第三級延長至6月28日止<br /><br />' + 
         '部分藥局採發放號碼牌方便民眾購買口罩，故系統無法顯示已發送號碼牌數量。<br />' + 
         '口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。<br />' + 
         '本網站會自動更新庫存，不用重新整理。<br />' + 
         '全民抗疫，請保持耐心與禮貌哦！<br /><br />' +
-        '<a target="_blank" href="https://www.facebook.com/TWCDC/photos/a.187029023406/10159069054723407/"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.6435-0/p552x414/183442705_10159069054728407_2050353347920699546_n.png?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=gFJI9roAGR0AX_XOGZg&_nc_ht=scontent.ftpe8-3.fna&tp=30&oh=46569991beca03b8885bc12859dd0774&oe=60BF1BB1" /></a>',
+        '<a target="_blank" href="https://www.facebook.com/TWCDC/photos/a.187029023406/10159131395593407/"><img src="https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/191725964_10159131395598407_2133671331429041913_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=730e14&_nc_ohc=jvHM7sDRuXUAX9TRjkH&_nc_ht=scontent.ftpe8-2.fna&oh=8efc23b962e6bf87c65f9a653e30311a&oe=60CAAE84" /></a>',
         backgroundDismiss: true
     });
 };
@@ -216,12 +215,11 @@ var showTopMessage = function(){
         type: 'blue',
         title: '重要通知',
         content: 
-        '🔔因應社區傳播風險升高，指揮中心即日起至6月8日，<br />提升疫情警戒至第二級，實施相關限制措施，嚴守社區防線<br /><br />' + 
-        '公費COVID-19疫苗接種對象已經開放到第6類。<br />👉<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159035682048407">詳細資訊</a><br /><br />' + 
+        '🔔全國疫情警戒第三級延長至6月28日止<br /><br />' + 
         '口罩預購詳右下角 <i class="fas fa-info"></i> 按鈕。<br /><br />' + 
         '本網站會自動更新庫存，不用重新整理。<br />' + 
         '全民抗疫，請保持耐心與禮貌哦！' +
-        '<a target="_blank" href="https://www.facebook.com/TWCDC/photos/a.187029023406/10159069054723407/"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.6435-0/p552x414/183442705_10159069054728407_2050353347920699546_n.png?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=gFJI9roAGR0AX_XOGZg&_nc_ht=scontent.ftpe8-3.fna&tp=30&oh=46569991beca03b8885bc12859dd0774&oe=60BF1BB1" /></a>',
+        '<a target="_blank" href="https://www.facebook.com/TWCDC/photos/a.187029023406/10159131395593407/"><img src="https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/191725964_10159131395598407_2133671331429041913_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=730e14&_nc_ohc=jvHM7sDRuXUAX9TRjkH&_nc_ht=scontent.ftpe8-2.fna&oh=8efc23b962e6bf87c65f9a653e30311a&oe=60CAAE84" /></a>',
         autoClose:'ok|10000',
         backgroundDismiss: true
     });
@@ -239,11 +237,11 @@ var showWarningMessage = function(){
         type: 'red',
         title: '緊急通知',
         content: 
-        '🔔因應社區傳播風險升高，指揮中心即日起至6月8日，<br />提升疫情警戒至第二級，實施相關限制措施，嚴守社區防線<br /><br />' + 
+        '🔔全國疫情警戒第三級延長至6月28日止<br /><br />' + 
         '若有不適，請撥打1922防疫專線，就醫時主動告知活動暴露史。<br />' +
         '搭乘大眾運輸時，應全程配戴口罩並配合量測體溫，<br />' + 
         '若身體不適請戴口罩速就醫，主動告知旅遊、接觸史等，並落實生病在家休息。<br /><br />' + 
-        '<a target="_blank" href="https://www.facebook.com/TWCDC/photos/a.187029023406/10159069054723407/"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.6435-0/p552x414/183442705_10159069054728407_2050353347920699546_n.png?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=gFJI9roAGR0AX_XOGZg&_nc_ht=scontent.ftpe8-3.fna&tp=30&oh=46569991beca03b8885bc12859dd0774&oe=60BF1BB1" /></a>'
+        '<a target="_blank" href="https://www.facebook.com/TWCDC/photos/a.187029023406/10159131395593407/"><img src="https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/191725964_10159131395598407_2133671331429041913_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=730e14&_nc_ohc=jvHM7sDRuXUAX9TRjkH&_nc_ht=scontent.ftpe8-2.fna&oh=8efc23b962e6bf87c65f9a653e30311a&oe=60CAAE84" /></a>',
     });
 };
 
