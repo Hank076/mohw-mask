@@ -208,7 +208,7 @@ locations = [
 {"lng":"121.591996","lat":"25.08033","name":"杏佳藥局","id":"5901111863","tel":"0227915726","addr":"臺北市內湖區康寧路1段51號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"口罩代售時間早上9點開始，星期日不販售..請現場排隊"},
 {"lng":"121.615788","lat":"25.06785","name":"安康藥局","id":"5901111890","tel":"0226327675","addr":"臺北市內湖區安康路482號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.578502","lat":"25.079246","name":"至康藥局","id":"5901111934","tel":"0226580022","addr":"臺北市內湖區內湖路1段737巷19弄1號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"上午9:30開始販售，售完為止"},
-{"lng":"121.559897","lat":"25.085443","name":"文新藥局","id":"5901112011","tel":"0287978865","addr":"臺北市內湖區文湖街7－5號1樓","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"5\/17~5\/28 營業時間至19:00"},
+{"lng":"121.559897","lat":"25.085443","name":"文新藥局","id":"5901112011","tel":"0287978865","addr":"臺北市內湖區文湖街7－5號1樓","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"5\/17~6\/13 營業時間至19:00"},
 {"lng":"121.612874","lat":"25.071331","name":"盧狄聯合藥局","id":"5901112100","tel":"0226308897","addr":"臺北市內湖區康寧路3段189巷57號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"營業時間早上9點至晚上8點， 週六半天 #盒裝醫療口罩\/時尚特色口罩特價供應中"},
 {"lng":"121.606229","lat":"25.072031","name":"康信藥局","id":"5901112351","tel":"0226342088","addr":"臺北市內湖區民權東路6段296巷29號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"兒童口罩:全天供應.成人口罩發放時間:下午4:00.售完為止"},
 {"lng":"121.618859","lat":"25.070147","name":"康健藥局","id":"5901112593","tel":"0226305825","addr":"臺北市內湖區康樂街80號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期日不販售口罩"},
