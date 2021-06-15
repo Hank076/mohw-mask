@@ -3120,7 +3120,7 @@ locations = [
 {"lng":"121.291631","lat":"25.048793","name":"康而美聖安藥師藥局","id":"5932051472","tel":"033228753","addr":"桃園市蘆竹區南山路一段二之一號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"口罩販賣時段 早上8點至9點 售完為止"},
 {"lng":"121.255959","lat":"25.024697","name":"大安藥局","id":"5932051972","tel":"033137380","addr":"桃園市蘆竹區大新路一Ｏ七號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時段：週一至週日8:15起發號碼牌，以藥局實際公告的為主"},
 {"lng":"121.291266","lat":"25.050395","name":"英登藥局","id":"5932052004","tel":"032124606","addr":"桃園市蘆竹區南崁路三四四號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
-{"lng":"121.288514","lat":"25.039428","name":"誼康藥局","id":"5932052068","tel":"033129045","addr":"桃園市蘆竹區奉化路一二六號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩每日下午兩點開始販售；現場排隊"},
+{"lng":"121.288514","lat":"25.039428","name":"誼康藥局","id":"5932052068","tel":"033129045","addr":"桃園市蘆竹區奉化路一二六號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩每日下午兩點開始販售；現場排隊"},
 {"lng":"121.293359","lat":"25.047653","name":"明安藥局","id":"5932052077","tel":"033527087","addr":"桃園市蘆竹區南竹路一之六號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販售時段；周一至周日上午10點~晚上10點"},
 {"lng":"121.295433","lat":"25.046095","name":"連安藥局","id":"5932052086","tel":"033522333","addr":"桃園市蘆竹區南崁路一一二號二樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩販賣時段：週一至週六8:10"},
 {"lng":"121.295698","lat":"25.04585","name":"樺生藥師藥局","id":"5932052200","tel":"033121821","addr":"桃園市蘆竹區南崁路96號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"口罩販賣時段：10:00-12:00 15:00-18:00(周一至周六)"},
