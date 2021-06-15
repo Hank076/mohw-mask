@@ -11,13 +11,6 @@ if(parseInt(today) >= warningDateline){
 }
 
 $(function() {
-
-    if($.cookie('pionexAD') === undefined){
-        $.cookie('pionexAD', '1', { expires: 1, path: '/' });
-    }else{
-        $('#ad').remove();
-    }
-    
     $("#info").click(function(event) {
         showInfoMessage();
     });
@@ -28,8 +21,6 @@ $(function() {
     });
 
     var clock = setInterval(function() {reloadStrongholdData(true);} , 120000);
-    
-    
 });
 
 var showUpdateProcessByManual = function(){   
