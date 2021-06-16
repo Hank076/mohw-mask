@@ -4366,7 +4366,7 @@ locations = [
 {"lng":"120.347515","lat":"23.554503","name":"全安藥局","id":"5940060010","tel":"053746126","addr":"嘉義縣新港鄉宮前村中山路85號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"周一周日 10:00點開始發口罩 現場排隊發到完為止"},
 {"lng":"120.346821","lat":"23.556544","name":"黃莉雅藥局","id":"5940060056","tel":"053747329","addr":"嘉義縣新港鄉宮前村新民路16號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.344966","lat":"23.556703","name":"新安藥局","id":"5940061133","tel":"053746386","addr":"嘉義縣新港鄉大興村福德路42號","business_week":"OOOOOOXOOOXOOXOOOXOOX","memo":"星期一至星期六10點-12點~售完為止"},
-{"lng":"120.344882","lat":"23.554181","name":"公園藥局","id":"5940061160","tel":"053740656","addr":"嘉義縣新港鄉福德村中山路72巷20號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上8點販售口罩售完為止"},
+{"lng":"120.344882","lat":"23.554181","name":"公園藥局","id":"5940061160","tel":"053740656","addr":"嘉義縣新港鄉福德村中山路72巷20號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.345719","lat":"23.556555","name":"安馨藥局","id":"5940061188","tel":"053745377","addr":"嘉義縣新港鄉大興村福德路18號","business_week":"OOOOOOXOOOOOXXXXXXXXX"},
 {"lng":"120.291989","lat":"23.49489","name":"良信藥局","id":"5940071102","tel":"053805085","addr":"嘉義縣六腳鄉蒜頭村190－5號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一至 週六14:00開始販售口罩. 週日店休暫停販售"},
 {"lng":"120.140547","lat":"23.453557","name":"長生健保藥局","id":"5940080058","tel":"053732557","addr":"嘉義縣東石鄉東石村東石村260號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"全年無休，口罩領取採發放號碼牌"},
