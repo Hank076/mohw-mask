@@ -2259,7 +2259,7 @@ locations = [
 {"lng":"121.483065","lat":"25.083917","name":"芯慈藥局","id":"5931025781","tel":"0228570670","addr":"新北市三重區永安北路2段105號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"國定假日有提供藥劑服務"},
 {"lng":"121.489155","lat":"25.086228","name":"銀河藥局","id":"5931025790","tel":"0228578688","addr":"新北市三重區五華街247號1樓","business_week":"OOOOOOOOOOOOXOOOOOOXX","memo":"口罩販售時間，周一至周日營業時間內皆有販售"},
 {"lng":"121.48271","lat":"25.078372","name":"永福藥局","id":"5931025807","tel":"0222861161","addr":"新北市三重區永福街3號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
-{"lng":"121.494178","lat":"25.07131","name":"安立藥局","id":"5931025816","tel":"0289852926","addr":"新北市三重區正義北路317號1樓","business_week":"OOOOOOXXXXXXXXXOOOOXX","memo":"國定假日有執行調劑業務(6\/14下午&夜間休診)"},
+{"lng":"121.494178","lat":"25.07131","name":"安立藥局","id":"5931025816","tel":"0289852926","addr":"新北市三重區正義北路317號1樓","business_week":"OOOOOOXXXXXXXXOOOOOXX","memo":"國定假日有執行調劑業務"},
 {"lng":"121.482575","lat":"25.067551","name":"美康中正北藥局","id":"5931025825","tel":"0229882836","addr":"新北市三重區中正北路149號1樓2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.514725","lat":"25.014994","name":"皇誼藥局","id":"5931030013","tel":"0229278732","addr":"新北市永和區文化路33號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.514474","lat":"25.008525","name":"永達大藥局","id":"5931030264","tel":"0229213326","addr":"新北市永和區大新街2號","business_week":"OOOOOOXOOOOOOXOOOOOOO","memo":"週一到週六早上九點、週日晚上六點販售口罩、販售前10分鐘發放號碼牌、數量已號碼牌為主"},
