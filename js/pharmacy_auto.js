@@ -1182,7 +1182,7 @@ locations = [
 {"lng":"120.191175","lat":"22.980326","name":"大樹佳華藥局","id":"5905330284","tel":"062641238","addr":"臺南市南區金華路二段129號1樓","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"以現場配量為主"},
 {"lng":"120.190902","lat":"22.973063","name":"思元藥局","id":"5905330300","tel":"062632377","addr":"臺南市南區金華路一段486號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"2\/8起12:00-14:00(暫定)"},
 {"lng":"120.191169","lat":"22.975564","name":"千薏台安藥局","id":"5905330337","tel":"062638265","addr":"臺南市南區金華路二段2號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"防疫口罩每天下午三點開始發號碼牌銷售"},
-{"lng":"120.19026","lat":"22.969653","name":"康而富藥局","id":"5905330346","tel":"062639373","addr":"臺南市南區鹽埕里金華路1段375號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"星期一~星期六 12:00開始販售到17:00(售完為止) 星期日.國定假日公休"},
+{"lng":"120.19026","lat":"22.969653","name":"康而富藥局","id":"5905330346","tel":"062639373","addr":"臺南市南區鹽埕里金華路1段375號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"星期一~星期五 9:00開始販售到20:00(售完為止)星期六早上半天. 星期日.國定假日公休"},
 {"lng":"120.188268","lat":"22.959741","name":"明興啄木鳥藥局","id":"5905330355","tel":"062620793","addr":"臺南市南區明興路51號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"星期一~六 10:00售完"},
 {"lng":"120.191035","lat":"23.005838","name":"日日康藥局","id":"5905340011","tel":"062595259","addr":"臺南市中西區武聖路137號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.194881","lat":"22.999108","name":"福氣藥局","id":"5905340057","tel":"062221590","addr":"臺南市中西區民族路三段179號1樓","business_week":"OOOOOOXXXXXXXXOOOOOXO"},
