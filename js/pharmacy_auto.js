@@ -2867,7 +2867,7 @@ locations = [
 {"lng":"121.405178","lat":"25.151508","name":"八里藥師藥局","id":"5931231181","tel":"0226101212","addr":"新北市八里區中山路2段226號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.450585","lat":"25.130454","name":"龍米藥師藥局","id":"5931231190","tel":"0226185812","addr":"新北市八里區龍形一街5號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販售時間10:00-中午12:00"},
 {"lng":"121.412164","lat":"25.158812","name":"威爾斯藥局","id":"5931231305","tel":"0226107100","addr":"新北市八里區中山路1段372號（1樓）","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
-{"lng":"121.865843","lat":"25.037108","name":"松南藥局","id":"5931250015","tel":"0224931085","addr":"新北市雙溪區中華路29號","business_week":"OOOOOOOOOOOOOXOOOOOXX"},
+{"lng":"121.865843","lat":"25.037108","name":"松南藥局","id":"5931250015","tel":"0224931085","addr":"新北市雙溪區中華路29號","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"防疫期間.週一至週五營業至晚上8點"},
 {"lng":"121.865991","lat":"25.037611","name":"信芳藥局","id":"5931250042","tel":"0224931301","addr":"新北市雙溪區中華路50號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"121.637324","lat":"25.220908","name":"仁又堂藥局","id":"5931270026","tel":"0224982468","addr":"新北市金山區信義路17號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.638392","lat":"25.221067","name":"金宏仁藥局","id":"5931270044","tel":"0224982402","addr":"新北市金山區中山路190巷2號","business_week":"OOOOOOOOOOOOXXXXXXXXX"},
