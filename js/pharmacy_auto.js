@@ -168,7 +168,7 @@ locations = [
 {"lng":"121.535237","lat":"25.060239","name":"啟美藥師藥局","id":"5901102444","tel":"0225178032","addr":"臺北市中山區錦州街282號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"口罩19點開賣到21點，星期六日公休"},
 {"lng":"121.521673","lat":"25.058248","name":"華康藥局","id":"5901102515","tel":"0225211772","addr":"臺北市中山區民生西路3巷2之1號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"每日早上8點發售口罩，以現場排隊者為主，售完為止"},
 {"lng":"121.540294","lat":"25.065913","name":"龍江藥局","id":"5901102560","tel":"0225023724","addr":"臺北市中山區龍江路356巷14號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
-{"lng":"121.52454","lat":"25.065007","name":"耀獅晴光藥局","id":"5901102579","tel":"0225951393","addr":"臺北市中山區農安街23之2號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時段:下午2點晚上8點，售完會提前結束"},
+{"lng":"121.52454","lat":"25.065007","name":"躍獅晴光藥局","id":"5901102579","tel":"0225951393","addr":"臺北市中山區農安街23之2號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時段:下午2點晚上8點，售完會提前結束"},
 {"lng":"121.530042","lat":"25.066522","name":"德惠藥局","id":"5901102597","tel":"0225971131","addr":"臺北市中山區德惠街122號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"每日全天發放，"},
 {"lng":"121.54068","lat":"25.048426","name":"金生藥局","id":"5901102631","tel":"0287729808","addr":"臺北市中山區長安東路2段167－1號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"口罩配發時間，周一~周五09:00~21:00(發完為止)，星期六10:00~14:00"},
 {"lng":"121.521402","lat":"25.051434","name":"興康源藥局","id":"5901102677","tel":"0225311248","addr":"臺北市中山區中山北路1段140巷8號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
