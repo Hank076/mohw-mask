@@ -3544,7 +3544,7 @@ locations = [
 {"lng":"120.877552","lat":"24.701621","name":"崧博藥師藥局","id":"5935042055","tel":"037639822","addr":"苗栗縣竹南鎮龍山路3段37號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時段：09:30到2100，星期日不銷售口罩。"},
 {"lng":"120.955746","lat":"24.680884","name":"義春藥局","id":"5935050066","tel":"037601433","addr":"苗栗縣頭份市珊湖里中正三路72號","business_week":"OOOOOOOOOOOOXXOOOOOOO","memo":"口罩販賣時段：營業時間-售完"},
 {"lng":"120.880349","lat":"24.663636","name":"辰安藥局","id":"5935050164","tel":"037633632","addr":"苗栗縣頭份市尖豐路32號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
-{"lng":"120.9095498","lat":"24.6897426","name":"民昌藥局","id":"5935050182","tel":"037673 232","addr":"苗栗縣頭份市忠孝里信東路130號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩販賣時段 : 早上8:30一次賣完.星期日下午6-9點"},
+{"lng":"120.9095498","lat":"24.6897426","name":"民昌藥局","id":"5935050182","tel":"037673 232","addr":"苗栗縣頭份市忠孝里信東路130號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.925899","lat":"24.686474","name":"三峰藥局","id":"5935050208","tel":"037668239","addr":"苗栗縣頭份市新華里中正一路78號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.907305","lat":"24.68299","name":"泉興藥局","id":"5935050253","tel":"037664367","addr":"苗栗縣頭份市仁愛里民族路28號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時段：07:00-23:00"},
 {"lng":"120.958226","lat":"24.683402","name":"李藥局","id":"5935050280","tel":"037601248","addr":"苗栗縣頭份市珊湖里中正三路218號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時段：07:00-21；00"},
