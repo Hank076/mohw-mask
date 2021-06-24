@@ -1073,7 +1073,7 @@ locations = [
 {"lng":"120.310313","lat":"23.03705","name":"新化景惠藥局","id":"5905060081","tel":"065909659","addr":"臺南市新化區護國里中山路185號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.301128","lat":"23.036892","name":"加賀藥局","id":"5905060090","tel":"065983865","addr":"臺南市新化區忠孝路281號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期一~五 11:00~12:00\/15:30~17:00 星期六15:00~18:00賣口罩"},
 {"lng":"120.302755","lat":"23.035764","name":"新化健保藥局","id":"5905060107","tel":"065983328","addr":"臺南市新化區中山路507號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"已退出實名制口罩"},
-{"lng":"120.303185","lat":"23.035664","name":"美華健保藥局","id":"5905060116","tel":"065907859","addr":"臺南市新化區中山路487號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
+{"lng":"120.303185","lat":"23.035664","name":"美華健保藥局","id":"5905060116","tel":"065907859","addr":"臺南市新化區中山路487號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"停止實施實名制口罩配銷作業"},
 {"lng":"120.304395","lat":"23.038004","name":"得安藥局","id":"5905060134","tel":"065981333","addr":"臺南市新化區忠孝路118號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"上午8:30-11:30，  周六下午時段不販售 !"},
 {"lng":"120.308297","lat":"23.036111","name":"來德藥局","id":"5905060143","tel":"065800193","addr":"臺南市新化區護國里中山路232號","business_week":"OOOOOOXOXOOOXXXXXXXXX","memo":"週1→6，10:00~12:00點賣口罩"},
 {"lng":"120.3048479","lat":"23.0358534","name":"和德藥局新化店","id":"5905060161","tel":"065802518","addr":"臺南市新化區清水里中山路420號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"禮拜一至禮拜六，下午3點至晚上8點止，現場開始發放口罩；不限健保卡張數；兒童口罩皆為平面"},
