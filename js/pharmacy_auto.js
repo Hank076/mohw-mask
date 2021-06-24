@@ -204,7 +204,7 @@ locations = [
 {"lng":"121.585191","lat":"25.077228","name":"永安藥局","id":"5901110311","tel":"0226586658","addr":"臺北市內湖區文德路210巷30弄48號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"口罩販售時間早上10點開始發號碼牌  同時販售"},
 {"lng":"121.572833","lat":"25.08168","name":"富山藥局","id":"5901110339","tel":"0227996446","addr":"臺北市內湖區麗山街364巷2號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一至週六 每日11:00"},
 {"lng":"121.612468","lat":"25.069705","name":"明湖藥局","id":"5901110393","tel":"0226313515","addr":"臺北市內湖區東湖路7巷27號1Ｆ","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"春節期間看診時段請電洽"},
-{"lng":"121.590855","lat":"25.067378","name":"宏光藥局","id":"5901110624","tel":"0227919068","addr":"臺北市內湖區成功路2段221號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"周日休息"},
+{"lng":"121.590855","lat":"25.067378","name":"宏光藥局","id":"5901110624","tel":"0227919068","addr":"臺北市內湖區成功路2段221號1樓","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"周日休息"},
 {"lng":"121.591996","lat":"25.08033","name":"杏佳藥局","id":"5901111863","tel":"0227915726","addr":"臺北市內湖區康寧路1段51號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"口罩代售時間早上9點開始，星期日不販售..請現場排隊"},
 {"lng":"121.615788","lat":"25.06785","name":"安康藥局","id":"5901111890","tel":"0226327675","addr":"臺北市內湖區安康路482號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.578502","lat":"25.079246","name":"至康藥局","id":"5901111934","tel":"0226580022","addr":"臺北市內湖區內湖路1段737巷19弄1號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"上午9:30開始販售，售完為止"},
