@@ -4466,7 +4466,7 @@ locations = [
 {"lng":"120.176808","lat":"23.162772","name":"佳佳藥局","id":"5941051453","tel":"067227639","addr":"臺南市佳里區中山路386號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"禮拜一~日 08:00售完"},
 {"lng":"120.177977","lat":"23.164575","name":"星興藥局","id":"5941051462","tel":"067236993","addr":"臺南市佳里區延平路403號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週1至週6 早上10點至12點下午4點至6點  口罩開賣時間"},
 {"lng":"120.176745","lat":"23.159355","name":"雅倫藥局","id":"5941051499","tel":"067229488","addr":"臺南市佳里區建南街165號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"禮拜一~六 8:00售完"},
-{"lng":"120.177109","lat":"23.159746","name":"萊安藥局","id":"5941051524","tel":"067223780","addr":"臺南市佳里區中山路222號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"口罩販賣時間:星期一~六，早上7點半開賣至售完為止"},
+{"lng":"120.177109","lat":"23.159746","name":"萊安藥局","id":"5941051524","tel":"067223780","addr":"臺南市佳里區中山路222號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"口罩販賣時間:星期一~六，早上7點半開賣至售完為止"},
 {"lng":"120.170962","lat":"23.168867","name":"黃藥師藥局","id":"5941051542","tel":"067217033","addr":"臺南市佳里區忠孝路293號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.177926","lat":"23.163246","name":"永星藥局","id":"5941051579","tel":"067234300","addr":"臺南市佳里區文化路176號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"禮拜一~日 08:0021:30"},
 {"lng":"120.307252","lat":"23.037958","name":"富傑藥局","id":"5941060014","tel":"065907185","addr":"臺南市新化區觀音里中正路545號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
