@@ -2561,7 +2561,7 @@ locations = [
 {"lng":"121.402955","lat":"25.015768","name":"生光堂藥局","id":"5931072191","tel":"0226896504","addr":"新北市樹林區龍興街36號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩代售:營業時間販售，售完為止"},
 {"lng":"121.415864","lat":"24.980476","name":"樹林健業藥局","id":"5931072217","tel":"0286851736","addr":"新北市樹林區東華街89號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.426437","lat":"24.997716","name":"彰安藥局","id":"5931072244","tel":"0226827341","addr":"新北市樹林區千歲街82號","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"週一至週日，早上8點開始發放銷售，售完為止。"},
-{"lng":"121.425872","lat":"24.99255","name":"活水藥局","id":"5931072253","tel":"0226818928","addr":"新北市樹林區鎮前街21號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
+{"lng":"121.425872","lat":"24.99255","name":"活水藥局","id":"5931072253","tel":"0226818928","addr":"新北市樹林區鎮前街21號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.379682","lat":"24.950281","name":"祐心藥局","id":"5931072262","tel":"0226803205","addr":"新北市樹林區學府路362號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩上午10:00~11:30和下午14:30~16:00(早上售完則無)星期日停售"},
 {"lng":"121.415357","lat":"24.982296","name":"小蜜蜂中西健保藥局","id":"5931072299","tel":"0286853677","addr":"新北市樹林區東榮街118號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"全天候販售防疫口罩"},
 {"lng":"121.422546","lat":"24.994626","name":"瑪諾藥局","id":"5931072351","tel":"0226830304","addr":"新北市樹林區復興路20號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
