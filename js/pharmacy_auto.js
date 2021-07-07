@@ -536,7 +536,7 @@ locations = [
 {"lng":"121.539645","lat":"24.999784","name":"躍獅景新藥局","id":"5901203222","tel":"0229356221","addr":"臺北市文山區羅斯福路6段30號","business_week":"XXXXXXXOOOOOOOXXXXXXX","memo":"口罩販售時間為14:00至賣完為止"},
 {"lng":"121.567524","lat":"24.983443","name":"大愛幸福藥局","id":"5901203240","tel":"0229379977","addr":"臺北市文山區木新路2段221號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"2021開始販售10片\/包 健保實名制口罩"},
 {"lng":"121.569489","lat":"24.98756","name":"躍獅木柵藥局","id":"5901203268","tel":"0286617752","addr":"臺北市文山區指南路1段28號","business_week":"XXXXXXXOOOOOOXOOOOOOX","memo":"固定每天下午3點到6點販售， 星期日休息"},
-{"lng":"121.559015","lat":"24.997787","name":"康宜庭興隆藥局","id":"5901203286","tel":"0222304866","addr":"臺北市文山區興隆路3段200號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"上午8:30-晚上10:30"},
+{"lng":"121.559015","lat":"24.997787","name":"康宜庭興隆藥局","id":"5901203286","tel":"0222304866","addr":"臺北市文山區興隆路3段200號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"上午8:30-晚上09:30"},
 {"lng":"121.57422","lat":"24.987838","name":"專品政大藥局","id":"5901203295","tel":"0222343010","addr":"臺北市文山區指南路2段8號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.567597","lat":"24.988655","name":"大樹木柵藥局","id":"5901203366","tel":"0222340110","addr":"臺北市文山區木柵路3段108號、110號（1樓、2樓）","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.284285","lat":"22.625983","name":"健康藥局","id":"5902010016","tel":"075510738","addr":"高雄市鹽埕區大仁路102號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"健保口罩販賣時間為早上9點~21點，售完為止."},
