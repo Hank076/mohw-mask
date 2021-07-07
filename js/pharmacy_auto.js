@@ -2179,7 +2179,7 @@ locations = [
 {"lng":"121.491612","lat":"25.083602","name":"烈委藥局","id":"5931023161","tel":"0289812846","addr":"新北市三重區五華街132號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.495115","lat":"25.070039","name":"成立藥局","id":"5931023198","tel":"0289852355","addr":"新北市三重區正義北路310－1號2樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"2\/3.2\/10.2\/24藥局有營業"},
 {"lng":"121.48361","lat":"25.062671","name":"迪化藥局","id":"5931023349","tel":"0229834445","addr":"新北市三重區中華路77號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日早上09:30販售口罩與發放牌號"},
-{"lng":"121.494543","lat":"25.081058","name":"正大藥局","id":"5931023401","tel":"0289815931","addr":"新北市三重區五華街39號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩星期一到六，上午08:30開始領取，3\/1起『星期日休息"},
+{"lng":"121.494543","lat":"25.081058","name":"正大藥局","id":"5931023401","tel":"0289815931","addr":"新北市三重區五華街39號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"口罩星期一到六，上午08:30開始領取，3\/1起『星期日休息"},
 {"lng":"121.495125","lat":"25.061377","name":"德慈藥局","id":"5931023527","tel":"0229736693","addr":"新北市三重區重新路3段16號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩代售時間自13:00-15:00無需領取號碼牌"},
 {"lng":"121.495275","lat":"25.061648","name":"江村藥局","id":"5931023536","tel":"0229821024","addr":"新北市三重區重新路3段9號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩代售時間中午12:30 至售完為止(現場排隊，藥局外等待)"},
 {"lng":"121.492091","lat":"25.07944","name":"寶貝藥局","id":"5931023563","tel":"0229802190","addr":"新北市三重區仁愛街302－1號","business_week":"OOOOOOXXXXXXOXOOOOOXX"},
