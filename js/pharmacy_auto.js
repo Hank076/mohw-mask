@@ -3963,7 +3963,7 @@ locations = [
 {"lng":"120.54768","lat":"23.921816","name":"永茗藥局","id":"5937181260","tel":"048242721","addr":"彰化縣永靖鄉永東村東門路198號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"每日代售時間早上8:00-20:00，星期日公休"},
 {"lng":"120.547025","lat":"23.924214","name":"佳恩藥局","id":"5937181279","tel":"048235753","addr":"彰化縣永靖鄉永西村瑚璉路302號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週一至週六早上9點販售口罩 週日公休"},
 {"lng":"120.587823","lat":"23.898738","name":"新保和藥局","id":"5937190063","tel":"048732330","addr":"彰化縣社頭鄉社頭村員集路2段224號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"固定周一至周六每日上午10:00開始販售。"},
-{"lng":"120.589491","lat":"23.899666","name":"張藥局","id":"5937190107","tel":"048734660","addr":"彰化縣社頭鄉社頭村清水岩路367號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"周一至周六8:05開始販售至售完為止完"},
+{"lng":"120.589491","lat":"23.899666","name":"張藥局","id":"5937190107","tel":"048734660","addr":"彰化縣社頭鄉社頭村清水岩路367號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"三級警戒期間營業至21:00，若解封視情況更改回21:30"},
 {"lng":"120.587129","lat":"23.900046","name":"順天藥局二店","id":"5937191131","tel":"048726901","addr":"彰化縣社頭鄉員集路2段297 號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"營業時間整日販售"},
 {"lng":"120.586599","lat":"23.897138","name":"好生藥局","id":"5937191159","tel":"048739508","addr":"彰化縣社頭鄉社斗路一段261號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日固定9:00開始發放口罩販售號碼牌"},
 {"lng":"120.592391","lat":"23.899763","name":"藥典大藥局","id":"5937191195","tel":"048732497","addr":"彰化縣社頭鄉清水岩路239號","business_week":"OOOOOOXOOOOOOXOOOOOOO","memo":"營業時間:早上8點至晚上9:30(週日公休)"},
