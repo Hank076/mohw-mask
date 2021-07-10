@@ -2063,7 +2063,7 @@ locations = [
 {"lng":"121.457004","lat":"25.017388","name":"友虹藥師藥局","id":"5931014537","tel":"0229691181","addr":"新北市板橋區國光路16號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上10點半到12點半代售口罩"},
 {"lng":"121.464201","lat":"25.004878","name":"健全藥局","id":"5931014635","tel":"0289533330","addr":"新北市板橋區實踐路125號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"13：00發號碼牌"},
 {"lng":"121.455577","lat":"25.011972","name":"常仁藥局","id":"5931014822","tel":"0229674999","addr":"新北市板橋區中正路1巷4號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"09：00代售口罩"},
-{"lng":"121.461832","lat":"25.020226","name":"詠濟藥局","id":"5931014831","tel":"0222536951","addr":"新北市板橋區幸福路23號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"09：00；18：00發號碼牌"},
+{"lng":"121.461832","lat":"25.020226","name":"詠濟藥局","id":"5931014831","tel":"0222536951","addr":"新北市板橋區幸福路23號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"09：00；18：00發號碼牌"},
 {"lng":"121.455356","lat":"25.008512","name":"安佑藥局","id":"5931014868","tel":"0229670258","addr":"新北市板橋區館前西路152－2號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"13：00代售口罩"},
 {"lng":"121.460869","lat":"25.018327","name":"景好藥師藥局","id":"5931014993","tel":"0222724728","addr":"新北市板橋區國光路182號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.456962","lat":"25.007864","name":"皇慶藥局","id":"5931015187","tel":"0229655351","addr":"新北市板橋區南門街81、83號1、2樓及館前西路112巷7號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"現場排隊\/號碼牌發放防疫口罩時間自09:00"},
