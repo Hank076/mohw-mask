@@ -78,7 +78,7 @@ locations = [
 {"lng":"121.553058","lat":"25.038204","name":"長虹藥局","id":"5901023411","tel":"0227210232","addr":"臺北市大安區忠孝東路4段216巷 63號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"下午4點發放口罩（現場排隊，現場購買）"},
 {"lng":"121.541193","lat":"25.022971","name":"惠盈藥局","id":"5901023519","tel":"0287321366","addr":"臺北市大安區辛亥路2段171巷31號","business_week":"OOOOOOXOOOOOOOOOOOOOO"},
 {"lng":"121.546319","lat":"25.037308","name":"聯合仁愛藥局","id":"5901023523","tel":"0227039269","addr":"臺北市大安區大安路1段157巷3號","business_week":"OOOOOOOOOOOOXXXXXXXXX","memo":"上午8點~8點半發號碼牌，下午12點~6點領取，其餘時間不受理口罩業務 ，週六日未販售口罩。"},
-{"lng":"121.554876","lat":"25.021906","name":"一心藥局","id":"5901023591","tel":"0227321818","addr":"臺北市大安區和平東路3段238號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩一~六0900開始售完為止，星期日不賣口罩"},
+{"lng":"121.554876","lat":"25.021906","name":"一心藥局","id":"5901023591","tel":"0227321818","addr":"臺北市大安區和平東路3段238號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"口罩一~六0900開始售完為止，星期日不賣口罩"},
 {"lng":"121.546392","lat":"25.043029","name":"新富川藥局","id":"5901023680","tel":"0227114758","addr":"臺北市大安區大安路1段51巷4號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"無提供急診服務"},
 {"lng":"121.553997","lat":"25.036542","name":"聖英藥局","id":"5901023706","tel":"0227055851","addr":"臺北市大安區仁愛路4段266巷15弄18號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.534662","lat":"25.034545","name":"元氣生活健保藥局","id":"5901023724","tel":"0227060580","addr":"臺北市大安區新生南路1段161巷10號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"營業時間10AM~10PM，每周日公休，不受一般國定假日影響"},
