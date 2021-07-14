@@ -3066,7 +3066,7 @@ locations = [
 {"lng":"121.146617","lat":"24.901638","name":"得康美藥局","id":"5932042679","tel":"034788128","addr":"桃園市楊梅區環南路128號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販售時段~A:10:00-11:00 B:15:30-16:30 C:19:30-20:30"},
 {"lng":"121.169031","lat":"24.908149","name":"合康美藥局","id":"5932042820","tel":"034812598","addr":"桃園市楊梅區中山北路二段79號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販售時間：早上8：30~22：30前都可以領口罩"},
 {"lng":"121.147167","lat":"24.908299","name":"天乙藥局","id":"5932042866","tel":"034756916","addr":"桃園市楊梅區新成路201號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
-{"lng":"121.174376","lat":"24.907433","name":"瑞溪甯慶藥局","id":"5932042955","tel":"034311999","addr":"桃園市楊梅區瑞溪路一段271號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"防疫口罩販售時間0800-1200;1500-1800"},
+{"lng":"121.174376","lat":"24.907433","name":"瑞溪甯慶藥局","id":"5932042955","tel":"034311999","addr":"桃園市楊梅區瑞溪路一段271號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"防疫口罩販售時間0800-1200;1500-1800;未參與疫苗預約"},
 {"lng":"121.170955","lat":"24.920684","name":"佳青藥局","id":"5932043005","tel":"032755235","addr":"桃園市楊梅區青山五街16號1樓及地下一樓","business_week":"OOOOOOXXXXXXXXOOOOOXX","memo":"口罩販賣時段：8:00~12:00"},
 {"lng":"121.146525","lat":"24.909222","name":"弘安藥局","id":"5932043041","tel":"034782115","addr":"桃園市楊梅區新農街15號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩時段:9:00販售至12:00止."},
 {"lng":"121.184085","lat":"24.919214","name":"埔心藥局","id":"5932043121","tel":"034311539","addr":"桃園市楊梅區永美路225號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
