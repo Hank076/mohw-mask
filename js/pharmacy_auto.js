@@ -3649,7 +3649,7 @@ locations = [
 {"lng":"120.544998","lat":"24.153092","name":"大佶安藥局","id":"5936160132","tel":"0426992453","addr":"臺中市大肚區頂街里沙田路二段734號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"現場領口罩(週一到週日早上7:30~晚上9:30)"},
 {"lng":"120.564715","lat":"24.123462","name":"大吉興藥局","id":"5936161264","tel":"0426938422","addr":"臺中市大肚區沙田路一段452－1號","business_week":"OOOOOOXOOOOOOXXXXXXXX"},
 {"lng":"120.546124","lat":"24.191299","name":"葆信藥局","id":"5936170094","tel":"0426352782","addr":"臺中市龍井區沙田路四段600號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販售:星期一~星期六 08:30開始"},
-{"lng":"120.58622","lat":"24.181546","name":"澤士藤藥局","id":"5936171331","tel":"0426523014","addr":"臺中市龍井區新東里新興路53之9號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時段:全天皆可購買口罩...售完為止"},
+{"lng":"120.58622","lat":"24.181546","name":"澤士藤藥局","id":"5936171331","tel":"0426523014","addr":"臺中市龍井區新東里新興路53之9號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時段:全天皆可購買口罩"},
 {"lng":"120.595541","lat":"24.187462","name":"健安藥局","id":"5936171359","tel":"0426527296","addr":"臺中市龍井區國際街153號","business_week":"OOOOOOXOOOOOOXOOOOOOO","memo":"口罩販賣時段：週一至週六全天，週日晚上6：00"},
 {"lng":"120.595409","lat":"24.187509","name":"國際大藥局","id":"5936171386","tel":"0426522118","addr":"臺中市龍井區藝術街6號","business_week":"OOOOOOXOOOOOOXOOOOOOO","memo":"口罩販售時間W一至W六 10:30AM-10PM，但12-3pm休息，W日5PM-10PM"},
 {"lng":"120.588154","lat":"24.180844","name":"上華藥局","id":"5936171402","tel":"0426320433","addr":"臺中市龍井區新興路37號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"防疫口罩販賣時間下午1點30芬開始販售至3點整."},
