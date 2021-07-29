@@ -1964,7 +1964,7 @@ locations = [
 {"lng":"120.44966","lat":"23.50019","name":"杏一嘉基藥局","id":"5922013013","tel":"052786577","addr":"嘉義市東區忠孝路543－1號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"周一至周日下午1:00時起，售鑿為止。"},
 {"lng":"120.45315","lat":"23.47892","name":"德昌藥局","id":"5922013031","tel":"052280306","addr":"嘉義市東區中央里吳鳳北路211號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一至週日8:00開始發放口罩"},
 {"lng":"120.458831","lat":"23.455002","name":"軍輝啄木鳥藥局","id":"5922013040","tel":"052395963","addr":"嘉義市東區興村里軍輝路222號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"周一至周日上午8:15起，售鑿為止。"},
-{"lng":"120.458981","lat":"23.45639","name":"吳鳳藥局","id":"5922013068","tel":"0552399311","addr":"嘉義市東區吳鳳南路585號","business_week":"OOOOOOXOOOOOOXXXXXXXX","memo":"領取口罩9:00"},
+{"lng":"120.458981","lat":"23.45639","name":"佑全嘉義吳鳳南藥局","id":"5922013068","tel":"0552399311","addr":"嘉義市東區吳鳳南路585號","business_week":"OOOOOOXOOOOOOXXXXXXXX","memo":"領取口罩9:00"},
 {"lng":"120.4486","lat":"23.48383","name":"弘安藥局","id":"5922020063","tel":"052259000","addr":"嘉義市西區文化路277號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間 08:00-22:00 週一~週日販售口罩時間09:00-21:00；請自備零錢(面額500、1000不找零)"},
 {"lng":"120.43658","lat":"23.46751","name":"興業藥局","id":"5922020116","tel":"052861880","addr":"嘉義市西區福民里興業西路381號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"周一至周日 每日08:00至10:00發放號碼牌 販售口罩 售完為止"},
 {"lng":"120.43496","lat":"23.47573","name":"照安藥局","id":"5922020125","tel":"052332883","addr":"嘉義市西區福全里博愛路2段361號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩代售時間於08：00開始販售；現場。"},
