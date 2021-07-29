@@ -448,7 +448,7 @@ locations = [
 {"lng":"121.50425","lat":"25.031013","name":"保德中華藥局","id":"5901184179","tel":"0223027720","addr":"臺北市中正區中華路2段159號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.52641","lat":"25.034659","name":"71恩典藥局","id":"5901184213","tel":"0223223371","addr":"臺北市中正區信義路2段71號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"口罩週一到週五19:00-21:00，週六10;00-18:00購買"},
 {"lng":"121.510947","lat":"25.027356","name":"豐仁藥局","id":"5901184222","tel":"0223033908","addr":"臺北市中正區寧波西街161號","business_week":"OOOOOOXOOOOOOXOOOOOOO","memo":"周一至周六 15:00 \/ 周日 17:30"},
-{"lng":"121.532613","lat":"25.043226","name":"立赫健保藥局","id":"5901184240","tel":"0233223231","addr":"臺北市中正區新生南路1段16之2號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
+{"lng":"121.532613","lat":"25.043226","name":"立赫健保藥局","id":"5901184240","tel":"0233223231","addr":"臺北市中正區新生南路1段16之2號","business_week":"OOOOOOXOOOOOOOOOOOOOO"},
 {"lng":"121.533654","lat":"25.0142","name":"汀州健康人生藥局","id":"5901184259","tel":"0223688902","addr":"臺北市中正區汀州路3段211號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.506121","lat":"25.028127","name":"宏越藥局","id":"5901184366","tel":"0223050880","addr":"臺北市中正區中華路2段313巷4號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"代售防疫口罩時間 每日下午3:00-6:00 其餘時間不便進行代售 敬祈見諒"},
 {"lng":"121.510536","lat":"25.046451","name":"大盛藥局","id":"5901184375","tel":"0223713838","addr":"臺北市中正區中華路1段21巷16號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"口罩代售9:00AM開始發號碼牌及銷售。周一至周五14:00前，周六11:00 前皆可憑號碼牌購買。周日及國定假日公休"},
