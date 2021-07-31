@@ -3396,7 +3396,7 @@ locations = [
 {"lng":"121.769932","lat":"24.67257","name":"信隆藥局","id":"5934020153","tel":"039544697","addr":"宜蘭縣羅東鎮南門路5號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"121.765208","lat":"24.677586","name":"源生藥局","id":"5934020224","tel":"039563476","addr":"宜蘭縣羅東鎮忠孝路89號","business_week":"OOOOOOXOOOOOXXOOXOOXX","memo":"執業時段請電洽藥局"},
 {"lng":"121.759538","lat":"24.680794","name":"黃藥局","id":"5934020251","tel":"039545857","addr":"宜蘭縣羅東鎮公正路374號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
-{"lng":"121.771999","lat":"24.675315","name":"博善藥局","id":"5934020279","tel":"039577811","addr":"宜蘭縣羅東鎮和平路68號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"7\/4.7\/11.7\/18.7\/25星期日不營業)"},
+{"lng":"121.771999","lat":"24.675315","name":"博善藥局","id":"5934020279","tel":"039577811","addr":"宜蘭縣羅東鎮和平路68號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"8\/1.8\/8.8\/15.8\/22.8\/29星期日不營業)"},
 {"lng":"121.765776","lat":"24.679793","name":"鑫聖藥局","id":"5934020288","tel":"039559155","addr":"宜蘭縣羅東鎮公正路266號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"08:00am 販賣防疫口罩"},
 {"lng":"121.777945","lat":"24.68086","name":"東安藥局","id":"5934021383","tel":"039532277","addr":"宜蘭縣羅東鎮光榮路487號","business_week":"OOOOOOXOOOOOOXOOOOXXX"},
 {"lng":"121.771629","lat":"24.669271","name":"民生健保藥局","id":"5934021418","tel":"039562354","addr":"宜蘭縣羅東鎮中正南路53號1樓","business_week":"OOOOOOXOXOOOOXOOOOOXX","memo":"4\/18(六)休息:口罩早上8點20開賣:下午2:45開始. 週二下午休息 周六晚休"},
