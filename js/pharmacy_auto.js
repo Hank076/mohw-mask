@@ -2890,7 +2890,7 @@ locations = [
 {"lng":"121.299194","lat":"25.000664","name":"力美藥局","id":"593201A195","tel":"033334191","addr":"桃園市桃園區永安路三七七號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"口罩販賣時段:下午2時30分開始販賣口罩賣完為止"},
 {"lng":"121.312731","lat":"25.011359","name":"康泰藥局","id":"593201A284","tel":"033588299","addr":"桃園市桃園區大業路一段三二三號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.301756","lat":"24.99217","name":"昌維藥師藥局","id":"593201A542","tel":"033315091","addr":"桃園市桃園區縣府路二二號二樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"口罩販賣時段:週一至五14:30至20:00"},
-{"lng":"121.2963421","lat":"25.017198","name":"啄木鳥藥局","id":"593201A604","tel":"033467698","addr":"桃園市桃園區南平路411號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時段：週一至週日13:00起"},
+{"lng":"121.2963421","lat":"25.017198","name":"藝文啄木鳥藥局","id":"593201A604","tel":"033467698","addr":"桃園市桃園區南平路411號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時段：週一至週日13:00起"},
 {"lng":"121.305288","lat":"25.004029","name":"大國民藥局","id":"593201A631","tel":"033355575","addr":"桃園市桃園區中正路578號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.293381","lat":"24.986273","name":"大心藥局","id":"593201A640","tel":"032209842","addr":"桃園市桃園區中平路141號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販售時間9:30"},
 {"lng":"121.311714","lat":"25.010674","name":"佑您康聯合藥局","id":"593201A668","tel":"033463999","addr":"桃園市桃園區寶山街385號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩代售時間：每日早上9:30開始"},
