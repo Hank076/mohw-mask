@@ -3885,7 +3885,7 @@ locations = [
 {"lng":"120.559235","lat":"23.98875","name":"天德藥師藥局","id":"5937150019","tel":"048525256","addr":"彰化縣大村鄉擺塘村中正西路61號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期一至六全天(7:30-21:00)代售口罩，售完為止。"},
 {"lng":"120.563291","lat":"23.989158","name":"大欣藥局","id":"5937150032","tel":"048524803","addr":"彰化縣大村鄉村上村中正西路19號","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"口罩全天販售，星期日開店及販售"},
 {"lng":"120.544668","lat":"23.996611","name":"郭藥局","id":"5937151075","tel":"048522988","addr":"彰化縣大村鄉茄苳路1段132號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"口罩全日供應，其餘規定依店內公告為主"},
-{"lng":"120.544941","lat":"23.999356","name":"誠品藥局","id":"5937151119","tel":"048529206","addr":"彰化縣大村鄉大村村茄苳路1段233號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"週一~週六門診時間內皆有販售口罩。週日休息。"},
+{"lng":"120.544941","lat":"23.999356","name":"誠品藥局","id":"5937151119","tel":"048529206","addr":"彰化縣大村鄉大村村茄苳路1段233號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"週一~週六門診時間內皆有販售口罩。週日休息。"},
 {"lng":"120.589779","lat":"23.982004","name":"五行藥局","id":"5937151128","tel":"048527603","addr":"彰化縣大村鄉黃厝村12鄰山腳路2－26號","business_week":"OOOOOOXOOOOOXXOOOXOXX","memo":"週一至週六早上09:45開始販賣口罩。"},
 {"lng":"120.585591","lat":"23.989959","name":"萬來藥局","id":"5937151137","tel":"048535565","addr":"彰化縣大村鄉福興村山腳路80－9號","business_week":"OOOOOXOOOOOOXOOOOOOXX","memo":"9:00開始販售口罩至售完為止。"},
 {"lng":"120.47675","lat":"23.995913","name":"埔鹽藥局","id":"5937161115","tel":"048659655","addr":"彰化縣埔鹽鄉埔鹽村彰水路二段8號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩開放購買時段早上9:00開始售完為止"},
