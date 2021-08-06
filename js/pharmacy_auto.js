@@ -135,7 +135,7 @@ locations = [
 {"lng":"121.540284","lat":"25.055049","name":"名祥藥局","id":"5901100066","tel":"0225036265","addr":"臺北市中山區龍江路166號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制口罩代售時間為營業時間-週一至週六08:00~22:00<現場依序刷卡購買，售完為止。>自109\/4\/19起[每星期日]停售。"},
 {"lng":"121.525542","lat":"25.051699","name":"大信藥局","id":"5901100155","tel":"0225719080","addr":"臺北市中山區林森北路159巷6號","business_week":"XXXXXXXOOOOOOXOOOOOOO"},
 {"lng":"121.526587","lat":"25.055022","name":"明美藥局","id":"5901100333","tel":"0225365419","addr":"臺北市中山區長春路69號","business_week":"XXXXXXXOOOOOOXOOOOOOX","memo":"口罩周一至周五，16:30-18:30販售"},
-{"lng":"121.53475","lat":"25.060253","name":"順泰藥局","id":"5901100342","tel":"0225038916","addr":"臺北市中山區錦州街266號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"121.53475","lat":"25.060253","name":"順泰藥局","id":"5901100342","tel":"0225038916","addr":"臺北市中山區錦州街266號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"121.534655","lat":"25.051448","name":"滿順藥局","id":"5901100422","tel":"0225075283","addr":"臺北市中山區伊通街54號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.531314","lat":"25.062067","name":"長生藥局","id":"5901100431","tel":"0225816210","addr":"臺北市中山區松江路362巷55號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"領口照時間:星期1.2.晚上6點.星期3.4.5.中午12點.星期6.日早上10點"},
 {"lng":"121.524223","lat":"25.057935","name":"優豐藥局","id":"5901100440","tel":"0225602565","addr":"臺北市中山區民生東路1段32號","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"上午9點10分現場作業不分號碼牌"},
