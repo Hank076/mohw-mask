@@ -3574,7 +3574,7 @@ locations = [
 {"lng":"120.668119","lat":"24.216028","name":"江內藥局","id":"5936102961","tel":"0425652671","addr":"臺中市大雅區雅潭路三段596號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週一~週六9:00-12:00及16:00-賣完，兩時段開放購買口罩"},
 {"lng":"120.654546","lat":"24.229372","name":"正豐藥局","id":"5936102970","tel":"0425678858","addr":"臺中市大雅區民生路2段4號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"周一至週六下午3點開始販售口罩"},
 {"lng":"120.649109","lat":"24.224793","name":"妙昌藥局學府店","id":"5936102998","tel":"0425689841","addr":"臺中市大雅區學府路299號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"周一至周日14:40開始發號碼牌同時販售口罩"},
-{"lng":"120.649786","lat":"24.222135","name":"學府藥局","id":"5936103002","tel":"0425609333","addr":"臺中市大雅區學府路225號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"8:30-10:00"},
+{"lng":"120.649786","lat":"24.222135","name":"學府藥局","id":"5936103002","tel":"0425609333","addr":"臺中市大雅區學府路225號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"8:30-10:00  星期天下午晚上休息"},
 {"lng":"120.807963","lat":"24.243402","name":"景安藥局","id":"5936110016","tel":"0425811486","addr":"臺中市新社區新社里中和街4段198號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"全日販售"},
 {"lng":"120.808328","lat":"24.243574","name":"政雄藥局","id":"5936111111","tel":"0425811087","addr":"臺中市新社區興社街四段七五號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"星期一~五下午2點半，星期六上午10點發售口罩."},
 {"lng":"120.80961","lat":"24.242154","name":"新安藥局","id":"5936111120","tel":"0425820690","addr":"臺中市新社區興安路49之1號","business_week":"OOOOOOXOOXOOXXXOXOXXX","memo":"口罩販賣時間:週一~週六營業時間皆可.週日不販售"},
