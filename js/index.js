@@ -2,125 +2,34 @@ var bShowWarningMessage = true;
 var warningDateline = 20210629;
 var fullDate = new Date();
 var yyyy = fullDate.getFullYear();
-var MM = (fullDate.getMonth() + 1) >= 10 ? (fullDate.getMonth() + 1) : ("0" + (fullDate.getMonth() + 1));
+var MM = (fullDate.getMonth() + 1) >= 10 ? (fullDate.getMonth() + 1) : (fullDate.getMonth() + 1);
 var dd = fullDate.getDate() < 10 ? ("0"+fullDate.getDate()) : fullDate.getDate();
-var today = yyyy + MM + dd;
+var today = (yyyy * 10000) + (MM * 100) + parseInt(dd);
 
-if(parseInt(today) >= warningDateline){
+if(today > warningDateline){
     bShowWarningMessage = false;
 }
 
-$(function() {
-    $("#info").click(function(event) {
-        showInfoMessage();
-    });
-
-    $("#filter").click(function(event) {
-        $(".filter_ctl").attr('disabled', true);
-        showUpdateProcessByManual();
-    });
-
-    var clock = setInterval(function() {reloadStrongholdData(true);} , 120000);
-});
-
-var showUpdateProcessByManual = function(){   
-    var jc = $.dialog({
-        icon: 'fa fa-spinner fa-spin',
-        animation: 'top',
-        closeAnimation: 'bottom',
-        columnClass: 'col-md-4 col-md-offset-4',
-        type: 'orange',
-        title: '資料過濾中',
-        content: '正在過濾相關診所&口罩庫存資訊...',
-        onOpen: function(){
-
-            dont_show_no_open = $("#dont_show_no_open").is(":checked");
-            show_inventory_hight = $("#inventory_hight").is(":checked");
-            show_inventory_medium = $("#inventory_medium").is(":checked");
-            show_inventory_low = $("#inventory_low").is(":checked");
-            show_inventory_zero = $("#inventory_zero").is(":checked");
-
-            var type = $("input[name='type']:checked").val();
-            var ga_event_label = '';
-    
-            if(dont_show_no_open){
-                ga_event_label += '有營業, ';
-            }else{
-                ga_event_label += '不論營業, ';
-            }
-    
-            if(type == '0'){
-                //不過濾
-                show_adult_inventory = false;
-                show_child_inventory = false;
-                ga_event_label += '所有, ';
-    
-            }else if(type == '1'){
-                //只顯示成人 > 0
-                show_adult_inventory = true;
-                show_child_inventory = false;
-                ga_event_label += '僅成人, ';
-    
-            }else if(type == '2'){
-                //只顯示兒童 > 0
-                show_adult_inventory = false;
-                show_child_inventory = true;
-                ga_event_label += '僅兒童, ';
-    
-            }else if(type == '3'){
-                //顯示成人+兒童 > 0
-                show_adult_inventory = true;
-                show_child_inventory = true;
-                ga_event_label += '成人與兒童, ';
-            }
-
-            if(show_inventory_hight){
-                ga_event_label += '庫存大於50％, ';
-            }
-            if(show_inventory_medium){
-                ga_event_label += '庫存20~50％, ';
-            }
-            if(show_inventory_low){
-                ga_event_label += '庫存小於20％, ';
-            }
-            if(show_inventory_zero){
-                ga_event_label += '無庫存, ';
-            }
-    
-            gtag('event', 'click', {
-                'event_category': '搜尋工具',
-                'event_label': ga_event_label
-            });
-    
-            //清除 markers
-            markers.clearLayers();
-    
-            //更新地圖
-            createStrongholdData();
-
-            $(".filter_ctl").attr('disabled', false);
-
-            jc.setIcon('fas fa-check');
-            jc.setType('green');
-            jc.close();
-        }
-    });
-};
+if (window.location.protocol == 'http:') {
+	window.location.href = window.location.href.replace('http:', 'https:');
+}
 
 var showVersionHistory = function(){
-    gtag('event', 'click', {
-        'event_category': '提醒工具',
-        'event_label': '網站歷程'
-    });
-
     $.alert({
-        icon: 'fas fa-list-alt',
+        icon: 'fa-solid fa-rectangle-list',
         animation: 'top',
         closeAnimation: 'bottom',
         columnClass: 'col-md-6 col-md-offset-3',
         type: 'green',
         title: '版本資訊',
         content: '<table class="table table-bordered table-condensed table-striped"><tr><th>版本</th><th>歷程</th></tr>' +
+        '<tr><td>05/18</td><td>修正採檢站資料錯誤<br />自動去除掉快篩庫存三天以上無異動的站點</td></tr>' +
+        '<tr><td>05/07</td><td>關閉口罩販售地圖(因政府已停止更新庫存)<br />新增社區採檢站地圖<br />新增公費快篩發放地圖</td></tr>' +
+        '<tr><td>05/06</td><td>新增顏色區分最近一次販售時間<br />新增顯示無庫存的販售點</td></tr>' +
+        '<tr><td>05/05</td><td>調整呈現方式</td></tr>' +
+        '<tr><td>05/04</td><td>更新套件版本</td></tr>' +
+        '<tr><td>05/03</td><td>新增快篩試劑數量，調整網站</td></tr>' +
+        '<tr><td>12/10</td><td>新增公告</td></tr>' +
         '<tr><td>05/03</td><td>新增緊急公告</td></tr>' +
         '<tr><td>04/28</td><td>新增緊急公告</td></tr>' +
         '<tr><td>02/01</td><td>新增緊急公告</td></tr>' +
@@ -164,71 +73,10 @@ var showVersionHistory = function(){
     });
 };
 
-var showTwcdcFB = function(){
-    gtag('event', 'click', {
-        'event_category': '提醒工具',
-        'event_label': '疾管署粉絲團'
-    });
-    
-    var jc = $.dialog({
-        icon: 'fa fa-clinic-medical',
-        animation: 'top',
-        closeAnimation: 'bottom',
-        columnClass: 'col-md-4 col-md-offset-4',
-        type: 'orange',
-        title: '疾病管制署 - 粉絲團',
-        content: '<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FTWCDC&tabs=timeline&width=340&height=500&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=false&appId=544411143087055" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>',
-        backgroundDismiss: true
-    });
-};
-
-var showInfoMessage = function(){
-    gtag('event', 'click', {
-        'event_category': '提醒工具',
-        'event_label': '提醒資訊'
-    });
-    $.alert({
-        animation: 'top',
-        closeAnimation: 'bottom',
-        columnClass: 'col-md-6 col-md-offset-3',
-        type: 'blue',
-        title: '資訊',
-        content: 
-        '🔔全國疫情警戒第三級延長至6月28日止<br /><br />' + 
-        '部分藥局採發放號碼牌方便民眾購買口罩，故系統無法顯示已發送號碼牌數量。<br />' + 
-        '口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。<br />' + 
-        '本網站會自動更新庫存，不用重新整理。<br />' + 
-        '全民抗疫，請保持耐心與禮貌哦！<br /><br />' +
-        '<a target="_blank" href="https://www.facebook.com/TWCDC/photos/a.187029023406/10159131395593407/"><img src="https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/191725964_10159131395598407_2133671331429041913_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=730e14&_nc_ohc=jvHM7sDRuXUAX9TRjkH&_nc_ht=scontent.ftpe8-2.fna&oh=8efc23b962e6bf87c65f9a653e30311a&oe=60CAAE84" /></a>',
-        backgroundDismiss: true
-    });
-};
-
-var showTopMessage = function(){
-    $.alert({
-        icon: 'fa fa-check',
-        animation: 'top',
-        closeAnimation: 'bottom',
-        columnClass: 'col-md-4 col-md-offset-4',
-        type: 'blue',
-        title: '重要通知',
-        content: 
-        '🔔全國疫情警戒第三級延長至6月28日止<br /><br />' + 
-        '口罩預購詳右下角 <i class="fas fa-info"></i> 按鈕。<br /><br />' + 
-        '本網站會自動更新庫存，不用重新整理。<br />' + 
-        '全民抗疫，請保持耐心與禮貌哦！' +
-        '<a target="_blank" href="https://www.facebook.com/TWCDC/photos/a.187029023406/10159131395593407/"><img src="https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/191725964_10159131395598407_2133671331429041913_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=730e14&_nc_ohc=jvHM7sDRuXUAX9TRjkH&_nc_ht=scontent.ftpe8-2.fna&oh=8efc23b962e6bf87c65f9a653e30311a&oe=60CAAE84" /></a>',
-        autoClose:'ok|10000',
-        backgroundDismiss: true
-    });
-};
-
+//緊急發布用, 可藉由定時器自動關閉
 var showWarningMessage = function(){
-    gtag('event', 'click', {
-        'event_category': '提醒工具',
-        'event_label': '重要訊息'
-    });
     $.alert({
+        icon: 'fa-solid fa-triangle-exclamation',
         animation: 'top',
         closeAnimation: 'bottom',
         columnClass: 'col-md-6 col-md-offset-3',
@@ -239,31 +87,62 @@ var showWarningMessage = function(){
         '若有不適，請撥打1922防疫專線，就醫時主動告知活動暴露史。<br />' +
         '搭乘大眾運輸時，應全程配戴口罩並配合量測體溫，<br />' + 
         '若身體不適請戴口罩速就醫，主動告知旅遊、接觸史等，並落實生病在家休息。<br /><br />' + 
-        '<a target="_blank" href="https://www.facebook.com/TWCDC/photos/a.187029023406/10159131395593407/"><img src="https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/191725964_10159131395598407_2133671331429041913_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=730e14&_nc_ohc=jvHM7sDRuXUAX9TRjkH&_nc_ht=scontent.ftpe8-2.fna&oh=8efc23b962e6bf87c65f9a653e30311a&oe=60CAAE84" /></a>',
+        '<a target="_blank" class="link-primary" href="https://www.facebook.com/TWCDC/photos/a.187029023406/10159131395593407/"><img src="https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/191725964_10159131395598407_2133671331429041913_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=730e14&_nc_ohc=jvHM7sDRuXUAX9TRjkH&_nc_ht=scontent.ftpe8-2.fna&oh=8efc23b962e6bf87c65f9a653e30311a&oe=60CAAE84" /></a>',
     });
 };
 
-var showUpdateProcess = function(){
-    gtag('event', 'click', {
-        'event_category': '地圖工具',
-        'event_label': '更新地圖'
-    });
-    
-    var jc = $.dialog({
-        icon: 'fa fa-spinner fa-spin',
-        animation: 'top',
-        closeAnimation: 'bottom',
-        columnClass: 'col-md-4 col-md-offset-4',
-        type: 'orange',
-        title: '資料更新中',
-        content: '正在抓取最新診所&口罩庫存資訊...',
-        onOpen: function(){
-            reloadStrongholdData(false);
-            jc.setIcon('fas fa-check');
-            jc.setType('green');
-            jc.close();
-        }
-    });
+var showInfoMessage = function(type){
+    let exchange_info = '';
+    let current_week = new Date().getDay();
+
+    if(current_week == 0){
+        exchange_info = '今日全民皆可購買公費快篩試劑';
+    }else if(current_week % 2 ==0){
+        exchange_info = '今日身分證尾碼為 <i class="fa-solid fa-0"></i> <i class="fa-solid fa-2"></i> <i class="fa-solid fa-4"></i> <i class="fa-solid fa-6"></i> <i class="fa-solid fa-8"></i> 者可購買公費快篩試劑';
+    }else{
+        exchange_info = '今日身分證尾碼為 <i class="fa-solid fa-1"></i> <i class="fa-solid fa-3"></i> <i class="fa-solid fa-5"></i> <i class="fa-solid fa-7"></i> <i class="fa-solid fa-9"></i> 者可購買公費快篩試劑';
+    }
+
+    let msg_content = '<i class="fa-solid fa-circle-info"></i> <span class="text-primary">' + exchange_info + '</span><br /><br />' + 
+    '<i class="fa-solid fa-circle-info"></i> 口罩庫存政府停止更新，故本站也同步移除口罩地圖。<br />' + 
+    '<i class="fa-solid fa-circle-info"></i> 採發放號碼牌方式之藥局，庫存以現場為主。<br /><br />' + 
+
+    '<i class="fa-solid fa-circle-info"></i> 新增 社區採檢站、公費快篩發放點 兩種地圖(右上篩選)。<br />' + 
+    '<i class="fa-solid fa-circle-chevron-right"></i> 社區採檢站：如自覺有風險且出現發燒、呼吸道症狀、嗅味覺異常、不明原因腹瀉等相關症狀，或抗原快篩（含家用快篩）陽性時，請佩戴醫用口罩，就近前往指定社區採檢院所，由醫師評估進行PCR核酸檢驗。<br />' + 
+    '<i class="fa-solid fa-circle-chevron-right"></i> 公費快篩發放點：如有出現呼吸道症狀，可由醫師評估發放試劑後自行檢驗。<br /><br />' + 
+
+    '<i class="fa-solid fa-circle-info"></i> 顏色說明：</span><br />' +
+    '<i class="fa-solid fa-circle-chevron-right"></i> <span class="time-Lv1">2小時內有庫存異動</span> <span class="time-Lv2">4小時內有庫存異動</span><br />' +
+    '<i class="fa-solid fa-circle-chevron-right"></i> <span class="time-Lv3">8小時內有庫存異動</span> <span class="time-Lv4">超過8小時無庫存異動</span><br /><br />' +
+    '<i class="fa-solid fa-circle-info"></i> 網頁會定時自動更新庫存，不用重新整理。<br />' + 
+    '<i class="fa-solid fa-circle-info"></i> 全民抗疫，請保持耐心與禮貌哦！<br /><br />' + 
+    '<i class="fa-solid fa-square-arrow-up-right"></i> <a target="_blank" class="link-primary" href="https://www.cdc.gov.tw/Category/Page/R8bAd_yiVi22CIr73qM2yw">安裝臺灣社交距離App</a><br />' +
+    '<i class="fa-solid fa-square-arrow-up-right"></i> <a target="_blank" class="link-primary" href="https://antiflu.cdc.gov.tw/ExaminationCounter">COVID-19全國指定社區採檢院所地圖</a>';
+
+    if(type == 'auto'){
+        $.alert({
+            icon: 'fa-solid fa-info',
+            animation: 'top',
+            closeAnimation: 'bottom',
+            columnClass: 'col-md-6 col-md-offset-3',
+            type: 'blue',
+            title: '公告資訊',
+            content: msg_content,
+            autoClose:'ok|10000',
+            backgroundDismiss: true
+        });
+    }else{
+        $.alert({
+            icon: 'fa-solid fa-info',
+            animation: 'top',
+            closeAnimation: 'bottom',
+            columnClass: 'col-md-6 col-md-offset-3',
+            type: 'blue',
+            title: '公告資訊',
+            content: msg_content,
+            backgroundDismiss: true
+        });    
+    }
 };
 
 var showQuestionInfo = function(){
@@ -273,7 +152,7 @@ var showQuestionInfo = function(){
     });
 
     $.alert({
-        icon: 'fa fa-question-circle',
+        icon: 'fa-solid fa-circle-question',
         animation: 'top',
         closeAnimation: 'bottom',
         columnClass: 'col-md-6 col-md-offset-3',
@@ -281,17 +160,9 @@ var showQuestionInfo = function(){
         title: '資訊有誤嗎',
         content: '如果藥局的庫存或者備註有誤，可以禮貌提醒藥師確認系統資料' + 
         '<BR /><BR />●庫存的部分<br>' +
-        '可請藥師瀏覽『<a target="_blank" href="http://ws.nhi.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMjkyL2NrZmlsZS9mYmUzNWVmZC0zMDkyLTRjNWEtOTAyZi0zMDIxN2I0YzYyMWQucGRm&n=MTA5MDIwNiBVc2VyR3VpZGVfUVA1X3YzLjAucGRm&icon=.pdf">於防疫口罩管控系統VPN登錄作業使用者手冊</a>』的第五頁，<BR />有說明負數的操作方式。' +
+        '可請藥師瀏覽『<a target="_blank" class="link-primary" href="http://ws.nhi.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMjkyL2NrZmlsZS9mYmUzNWVmZC0zMDkyLTRjNWEtOTAyZi0zMDIxN2I0YzYyMWQucGRm&n=MTA5MDIwNiBVc2VyR3VpZGVfUVA1X3YzLjAucGRm&icon=.pdf">於防疫口罩管控系統VPN登錄作業使用者手冊</a>』的第五頁，<BR />有說明負數的操作方式。' +
         '<BR /><BR />●備註的部分<br>' +
-        '可請藥師一樣連線至VPN後進入「<a target="_blank" href="http://bit.ly/2ScrpB6">看診資料及掛號費</a>」：(1)每日固定看診時段(2)「固定看診時段備註欄」，可修正藥局販賣口罩起迄時間及相關欲通知民眾事項。',
+        '可請藥師一樣連線至VPN後進入「<a target="_blank" class="link-primary" href="http://bit.ly/2ScrpB6">看診資料及掛號費</a>」：(1)每日固定看診時段(2)「固定看診時段備註欄」，可修正藥局販賣口罩起迄時間及相關欲通知民眾事項。',
         backgroundDismiss: true
-    });
-};
-
-
-var buy_mask = function(){
-    gtag('event', 'click', {
-        'event_category': '提醒工具',
-        'event_label': '口罩預購'
     });
 };
