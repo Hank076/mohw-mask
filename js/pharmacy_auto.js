@@ -926,7 +926,7 @@ locations = [
 {"lng":"120.645925","lat":"24.171787","name":"舒健藥局","id":"5903270721","tel":"0427077858","addr":"臺中市西屯區西屯路二段255號2樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"周一至周六每日晚上7點發號碼牌並依序領口罩。"},
 {"lng":"120.6540371","lat":"24.1573372","name":"大墩藥局","id":"5903270749","tel":"0423209602","addr":"臺中市西屯區大墩19街68號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天早上9點開始發號碼牌後依序領口罩。"},
 {"lng":"120.636787","lat":"24.155565","name":"河南丁丁藥局","id":"5903270776","tel":"0422511658","addr":"臺中市西屯區河南路4段191號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"周一至周日每天上午9:00開始販售口罩[有口罩庫存時]"},
-{"lng":"120.602302","lat":"24.182943","name":"榮友藥局","id":"5903270801","tel":"0423508392","addr":"臺中市西屯區臺灣大道四段1742號","business_week":"OOOOOXXOOOOOXXXXOXXXX","memo":"8\/14公休"},
+{"lng":"120.602302","lat":"24.182943","name":"榮友藥局","id":"5903270801","tel":"0423508392","addr":"臺中市西屯區臺灣大道四段1742號","business_week":"OOOOOXXOOOOOXXXXOXXXX","memo":"9\/21中秋節公休"},
 {"lng":"120.639038","lat":"24.182868","name":"佑全福星藥局","id":"5903270810","tel":"0424527465","addr":"臺中市西屯區黎明路三段395、397號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"周一至週日下午2:00開始發放口罩，售完為止"},
 {"lng":"120.642036","lat":"24.163113","name":"分子藥局","id":"5903270847","tel":"0422513080","addr":"臺中市西屯區惠來路二段236－1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩發放時間週一至週六早上10點起售完為止"},
 {"lng":"120.654942","lat":"24.164247","name":"尚禾藥局","id":"5903270865","tel":"0423147688","addr":"臺中市西屯區青海路一段65號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
