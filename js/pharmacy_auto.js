@@ -3099,7 +3099,7 @@ locations = [
 {"lng":"121.29474","lat":"24.967114","name":"壽德藥局","id":"5932083081","tel":"033666350","addr":"桃園市八德區桃德路八十四號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.304373","lat":"24.963427","name":"吉康生活藥局","id":"5932083303","tel":"033768577","addr":"桃園市八德區義勇街120號","business_week":"OOOOOXXOOOOOXXOOOOOXX"},
 {"lng":"121.327137","lat":"24.971135","name":"健康中西藥師藥局","id":"5932083330","tel":"033638373","addr":"桃園市八德區桃鶯路45號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"口罩販賣時段：週一至週六下午18:00、週日下午13點15分，以藥局現場公告為主"},
-{"lng":"121.326484","lat":"24.971369","name":"信發藥局","id":"5932083394","tel":"033669276","addr":"桃園市八德區桃鶯路24號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"1100818更新"},
+{"lng":"121.326484","lat":"24.971369","name":"信發藥局","id":"5932083394","tel":"033669276","addr":"桃園市八德區桃鶯路24號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"1100820更新"},
 {"lng":"121.2953189","lat":"24.9596599","name":"八德藥局","id":"5932083438","tel":"033761856","addr":"桃園市八德區廣褔路一七八號二樓","business_week":"OOOOOOOOOOOOXXOOOOOXX","memo":"口罩販賣時段：同上班時間、週六0800-1200、周日停賣"},
 {"lng":"121.302243","lat":"24.976147","name":"瑞誠藥局","id":"5932083456","tel":"033669840","addr":"桃園市八德區介壽路一段八九八之一號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"口罩販賣時段：早上8:30到11:30，下午2:30到5:30，晚上7:00到9:00止，星期日有剩餘量8:30到11:30止"},
 {"lng":"121.2949829","lat":"24.959631","name":"上方藥局","id":"5932083509","tel":"033635902","addr":"桃園市八德區廣褔路一八八號","business_week":"OOOOOOXOOOOOOXOOOXOOX","memo":"口罩販賣時間下午3:00~5:00"},
