@@ -1,6 +1,6 @@
 locations = [
 {"lng":"121.555235","lat":"25.052137","name":"榮星藥局","id":"5901010076","tel":"0227124696","addr":"臺北市松山區南京東路4段133巷5弄1號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
-{"lng":"121.555562","lat":"25.05214","name":"安世藥局","id":"5901010085","tel":"0227133405","addr":"臺北市松山區南京東路4段133巷5弄9號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"08:30~22:00 販售口罩自上午08:30起;現場排隊"},
+{"lng":"121.555562","lat":"25.05214","name":"安世藥局","id":"5901010085","tel":"0227133405","addr":"臺北市松山區南京東路4段133巷5弄9號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"09:00~22:00"},
 {"lng":"121.558168","lat":"25.052704","name":"明一藥局","id":"5901010094","tel":"0227691654","addr":"臺北市松山區南京東路5段59巷28弄25號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"AM10: ~~PM9:00"},
 {"lng":"121.547337","lat":"25.049139","name":"傑安藥局","id":"5901010165","tel":"0227524155","addr":"臺北市松山區八德路2段437巷7弄8號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"9:30開始發號碼牌"},
 {"lng":"121.546586","lat":"25.059485","name":"仁弘藥局","id":"5901010174","tel":"0227136764","addr":"臺北市松山區民生東路3段113巷25弄6號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"每日早上九點，不用領號碼牌開始發放口罩."},
