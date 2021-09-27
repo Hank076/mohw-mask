@@ -2552,7 +2552,7 @@ locations = [
 {"lng":"121.661666","lat":"25.072872","name":"杏光藥局","id":"5931112314","tel":"0226411340","addr":"新北市汐止區建成路59巷19號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"星期一到星期五下午2點領號碼牌，星期六中午12點領號碼牌"},
 {"lng":"121.665726","lat":"25.070959","name":"躍獅尚揚藥局","id":"5931112341","tel":"0286483158","addr":"新北市汐止區忠孝東路399號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"9:00開始代售實名製口罩"},
 {"lng":"121.646407","lat":"25.088353","name":"汐止立欣藥局","id":"5931112369","tel":"0226464546","addr":"新北市汐止區汐萬路二段249號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
-{"lng":"121.64588","lat":"25.089565","name":"翔云大藥局","id":"5931112378","tel":"0226463119","addr":"新北市汐止區祥雲街2號ㄧ1、1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
+{"lng":"121.64588","lat":"25.089565","name":"翔云大藥局","id":"5931112378","tel":"0226463119","addr":"新北市汐止區祥雲街2號ㄧ1、1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"9\/25(六)只到12:00"},
 {"lng":"121.63203","lat":"25.064944","name":"汐興藥局","id":"5931112510","tel":"0226927733","addr":"新北市汐止區中興路113號1樓、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.630762","lat":"25.070416","name":"佳恩藥局","id":"5931112636","tel":"0226950714","addr":"新北市汐止區民族三街7之1號1樓","business_week":"OOOOOOXXXXXXXXOOOOOOX"},
 {"lng":"121.656402","lat":"25.064564","name":"健成藥局","id":"5931112645","tel":"0226428989","addr":"新北市汐止區新興路20號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩代售時間早上8:30，現場排隊購買"},
