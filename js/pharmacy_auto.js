@@ -3707,7 +3707,7 @@ locations = [
 {"lng":"120.574579","lat":"23.968913","name":"裕良藥局大同店","id":"5937052399","tel":"048344612","addr":"彰化縣員林市大同路二段203－1號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.567018","lat":"23.97153","name":"員林啄木鳥藥局","id":"5937052424","tel":"048339483","addr":"彰化縣員林市新生路121、123號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.577724","lat":"23.957153","name":"迪迪連鎖藥局員林店","id":"5937052433","tel":"048312898","addr":"彰化縣員林市林森路163號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"防疫口罩販售時間：每日上午9時開始，禮拜日口罩正常販售"},
-{"lng":"120.572228","lat":"23.959971","name":"統信藥局","id":"5937052451","tel":"048367089","addr":"彰化縣員林市正興街372號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.572228","lat":"23.959971","name":"統信藥局","id":"5937052451","tel":"048367089","addr":"彰化縣員林市正興街372號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"10\/9、10\/10、10\/11早上下午晚上正常門診"},
 {"lng":"120.574676","lat":"23.960708","name":"中美藥局","id":"5937052460","tel":"048366708","addr":"彰化縣員林市育英路83－1號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"防疫口罩每日上午8時30分開始販售"},
 {"lng":"120.47967","lat":"23.956774","name":"鴻明藥局","id":"5937060051","tel":"048820185","addr":"彰化縣溪湖鎮大竹里平和街196號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩販賣時間:周一~六早上08:50開始。"},
 {"lng":"120.479062","lat":"23.959384","name":"慶華藥局","id":"5937060060","tel":"048852441","addr":"彰化縣溪湖鎮光華里二溪路一段14號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時間:每日早上"},
