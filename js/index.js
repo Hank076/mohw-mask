@@ -4,7 +4,7 @@ var fullDate = new Date();
 var yyyy = fullDate.getFullYear();
 var MM = (fullDate.getMonth() + 1) >= 10 ? (fullDate.getMonth() + 1) : ("0" + (fullDate.getMonth() + 1));
 var dd = fullDate.getDate() < 10 ? ("0"+fullDate.getDate()) : fullDate.getDate();
-var today = yyyy + MM + dd;
+var today = yyyy * 10000 + MM * 100 + dd;
 
 if(parseInt(today) >= warningDateline){
     bShowWarningMessage = false;
@@ -121,6 +121,7 @@ var showVersionHistory = function(){
         type: 'green',
         title: '版本資訊',
         content: '<table class="table table-bordered table-condensed table-striped"><tr><th>版本</th><th>歷程</th></tr>' +
+        '<tr><td>12/10</td><td>新增公告</td></tr>' +
         '<tr><td>05/03</td><td>新增緊急公告</td></tr>' +
         '<tr><td>04/28</td><td>新增緊急公告</td></tr>' +
         '<tr><td>02/01</td><td>新增緊急公告</td></tr>' +
@@ -194,35 +195,17 @@ var showInfoMessage = function(){
         type: 'blue',
         title: '資訊',
         content: 
-        '🔔全國疫情警戒第三級延長至6月28日止<br /><br />' + 
+        '春節檢疫 7+7+7 方案出爐<br /><br />' + 
         '部分藥局採發放號碼牌方便民眾購買口罩，故系統無法顯示已發送號碼牌數量。<br />' + 
         '口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。<br />' + 
         '本網站會自動更新庫存，不用重新整理。<br />' + 
         '全民抗疫，請保持耐心與禮貌哦！<br /><br />' +
-        '<a target="_blank" href="https://www.facebook.com/TWCDC/photos/a.187029023406/10159131395593407/"><img src="https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/191725964_10159131395598407_2133671331429041913_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=730e14&_nc_ohc=jvHM7sDRuXUAX9TRjkH&_nc_ht=scontent.ftpe8-2.fna&oh=8efc23b962e6bf87c65f9a653e30311a&oe=60CAAE84" /></a>',
+        '<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159492350958407/"><img src="https://scontent.ftpe8-4.fna.fbcdn.net/v/t39.30808-6/s720x720/264229475_10159492345733407_1187015636373625763_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=oKtZo0FxvGMAX_zH3xC&_nc_ht=scontent.ftpe8-4.fna&oh=1f8166b235501675b6efc4b2259978e8&oe=61B80C08" /></a>',
         backgroundDismiss: true
     });
 };
 
-var showTopMessage = function(){
-    $.alert({
-        icon: 'fa fa-check',
-        animation: 'top',
-        closeAnimation: 'bottom',
-        columnClass: 'col-md-4 col-md-offset-4',
-        type: 'blue',
-        title: '重要通知',
-        content: 
-        '🔔全國疫情警戒第三級延長至6月28日止<br /><br />' + 
-        '口罩預購詳右下角 <i class="fas fa-info"></i> 按鈕。<br /><br />' + 
-        '本網站會自動更新庫存，不用重新整理。<br />' + 
-        '全民抗疫，請保持耐心與禮貌哦！' +
-        '<a target="_blank" href="https://www.facebook.com/TWCDC/photos/a.187029023406/10159131395593407/"><img src="https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/191725964_10159131395598407_2133671331429041913_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=730e14&_nc_ohc=jvHM7sDRuXUAX9TRjkH&_nc_ht=scontent.ftpe8-2.fna&oh=8efc23b962e6bf87c65f9a653e30311a&oe=60CAAE84" /></a>',
-        autoClose:'ok|10000',
-        backgroundDismiss: true
-    });
-};
-
+//緊急發布用, 可藉由定時器自動關閉
 var showWarningMessage = function(){
     gtag('event', 'click', {
         'event_category': '提醒工具',
@@ -240,6 +223,27 @@ var showWarningMessage = function(){
         '搭乘大眾運輸時，應全程配戴口罩並配合量測體溫，<br />' + 
         '若身體不適請戴口罩速就醫，主動告知旅遊、接觸史等，並落實生病在家休息。<br /><br />' + 
         '<a target="_blank" href="https://www.facebook.com/TWCDC/photos/a.187029023406/10159131395593407/"><img src="https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/191725964_10159131395598407_2133671331429041913_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=730e14&_nc_ohc=jvHM7sDRuXUAX9TRjkH&_nc_ht=scontent.ftpe8-2.fna&oh=8efc23b962e6bf87c65f9a653e30311a&oe=60CAAE84" /></a>',
+    });
+};
+
+// showWarningMessage > showTopMessage (有 Warning 就不會跳 Top)
+var showTopMessage = function(){
+    $.alert({
+        icon: 'fa fa-check',
+        animation: 'top',
+        closeAnimation: 'bottom',
+        columnClass: 'col-md-4 col-md-offset-4',
+        type: 'blue',
+        title: '重要通知',
+        content: 
+        '🔔11/30~12/13 全國維持二級警戒<br /><br />' + 
+        '🔔春節檢疫 7+7+7 方案詳右下角 <i class="fas fa-info"></i> 按鈕。<br /><br />' + 
+        '口罩預購詳右下角 <i class="fas fa-shopping-cart"></i> 按鈕。<br /><br />' + 
+        '本網站會自動更新庫存，不用重新整理。<br />' + 
+        '全民抗疫，請保持耐心與禮貌哦！' +
+        '<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159469168753407"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t39.30808-6/261021624_10159469152278407_5740610526264346861_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=MxrymGujUuQAX9Acp3U&_nc_ht=scontent.ftpe8-3.fna&oh=7971092a942c57d82b6141bfa24413d6&oe=61B87D18" /></a>',
+        autoClose:'ok|10000',
+        backgroundDismiss: true
     });
 };
 
