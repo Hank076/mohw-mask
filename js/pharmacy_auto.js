@@ -2940,7 +2940,7 @@ locations = [
 {"lng":"120.68887","lat":"24.10649","name":"華信藥局","id":"593620B316","tel":"0424872992","addr":"臺中市大里區益民路2段12號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日早上8點半準時開賣，賣完為止"},
 {"lng":"120.702613","lat":"24.088076","name":"福至藥局","id":"593620B325","tel":"0424929116","addr":"臺中市大里區成功路385號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"6\/12.6\/14正常營業"},
 {"lng":"120.729867","lat":"24.091318","name":"健民藥局","id":"593620B334","tel":"0424927748","addr":"臺中市大里區健民路83－8號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
-{"lng":"120.888455","lat":"24.173788","name":"八醫健保藥局和平店","id":"5936211063","tel":"0425941037","addr":"臺中市和平區東關路3段135號","business_week":"XOOOOOXXOOOOOXXXXXXXX","memo":"9\/20 9:00-17:00  9\/21休假"},
+{"lng":"120.888455","lat":"24.173788","name":"八醫健保藥局和平店","id":"5936211063","tel":"0425941037","addr":"臺中市和平區東關路3段135號","business_week":"XOOOOOXXOOOOOXXXXXXXX","memo":"1101231照常營業1110101公休一天"},
 {"lng":"120.532099","lat":"24.073383","name":"三立大藥局","id":"5937010140","tel":"047635422","addr":"彰化縣彰化市中華西路111號","business_week":"XXXXXXXOOOOOOOOOOOOOO","memo":"周一至週日下午四點半開始排隊　並依續販售　售完截止.."},
 {"lng":"120.542483","lat":"24.085627","name":"彰化明德藥局","id":"5937010159","tel":"047299085","addr":"彰化縣彰化市興北里三民路209號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"正常調劑時間8:30~22:00(調劑時間皆有賣口罩)"},
 {"lng":"120.599431","lat":"24.072791","name":"世和生西藥局","id":"5937010202","tel":"047384277","addr":"彰化縣彰化市一心東街46號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"正常調劑時間(9AM~2130PM).防疫口罩週一週六0900-1100依排隊順序發放."},
