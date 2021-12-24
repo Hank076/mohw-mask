@@ -465,7 +465,7 @@ locations = [
 {"lng":"120.292196","lat":"22.717185","name":"天健藥局","id":"5902042563","tel":"073634179","addr":"高雄市楠梓區後昌路1087號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"早上九點販售口罩"},
 {"lng":"120.296057","lat":"22.709029","name":"皇慶藥局","id":"5902042657","tel":"073643352","addr":"高雄市楠梓區和光街191號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"至2\/11~2\/29日營業日下午2:00~4:00為販售口罩時間售完為止"},
 {"lng":"120.293201","lat":"22.710272","name":"元春中西藥師藥局","id":"5902042661","tel":"073605656","addr":"高雄市楠梓區後昌路837巷37號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上.9:00為口罩領取時間售完為止星期日休息"},
-{"lng":"120.2917","lat":"22.718438","name":"家安藥局","id":"5902042769","tel":"073600066","addr":"高雄市楠梓區後昌新路13號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"12\/15晚上休診"},
+{"lng":"120.2917","lat":"22.718438","name":"家安藥局","id":"5902042769","tel":"073600066","addr":"高雄市楠梓區後昌新路13號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"12\/15晚上休診31號晚上休診"},
 {"lng":"120.34406","lat":"22.644806","name":"明曜藥局","id":"5902050092","tel":"073803807","addr":"高雄市三民區澄和路96號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業日13:30販售口罩當場排隊.當場販售.售完為止"},
 {"lng":"120.310827","lat":"22.644748","name":"杏安藥局","id":"5902050154","tel":"073111606","addr":"高雄市三民區十全一路91 號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業日上午8點半為販賣口罩時間.售完為止"},
 {"lng":"120.335194","lat":"22.643009","name":"瑞鶴藥局","id":"5902050298","tel":"073862757","addr":"高雄市三民區寶德里義德路25號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"下午2:00至4:00午休勿擾，每日10:00至22:00發售。"},
