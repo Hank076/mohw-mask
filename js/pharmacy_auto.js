@@ -574,7 +574,7 @@ locations = [
 {"lng":"120.730596","lat":"24.242641","name":"昭仁藥局","id":"5903010341","tel":"0425243559","addr":"臺中市豐原區南陽路140號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.733008","lat":"24.250931","name":"甲蒂健保藥局","id":"5903010350","tel":"0425256028","addr":"臺中市豐原區豐東路308號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"9點開始發號碼牌購買"},
 {"lng":"120.712021","lat":"24.240076","name":"豐原啄木鳥藥局","id":"5903010378","tel":"0425295340","addr":"臺中市豐原區中山路178號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"0820營業開始發口罩，周日不發"},
-{"lng":"120.721895","lat":"24.2551","name":"豐原藥局","id":"5903010449","tel":"0425260119","addr":"臺中市豐原區新生北路206號之1（1樓）","business_week":"OOOOOOXXXXXXXXOXOXXXX"},
+{"lng":"120.721895","lat":"24.2551","name":"豐原藥局","id":"5903010449","tel":"0425260119","addr":"臺中市豐原區新生北路206號之1（1樓）","business_week":"OOOOOOXXXXXXXXOXOXXXX","memo":"1\/1元旦公休"},
 {"lng":"120.714857","lat":"24.250094","name":"心之藥局","id":"5903010458","tel":"0425254959","addr":"臺中市豐原區中山路504號","business_week":"OOOOOXOOOOOOXOOOOOOXO","memo":"W1-5 pm1:00-pm3:00 週日pm2-4 週六休"},
 {"lng":"120.72826","lat":"24.250837","name":"大樹圓環藥局","id":"5903010485","tel":"0425122212","addr":"臺中市豐原區圓環東路617號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販售時間：14:00 - 16:00"},
 {"lng":"120.727168","lat":"24.248238","name":"佑全豐原圓環東藥局","id":"5903010501","tel":"0425246069","addr":"臺中市豐原區圓環東路548、550、552、554號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"販售實名制口罩時間10:00~20:00"},
