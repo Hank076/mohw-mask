@@ -1773,7 +1773,6 @@ locations = [
 {"lng":"121.488645","lat":"25.051306","name":"榮康藥局","id":"5931025192","tel":"0229772723","addr":"新北市三重區成功路81號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.48131","lat":"25.079858","name":"黎明藥師藥局","id":"5931025245","tel":"0282870958","addr":"新北市三重區三和路4段227號1樓","business_week":"XXXXXXXOOOOOOXOOOOOOX"},
 {"lng":"121.483747","lat":"25.077639","name":"仁愛健保藥局","id":"5931025254","tel":"0222805160","addr":"新北市三重區力行路2段153號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"有口罩庫存時，全時段販售"},
-{"lng":"121.496386","lat":"25.067825","name":"康新藥局","id":"5931025290","tel":"0229865982","addr":"新北市三重區正義北路185號2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制口罩代售時段：下午2點到4點。請自備零錢，恕不找零。."},
 {"lng":"121.4772","lat":"25.067324","name":"宗安藥師藥局","id":"5931025361","tel":"0229874243","addr":"新北市三重區頂崁街208號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩實名制早上9點開始"},
 {"lng":"121.483581","lat":"25.078583","name":"昌誠藥局","id":"5931025398","tel":"0222876338","addr":"新北市三重區三和路4段161號1樓","business_week":"OOOOOOXOOOXOXXOOOXOXX","memo":"疫情期間:5\/18-5\/28的晚上休診(白天正常看診)"},
 {"lng":"121.492928","lat":"25.067418","name":"利民藥局","id":"5931025432","tel":"0229852826","addr":"新北市三重區自強路1段171號、173號1樓及2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩發放時間1400-1600"},
