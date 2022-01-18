@@ -507,7 +507,7 @@ locations = [
 {"lng":"120.302699","lat":"22.62084","name":"永明藥局","id":"5902060150","tel":"072619832","addr":"高雄市新興區仁智街223號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.315867","lat":"22.632226","name":"長青藥局","id":"5902061540","tel":"072223969","addr":"高雄市新興區六合路114號","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"上午8點40分   領完為止"},
 {"lng":"120.298171","lat":"22.63363","name":"銘泰藥局","id":"5902061577","tel":"072855165","addr":"高雄市新興區自立二路166號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每週一休息沒賣口罩 請依現場規定為主"},
-{"lng":"120.314944","lat":"22.631861","name":"元盛藥局","id":"5902061899","tel":"072228183","addr":"高雄市新興區六合路153號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"11\/13營業至晚上6:00"},
+{"lng":"120.314944","lat":"22.631861","name":"元盛藥局","id":"5902061899","tel":"072228183","addr":"高雄市新興區六合路153號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.297518","lat":"22.634368","name":"岩生藥局","id":"5902071528","tel":"072863608","addr":"高雄市前金區自立一路15－1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間為24小時 營業日8:30~22:00為販賣口罩時間.售完為止，"},
 {"lng":"120.295008","lat":"22.632181","name":"大衛藥局","id":"5902071537","tel":"072859958","addr":"高雄市前金區中華三路188號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"口罩代售早上8:30起(星期日休息)"},
 {"lng":"120.298669","lat":"22.621369","name":"中華藥局","id":"5902071546","tel":"072712779","addr":"高雄市前金區中華四路363號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期日固定休假"},
