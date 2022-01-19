@@ -1567,6 +1567,7 @@ locations = [
 {"lng":"120.45291","lat":"23.4782","name":"源豪藥局","id":"5922011966","tel":"052169696","addr":"嘉義市東區光華路82號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"周一至周六，售鑿為止。周日休"},
 {"lng":"120.45241","lat":"23.48205","name":"北榮藥局","id":"5922012061","tel":"052280650","addr":"嘉義市東區北榮街2號","business_week":"OOOOOXXXXXXXXXXXXXXXX","memo":"平日早上8:30-11:30， 中午晚上休息 週六週日不販賣口罩 例假日早上8:30-11:30 下午晚上均休息"},
 {"lng":"120.46764","lat":"23.47718","name":"聖心藥局","id":"5922012178","tel":"052777189","addr":"嘉義市東區大雅路二段577號","business_week":"OOOOOOXOOOOOOOOOOOOOO"},
+{"lng":"120.45064","lat":"23.48235","name":"聖安藥局","id":"5922012285","tel":"052222941","addr":"嘉義市東區仁武里民權路365號1樓","business_week":"OOOXOOOOOOXOOOOOOXOOO","memo":"每日8:30開始發放口罩，每週四休息."},
 {"lng":"120.46398","lat":"23.48889","name":"振安藥局","id":"5922012383","tel":"052756541","addr":"嘉義市東區王田里林森東路300號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"周一至周日10:00販售口罩"},
 {"lng":"120.46629","lat":"23.47685","name":"維康藥局","id":"5922012392","tel":"052757663","addr":"嘉義市東區短竹里大雅路二段567號1樓","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"4\/19 起週日不賣口罩。防疫口罩下午 2:00~5:00 販售"},
 {"lng":"120.45319","lat":"23.47864","name":"松岡藥局","id":"5922012418","tel":"052163519","addr":"嘉義市東區祐民里吳鳳北路197號","business_week":"OOOOOOXXXXXXXXXXXXXXX","memo":"8\/1-8\/8 休假"},
