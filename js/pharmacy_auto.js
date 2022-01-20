@@ -1598,7 +1598,7 @@ locations = [
 {"lng":"120.4409","lat":"23.47535","name":"杏安藥局","id":"5922020581","tel":"052271727","addr":"嘉義市西區書院里民族路786號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"周一~周六09:00開始販售"},
 {"lng":"120.44725","lat":"23.47984","name":"利安藥局","id":"5922020634","tel":"052225756","addr":"嘉義市西區番社里中山路344號1樓","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"口罩販售時間:上午10:00~晚上09:00"},
 {"lng":"120.440434","lat":"23.466406","name":"大向藥局","id":"5922020643","tel":"052354605","addr":"嘉義市西區美源里新民路636號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"每月最後一個星期日公休"},
-{"lng":"120.43324","lat":"23.48241","name":"八八八藥局","id":"5922020652","tel":"052810598","addr":"嘉義市西區竹圍里中興路241號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩：每天8:15，現場排隊"},
+{"lng":"120.43324","lat":"23.48241","name":"四維啄木鳥藥局","id":"5922020652","tel":"052810598","addr":"嘉義市西區竹圍里中興路241號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩：每天8:15，現場排隊"},
 {"lng":"120.44349","lat":"23.47554","name":"大正藥局","id":"5922020661","tel":"052285812","addr":"嘉義市西區書院里民族路702號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間及口罩代售時間  : 週一 ~ 週日早上08:00 ~ 晚上21:30 !"},
 {"lng":"120.43729","lat":"23.467931","name":"興嘉藥局","id":"5922020670","tel":"052841812","addr":"嘉義市西區興業西路370號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"固定週一至週日8:15開放領取口罩，至售完為止"},
 {"lng":"120.427404","lat":"23.472208","name":"齊悅藥局","id":"5922020689","tel":"052843514","addr":"嘉義市西區西平里玉山路145號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩：星期一至星期六，星期日休息"},
