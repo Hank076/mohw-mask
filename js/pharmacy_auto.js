@@ -412,7 +412,7 @@ locations = [
 {"lng":"120.300311","lat":"22.664282","name":"元氣藥局","id":"5902022687","tel":"075555995","addr":"高雄市鼓山區南屏路533號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"販賣口罩時間:周一到周五下午兩點；周六早上十點；售完為止；周日公休"},
 {"lng":"120.279091","lat":"22.659357","name":"定國藥局","id":"5902022794","tel":"075815858","addr":"高雄市鼓山區九如四路1135號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"賣口罩時間為每天早上9點~晚上10點止。"},
 {"lng":"120.295117","lat":"22.664792","name":"裕康中西大藥局","id":"5902022801","tel":"075555352","addr":"高雄市鼓山區裕誠路1519號","business_week":"OOOOOOOXXXXXXXOOOOOXX","memo":"藥局販售口罩時間，依藥局門口公告時間為主(售完為止)"},
-{"lng":"120.275708","lat":"22.654681","name":"弘興藥局","id":"5902022829","tel":"075612677","addr":"高雄市鼓山區鼓山三路48－11號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.275708","lat":"22.654681","name":"弘興藥局","id":"5902022829","tel":"075612677","addr":"高雄市鼓山區鼓山三路48－11號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"春節期間看診時段請電洽藥局"},
 {"lng":"120.293466","lat":"22.666473","name":"康爾喜藥局","id":"5902022874","tel":"075222650","addr":"高雄市鼓山區慶豐街50號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上9點半後開始販售口罩，營業時間為早上9:10至晚間10:00"},
 {"lng":"120.300438","lat":"22.664706","name":"大有藥局","id":"5902022892","tel":"075529402","addr":"高雄市鼓山區文信路236號","business_week":"OOOOOOOOOOOOOXOOOOOOO"},
 {"lng":"120.27929","lat":"22.654661","name":"高雄藥局","id":"5902022972","tel":"075610031","addr":"高雄市鼓山區九如四路924號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"賣口罩時間為週一週六晚上6點，售完為止"},
