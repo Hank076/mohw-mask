@@ -3433,7 +3433,7 @@ locations = [
 {"lng":"120.34526","lat":"23.452157","name":"後潭藥局","id":"5940111441","tel":"053711261","addr":"嘉義縣太保市前潭里後潭184號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"全年無休"},
 {"lng":"120.295085","lat":"23.454839","name":"祥和藥局","id":"5940111450","tel":"053623006","addr":"嘉義縣太保市太保二路149號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"固定周一至周五早上八點開始販售口罩，周六僅上午營業"},
 {"lng":"120.295164","lat":"23.454467","name":"保祥藥局","id":"5940111530","tel":"053622100","addr":"嘉義縣太保市安仁里祥和三路東段75號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"每日上午9點開始販售防疫口罩，售完為止"},
-{"lng":"120.378929","lat":"23.498363","name":"嘉康中西藥局","id":"5940111549","tel":"052376200","addr":"嘉義縣太保市南新里中山路一段295之2號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期一~星期六 下午2~5點 販售防疫口罩，售完為止。"},
+{"lng":"120.378929","lat":"23.498363","name":"嘉康中西藥局","id":"5940111549","tel":"052376200","addr":"嘉義縣太保市南新里中山路一段295之2號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期一~星期六 下午2~5"},
 {"lng":"120.4542645","lat":"23.4798016","name":"李藥局","id":"5940120039","tel":"052355389","addr":"嘉義縣水上鄉民生村忠孝街111號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩購買時間.周一至周六上午9-11點.下午4-6點"},
 {"lng":"120.399082","lat":"23.429955","name":"瑞和堂藥局","id":"5940120048","tel":"052682518","addr":"嘉義縣水上鄉水頭村正義路77號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"09:00~售罄"},
 {"lng":"120.416433","lat":"23.436259","name":"大仁藥局","id":"5940120057","tel":"052681458","addr":"嘉義縣水上鄉柳鄉村柳子林99－2號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週一至週六09：00開始發放號碼牌並依序販售口罩"},
