@@ -2396,7 +2396,7 @@ locations = [
 {"lng":"121.294918","lat":"24.922184","name":"明仁藥局","id":"5932031756","tel":"033804832","addr":"桃園市大溪區介壽路81號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩販賣時段：08:00-21:30"},
 {"lng":"121.184906","lat":"24.917567","name":"華生藥局","id":"5932040175","tel":"034821839","addr":"桃園市楊梅區埔心里中興路89號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販售時間：8:00起，售完為止"},
 {"lng":"121.184783","lat":"24.91776","name":"中美藥局","id":"5932040255","tel":"034822483","addr":"桃園市楊梅區埔心里中興路77號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩發放時間為早上8:30分"},
-{"lng":"121.145242","lat":"24.907596","name":"弘大藥局","id":"5932040308","tel":"034751858","addr":"桃園市楊梅區大華街十三號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩販售時間：週一至週六 08:00-1"},
+{"lng":"121.145242","lat":"24.907596","name":"弘大藥局","id":"5932040308","tel":"034751858","addr":"桃園市楊梅區大華街十三號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩販售時間：週一至週六 08:00-16:00"},
 {"lng":"121.18201","lat":"24.917134","name":"佳禾藥局","id":"5932042080","tel":"034827805","addr":"桃園市楊梅區永美路333號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"口罩販賣時段:周一至周五14:00至售完為止，週六14:00~17:00"},
 {"lng":"121.169867","lat":"24.908553","name":"佑健藥師藥局","id":"5932042124","tel":"034315478","addr":"桃園市楊梅區中山北路二段一Ｏ八號一樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時段上午9點開始發放號碼牌， 售完為止"},
 {"lng":"121.148694","lat":"24.913068","name":"明禾藥局","id":"5932042240","tel":"034755813","addr":"桃園市楊梅區楊新北路13號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"口罩販賣時段：上午08:00~10:00下午16:00~20:00現場排隊"},
