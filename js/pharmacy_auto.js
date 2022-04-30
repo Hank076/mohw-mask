@@ -3959,7 +3959,7 @@ locations = [
 {"lng":"121.136305","lat":"22.91369","name":"鹿野藥局","id":"5946091108","tel":"089552027","addr":"臺東縣鹿野鄉中華路2段146號1樓","business_week":"OOOOOOXOOXOOXXOOXOOXX"},
 {"lng":"118.320671","lat":"24.432807","name":"大賀藥局","id":"5990010515","tel":"082327678","addr":"金門縣金城鎮北門里民生路3號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"中午12點開始販售實名制快篩"},
 {"lng":"118.316316","lat":"24.433547","name":"康總藥局","id":"5990010524","tel":"082316053","addr":"金門縣金城鎮西門里莒光路156號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑販售時段：每日早上08:30分開始販售，售完為止。"},
-{"lng":"118.318337","lat":"24.431675","name":"金志忠藥局","id":"5990010533","tel":"082325813","addr":"金門縣金城鎮東門里莒光路11號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天供應量78份快篩試劑(分單雙號購買) 8:00開始販賣，售完為止。"},
+{"lng":"118.318337","lat":"24.431675","name":"金志忠藥局","id":"5990010533","tel":"082325813","addr":"金門縣金城鎮東門里莒光路11號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制（分單雙號購買，星期天不分） 8:00開始販賣，售完為止。"},
 {"lng":"118.319622","lat":"24.434772","name":"大森藥局","id":"5990010631","tel":"82325100","addr":"金門縣金城鎮民生路28、30號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"可直接憑健保卡買口罩"},
 {"lng":"118.412982","lat":"24.488342","name":"大金藥局","id":"5990020020","tel":"082355382","addr":"金門縣金沙鎮汶沙里五福街1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"(以上口罩餘額很不準 詳情請洽藥局)每日早上8:00發號碼牌並於下午13:30後再來領口罩"},
 {"lng":"118.416293","lat":"24.441233","name":"仁愛復興藥局","id":"5990030044","tel":"082332368","addr":"金門縣金湖鎮新市里復興路40號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
