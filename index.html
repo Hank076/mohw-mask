@@ -9,15 +9,15 @@
     <meta name="author" content="Pupu(DotNet)">
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:description" content="政府健保藥局與衛生所防疫口罩地圖即時販售資訊清單，也能查詢口罩及快篩剩餘庫存存貨數量" />
+    <meta name="twitter:description" content="口罩及快篩試劑即時販售庫存資訊清單，也能查詢口罩及快篩剩餘庫存數量" />
     <meta name="keyword" content="口罩,實名制,政府,即時,藥局,衛生所,庫存,存貨,防疫口罩,口罩地圖,快篩,快篩試劑" />
     <meta property="og:url" content="https://mohw-mask.pu.idv.tw" />
     <meta property="og:locale" content="zh_TW" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="藥局與衛生所口罩及快篩地圖即時販售庫存資訊" />
-    <meta property="og:description" content="政府健保藥局與衛生所防疫口罩及快篩地圖即時販售資訊清單，也能查詢口罩及快篩剩餘庫存存貨數量" />
+    <meta property="og:title" content="口罩及快篩試劑即時販售庫存資訊地圖" />
+    <meta property="og:description" content="口罩及快篩試劑即時販售庫存清單，也能查詢口罩及快篩剩餘庫存數量" />
     <meta property="og:image" content="https://mohw-mask.pu.idv.tw/images/mohw-mask-pupu_202003061245.png" />
-    <title>藥局與衛生所口罩及快篩地圖即時販售庫存資訊</title>
+    <title>口罩及快篩試劑即時販售庫存資訊地圖</title>
     <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
@@ -26,13 +26,12 @@
     <meta name="msapplication-TileColor" content="#00aba9">
     <meta name="theme-color" content="#ffffff">
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.6.0/leaflet.css" integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.4.1/MarkerCluster.Default.css" integrity="sha512-BBToHPBStgMiw0lD4AtkRIZmdndhB6aQbXpX7omcrXeG2PauGBl2lzq2xUZTxaLxYz5IDHlmneCZ1IJ+P3kYtQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.8.0/leaflet.min.css" integrity="sha512-oIQ0EBio8LJupRpgmDsIsvm0Fsr6c3XNHLB7at5xb+Cf6eQuCX9xuX8XXGRIcokNgdqL1ms7nqbQ6ryXMGxXpg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.Default.min.css" integrity="sha512-fYyZwU1wU0QWB4Yutd/Pvhy5J1oWAwFXun1pt+Bps04WSe4Aq6tyHlT4+MHSJhD8JlLfgLuC4CbCnX5KHSjyCg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.4/jquery-confirm.min.css" integrity="sha512-0V10q+b1Iumz67sVDL8LPFZEEavo6H/nBSyghr7mm9JEQkOAm91HNoZQRvQdjennBb/oEuW+8oZHVpIKq+d25g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css" integrity="sha256-mmgLkCYLUQbXn0B1SRqzHar6dCnv9oZFPEC1g1cwlkk=" crossorigin="anonymous" />
-    
-    <link href="css/style.css?r=202003121215" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="css/style.css?r=202205032312" rel="stylesheet" type="text/css">
 
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-19433453-6"></script>
     <script>
@@ -41,6 +40,11 @@
         gtag('js', new Date());
         gtag('config', 'UA-19433453-6');
     </script>
+    <style>
+        .leaflet-popup{
+            font-size: 13px;
+        }
+    </style>
 </head>
 
 <body>
@@ -69,22 +73,23 @@
             <br />
             &nbsp;<input class="filter_ctl" type="checkbox" id="dont_show_no_open" name="openfilter" checked><label for="dont_show_no_open">僅顯示營業中的據點</label>&nbsp;
             <input class="filter_ctl" type="checkbox" id="inventory_zero" name="inventory_zero"><label class="inventory-zero" for="inventory_zero">顯示無庫存</label>&nbsp;
-            <button class="filter_ctl" id="filter" type="button">搜尋 <i class='fas fa-search'></i></button>&nbsp;
+            <button class="filter_ctl" id="filter" type="button">搜尋 <i class='fa-solid fa-magnifying-glass'></i></button>&nbsp;
         </div>
     </div>
     <div id="omap">
         <br /><br /><br /><br /><br /><br /><span style="color: red; font-size: large;">找口罩中，請稍後...</span>
     </div>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha512-bnIvzh6FU75ZKxp0GXLH9bewza/OIw6dLVh9ICg0gogclmYGguQJWl8U30WpbsGTqbIiAwxTsbe76DErLq5EDQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.6.0/leaflet.js" integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.4.1/leaflet.markercluster.js" integrity="sha512-MQlyPV+ol2lp4KodaU/Xmrn+txc1TP15pOBF/2Sfre7MRsA/pB4Vy58bEqe9u7a7DczMLtU5wT8n7OblJepKbg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.8.0/leaflet.min.js" integrity="sha512-TL+GX2RsOUlTndpkgHVnSQ9r6zldqHzfyECrdabkpucdFroZ3/HAhMmP2WYaPjsJCoot+0McmdPOLjmmicG9qg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.min.js" integrity="sha512-TiMWaqipFi2Vqt4ugRzsF8oRoGFlFFuqIi30FFxEPNw58Ov9mOy6LgC05ysfkxwLE0xVeZtmr92wVg9siAFRWA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
     <script src="js/leaflet-markercluster.placementstrategies.js"></script>
     <script src="js/Leaflet.Control.Custom.js"></script>
         
-    <script src="js/omap.js?r=202205031625"></script>
+    <script src="js/omap.js?r=202205032307"></script>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.4/jquery-confirm.min.js" integrity="sha512-zP5W8791v1A6FToy+viyoyUUyjCzx+4K8XZCKzW28AnCoepPNIXecxh9mvGuy3Rt78OzEsU+VCvcObwAMvBAww==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script src="js/index.js?r=202205031759"></script>
