@@ -258,6 +258,7 @@ var showTopMessage = function(){
         title: '重要通知',
         content: 
         '🔔即日起取消實聯制，現行戴口罩等防疫措施維持至111年5月31日<br /><br />' + 
+        '🔔網站預設只顯示快篩試劑販售點，如要顯示口罩資訊可由右上角選擇<br /><br />' + 
         '<a target="_blank" href="https://www.cdc.gov.tw/Category/Page/R8bAd_yiVi22CIr73qM2yw">🔔請安裝臺灣社交距離App。</a><br /><br />' +
         '本網站會自動更新庫存，不用重新整理。<br />' + 
         '全民抗疫，請保持耐心與禮貌哦！',
