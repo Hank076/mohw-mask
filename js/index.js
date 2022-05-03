@@ -259,7 +259,10 @@ var showTopMessage = function(){
         content: 
         '🔔即日起取消實聯制，現行戴口罩等防疫措施維持至111年5月31日<br /><br />' + 
         '🔔網站預設只顯示快篩試劑販售點，如要顯示口罩資訊可由右上角選擇<br /><br />' + 
-        '<a target="_blank" href="https://www.cdc.gov.tw/Category/Page/R8bAd_yiVi22CIr73qM2yw">🔔請安裝臺灣社交距離App。</a><br /><br />' +
+        '🔔身分證字號尾數為: 1,3,5,7,9 的人星期一、三、五可購買快篩試劑<br /><br />' + 
+        '🔔身分證字號尾數為: 0,2,4,6,8 的人星期二、四、六可購買快篩試劑<br /><br />' + 
+        '🔔星期日全民皆可購買快篩試劑<br /><br />' + 
+        '🔔<a target="_blank" href="https://www.cdc.gov.tw/Category/Page/R8bAd_yiVi22CIr73qM2yw">請安裝臺灣社交距離App</a>。<br /><br />' +
         '本網站會自動更新庫存，不用重新整理。<br />' + 
         '全民抗疫，請保持耐心與禮貌哦！',
         autoClose:'ok|10000',
