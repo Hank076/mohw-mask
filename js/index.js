@@ -2,11 +2,11 @@ var bShowWarningMessage = true;
 var warningDateline = 20210629;
 var fullDate = new Date();
 var yyyy = fullDate.getFullYear();
-var MM = (fullDate.getMonth() + 1) >= 10 ? (fullDate.getMonth() + 1) : ("0" + (fullDate.getMonth() + 1));
+var MM = (fullDate.getMonth() + 1) >= 10 ? (fullDate.getMonth() + 1) : (fullDate.getMonth() + 1);
 var dd = fullDate.getDate() < 10 ? ("0"+fullDate.getDate()) : fullDate.getDate();
-var today = yyyy * 10000 + MM * 100 + dd;
+var today = (yyyy * 10000) + (MM * 100) + parseInt(dd);
 
-if(parseInt(today) >= warningDateline){
+if(today > warningDateline){
     bShowWarningMessage = false;
 }
 
@@ -17,11 +17,55 @@ $(function() {
 
     $("#filter").click(function(event) {
         $(".filter_ctl").attr('disabled', true);
+        updateFilterOption();
         showUpdateProcessByManual();
     });
 
-    var clock = setInterval(function() {reloadStrongholdData(true);} , 120000);
+    var clock = setInterval(function() {updateFilterOption();reloadStrongholdData(true);} , 120000);
 });
+
+var updateFilterOption = function(){
+    dont_show_no_open = $("#dont_show_no_open").is(":checked");
+    show_inventory_zero = $("#inventory_zero").is(":checked");
+
+    let type = $("input[name='type']:checked").val();
+
+    if(type == '0'){
+        //不過濾
+        show_all_inventory = true;
+        show_adult_inventory = false;
+        show_child_inventory = false;
+        show_test_kit_inventory = false;
+
+    }else if(type == '1'){
+        //只顯示成人 > 0
+        show_all_inventory = false;
+        show_adult_inventory = true;
+        show_child_inventory = false;
+        show_test_kit_inventory = false;
+
+    }else if(type == '2'){
+        //只顯示兒童 > 0
+        show_all_inventory = false;
+        show_adult_inventory = false;
+        show_child_inventory = true;
+        show_test_kit_inventory = false;
+
+    }else if(type == '3'){
+        //顯示成人+兒童 > 0
+        show_all_inventory = false;
+        show_adult_inventory = true;
+        show_child_inventory = true;
+        show_test_kit_inventory = false;
+
+    }else if(type == '4'){
+        //顯示快篩試劑
+        show_all_inventory = false;
+        show_adult_inventory = false;
+        show_child_inventory = false;
+        show_test_kit_inventory = true;
+    }
+}
 
 var showUpdateProcessByManual = function(){   
     var jc = $.dialog({
@@ -31,15 +75,8 @@ var showUpdateProcessByManual = function(){
         columnClass: 'col-md-4 col-md-offset-4',
         type: 'orange',
         title: '資料過濾中',
-        content: '正在過濾相關診所&口罩庫存資訊...',
+        content: '正在過濾庫存資訊...',
         onOpen: function(){
-
-            dont_show_no_open = $("#dont_show_no_open").is(":checked");
-            show_inventory_hight = $("#inventory_hight").is(":checked");
-            show_inventory_medium = $("#inventory_medium").is(":checked");
-            show_inventory_low = $("#inventory_low").is(":checked");
-            show_inventory_zero = $("#inventory_zero").is(":checked");
-
             var type = $("input[name='type']:checked").val();
             var ga_event_label = '';
     
@@ -51,40 +88,23 @@ var showUpdateProcessByManual = function(){
     
             if(type == '0'){
                 //不過濾
-                show_adult_inventory = false;
-                show_child_inventory = false;
-                ga_event_label += '所有, ';
+                ga_event_label += '所有';
     
             }else if(type == '1'){
                 //只顯示成人 > 0
-                show_adult_inventory = true;
-                show_child_inventory = false;
-                ga_event_label += '僅成人, ';
+                ga_event_label += '僅成人';
     
             }else if(type == '2'){
                 //只顯示兒童 > 0
-                show_adult_inventory = false;
-                show_child_inventory = true;
-                ga_event_label += '僅兒童, ';
+                ga_event_label += '僅兒童';
     
             }else if(type == '3'){
                 //顯示成人+兒童 > 0
-                show_adult_inventory = true;
-                show_child_inventory = true;
-                ga_event_label += '成人與兒童, ';
-            }
+                ga_event_label += '成人與兒童';
 
-            if(show_inventory_hight){
-                ga_event_label += '庫存大於50％, ';
-            }
-            if(show_inventory_medium){
-                ga_event_label += '庫存20~50％, ';
-            }
-            if(show_inventory_low){
-                ga_event_label += '庫存小於20％, ';
-            }
-            if(show_inventory_zero){
-                ga_event_label += '無庫存, ';
+            }else if(type == '4'){
+                //顯示快篩試劑
+                ga_event_label += '快篩試劑';
             }
     
             gtag('event', 'click', {
@@ -121,6 +141,7 @@ var showVersionHistory = function(){
         type: 'green',
         title: '版本資訊',
         content: '<table class="table table-bordered table-condensed table-striped"><tr><th>版本</th><th>歷程</th></tr>' +
+        '<tr><td>05/03</td><td>新增快篩試劑數量，調整網站</td></tr>' +
         '<tr><td>12/10</td><td>新增公告</td></tr>' +
         '<tr><td>05/03</td><td>新增緊急公告</td></tr>' +
         '<tr><td>04/28</td><td>新增緊急公告</td></tr>' +
@@ -195,12 +216,12 @@ var showInfoMessage = function(){
         type: 'blue',
         title: '資訊',
         content: 
-        '春節檢疫 7+7+7 方案出爐<br /><br />' + 
-        '部分藥局採發放號碼牌方便民眾購買口罩，故系統無法顯示已發送號碼牌數量。<br />' + 
-        '口罩數量以藥局實際存量為主，線上查詢之數量僅供參考。<br />' + 
-        '本網站會自動更新庫存，不用重新整理。<br />' + 
-        '全民抗疫，請保持耐心與禮貌哦！<br /><br />' +
-        '<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159492350958407/"><img src="https://scontent.ftpe8-4.fna.fbcdn.net/v/t39.30808-6/s720x720/264229475_10159492345733407_1187015636373625763_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=oKtZo0FxvGMAX_zH3xC&_nc_ht=scontent.ftpe8-4.fna&oh=1f8166b235501675b6efc4b2259978e8&oe=61B80C08" /></a>',
+        '部分藥局採發放號碼牌方式購買，故系統無法得知已發送號碼牌的數量。<br />' + 
+        '口罩/快篩存量以現場存量為主，線上查詢數量僅供參考。<br /><br />' + 
+        '網頁會定時自動更新庫存，不用重新整理。<br />' + 
+        '全民抗疫，請保持耐心與禮貌哦！<br /><br />' + 
+        '🔔<a target="_blank" href="https://www.cdc.gov.tw/Category/Page/R8bAd_yiVi22CIr73qM2yw">請安裝臺灣社交距離App</a><br /><br />' +
+        '🔔<a target="_blank" href="https://antiflu.cdc.gov.tw/ExaminationCounter">COVID-19全國指定社區採檢院所地圖</a><br /><br />',
         backgroundDismiss: true
     });
 };
@@ -236,12 +257,10 @@ var showTopMessage = function(){
         type: 'blue',
         title: '重要通知',
         content: 
-        '🔔11/30~12/13 全國維持二級警戒<br /><br />' + 
-        '🔔春節檢疫 7+7+7 方案詳右下角 <i class="fas fa-info"></i> 按鈕。<br /><br />' + 
-        '口罩預購詳右下角 <i class="fas fa-shopping-cart"></i> 按鈕。<br /><br />' + 
+        '🔔即日起取消實聯制，現行戴口罩等防疫措施維持至111年5月31日<br /><br />' + 
+        '<a target="_blank" href="https://www.cdc.gov.tw/Category/Page/R8bAd_yiVi22CIr73qM2yw">🔔請安裝臺灣社交距離App。</a><br /><br />' +
         '本網站會自動更新庫存，不用重新整理。<br />' + 
-        '全民抗疫，請保持耐心與禮貌哦！' +
-        '<a target="_blank" href="https://www.facebook.com/TWCDC/posts/10159469168753407"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t39.30808-6/261021624_10159469152278407_5740610526264346861_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=MxrymGujUuQAX9Acp3U&_nc_ht=scontent.ftpe8-3.fna&oh=7971092a942c57d82b6141bfa24413d6&oe=61B87D18" /></a>',
+        '全民抗疫，請保持耐心與禮貌哦！',
         autoClose:'ok|10000',
         backgroundDismiss: true
     });
@@ -260,7 +279,7 @@ var showUpdateProcess = function(){
         columnClass: 'col-md-4 col-md-offset-4',
         type: 'orange',
         title: '資料更新中',
-        content: '正在抓取最新診所&口罩庫存資訊...',
+        content: '正在抓取最新庫存資訊...',
         onOpen: function(){
             reloadStrongholdData(false);
             jc.setIcon('fas fa-check');
@@ -291,7 +310,6 @@ var showQuestionInfo = function(){
         backgroundDismiss: true
     });
 };
-
 
 var buy_mask = function(){
     gtag('event', 'click', {

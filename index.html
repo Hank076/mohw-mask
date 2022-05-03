@@ -50,7 +50,7 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="col">
-                        <b class="site-title whiteText">口罩地圖</b>&nbsp;(<small>更新時間：</small><small id="mask_inventory_last_update"><span id="process_status" class="fa fa-spinner fa-spin"></span></small>)　<a class="whiteText" target="_blank" href="https://line.me/R/ti/p/@taiwancdc">疾管署 LINE <i class='fab fa-line'></i></a>
+                        <b class="site-title whiteText">口罩地圖</b>&nbsp;(<small>更新時間：</small><small id="inventory_last_update"><span id="process_status" class="fa fa-spinner fa-spin"></span></small>)　<a class="whiteText" target="_blank" href="https://line.me/R/ti/p/@taiwancdc">疾管署 LINE <i class='fab fa-line'></i></a>
                     </div>
                 </div>
                 <div class="row">
@@ -62,15 +62,13 @@
         </div>
         <div class="maptools">
             &nbsp;<input class="filter_ctl" type="radio" id="show_all" name="type" value="0" checked><label for="show_all">全部</label>
-            <input class="filter_ctl" type="radio" id="show_adult" name="type" value="1"><label for="show_adult">成人>2</label>
-            <input class="filter_ctl" type="radio" id="show_child_" name="type" value="2"><label for="show_child_">兒童>2</label>
-            <input class="filter_ctl" type="radio" id="show_adult_and_child" name="type" value="3"><label for="show_adult_and_child">成人&兒童>2</label>&nbsp;
-            <input class="filter_ctl" type="checkbox" id="dont_show_no_open" name="openfilter" checked><label for="dont_show_no_open">有營業</label>&nbsp;
+            <input class="filter_ctl" type="radio" id="show_adult" name="type" value="1"><label for="show_adult">成人</label>
+            <input class="filter_ctl" type="radio" id="show_child" name="type" value="2"><label for="show_child">兒童</label>
+            <input class="filter_ctl" type="radio" id="show_adult_and_child" name="type" value="3"><label for="show_adult_and_child">成人+兒童</label>&nbsp;
+            <input class="filter_ctl" type="radio" id="show_test_kit" name="type" value="4"><label for="show_test_kit">快篩</label>&nbsp;
             <br />
-            &nbsp;<input class="filter_ctl" type="checkbox" id="inventory_hight" name="inventory_hight" checked><label class="inventory-hight" for="inventory_hight">&gt;50%</label>
-            <input class="filter_ctl" type="checkbox" id="inventory_medium" name="inventory_medium" checked><label class="inventory-medium" for="inventory_medium">20~50%</label>
-            <input class="filter_ctl" type="checkbox" id="inventory_low" name="inventory_low" checked><label class="inventory-low" for="inventory_low">&lt;20%</label>&nbsp;
-            <input class="filter_ctl" type="checkbox" id="inventory_zero" name="inventory_zero"><label class="inventory-zero" for="inventory_zero">無庫存</label>&nbsp;
+            &nbsp;<input class="filter_ctl" type="checkbox" id="dont_show_no_open" name="openfilter" checked><label for="dont_show_no_open">僅顯示營業中的據點</label>&nbsp;
+            <input class="filter_ctl" type="checkbox" id="inventory_zero" name="inventory_zero"><label class="inventory-zero" for="inventory_zero">顯示無庫存</label>&nbsp;
             <button class="filter_ctl" id="filter" type="button">搜尋 <i class='fas fa-search'></i></button>&nbsp;
         </div>
     </div>
@@ -86,10 +84,10 @@
     <script src="js/leaflet-markercluster.placementstrategies.js"></script>
     <script src="js/Leaflet.Control.Custom.js"></script>
         
-    <script src="js/omap.js?r=202205031003"></script>
+    <script src="js/omap.js?r=_202205031407"></script>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.4/jquery-confirm.min.js" integrity="sha512-zP5W8791v1A6FToy+viyoyUUyjCzx+4K8XZCKzW28AnCoepPNIXecxh9mvGuy3Rt78OzEsU+VCvcObwAMvBAww==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-    <script src="js/index.js?r=202112100935"></script>
+    <script src="js/index.js?r=202205031500"></script>
     
 </body>
 
