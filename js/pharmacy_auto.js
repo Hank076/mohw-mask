@@ -2596,7 +2596,6 @@ locations = [
 {"lng":"121.2111","lat":"25.00479","name":"青埔辰安藥局","id":"5932062519","tel":"2873274","addr":"桃園市大園區致遠一路1號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.4091","lat":"25.01886","name":"樂樂聯合藥局","id":"5932077574","tel":"82000560","addr":"桃園市龜山區萬壽路1段109號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOXO"},
 {"lng":"121.328","lat":"24.97036","name":"美康健保藥局","id":"5932084793","tel":"3613624","addr":"桃園市八德區桃鶯路91號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
-{"lng":"121.3261","lat":"24.97167","name":"阿爾富山藥局","id":"5932084828","tel":"3763350","addr":"桃園市八德區桃鶯路4號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"8:00-22:00"},
 {"lng":"120.8792","lat":"24.69138","name":"惠家藥局","id":"5935041781","tel":"463635","addr":"苗栗縣竹南鎮自強街38號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩販賣時段：14:30-售完  星期日休息"},
 {"lng":"120.5374","lat":"24.06301","name":"佳漾藥局","id":"5937013730","tel":"7135518","addr":"彰化縣彰化市延平路588號1樓","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"5／3  快篩目前已少量到貨"},
 {"lng":"120.4386","lat":"24.05279","name":"順安藥局","id":"5937021330","tel":"7765510","addr":"彰化縣鹿港鎮泰興里復興路125號","business_week":"OOXOOXOOOOOOXOOOOOOXX","memo":"星期一至五與星期日:上班時間內皆可販售口罩    星期六停止販售口罩"},
