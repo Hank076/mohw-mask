@@ -318,6 +318,6 @@ var showQuestionInfo = function(){
 var buy_mask = function(){
     gtag('event', 'click', {
         'event_category': '提醒工具',
-        'event_label': '口罩預購'
+        'event_label': '社交距離APP'
     });
 };
