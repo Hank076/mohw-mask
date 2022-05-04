@@ -2559,7 +2559,6 @@ locations = [
 {"lng":"120.2527","lat":"23.74947","name":"麥津藥局","id":"5939131482","tel":"6932258","addr":"雲林縣麥寮鄉中山路313、315號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"120.334","lat":"23.61849","name":"和平藥局","id":"5939171093","tel":"7862551","addr":"雲林縣元長鄉下寮村東興路33號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"販賣口罩時間：0800開賣，賣完為止"},
 {"lng":"120.2448","lat":"23.33615","name":"義竹全安藥局","id":"5940090116","tel":"3411611","addr":"嘉義縣義竹鄉六桂村4鄰209號","business_week":"OOOOOOXOOOOOXXXXXXXXX"},
-{"lng":"120.4885","lat":"23.45077","name":"一心藥局","id":"5940131283","tel":"2303553","addr":"嘉義縣中埔鄉富收村頂中下街31、31－1號1樓","business_week":"XXXXXXXOOOOOXXOOOOOXX"},
 {"lng":"120.2577","lat":"22.99146","name":"太子藥局","id":"5941270163","tel":"2729906","addr":"臺南市仁德區太子里太子路338號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"5／4快篩賣完了"},
 {"lng":"120.4944","lat":"22.68516","name":"昱昇藥師藥局","id":"5943011135","tel":"7377471","addr":"屏東縣屏東市北勢里中正路373－1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間早上7:30至晚上10:30，快篩試劑販售依配送時間調整"},
 {"lng":"120.484","lat":"22.68769","name":"一二藥局","id":"5943013880","tel":"7324688","addr":"屏東縣屏東市廣東路1094號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"防疫快篩AM10:00開始"},
