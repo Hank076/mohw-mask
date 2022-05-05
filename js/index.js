@@ -141,6 +141,8 @@ var showVersionHistory = function(){
         type: 'green',
         title: '版本資訊',
         content: '<table class="table table-bordered table-condensed table-striped"><tr><th>版本</th><th>歷程</th></tr>' +
+        '<tr><td>05/05</td><td>調整呈現方式</td></tr>' +
+        '<tr><td>05/04</td><td>更新套件版本</td></tr>' +
         '<tr><td>05/03</td><td>新增快篩試劑數量，調整網站</td></tr>' +
         '<tr><td>12/10</td><td>新增公告</td></tr>' +
         '<tr><td>05/03</td><td>新增緊急公告</td></tr>' +
@@ -220,8 +222,8 @@ var showInfoMessage = function(){
         '口罩/快篩存量以現場存量為主，線上查詢數量僅供參考。<br /><br />' + 
         '網頁會定時自動更新庫存，不用重新整理。<br />' + 
         '全民抗疫，請保持耐心與禮貌哦！<br /><br />' + 
-        '🔔<a target="_blank" href="https://www.cdc.gov.tw/Category/Page/R8bAd_yiVi22CIr73qM2yw">請安裝臺灣社交距離App</a><br /><br />' +
-        '🔔<a target="_blank" href="https://antiflu.cdc.gov.tw/ExaminationCounter">COVID-19全國指定社區採檢院所地圖</a><br /><br />',
+        '🔔<a target="_blank" class="link-primary" href="https://www.cdc.gov.tw/Category/Page/R8bAd_yiVi22CIr73qM2yw">請安裝臺灣社交距離App</a><br /><br />' +
+        '🔔<a target="_blank" class="link-primary" href="https://antiflu.cdc.gov.tw/ExaminationCounter">COVID-19全國指定社區採檢院所地圖</a><br /><br />',
         backgroundDismiss: true
     });
 };
@@ -243,7 +245,7 @@ var showWarningMessage = function(){
         '若有不適，請撥打1922防疫專線，就醫時主動告知活動暴露史。<br />' +
         '搭乘大眾運輸時，應全程配戴口罩並配合量測體溫，<br />' + 
         '若身體不適請戴口罩速就醫，主動告知旅遊、接觸史等，並落實生病在家休息。<br /><br />' + 
-        '<a target="_blank" href="https://www.facebook.com/TWCDC/photos/a.187029023406/10159131395593407/"><img src="https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/191725964_10159131395598407_2133671331429041913_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=730e14&_nc_ohc=jvHM7sDRuXUAX9TRjkH&_nc_ht=scontent.ftpe8-2.fna&oh=8efc23b962e6bf87c65f9a653e30311a&oe=60CAAE84" /></a>',
+        '<a target="_blank" class="link-primary" href="https://www.facebook.com/TWCDC/photos/a.187029023406/10159131395593407/"><img src="https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/191725964_10159131395598407_2133671331429041913_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=730e14&_nc_ohc=jvHM7sDRuXUAX9TRjkH&_nc_ht=scontent.ftpe8-2.fna&oh=8efc23b962e6bf87c65f9a653e30311a&oe=60CAAE84" /></a>',
     });
 };
 
@@ -262,7 +264,7 @@ var showTopMessage = function(){
         '🔔身分證字號尾數為: 1,3,5,7,9 的人星期一、三、五可購買快篩試劑<br /><br />' + 
         '🔔身分證字號尾數為: 0,2,4,6,8 的人星期二、四、六可購買快篩試劑<br /><br />' + 
         '🔔星期日全民皆可購買快篩試劑<br /><br />' + 
-        '🔔<a target="_blank" href="https://www.cdc.gov.tw/Category/Page/R8bAd_yiVi22CIr73qM2yw">請安裝臺灣社交距離App</a>。<br /><br />' +
+        '🔔<a target="_blank" class="link-primary" href="https://www.cdc.gov.tw/Category/Page/R8bAd_yiVi22CIr73qM2yw">請安裝臺灣社交距離App</a>。<br /><br />' +
         '本網站會自動更新庫存，不用重新整理。<br />' + 
         '全民抗疫，請保持耐心與禮貌哦！',
         autoClose:'ok|10000',
@@ -308,9 +310,9 @@ var showQuestionInfo = function(){
         title: '資訊有誤嗎',
         content: '如果藥局的庫存或者備註有誤，可以禮貌提醒藥師確認系統資料' + 
         '<BR /><BR />●庫存的部分<br>' +
-        '可請藥師瀏覽『<a target="_blank" href="http://ws.nhi.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMjkyL2NrZmlsZS9mYmUzNWVmZC0zMDkyLTRjNWEtOTAyZi0zMDIxN2I0YzYyMWQucGRm&n=MTA5MDIwNiBVc2VyR3VpZGVfUVA1X3YzLjAucGRm&icon=.pdf">於防疫口罩管控系統VPN登錄作業使用者手冊</a>』的第五頁，<BR />有說明負數的操作方式。' +
+        '可請藥師瀏覽『<a target="_blank" class="link-primary" href="http://ws.nhi.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMjkyL2NrZmlsZS9mYmUzNWVmZC0zMDkyLTRjNWEtOTAyZi0zMDIxN2I0YzYyMWQucGRm&n=MTA5MDIwNiBVc2VyR3VpZGVfUVA1X3YzLjAucGRm&icon=.pdf">於防疫口罩管控系統VPN登錄作業使用者手冊</a>』的第五頁，<BR />有說明負數的操作方式。' +
         '<BR /><BR />●備註的部分<br>' +
-        '可請藥師一樣連線至VPN後進入「<a target="_blank" href="http://bit.ly/2ScrpB6">看診資料及掛號費</a>」：(1)每日固定看診時段(2)「固定看診時段備註欄」，可修正藥局販賣口罩起迄時間及相關欲通知民眾事項。',
+        '可請藥師一樣連線至VPN後進入「<a target="_blank" class="link-primary" href="http://bit.ly/2ScrpB6">看診資料及掛號費</a>」：(1)每日固定看診時段(2)「固定看診時段備註欄」，可修正藥局販賣口罩起迄時間及相關欲通知民眾事項。',
         backgroundDismiss: true
     });
 };
