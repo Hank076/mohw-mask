@@ -2418,6 +2418,7 @@ locations = [
 {"lng":"118.319622","lat":"24.434772","name":"大森藥局","id":"5990010631","tel":"082325100","addr":"金門縣金城鎮民生路28、30號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"可直接憑健保卡買口罩"},
 {"lng":"118.412982","lat":"24.488342","name":"大金藥局","id":"5990020020","tel":"082355382","addr":"金門縣金沙鎮汶沙里五福街1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"(以上口罩餘額很不準 詳情請洽藥局)每日早上8:00發號碼牌並於下午13:30後再來領口罩"},
 {"lng":"118.416709","lat":"24.440356","name":"大山藥局","id":"5990030062","tel":"082333290","addr":"金門縣金湖鎮新市里中正路2號、2－2號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上10點開始販售實名制快篩"},
+{"lng":"121.544918","lat":"25.062984","name":"瑞昌大藥局","id":"5901010496","tel":"0227151881","addr":"臺北市松山區民權東路3段103巷10號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.558489","lat":"25.058709","name":"家音藥局","id":"5901012409","tel":"0237652080","addr":"臺北市松山區民生東路5段73號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售時段公告，請追蹤美康健保藥局 家音店 FB粉絲頁，謝謝~"},
 {"lng":"121.546113","lat":"25.056198","name":"惠登藥局","id":"5901012516","tel":"0225472432","addr":"臺北市松山區民生東路3段130巷34號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.55355","lat":"25.047007","name":"松田藥局","id":"5901012561","tel":"0225798005","addr":"臺北市松山區延吉街9－6號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"每日上午9:30開始實名制快篩販售"},
