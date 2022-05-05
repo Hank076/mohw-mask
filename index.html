@@ -51,15 +51,15 @@
 <body>
     <noscript><strong>本頁面需要瀏覽器啟用 JavaScript</strong></noscript>
 
-        <nav class="navbar fixed-top navbar-dark bg-success bg-gradient p-1">
+    <header class="fixed-top" >
+        <nav class="navbar position-relative navbar-dark bg-success bg-gradient w-100 p-1">
             <div class="whiteText">
                 <span class="navbar-brand fw-bold m-0 p-0 user-select-none">口罩&快篩地圖</span>&nbsp;(<span class="fs-6 user-select-none">更新時間：</span><span class="user-select-none" id="inventory_last_update"><span id="process_status" class="fa fa-spinner fa-spin"></span></span>)
                 <br>
                 <span class="user-select-none">作者：<a class="link-light" target="_blank" href="https://www.facebook.com/pupu21/posts/3176888778992065">Pupu(DotNet)</a></span>&nbsp;<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fmohw-mask.pu.idv.tw%2F&width=119&layout=button_count&action=like&size=small&share=true&height=46&appId=544411143087055" width="119" height="20" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
             </div>
-            
         </nav>
-        <div class="maptools ms-auto top-0 end-0 bg-light bg-gradient">
+        <div class="maptools end-0 bg-light bg-gradient">
             <div class="row p-1 user-select-none">
                 <div class="col-auto">
                     <input class="filter_ctl form-check-input" type="radio" id="show_all" name="type" value="0"><label class="form-check-label" for="show_all">全部</label>&nbsp;
@@ -77,6 +77,8 @@
                 </div>
             </div>
         </div>
+    </header>
+    
 
     <div class="m-0 p-0 h-100 w-100" id="omap">
         <br /><br /><br /><br /><br /><span class="user-select-none" style="color: red; font-size: large;">找口罩跟快篩試劑中，請稍後...</span>
@@ -89,7 +91,7 @@
     <script src="js/leaflet-markercluster.placementstrategies.js"></script>
     <script src="js/Leaflet.Control.Custom.js"></script>
         
-    <script src="js/omap.js?=202205051215"></script>
+    <script src="js/omap.js?r=202205051630"></script>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.4/jquery-confirm.min.js" integrity="sha512-zP5W8791v1A6FToy+viyoyUUyjCzx+4K8XZCKzW28AnCoepPNIXecxh9mvGuy3Rt78OzEsU+VCvcObwAMvBAww==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script src="js/index.js?r=202205051008"></script>
