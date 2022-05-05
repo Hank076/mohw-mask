@@ -7,13 +7,15 @@ body{
 }
 
 .maptools {
+    top: 0px;
     z-index: 1031;
     position: absolute;
 }
 
 @media (max-width: 700px) {
     .maptools {
-        margin-top: 64px;
+        top: initial;
+        position: absolute;
     }
 }
 
