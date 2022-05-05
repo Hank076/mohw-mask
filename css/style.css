@@ -1,34 +1,22 @@
 html,
-body,
-#omap {
+body{
     margin: 0; padding: 0;
     height: 100%;
     /*width: 100vw;*/
     width: 100%;
 }
 
-a {
-    border-bottom: 1px dotted;
-}
-
-.site-title {
-    font-size: 20px;
-}
-
-.topblock {
-    height:auto;
-    width: 100%;
+.maptools {
+    z-index: 1031;
     position: absolute;
-    z-index: 500;
 }
-.readme{
-    background-color: #4CAF50;
-    border-bottom-style:solid;
-    border-width: 1px;
-    color:white;
-    padding-left: 2px;
-    padding-top: 2px;
+
+@media (max-width: 700px) {
+    .maptools {
+        margin-top: 64px;
+    }
 }
+
 .whiteText {
     color:white !important;
 }
@@ -38,24 +26,6 @@ a {
 .fb-like{
     max-height: 20px;
     overflow: hidden;
-}
-.maptools {
-    background-color: #EEEEEEF2;
-    border: 1px solid;
-    border-color: white;
-    z-index: 10;
-    float: right;
-    position: absolute;
-    right: 0;
-    top: 0;
-}
-@media (max-width: 700px) {
-    .maptools {
-        position: initial;
-    }
-}
-.pretty{
-    margin-right:auto !important;
 }
 
 .link-style{
@@ -80,18 +50,6 @@ a {
 }
 
 /*inventory level*/
-.inventory-hight{
-    background-color: #A5D6A7 !important;
-}
-
-.inventory-medium{
-    background-color: #FFCC80 !important;
-}
-
-.inventory-low{
-    background-color: #ef9a9a !important;
-}
-
 .inventory-zero{
     background-color: #EEEEEE !important;
 }
