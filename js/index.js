@@ -255,8 +255,8 @@ var showInfoMessage = function(){
         '<i class="fa-solid fa-circle-info"></i> 存量以現場存量為主，線上查詢數量僅供參考。<br />' + 
         '<i class="fa-solid fa-circle-info"></i> 採發放號碼牌方式之藥局，系統無法得知已發數量。<br /><br />' + 
         '<i class="fa-solid fa-circle-info"></i> 顏色說明：</span><br />' +
-        '<i class="fa-solid fa-circle-chevron-right"></i> <span class="time-Lv1">2小時內有販售紀錄</span> <span class="time-Lv2">4小時內有販售紀錄</span><br />' +
-        '<i class="fa-solid fa-circle-chevron-right"></i> <span class="time-Lv3">8小時內有販售紀錄</span> <span class="time-Lv4">超過8小時無販售紀錄</span><br /><br />' +
+        '<i class="fa-solid fa-circle-chevron-right"></i> <span class="time-Lv1">2小時內有庫存異動</span> <span class="time-Lv2">4小時內有庫存異動</span><br />' +
+        '<i class="fa-solid fa-circle-chevron-right"></i> <span class="time-Lv3">8小時內有庫存異動</span> <span class="time-Lv4">超過8小時無庫存異動</span><br /><br />' +
         '<i class="fa-solid fa-circle-info"></i> 網頁會定時自動更新庫存，不用重新整理。<br />' + 
         '<i class="fa-solid fa-circle-info"></i> 全民抗疫，請保持耐心與禮貌哦！<br /><br />' + 
         '<i class="fa-solid fa-square-arrow-up-right"></i> <a target="_blank" class="link-primary" href="https://www.cdc.gov.tw/Category/Page/R8bAd_yiVi22CIr73qM2yw">安裝臺灣社交距離App</a><br />' +
