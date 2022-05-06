@@ -235,11 +235,11 @@ var showInfoMessage = function(){
     var current_week = new Date().getDay();
 
     if(current_week == 0){
-        exchange_info = '今日全民皆可購買快篩試劑';
+        exchange_info = '今日全民皆可購買公費快篩試劑';
     }else if(current_week % 2 ==0){
-        exchange_info = '今日身分證尾碼為: <i class="fa-solid fa-0"></i> <i class="fa-solid fa-2"></i> <i class="fa-solid fa-4"></i> <i class="fa-solid fa-6"></i> <i class="fa-solid fa-8"></i> 者可購買快篩試劑';
+        exchange_info = '今日身分證尾碼為 <i class="fa-solid fa-0"></i> <i class="fa-solid fa-2"></i> <i class="fa-solid fa-4"></i> <i class="fa-solid fa-6"></i> <i class="fa-solid fa-8"></i> 者可購買公費快篩試劑';
     }else{
-        exchange_info = '今日身分證尾碼為: <i class="fa-solid fa-1"></i> <i class="fa-solid fa-3"></i> <i class="fa-solid fa-5"></i> <i class="fa-solid fa-7"></i> <i class="fa-solid fa-9"></i> 者可購買快篩試劑';
+        exchange_info = '今日身分證尾碼為 <i class="fa-solid fa-1"></i> <i class="fa-solid fa-3"></i> <i class="fa-solid fa-5"></i> <i class="fa-solid fa-7"></i> <i class="fa-solid fa-9"></i> 者可購買公費快篩試劑';
     }
 
     $.alert({
