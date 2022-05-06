@@ -69,7 +69,7 @@ var updateFilterOption = function(){
 
 var showUpdateProcessByManual = function(){   
     var jc = $.dialog({
-        icon: 'fa fa-spinner fa-spin',
+        icon: 'fa-solid fa-spinner fa-spin',
         animation: 'top',
         closeAnimation: 'bottom',
         columnClass: 'col-md-4 col-md-offset-4',
@@ -134,13 +134,14 @@ var showVersionHistory = function(){
     });
 
     $.alert({
-        icon: 'fas fa-list-alt',
+        icon: 'fa-solid fa-rectangle-list',
         animation: 'top',
         closeAnimation: 'bottom',
         columnClass: 'col-md-6 col-md-offset-3',
         type: 'green',
         title: '版本資訊',
         content: '<table class="table table-bordered table-condensed table-striped"><tr><th>版本</th><th>歷程</th></tr>' +
+        '<tr><td>05/06</td><td>新增顏色區分最近一次販售時間</td></tr>' +
         '<tr><td>05/05</td><td>調整呈現方式</td></tr>' +
         '<tr><td>05/04</td><td>更新套件版本</td></tr>' +
         '<tr><td>05/03</td><td>新增快篩試劑數量，調整網站</td></tr>' +
@@ -195,35 +196,13 @@ var showTwcdcFB = function(){
     });
     
     var jc = $.dialog({
-        icon: 'fa fa-clinic-medical',
+        icon: 'fa-solid fa-square-virus',
         animation: 'top',
         closeAnimation: 'bottom',
         columnClass: 'col-md-4 col-md-offset-4',
         type: 'orange',
         title: '疾病管制署 - 粉絲團',
         content: '<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FTWCDC&tabs=timeline&width=340&height=500&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=false&appId=544411143087055" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>',
-        backgroundDismiss: true
-    });
-};
-
-var showInfoMessage = function(){
-    gtag('event', 'click', {
-        'event_category': '提醒工具',
-        'event_label': '提醒資訊'
-    });
-    $.alert({
-        animation: 'top',
-        closeAnimation: 'bottom',
-        columnClass: 'col-md-6 col-md-offset-3',
-        type: 'blue',
-        title: '資訊',
-        content: 
-        '部分藥局採發放號碼牌方式購買，故系統無法得知已發送號碼牌的數量。<br />' + 
-        '口罩/快篩存量以現場存量為主，線上查詢數量僅供參考。<br /><br />' + 
-        '網頁會定時自動更新庫存，不用重新整理。<br />' + 
-        '全民抗疫，請保持耐心與禮貌哦！<br /><br />' + 
-        '🔔<a target="_blank" class="link-primary" href="https://www.cdc.gov.tw/Category/Page/R8bAd_yiVi22CIr73qM2yw">請安裝臺灣社交距離App</a><br /><br />' +
-        '🔔<a target="_blank" class="link-primary" href="https://antiflu.cdc.gov.tw/ExaminationCounter">COVID-19全國指定社區採檢院所地圖</a><br /><br />',
         backgroundDismiss: true
     });
 };
@@ -235,6 +214,7 @@ var showWarningMessage = function(){
         'event_label': '重要訊息'
     });
     $.alert({
+        icon: 'fa-solid fa-triangle-exclamation',
         animation: 'top',
         closeAnimation: 'bottom',
         columnClass: 'col-md-6 col-md-offset-3',
@@ -249,26 +229,45 @@ var showWarningMessage = function(){
     });
 };
 
-// showWarningMessage > showTopMessage (有 Warning 就不會跳 Top)
-var showTopMessage = function(){
+var showInfoMessage = function(){
+
+    var exchange_info = '';
+    var current_week = new Date().getDay();
+
+    if(current_week == 0){
+        exchange_info = '今日全民皆可購買快篩試劑';
+    }else if(current_week % 2 ==0){
+        exchange_info = '今日身分證尾碼為: <i class="fa-solid fa-0"></i> <i class="fa-solid fa-2"></i> <i class="fa-solid fa-4"></i> <i class="fa-solid fa-6"></i> <i class="fa-solid fa-8"></i> 者可購買快篩試劑';
+    }else{
+        exchange_info = '今日身分證尾碼為: <i class="fa-solid fa-1"></i> <i class="fa-solid fa-3"></i> <i class="fa-solid fa-5"></i> <i class="fa-solid fa-7"></i> <i class="fa-solid fa-9"></i> 者可購買快篩試劑';
+    }
+
     $.alert({
-        icon: 'fa fa-check',
+        icon: 'fa-solid fa-info',
         animation: 'top',
         closeAnimation: 'bottom',
-        columnClass: 'col-md-4 col-md-offset-4',
+        columnClass: 'col-md-6 col-md-offset-3',
         type: 'blue',
-        title: '重要通知',
+        title: '公告資訊',
         content: 
-        '🔔即日起取消實聯制，現行戴口罩等防疫措施維持至111年5月31日<br /><br />' + 
-        '🔔網站預設只顯示快篩試劑販售點，如要顯示口罩資訊可由右上角選擇<br /><br />' + 
-        '🔔身分證字號尾數為: 1,3,5,7,9 的人星期一、三、五可購買快篩試劑<br /><br />' + 
-        '🔔身分證字號尾數為: 0,2,4,6,8 的人星期二、四、六可購買快篩試劑<br /><br />' + 
-        '🔔星期日全民皆可購買快篩試劑<br /><br />' + 
-        '🔔<a target="_blank" class="link-primary" href="https://www.cdc.gov.tw/Category/Page/R8bAd_yiVi22CIr73qM2yw">請安裝臺灣社交距離App</a>。<br /><br />' +
-        '本網站會自動更新庫存，不用重新整理。<br />' + 
-        '全民抗疫，請保持耐心與禮貌哦！',
+        '<i class="fa-solid fa-circle-info"></i> <span class="text-primary">' + exchange_info + '</span><br /><br />' + 
+        '<i class="fa-solid fa-circle-info"></i> 網站預設顯示快篩試劑販售點，如要顯示口罩資訊可由右上角選擇<br />' + 
+        '<i class="fa-solid fa-circle-info"></i> 存量以現場存量為主，線上查詢數量僅供參考。<br />' + 
+        '<i class="fa-solid fa-circle-info"></i> 採發放號碼牌方式之藥局，系統無法得知已發數量。<br /><br />' + 
+        '<i class="fa-solid fa-circle-info"></i> 顏色說明：</span><br />' +
+        '<i class="fa-solid fa-circle-chevron-right"></i> <span class="time-Lv1">2小時內有販售紀錄</span> <span class="time-Lv2">4小時內有販售紀錄</span><br />' +
+        '<i class="fa-solid fa-circle-chevron-right"></i> <span class="time-Lv3">8小時內有販售紀錄</span> <span class="time-Lv4">超過8小時無販售紀錄</span><br /><br />' +
+        '<i class="fa-solid fa-circle-info"></i> 網頁會定時自動更新庫存，不用重新整理。<br />' + 
+        '<i class="fa-solid fa-circle-info"></i> 全民抗疫，請保持耐心與禮貌哦！<br /><br />' + 
+        '<i class="fa-solid fa-square-arrow-up-right"></i> <a target="_blank" class="link-primary" href="https://www.cdc.gov.tw/Category/Page/R8bAd_yiVi22CIr73qM2yw">安裝臺灣社交距離App</a><br />' +
+        '<i class="fa-solid fa-square-arrow-up-right"></i> <a target="_blank" class="link-primary" href="https://antiflu.cdc.gov.tw/ExaminationCounter">COVID-19全國指定社區採檢院所地圖</a>',
         autoClose:'ok|10000',
         backgroundDismiss: true
+    });
+
+    gtag('event', 'click', {
+        'event_category': '提醒工具',
+        'event_label': '提醒資訊'
     });
 };
 
@@ -279,7 +278,7 @@ var showUpdateProcess = function(){
     });
     
     var jc = $.dialog({
-        icon: 'fa fa-spinner fa-spin',
+        icon: 'fa-solid fa-arrows-spin fa-spin',
         animation: 'top',
         closeAnimation: 'bottom',
         columnClass: 'col-md-4 col-md-offset-4',
@@ -302,7 +301,7 @@ var showQuestionInfo = function(){
     });
 
     $.alert({
-        icon: 'fa fa-question-circle',
+        icon: 'fa-solid fa-circle-question',
         animation: 'top',
         closeAnimation: 'bottom',
         columnClass: 'col-md-6 col-md-offset-3',
