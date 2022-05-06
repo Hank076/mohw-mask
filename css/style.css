@@ -51,9 +51,21 @@ body{
     z-index: 1;
 }
 
-/*inventory level*/
-.inventory-zero{
-    background-color: #EEEEEE !important;
+/*time level*/
+.time-Lv1{
+    background-color: #ABC978 !important;
+}
+
+.time-Lv2{
+    background-color: #FFD666 !important;
+}
+
+.time-Lv3{
+    background-color: #F3A96D !important;
+}
+
+.time-Lv4{
+    background-color: #E67C73 !important;
 }
 
 /*divicon*/
