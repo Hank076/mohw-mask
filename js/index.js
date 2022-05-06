@@ -141,7 +141,7 @@ var showVersionHistory = function(){
         type: 'green',
         title: '版本資訊',
         content: '<table class="table table-bordered table-condensed table-striped"><tr><th>版本</th><th>歷程</th></tr>' +
-        '<tr><td>05/06</td><td>新增顏色區分最近一次販售時間</td></tr>' +
+        '<tr><td>05/06</td><td>新增顏色區分最近一次販售時間<br />新增顯示無庫存的販售點</td></tr>' +
         '<tr><td>05/05</td><td>調整呈現方式</td></tr>' +
         '<tr><td>05/04</td><td>更新套件版本</td></tr>' +
         '<tr><td>05/03</td><td>新增快篩試劑數量，調整網站</td></tr>' +
@@ -229,7 +229,7 @@ var showWarningMessage = function(){
     });
 };
 
-var showInfoMessage = function(){
+var showInfoMessage = function(type){
 
     var exchange_info = '';
     var current_week = new Date().getDay();
@@ -242,29 +242,43 @@ var showInfoMessage = function(){
         exchange_info = '今日身分證尾碼為 <i class="fa-solid fa-1"></i> <i class="fa-solid fa-3"></i> <i class="fa-solid fa-5"></i> <i class="fa-solid fa-7"></i> <i class="fa-solid fa-9"></i> 者可購買公費快篩試劑';
     }
 
-    $.alert({
-        icon: 'fa-solid fa-info',
-        animation: 'top',
-        closeAnimation: 'bottom',
-        columnClass: 'col-md-6 col-md-offset-3',
-        type: 'blue',
-        title: '公告資訊',
-        content: 
-        '<i class="fa-solid fa-circle-info"></i> <span class="text-primary">' + exchange_info + '</span><br /><br />' + 
-        '<i class="fa-solid fa-circle-info"></i> 網站預設顯示快篩試劑販售點，如要顯示口罩資訊可由右上角選擇<br />' + 
-        '<i class="fa-solid fa-circle-info"></i> 存量以現場存量為主，線上查詢數量僅供參考。<br />' + 
-        '<i class="fa-solid fa-circle-info"></i> 採發放號碼牌方式之藥局，系統無法得知已發數量。<br /><br />' + 
-        '<i class="fa-solid fa-circle-info"></i> 顏色說明：</span><br />' +
-        '<i class="fa-solid fa-circle-chevron-right"></i> <span class="time-Lv1">2小時內有庫存異動</span> <span class="time-Lv2">4小時內有庫存異動</span><br />' +
-        '<i class="fa-solid fa-circle-chevron-right"></i> <span class="time-Lv3">8小時內有庫存異動</span> <span class="time-Lv4">超過8小時無庫存異動</span><br /><br />' +
-        '<i class="fa-solid fa-circle-info"></i> 網頁會定時自動更新庫存，不用重新整理。<br />' + 
-        '<i class="fa-solid fa-circle-info"></i> 全民抗疫，請保持耐心與禮貌哦！<br /><br />' + 
-        '<i class="fa-solid fa-square-arrow-up-right"></i> <a target="_blank" class="link-primary" href="https://www.cdc.gov.tw/Category/Page/R8bAd_yiVi22CIr73qM2yw">安裝臺灣社交距離App</a><br />' +
-        '<i class="fa-solid fa-square-arrow-up-right"></i> <a target="_blank" class="link-primary" href="https://antiflu.cdc.gov.tw/ExaminationCounter">COVID-19全國指定社區採檢院所地圖</a>',
-        autoClose:'ok|10000',
-        backgroundDismiss: true
-    });
+    var msg_content = '<i class="fa-solid fa-circle-info"></i> <span class="text-primary">' + exchange_info + '</span><br /><br />' + 
+    '<i class="fa-solid fa-circle-info"></i> 網站預設顯示快篩試劑販售點，如要顯示口罩資訊可由右上角選擇<br />' + 
+    '<i class="fa-solid fa-circle-info"></i> 存量以現場存量為主，線上查詢數量僅供參考。<br />' + 
+    '<i class="fa-solid fa-circle-info"></i> 採發放號碼牌方式之藥局，系統無法得知已發數量。<br /><br />' + 
+    '<i class="fa-solid fa-circle-info"></i> 顏色說明：</span><br />' +
+    '<i class="fa-solid fa-circle-chevron-right"></i> <span class="time-Lv1">2小時內有庫存異動</span> <span class="time-Lv2">4小時內有庫存異動</span><br />' +
+    '<i class="fa-solid fa-circle-chevron-right"></i> <span class="time-Lv3">8小時內有庫存異動</span> <span class="time-Lv4">超過8小時無庫存異動</span><br /><br />' +
+    '<i class="fa-solid fa-circle-info"></i> 網頁會定時自動更新庫存，不用重新整理。<br />' + 
+    '<i class="fa-solid fa-circle-info"></i> 全民抗疫，請保持耐心與禮貌哦！<br /><br />' + 
+    '<i class="fa-solid fa-square-arrow-up-right"></i> <a target="_blank" class="link-primary" href="https://www.cdc.gov.tw/Category/Page/R8bAd_yiVi22CIr73qM2yw">安裝臺灣社交距離App</a><br />' +
+    '<i class="fa-solid fa-square-arrow-up-right"></i> <a target="_blank" class="link-primary" href="https://antiflu.cdc.gov.tw/ExaminationCounter">COVID-19全國指定社區採檢院所地圖</a>';
 
+    if(type == 'auto'){
+        $.alert({
+            icon: 'fa-solid fa-info',
+            animation: 'top',
+            closeAnimation: 'bottom',
+            columnClass: 'col-md-6 col-md-offset-3',
+            type: 'blue',
+            title: '公告資訊',
+            content: msg_content,
+            autoClose:'ok|10000',
+            backgroundDismiss: true
+        });
+    }else{
+        $.alert({
+            icon: 'fa-solid fa-info',
+            animation: 'top',
+            closeAnimation: 'bottom',
+            columnClass: 'col-md-6 col-md-offset-3',
+            type: 'blue',
+            title: '公告資訊',
+            content: msg_content,
+            backgroundDismiss: true
+        });    
+    }
+   
     gtag('event', 'click', {
         'event_category': '提醒工具',
         'event_label': '提醒資訊'
