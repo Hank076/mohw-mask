@@ -3684,6 +3684,7 @@ locations = [
 {"lng":"121.491649","lat":"25.083576","name":"唯安藥局","id":"5931020044","tel":"0229875750","addr":"新北市三重區五華街130號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.47929","lat":"25.075188","name":"玉美藥局","id":"5931020446","tel":"0222879836","addr":"新北市三重區力行路2段136巷49弄2號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩:販售下午4:00   ** 沒有預先發號碼牌，現場販售.**"},
 {"lng":"121.470514","lat":"25.072053","name":"德林藥局","id":"5931020599","tel":"0229832019","addr":"新北市三重區中正北路572號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.483805","lat":"25.076415","name":"忠民藥局","id":"5931020740","tel":"0222868256","addr":"新北市三重區車路頭街162號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.482829","lat":"25.065031","name":"三民藥師藥局","id":"5931020820","tel":"0229829328","addr":"新北市三重區三民街134號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩9點發號碼牌，下午2點後領取，門口有貼領取流程 感謝（5／6已發完）"},
 {"lng":"121.49798","lat":"25.067646","name":"吳廣隆藥局","id":"5931020848","tel":"0229715020","addr":"新北市三重區長壽西街5-1號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"每天下午2點開始販售防疫口罩"},
 {"lng":"121.5009","lat":"25.06616","name":"久洲藥局","id":"5931020991","tel":"0229783515","addr":"新北市三重區長元街51-9號","business_week":"OOOOOOOOOOOOOOXOOOOOX","memo":"快篩八點半發號碼牌售完為止12點至1點領快篩"},
