@@ -10,169 +10,7 @@ if(today > warningDateline){
     bShowWarningMessage = false;
 }
 
-$(function() {
-    $("#info").click(function(event) {
-        showInfoMessage();
-    });
-
-    $("#filter").click(function(event) {
-        $(".filter_ctl").attr('disabled', true);
-        updateFilterOption();
-        showUpdateProcessByManual();
-    });
-
-    var clock = setInterval(function() {
-        updateFilterOption();
-        reloadStrongholdData(true);
-    }, 120000);
-});
-
-var updateFilterOption = function(){
-    dont_show_no_open = $("#dont_show_no_open").is(":checked");
-    show_inventory_zero = $("#inventory_zero").is(":checked");
-
-    let type = $("input[name='type']:checked").val();
-
-    if(type == '0'){
-        //不過濾
-        show_all_inventory = true;
-        show_adult_inventory = false;
-        show_child_inventory = false;
-        show_test_kit_inventory = false;
-        show_pcr_pos = false;
-        show_gov_test_kit = false;
-
-    }else if(type == '1'){
-        //只顯示成人 > 0
-        show_all_inventory = false;
-        show_adult_inventory = true;
-        show_child_inventory = false;
-        show_test_kit_inventory = false;
-        show_pcr_pos = false;
-        show_gov_test_kit = false;
-
-    }else if(type == '2'){
-        //只顯示兒童 > 0
-        show_all_inventory = false;
-        show_adult_inventory = false;
-        show_child_inventory = true;
-        show_test_kit_inventory = false;
-        show_pcr_pos = false;
-        show_gov_test_kit = false;
-
-    }else if(type == '3'){
-        //顯示成人+兒童 > 0
-        show_all_inventory = false;
-        show_adult_inventory = true;
-        show_child_inventory = true;
-        show_test_kit_inventory = false;
-        show_pcr_pos = false;
-        show_gov_test_kit = false;
-
-    }else if(type == '4'){
-        //顯示快篩試劑
-        show_all_inventory = false;
-        show_adult_inventory = false;
-        show_child_inventory = false;
-        show_test_kit_inventory = true;
-        show_pcr_pos = false;
-        show_gov_test_kit = false;
-
-    }else if(type == '5'){
-        //顯示快篩試劑
-        show_all_inventory = false;
-        show_adult_inventory = false;
-        show_child_inventory = false;
-        show_test_kit_inventory = false;
-        show_pcr_pos = true;
-        show_gov_test_kit = false;
-    }else if(type == '6'){
-        //顯示公費快篩發放站
-        show_all_inventory = false;
-        show_adult_inventory = false;
-        show_child_inventory = false;
-        show_test_kit_inventory = false;
-        show_pcr_pos = false;
-        show_gov_test_kit = true;
-    }
-}
-
-var showUpdateProcessByManual = function(){   
-    var jc = $.dialog({
-        icon: 'fa-solid fa-spinner fa-spin',
-        animation: 'top',
-        closeAnimation: 'bottom',
-        columnClass: 'col-md-4 col-md-offset-4',
-        type: 'orange',
-        title: '資料過濾中',
-        content: '正在過濾庫存資訊...',
-        onOpen: function(){
-            var type = $("input[name='type']:checked").val();
-            var ga_event_label = '';
-    
-            if(dont_show_no_open){
-                ga_event_label += '有營業, ';
-            }else{
-                ga_event_label += '不論營業, ';
-            }
-    
-            if(type == '0'){
-                //不過濾
-                ga_event_label += '所有';
-    
-            }else if(type == '1'){
-                //只顯示成人 > 0
-                ga_event_label += '僅成人';
-    
-            }else if(type == '2'){
-                //只顯示兒童 > 0
-                ga_event_label += '僅兒童';
-    
-            }else if(type == '3'){
-                //顯示成人+兒童 > 0
-                ga_event_label += '成人與兒童';
-
-            }else if(type == '4'){
-                //顯示快篩試劑
-                ga_event_label += '快篩試劑';
-            }else if(type == '5'){
-                //顯示PCR採檢站
-                ga_event_label += 'PCR採檢站';
-            }else if(type == '6'){
-                //顯示公費快篩發放站
-                ga_event_label += '公費快篩發放站';
-            }
-    
-            gtag('event', 'click', {
-                'event_category': '搜尋工具',
-                'event_label': ga_event_label
-            });
-    
-            //清除 markers
-            markers.clearLayers();
-    
-            //更新地圖
-            if(show_pcr_pos || show_gov_test_kit){
-                createOtherStrongholdData();
-            }else{
-                createStrongholdData();
-            }
-
-            $(".filter_ctl").attr('disabled', false);
-
-            jc.setIcon('fas fa-check');
-            jc.setType('green');
-            jc.close();
-        }
-    });
-};
-
 var showVersionHistory = function(){
-    gtag('event', 'click', {
-        'event_category': '提醒工具',
-        'event_label': '網站歷程'
-    });
-
     $.alert({
         icon: 'fa-solid fa-rectangle-list',
         animation: 'top',
@@ -230,30 +68,8 @@ var showVersionHistory = function(){
     });
 };
 
-var showTwcdcFB = function(){
-    gtag('event', 'click', {
-        'event_category': '提醒工具',
-        'event_label': '疾管署粉絲團'
-    });
-    
-    var jc = $.dialog({
-        icon: 'fa-solid fa-square-virus',
-        animation: 'top',
-        closeAnimation: 'bottom',
-        columnClass: 'col-md-4 col-md-offset-4',
-        type: 'orange',
-        title: '疾病管制署 - 粉絲團',
-        content: '<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FTWCDC&tabs=timeline&width=340&height=500&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=false&appId=544411143087055" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>',
-        backgroundDismiss: true
-    });
-};
-
 //緊急發布用, 可藉由定時器自動關閉
 var showWarningMessage = function(){
-    gtag('event', 'click', {
-        'event_category': '提醒工具',
-        'event_label': '重要訊息'
-    });
     $.alert({
         icon: 'fa-solid fa-triangle-exclamation',
         animation: 'top',
@@ -271,9 +87,8 @@ var showWarningMessage = function(){
 };
 
 var showInfoMessage = function(type){
-
-    var exchange_info = '';
-    var current_week = new Date().getDay();
+    let exchange_info = '';
+    let current_week = new Date().getDay();
 
     if(current_week == 0){
         exchange_info = '今日全民皆可購買公費快篩試劑';
@@ -283,7 +98,7 @@ var showInfoMessage = function(type){
         exchange_info = '今日身分證尾碼為 <i class="fa-solid fa-1"></i> <i class="fa-solid fa-3"></i> <i class="fa-solid fa-5"></i> <i class="fa-solid fa-7"></i> <i class="fa-solid fa-9"></i> 者可購買公費快篩試劑';
     }
 
-    var msg_content = '<i class="fa-solid fa-circle-info"></i> <span class="text-primary">' + exchange_info + '</span><br /><br />' + 
+    let msg_content = '<i class="fa-solid fa-circle-info"></i> <span class="text-primary">' + exchange_info + '</span><br /><br />' + 
     '<i class="fa-solid fa-circle-info"></i> 口罩庫存政府停止更新，故本站也同步移除口罩地圖。<br />' + 
     '<i class="fa-solid fa-circle-info"></i> 採發放號碼牌方式之藥局，庫存以現場為主。<br /><br />' + 
 
@@ -323,39 +138,6 @@ var showInfoMessage = function(type){
             backgroundDismiss: true
         });    
     }
-   
-    gtag('event', 'click', {
-        'event_category': '提醒工具',
-        'event_label': '提醒資訊'
-    });
-};
-
-var showUpdateProcess = function(){
-    gtag('event', 'click', {
-        'event_category': '地圖工具',
-        'event_label': '更新地圖'
-    });
-    
-    var jc = $.dialog({
-        icon: 'fa-solid fa-arrows-spin fa-spin',
-        animation: 'top',
-        closeAnimation: 'bottom',
-        columnClass: 'col-md-4 col-md-offset-4',
-        type: 'orange',
-        title: '資料更新中',
-        content: '正在抓取最新庫存資訊...',
-        onOpen: function(){
-            //更新地圖
-            if(show_pcr_pos || show_gov_test_kit){
-                createOtherStrongholdData(false);
-            }else{
-                createStrongholdData(false);
-            }
-            jc.setIcon('fas fa-check');
-            jc.setType('green');
-            jc.close();
-        }
-    });
 };
 
 var showQuestionInfo = function(){
@@ -377,12 +159,5 @@ var showQuestionInfo = function(){
         '<BR /><BR />●備註的部分<br>' +
         '可請藥師一樣連線至VPN後進入「<a target="_blank" class="link-primary" href="http://bit.ly/2ScrpB6">看診資料及掛號費</a>」：(1)每日固定看診時段(2)「固定看診時段備註欄」，可修正藥局販賣口罩起迄時間及相關欲通知民眾事項。',
         backgroundDismiss: true
-    });
-};
-
-var buy_mask = function(){
-    gtag('event', 'click', {
-        'event_category': '提醒工具',
-        'event_label': '社交距離APP'
     });
 };
