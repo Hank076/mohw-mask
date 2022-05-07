@@ -288,8 +288,8 @@ var showInfoMessage = function(type){
     '<i class="fa-solid fa-circle-info"></i> 採發放號碼牌方式之藥局，庫存以現場為主。<br /><br />' + 
 
     '<i class="fa-solid fa-circle-info"></i> 新增 社區採檢站、公費快篩發放點 兩種地圖(右上篩選)。<br />' + 
-    '<i class="fa-solid fa-circle-chevron-right"></i> 社區採檢站：如自行快篩陽性，請前往篩檢站篩檢確認。<br />' + 
-    '<i class="fa-solid fa-circle-chevron-right"></i> 公費快篩發放點：如有發燒症狀但無快篩，可至發放點申請快篩試劑。<br /><br />' + 
+    '<i class="fa-solid fa-circle-chevron-right"></i> 社區採檢站：如自覺有風險且出現發燒、呼吸道症狀、嗅味覺異常、不明原因腹瀉等相關症狀，或抗原快篩（含家用快篩）陽性時，請佩戴醫用口罩，就近前往指定社區採檢院所，由醫師評估進行PCR核酸檢驗。<br />' + 
+    '<i class="fa-solid fa-circle-chevron-right"></i> 公費快篩發放點：如有出現呼吸道症狀，可由醫師評估發放試劑後自行檢驗。<br /><br />' + 
 
     '<i class="fa-solid fa-circle-info"></i> 顏色說明：</span><br />' +
     '<i class="fa-solid fa-circle-chevron-right"></i> <span class="time-Lv1">2小時內有庫存異動</span> <span class="time-Lv2">4小時內有庫存異動</span><br />' +
