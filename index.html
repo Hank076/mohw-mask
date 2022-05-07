@@ -9,15 +9,15 @@
     <meta name="author" content="Pupu(DotNet)">
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:creator" content="@pupu21">
-    <meta name="twitter:description" content="口罩及快篩試劑即時販售庫存資訊地圖，也能查詢口罩及快篩剩餘庫存數量" />
-    <meta name="keyword" content="口罩,實名制,政府,即時,藥局,衛生所,庫存,存貨,防疫口罩,口罩地圖,快篩,快篩試劑" />
+    <meta name="twitter:description" content="快篩、社區採檢站即時販售庫存資訊地圖，也能查詢快篩剩餘庫存數量" />
+    <meta name="keyword" content="口罩,實名制,政府,即時,藥局,衛生所,庫存,存貨,防疫口罩,口罩地圖,快篩,快篩試劑,PCR,採檢站,社區採檢站" />
     <meta property="og:url" content="https://mohw-mask.pu.idv.tw" />
     <meta property="og:locale" content="zh_TW" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="口罩及快篩試劑即時販售庫存資訊地圖" />
-    <meta property="og:description" content="口罩及快篩試劑即時販售庫存資訊地圖，也能查詢口罩及快篩剩餘庫存數量" />
+    <meta property="og:title" content="快篩、社區採檢站即時販售庫存資訊地圖" />
+    <meta property="og:description" content="快篩、社區採檢站即時販售庫存資訊地圖，也能查詢快篩剩餘庫存數量" />
     <meta property="og:image" content="https://mohw-mask.pu.idv.tw/images/mohw-mask-pupu_202205051748.png" />
-    <title>口罩及快篩試劑即時販售庫存資訊地圖</title>
+    <title>快篩、社區採檢站即時販售庫存資訊地圖</title>
     <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
@@ -55,19 +55,21 @@
     <header class="fixed-top" >
         <nav class="navbar position-relative navbar-dark bg-success bg-gradient w-100 p-1">
             <div class="whiteText">
-                <span class="navbar-brand fw-bold m-0 p-0 user-select-none">口罩&快篩地圖</span>&nbsp;(<span class="fs-6 user-select-none">更新時間：</span><span class="user-select-none" id="inventory_last_update"><span id="process_status" class="fa fa-spinner fa-spin"></span></span>)
+                <span class="navbar-brand fw-bold m-0 p-0 user-select-none">快篩&社區採檢站地圖</span>&nbsp;(<span class="fs-6 user-select-none">更新時間：</span><span class="user-select-none" id="inventory_last_update"><span id="process_status" class="fa fa-spinner fa-spin"></span></span>)
                 <br>
                 <span class="user-select-none">作者：<a class="link-light" target="_blank" href="https://www.facebook.com/pupu21/posts/3176888778992065">Pupu(DotNet)</a></span>&nbsp;<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fmohw-mask.pu.idv.tw%2F&width=119&layout=button_count&action=like&size=small&share=true&height=46&appId=544411143087055" width="119" height="20" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
             </div>
         </nav>
-        <div class="maptools end-0 bg-light bg-gradient">
+        <div class="maptools end-0 bg-light bg-gradient h-100">
             <div class="row p-1 user-select-none">
                 <div class="col-auto">
-                    <input class="filter_ctl form-check-input" type="radio" id="show_all" name="type" value="0"><label class="form-check-label" for="show_all">全部</label>&nbsp;
+                    <!--<input class="filter_ctl form-check-input" type="radio" id="show_all" name="type" value="0"><label class="form-check-label" for="show_all">全部</label>&nbsp;
                     <input class="filter_ctl form-check-input" type="radio" id="show_adult" name="type" value="1"><label class="form-check-label" for="show_adult">成人</label>&nbsp;
                     <input class="filter_ctl form-check-input" type="radio" id="show_child" name="type" value="2"><label class="form-check-label" for="show_child">兒童</label>&nbsp;
-                    <input class="filter_ctl form-check-input" type="radio" id="show_adult_and_child" name="type" value="3"><label class="form-check-label" for="show_adult_and_child">成人+兒童</label>&nbsp;
+                    <input class="filter_ctl form-check-input" type="radio" id="show_adult_and_child" name="type" value="3"><label class="form-check-label" for="show_adult_and_child">成人+兒童</label>&nbsp;-->
                     <input class="filter_ctl form-check-input" type="radio" id="show_test_kit" name="type" value="4" checked><label class="form-check-label" for="show_test_kit">快篩</label>
+                    <input class="filter_ctl form-check-input" type="radio" id="show_pcr" name="type" value="5"><label class="form-check-label" for="show_pcr">社區採檢站</label>
+
                 </div>
             </div>
             <div class="row p-1 user-select-none align-items-center">
@@ -92,10 +94,10 @@
     <script src="js/leaflet-markercluster.placementstrategies.js"></script>
     <script src="js/Leaflet.Control.Custom.js"></script>
         
-    <script src="js/omap.js?r=202205061442"></script>
+    <script src="js/omap.js?r=202205071358"></script>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.4/jquery-confirm.min.js" integrity="sha512-zP5W8791v1A6FToy+viyoyUUyjCzx+4K8XZCKzW28AnCoepPNIXecxh9mvGuy3Rt78OzEsU+VCvcObwAMvBAww==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-    <script src="js/index.js?r=202205061344"></script>
+    <script src="js/index.js?r=202205071358"></script>
     
 </body>
 
