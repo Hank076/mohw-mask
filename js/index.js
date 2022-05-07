@@ -40,6 +40,7 @@ var updateFilterOption = function(){
         show_child_inventory = false;
         show_test_kit_inventory = false;
         show_pcr_pos = false;
+        show_gov_test_kit = false;
 
     }else if(type == '1'){
         //只顯示成人 > 0
@@ -48,6 +49,7 @@ var updateFilterOption = function(){
         show_child_inventory = false;
         show_test_kit_inventory = false;
         show_pcr_pos = false;
+        show_gov_test_kit = false;
 
     }else if(type == '2'){
         //只顯示兒童 > 0
@@ -56,6 +58,7 @@ var updateFilterOption = function(){
         show_child_inventory = true;
         show_test_kit_inventory = false;
         show_pcr_pos = false;
+        show_gov_test_kit = false;
 
     }else if(type == '3'){
         //顯示成人+兒童 > 0
@@ -64,6 +67,7 @@ var updateFilterOption = function(){
         show_child_inventory = true;
         show_test_kit_inventory = false;
         show_pcr_pos = false;
+        show_gov_test_kit = false;
 
     }else if(type == '4'){
         //顯示快篩試劑
@@ -72,6 +76,7 @@ var updateFilterOption = function(){
         show_child_inventory = false;
         show_test_kit_inventory = true;
         show_pcr_pos = false;
+        show_gov_test_kit = false;
 
     }else if(type == '5'){
         //顯示快篩試劑
@@ -80,6 +85,15 @@ var updateFilterOption = function(){
         show_child_inventory = false;
         show_test_kit_inventory = false;
         show_pcr_pos = true;
+        show_gov_test_kit = false;
+    }else if(type == '6'){
+        //顯示公費快篩領取站
+        show_all_inventory = false;
+        show_adult_inventory = false;
+        show_child_inventory = false;
+        show_test_kit_inventory = false;
+        show_pcr_pos = false;
+        show_gov_test_kit = true;
     }
 }
 
@@ -124,6 +138,9 @@ var showUpdateProcessByManual = function(){
             }else if(type == '5'){
                 //顯示PCR採檢站
                 ga_event_label += 'PCR採檢站';
+            }else if(type == '6'){
+                //顯示公費快篩領取站
+                ga_event_label += '公費快篩領取站';
             }
     
             gtag('event', 'click', {
@@ -135,8 +152,8 @@ var showUpdateProcessByManual = function(){
             markers.clearLayers();
     
             //更新地圖
-            if(show_pcr_pos){
-                loadPCR();
+            if(show_pcr_pos || show_gov_test_kit){
+                createOtherStrongholdData();
             }else{
                 createStrongholdData();
             }
@@ -164,7 +181,7 @@ var showVersionHistory = function(){
         type: 'green',
         title: '版本資訊',
         content: '<table class="table table-bordered table-condensed table-striped"><tr><th>版本</th><th>歷程</th></tr>' +
-        '<tr><td>05/07</td><td>關閉口罩販售地圖(因政府已停止更新庫存)<br />新增社區採檢站地圖</td></tr>' +
+        '<tr><td>05/07</td><td>關閉口罩販售地圖(因政府已停止更新庫存)<br />新增社區採檢站地圖<br />新增公費快篩領取地圖</td></tr>' +
         '<tr><td>05/06</td><td>新增顏色區分最近一次販售時間<br />新增顯示無庫存的販售點</td></tr>' +
         '<tr><td>05/05</td><td>調整呈現方式</td></tr>' +
         '<tr><td>05/04</td><td>更新套件版本</td></tr>' +
@@ -269,6 +286,11 @@ var showInfoMessage = function(type){
     var msg_content = '<i class="fa-solid fa-circle-info"></i> <span class="text-primary">' + exchange_info + '</span><br /><br />' + 
     '<i class="fa-solid fa-circle-info"></i> 口罩庫存政府停止更新，故本站也同步移除口罩地圖。<br />' + 
     '<i class="fa-solid fa-circle-info"></i> 採發放號碼牌方式之藥局，庫存以現場為主。<br /><br />' + 
+
+    '<i class="fa-solid fa-circle-info"></i> 新增 社區採檢站、公費快篩領取點 兩種地圖(右上篩選)。<br />' + 
+    '<i class="fa-solid fa-circle-chevron-right"></i> 社區採檢站：如自行快篩陽性，請前往篩檢站篩檢確認。<br />' + 
+    '<i class="fa-solid fa-circle-chevron-right"></i> 公費快篩領取點：如有發燒症狀但無快篩，可至領取點申請快篩試劑。<br /><br />' + 
+
     '<i class="fa-solid fa-circle-info"></i> 顏色說明：</span><br />' +
     '<i class="fa-solid fa-circle-chevron-right"></i> <span class="time-Lv1">2小時內有庫存異動</span> <span class="time-Lv2">4小時內有庫存異動</span><br />' +
     '<i class="fa-solid fa-circle-chevron-right"></i> <span class="time-Lv3">8小時內有庫存異動</span> <span class="time-Lv4">超過8小時無庫存異動</span><br /><br />' +
@@ -324,8 +346,8 @@ var showUpdateProcess = function(){
         content: '正在抓取最新庫存資訊...',
         onOpen: function(){
             //更新地圖
-            if(show_pcr_pos){
-                loadPCR(false);
+            if(show_pcr_pos || show_gov_test_kit){
+                createOtherStrongholdData(false);
             }else{
                 createStrongholdData(false);
             }
