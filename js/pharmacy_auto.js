@@ -4394,6 +4394,7 @@ locations = [
 {"lng":"120.9846","lat":"24.90465","name":"昌昌藥局","id":"5933081536","tel":"035598077","addr":"新竹縣新豐鄉新市路193號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"5／6（五）號碼牌已發放完畢。5／7（六）上午8:00開始發放號碼牌。"},
 {"lng":"120.9949","lat":"24.87571","name":"新豐藥局","id":"5933081607","tel":"035575005","addr":"新竹縣新豐鄉中興路208、210號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"120.992722","lat":"24.869465","name":"立果藥局","id":"5933081616","tel":"035571766","addr":"新竹縣新豐鄉尚仁街138號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"實名制快篩1400準時開售。營業時間並非販售快篩時間，請勿一早就來排隊"},
+{"lng":"120.986859","lat":"24.899391","name":"仁川藥局","id":"5933081625","tel":"035599838","addr":"新竹縣新豐鄉建興路二段747號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，下午13:00開始販售，售完為止"},
 {"lng":"121.080278","lat":"24.775333","name":"暘光藥局","id":"5933091112","tel":"035121001","addr":"新竹縣芎林鄉文山路385號","business_week":"OOOOOXOOOOOOXOOOOOOXO","memo":"快篩銷售請臉書FB搜尋【暘光藥局】"},
 {"lng":"121.098107","lat":"24.750586","name":"大銨藥局","id":"5933091121","tel":"035928018","addr":"新竹縣芎林鄉石潭村竹林路72之1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"無"},
 {"lng":"121.756787","lat":"24.756823","name":"華大藥局","id":"5934010077","tel":"039356412","addr":"宜蘭縣宜蘭市新民路64號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"上午8點30分賣出"},
