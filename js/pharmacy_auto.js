@@ -3054,6 +3054,7 @@ locations = [
 {"lng":"120.682199","lat":"24.152778","name":"927達霖藥師藥局","id":"5903260878","tel":"0422060030","addr":"臺中市北區中華路二段201號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.672759","lat":"24.167798","name":"中清丁丁藥局","id":"5903260896","tel":"0422919866","addr":"臺中市北區中清路一段531號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制到貨後開始販售  facebook公告 賣完為止"},
 {"lng":"120.688623","lat":"24.153994","name":"莒光藥局","id":"5903260912","tel":"0422336663","addr":"臺中市北區錦南街12號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"每日下午3點開賣 78份售完為止 星期日另外公告 臉書搜尋莒光藥局"},
+{"lng":"120.672602","lat":"24.171652","name":"大西洋藥局","id":"5903260930","tel":"0422932469","addr":"臺中市北區北平路2段28號1樓","business_week":"OOOOOOXOOOOOOOOOOOOOO"},
 {"lng":"120.694612","lat":"24.153783","name":"進化瑞昌藥局","id":"5903260949","tel":"0423608199","addr":"臺中市北區進化路332號1樓","business_week":"OOOOOOXXXXXXXXXXXXXXX","memo":"上午10:00開賣，9:45發號碼牌，須在現場排隊過號即棄權，請依現場指示排隊謝謝"},
 {"lng":"120.6735","lat":"24.17153","name":"健康達人藥局","id":"5903260958","tel":"0422994866","addr":"臺中市北區北平路2段56號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天中午2:00開始販售，售完為止。"},
 {"lng":"120.686835","lat":"24.164439","name":"正尚藥局","id":"5903260967","tel":"0422350347","addr":"臺中市北區榮華街166號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"周六營業至20:00，實名制快篩17:30發放，周日視到貨時間而定（若有剩餘）"},
