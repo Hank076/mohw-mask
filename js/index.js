@@ -10,6 +10,10 @@ if(today > warningDateline){
     bShowWarningMessage = false;
 }
 
+if (window.location.protocol == 'http:') {
+	window.location.href = window.location.href.replace('http:', 'https:');
+}
+
 var showVersionHistory = function(){
     $.alert({
         icon: 'fa-solid fa-rectangle-list',
