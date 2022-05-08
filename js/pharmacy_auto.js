@@ -4840,6 +4840,7 @@ locations = [
 {"lng":"120.960797","lat":"23.966733","name":"久泰藥局","id":"5938022180","tel":"0492980968","addr":"南投縣埔里鎮南興街324、326號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"120.682801","lat":"23.978534","name":"萬壽堂藥局","id":"5938030057","tel":"0492333570","addr":"南投縣草屯鎮中山街211號","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"販售時間：週一 至 週六 早上8:00【萬壽堂 祝您 順心"},
 {"lng":"120.683942","lat":"23.982321","name":"國聖藥局","id":"5938030084","tel":"0492305685","addr":"南投縣草屯鎮芬草路1段35號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"執業時間銷售家用快篩，售完為止"},
+{"lng":"120.684473","lat":"23.981242","name":"環球大藥局","id":"5938030100","tel":"0492356485","addr":"南投縣草屯鎮中正路753號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"周一至周日下午2:00 開始販售 售完為止"},
 {"lng":"120.657423","lat":"23.97377","name":"健泰藥局","id":"5938030253","tel":"04992336280","addr":"南投縣草屯鎮碧峰里碧山路1082號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩試劑8點半開賣，週日固定公休。"},
 {"lng":"120.681594","lat":"23.984588","name":"易生藥局","id":"5938030280","tel":"0492323350","addr":"南投縣草屯鎮明正里芬草路一段153號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日上午09:00開始販售"},
 {"lng":"120.688173","lat":"23.993246","name":"豐安藥局","id":"5938030379","tel":"0492334412","addr":"南投縣草屯鎮中正路1219號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間早上7點至晚上9點 : 發口罩每日早上07:00現場販售，售完為止"},
