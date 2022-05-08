@@ -3437,6 +3437,7 @@ locations = [
 {"lng":"121.740127","lat":"25.130133","name":"永樂藥局","id":"5911041618","tel":"0224214878","addr":"基隆市仁愛區忠二路22號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"上午八點半開始販售實名制快篩試劑"},
 {"lng":"121.74512","lat":"25.128644","name":"佑聖藥局","id":"5911041690","tel":"0224201762","addr":"基隆市仁愛區仁二路188號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"即日起口罩販售店外公告，周日公休"},
 {"lng":"121.742995","lat":"25.124512","name":"天康大藥局","id":"5911041878","tel":"0277091122","addr":"基隆市仁愛區南榮路149號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.741858","lat":"25.129211","name":"長虹藥師藥局","id":"5911041903","tel":"0224261318","addr":"基隆市仁愛區仁三路88號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩早上11:00販售，六日亦同"},
 {"lng":"121.739945","lat":"25.130903","name":"捷登藥局","id":"5911041949","tel":"0224237888","addr":"基隆市仁愛區孝三路92號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"國定假日有提供藥事調劑服務"},
 {"lng":"121.7413","lat":"25.12829","name":"百福仁愛專業藥局","id":"5911041958","tel":"0224266699","addr":"基隆市仁愛區仁四路50號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"4／30起，早上8:00販售快篩"},
 {"lng":"121.735481","lat":"25.131841","name":"隆泰藥局","id":"5911050153","tel":"0224225889","addr":"基隆市中山區西定路12號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
