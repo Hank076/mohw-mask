@@ -4568,6 +4568,7 @@ locations = [
 {"lng":"","lat":"","name":"公正藥局","id":"5934022175","tel":"039560543","addr":"宜蘭縣羅東鎮興東路137、139號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"121.852445","lat":"24.596042","name":"宏一藥局","id":"5934031165","tel":"039962125","addr":"宜蘭縣蘇澳鎮中山路1段29號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售時間 ~ 10:00 ，祝 所有媽咪 ~ 母親節快樂!"},
 {"lng":"121.837964","lat":"24.595713","name":"仁人健保藥局","id":"5934031209","tel":"039971168","addr":"宜蘭縣蘇澳鎮蘇港路365號","business_week":"OOOOOOXOXOXOXXOXOXOXX","memo":"早上 8 點上班時間開賣      售完為止"},
+{"lng":"121.828989","lat":"24.646799","name":"熊野藥局","id":"5934031218","tel":"039903367","addr":"宜蘭縣蘇澳鎮龍德里福德路418號","business_week":"OOOXXXXOOOXXXXOOOXXXX","memo":"快篩試劑販售時間為周一到周六10:00（售完為止），一人限一張卡"},
 {"lng":"121.86981","lat":"24.580873","name":"皇超藥局","id":"5934031263","tel":"039951309","addr":"宜蘭縣蘇澳鎮華山路3號","business_week":"OOOOOXOOOOXOXOOOOXOXO","memo":"5／8 販售快篩試劑0850-1200 售完為止"},
 {"lng":"121.852","lat":"24.59602","name":"正蘇西西藥局","id":"5934031272","tel":"039965380","addr":"宜蘭縣蘇澳鎮中山路1段47號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩到貨開始賣"},
 {"lng":"121.8446","lat":"24.59558","name":"佑全蘇澳中山藥局","id":"5934031281","tel":"039961063","addr":"宜蘭縣蘇澳鎮中山路一段231號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩於早上10:00開始販售，售完為止"},
