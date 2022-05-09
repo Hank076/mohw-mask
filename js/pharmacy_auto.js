@@ -2834,6 +2834,7 @@ locations = [
 {"lng":"121.539844","lat":"24.991001","name":"佳醫景美藥局","id":"5901201871","tel":"0286636659","addr":"臺北市文山區羅斯福路6段290號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售時間：每日12:00-15:00，提前售完，提前結束"},
 {"lng":"121.547763","lat":"24.999554","name":"華君藥局","id":"5901202047","tel":"0229319510","addr":"臺北市文山區興隆路2段60號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天12:00開始販售快篩"},
 {"lng":"121.539505","lat":"25.001151","name":"杏隆藥局","id":"5901202627","tel":"0229313151","addr":"臺北市文山區羅斯福路5段261號","business_week":"OOOOOXXOOOOOOXOOOOOOX","memo":"快篩實名制採預約登記，至5／14已登記額滿。"},
+{"lng":"121.558797","lat":"24.993124","name":"永源大藥局","id":"5901202645","tel":"0222396166","addr":"臺北市文山區興隆路3段302號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.566017","lat":"24.98292","name":"躍獅奕新藥局","id":"5901202752","tel":"0222340378","addr":"臺北市文山區木新路2段275號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一至週六下午1:30售實名制快篩，週日停售"},
 {"lng":"121.56864","lat":"24.988719","name":"宜康藥局","id":"5901202789","tel":"0286619862","addr":"臺北市文山區保儀路7號","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"快篩平日下午一點半開始販售，國定假日及週末沒有販售"},
 {"lng":"121.537959","lat":"25.002027","name":"萬隆大藥局","id":"5901202949","tel":"0229334580","addr":"臺北市文山區羅斯福路5段218巷15號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"9：00~23：00"},
