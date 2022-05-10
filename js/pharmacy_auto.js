@@ -2634,6 +2634,7 @@ locations = [
 {"lng":"121.589851","lat":"25.086853","name":"泰成藥局","id":"5901110133","tel":"0227921231","addr":"臺北市內湖區內湖路3段135號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"口罩販售:上午9:00開始發號碼牌，9點同步販售."},
 {"lng":"121.617838","lat":"25.069756","name":"赫得藥局","id":"5901110268","tel":"0226328642","addr":"臺北市內湖區康樂街72巷17弄4號1F","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"每周日公休。快篩試劑於周一至周六，早上8:30開賣（賣完為止）。"},
 {"lng":"121.615674","lat":"25.068277","name":"清白藥局","id":"5901110446","tel":"0226305743","addr":"臺北市內湖區東湖路108號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.606229","lat":"25.072031","name":"康信藥局","id":"5901112351","tel":"0226342088","addr":"臺北市內湖區民權東路6段296巷29號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.618859","lat":"25.070147","name":"康健藥局","id":"5901112593","tel":"0226305825","addr":"臺北市內湖區康樂街80號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.617002","lat":"25.069879","name":"富康東湖藥局","id":"5901112682","tel":"0226323222","addr":"臺北市內湖區東湖路119巷49弄16號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"視快篩實際到貨時間販售；LINE社群搜尋「富康藥局東湖店」會有第一線消息"},
 {"lng":"121.578613","lat":"25.072363","name":"高昱藥局","id":"5901112726","tel":"0287519962","addr":"臺北市內湖區陽光街321巷26號2樓之15","business_week":"OOOOOOOOOOOOXXOOOOOXX","memo":"週六日預約"},
