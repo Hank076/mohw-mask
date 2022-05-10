@@ -3779,6 +3779,7 @@ locations = [
 {"lng":"121.473769","lat":"25.022549","name":"力安藥局","id":"5931018106","tel":"0222503349","addr":"新北市板橋區莒光路196巷8號(1樓)","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"快篩實名制，早上9點依現場順序開始販售快篩，售完為止。"},
 {"lng":"","lat":"","name":"振昌藥局","id":"5931018115","tel":"0226862119","addr":"新北市板橋區溪崑二街14號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制14:50發放號碼牌，15:00開始憑號碼牌販售"},
 {"lng":"121.4774","lat":"25.01819","name":"大楓藥師藥局","id":"5931018124","tel":"0229560576","addr":"新北市板橋區懷仁街84號(1樓)","business_week":"OOOOOOXOOOOOOOOOOOOOX","memo":"快篩販售時間  下午13:30開始，售完為止。"},
+{"lng":"","lat":"","name":"綠洲藥局","id":"5931018133","tel":"0229580170","addr":"新北市板橋區三民路2段197號(1樓)","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"每日下午三點開始販售實名制快篩，請攜帶健保卡與500元，一人一卡限購一份，如須購買兩份請結帳後重新排隊。"},
 {"lng":"","lat":"","name":"重慶藥局","id":"5931018142","tel":"0229565586","addr":"新北市板橋區國慶路127號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"121.491649","lat":"25.083576","name":"唯安藥局","id":"5931020044","tel":"0229875750","addr":"新北市三重區五華街130號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.47929","lat":"25.075188","name":"玉美藥局","id":"5931020446","tel":"0222879836","addr":"新北市三重區力行路2段136巷49弄2號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩:販售下午4:00   ** 沒有預先發號碼牌，現場販售.**"},
