@@ -4283,6 +4283,7 @@ locations = [
 {"lng":"121.301929","lat":"25.006845","name":"浤安藥局","id":"5932014184","tel":"033577665","addr":"桃園市桃園區慈德街1號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"14:00開始發放實名制快篩"},
 {"lng":"121.316801","lat":"24.990798","name":"復興大藥局","id":"5932014228","tel":"033398979","addr":"桃園市桃園區復興路43號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.293056","lat":"24.986097","name":"中平啄木鳥藥局","id":"5932014246","tel":"032207457","addr":"桃園市桃園區中平路136號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天中午12點20分發號碼牌，12點30份販售，售完為止"},
+{"lng":"121.299182","lat":"25.0153","name":"杏昌藥局","id":"5932014255","tel":"033573268","addr":"桃園市桃園區中正路1100號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩每日9點開賣，週日休息."},
 {"lng":"121.304936","lat":"25.01414","name":"藝文藥局","id":"5932014273","tel":"033261789","addr":"桃園市桃園區大興西路1段165號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"121.312957","lat":"24.994724","name":"躍獅民生藥局","id":"5932014291","tel":"033362359","addr":"桃園市桃園區民生路228號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午1點開始販售，會發號碼牌，購買權保留至下午6點"},
 {"lng":"121.269688","lat":"24.978359","name":"躍獅省桃藥局","id":"5932014317","tel":"033791488","addr":"桃園市桃園區龍壽街24號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週1-7實名制快篩10:00開賣，5／6開始每日10點販售，沒發號碼牌"},
