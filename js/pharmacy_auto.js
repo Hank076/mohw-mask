@@ -4071,6 +4071,7 @@ locations = [
 {"lng":"121.3685","lat":"24.93606","name":"三峽文化藥局","id":"5931091605","tel":"0226710825","addr":"新北市三峽區文化路212-2號","business_week":"OOOOOOXOXOOOOXOOOOOXX","memo":"12:00~14:00 17:00~18:00 休息時間"},
 {"lng":"121.374181","lat":"24.932653","name":"兆康藥局","id":"5931091623","tel":"0226717875","addr":"新北市三峽區中華路22號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩早上9:00開始發放號碼牌"},
 {"lng":"121.3727","lat":"24.9378","name":"誠美藥局","id":"5931091810","tel":"0226718131","addr":"新北市三峽區復興路106號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"星期1~6早上9點現場排隊購買口罩，4\/4~4\/5不販售防疫口罩"},
+{"lng":"121.374156","lat":"24.945399","name":"有新藥局","id":"5931091829","tel":"0226710769","addr":"新北市三峽區學勤路18號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩發放時間為下午1點至下午3點"},
 {"lng":"121.377398","lat":"24.946385","name":"大新藥局","id":"5931091865","tel":"0286713204","addr":"新北市三峽區大義路259號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩下午2:50開始發號碼牌 3:00販售"},
 {"lng":"121.375194","lat":"24.936375","name":"三峽大昌藥局","id":"5931091972","tel":"0226711560","addr":"新北市三峽區民生街56號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.376945","lat":"24.928613","name":"欣美大藥局","id":"5931091990","tel":"0286712269","addr":"新北市三峽區大同路52號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間:9:00-22:00"},
