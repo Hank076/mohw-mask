@@ -3621,6 +3621,7 @@ locations = [
 {"lng":"120.2276","lat":"22.97294","name":"麗生藥師藥局","id":"5921012870","tel":"063356868","addr":"臺南市東區崇德路565號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩實名制販售時間14:30-16:00"},
 {"lng":"120.229687","lat":"22.980644","name":"太和藥師藥局","id":"5921013073","tel":"062906063","addr":"臺南市東區仁和路51─1號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"實名制快篩.每週一至週六下午1:30販售"},
 {"lng":"120.1902","lat":"22.96689","name":"裕祥藥局","id":"5921020130","tel":"062635796","addr":"臺南市南區明興里金華路1段228號","business_week":"OOOOOOXXXXXXXXXXXXXXX","memo":"口罩販售時間:星期一~六 07:30開始"},
+{"lng":"120.18395","lat":"22.950454","name":"全民藥局","id":"5921020167","tel":"062625814","addr":"臺南市南區喜東里喜樹路73之18號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"08:00-22:00"},
 {"lng":"120.179998","lat":"22.940987","name":"安心藥局","id":"5921020185","tel":"062622570","addr":"臺南市南區喜東里喜樹路151巷33號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"五月九日已經售完 五月十日上午7時30分開賣"},
 {"lng":"120.1897","lat":"22.96557","name":"興泰藥局","id":"5921020210","tel":"062653638","addr":"臺南市南區金華路一段165號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"星期一到星期六早上8點開始.售完為止"},
 {"lng":"120.1824421","lat":"22.921746","name":"欣昌藥局","id":"5921020336","tel":"062623217","addr":"臺南市南區興南街115號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一~週六 早上7：15開始代售實名制快篩試劑、週日上午十點開始"},
