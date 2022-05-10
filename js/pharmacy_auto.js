@@ -3617,6 +3617,7 @@ locations = [
 {"lng":"120.2256","lat":"22.98973","name":"榮泰藥局","id":"5921010107","tel":"062369095","addr":"臺南市東區崇誨里林森路2段192巷49號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩: 14:00 開始販售（週日店休）"},
 {"lng":"120.230292","lat":"22.970494","name":"周藥師藥局","id":"5921010152","tel":"062678421","addr":"臺南市東區崇成里崇善路654號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩：週一到週六下午三點到售完為止，週日公休。"},
 {"lng":"120.229432","lat":"22.986813","name":"益丞藥局","id":"5921010625","tel":"062359865","addr":"臺南市東區裕農路348號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩送達時間不一定，請先打電話詢問"},
+{"lng":"120.233754","lat":"22.970442","name":"良泰藥局","id":"5921010652","tel":"062676256","addr":"臺南市東區仁和里仁和路117之1號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.227682","lat":"22.968014","name":"王瑞敏藥師藥局","id":"5921012094","tel":"062896888","addr":"臺南市東區崇德路739號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩送達時間不定（一般是早上）送達即開始販售至售完"},
 {"lng":"120.2415808","lat":"22.989233","name":"林英文藥局","id":"5921012325","tel":"063311252","addr":"臺南市東區關聖里裕農路866之2號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"隨到貨時間調整販賣"},
 {"lng":"120.22436","lat":"22.98125","name":"崇仁藥局","id":"5921012361","tel":"062894115","addr":"臺南市東區龍山里崇學路231號","business_week":"OOOOOOOOOOOOOXOOOOOXO","memo":"週一到週六，早上8:30開賣（視現場狀況稍做調整），售完為止；中午11:30-15:30休息"},
