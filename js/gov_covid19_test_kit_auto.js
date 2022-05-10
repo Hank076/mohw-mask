@@ -553,7 +553,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.854663","lat":"23.6962","name":"慶安診所","id":"3538121179","tel":"0492791850","addr":"南投縣信義鄉新開巷100號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"5\/2(一)補假全日休診"},
 {"lng":"120.538533","lat":"23.701644","name":"小幼苗小兒科診所","id":"3539012660","tel":"055362982","addr":"雲林縣斗六市中山路311號","business_week":"OOOOOOXOOOOOOXOOXOOXX","memo":"5／2晚上休診"},
 {"lng":"120.476705","lat":"23.675246","name":"宏佑診所","id":"3539021570","tel":"055950456","addr":"雲林縣斗南鎮文元街86號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
-{"lng":"120.478489","lat":"23.673196","name":"小熊小兒科診所","id":"3539021598","tel":"055966775","addr":"雲林縣斗南鎮南昌路140號","business_week":"OOOOOOOOOOOOOOOOOOOXO","memo":"3歲以下，65歲以上及特殊條件優待50元，福保及榮民免掛號費"},
+{"lng":"120.478489","lat":"23.673196","name":"小熊小兒科診所","id":"3539021598","tel":"055966775","addr":"雲林縣斗南鎮南昌路140號","business_week":"OOOOOOOOOOOOOOOOOOOXO","memo":"6／3及6／5全天看診，6／4早上下午看診（夜診休息）"},
 {"lng":"120.434228","lat":"23.708949","name":"偉哲內小兒科診所","id":"3539030640","tel":"056323409;05","addr":"雲林縣虎尾鎮中山里仁愛路67號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.433819","lat":"23.709848","name":"太安診所","id":"3539030659","tel":"056326650","addr":"雲林縣虎尾鎮公安路178-18號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.436387","lat":"23.712202","name":"虎尾台全診所","id":"3539032331","tel":"056366111","addr":"雲林縣虎尾鎮林森路一段346號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
