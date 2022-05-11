@@ -3900,6 +3900,7 @@ locations = [
 {"lng":"121.48924","lat":"24.996075","name":"立健藥局","id":"5931043396","tel":"0222230614","addr":"新北市中和區連城路317號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週日休假"},
 {"lng":"121.5085","lat":"24.9832","name":"慶華藥師藥局","id":"5931043430","tel":"0229420666","addr":"新北市中和區華新街90號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.498353","lat":"24.995669","name":"悅聖藥局","id":"5931043501","tel":"0222429779","addr":"新北市中和區圓通路149號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"快篩販售時間為每日早上 不發號碼牌（但政府不一定每日都有配送） *週日不販售*"},
+{"lng":"121.502383","lat":"24.990196","name":"三越藥局","id":"5931043538","tel":"0222427215","addr":"新北市中和區復興路277號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"快篩販售時段：下午13:00開始 ，售完為止"},
 {"lng":"121.500349","lat":"24.993235","name":"群芳藥局","id":"5931043663","tel":"0222433729","addr":"新北市中和區和興里中興街73號1樓","business_week":"OOXOOOXOOOOOOXOOOOOXO"},
 {"lng":"121.4651","lat":"24.99646","name":"捷勝藥師藥局","id":"5931043690","tel":"0229646225","addr":"新北市中和區華順街122號〈1樓〉","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"1-6賣快篩.貨到就賣.無法定時（週日無販售）"},
 {"lng":"121.481385","lat":"24.999942","name":"杏元藥局","id":"5931043761","tel":"0222236868","addr":"新北市中和區員山路172號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩1400 發放，現場排隊。"},
