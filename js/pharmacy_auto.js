@@ -3887,6 +3887,7 @@ locations = [
 {"lng":"121.520266","lat":"25.000212","name":"健生活藥局","id":"5931034191","tel":"0229223222","addr":"新北市永和區得和路237號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.520598","lat":"25.000091","name":"正銨藥局","id":"5931034208","tel":"0229288100","addr":"新北市永和區得和路247-1號(1樓)","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期1~6下午2:15發號碼牌.星期日休息"},
 {"lng":"121.50264","lat":"25.003369","name":"大榮藥局","id":"5931040019","tel":"0222497965","addr":"新北市中和區中山路2段127號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"實名制快篩早上9:30現場排隊販售"},
+{"lng":"121.498171","lat":"25.001955","name":"中和光田藥局","id":"5931040082","tel":"0222459602","addr":"新北市中和區連城路28號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售:週1-6（周日）每日早上發號碼牌販售時間公告門口（歡迎加賴群組）"},
 {"lng":"121.47238","lat":"25.001733","name":"天立藥局","id":"5931040242","tel":"0229578831","addr":"新北市中和區莒光路122號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"於下午15:00憑健保卡（一人一卡）購買實名制快篩。"},
 {"lng":"121.513598","lat":"24.99555","name":"亮安藥局","id":"5931040313","tel":"0229469898","addr":"新北市中和區宜安路2號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.513896","lat":"25.003905","name":"宏信藥局","id":"5931040322","tel":"0229294976","addr":"新北市中和區永貞路262巷4號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"如有到貨每日早上7點30分準時開賣快篩試劑"},
