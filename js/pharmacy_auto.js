@@ -4268,6 +4268,7 @@ locations = [
 {"lng":"121.301294","lat":"25.019476","name":"明欣藥局","id":"5932010337","tel":"033165639","addr":"桃園市桃園區南平路206之3號","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"實名快篩0840開始，一日就是78份（其中10份診所藥局防疫），不發號碼牌，請自行算人數."},
 {"lng":"121.3136","lat":"24.99548","name":"新華興清溪藥局","id":"5932010631","tel":"033330011","addr":"桃園市桃園區東門里中山東路10號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩週一~週日14:30，不發號碼牌請依序排隊購買"},
 {"lng":"121.308182","lat":"24.990228","name":"富仕康藥局","id":"5932011058","tel":"033391318","addr":"桃園市桃園區中華路118號地下1樓","business_week":"XXXXXOXOOOOOOXOOOOOXX","memo":"口罩販賣時段：週一至週日15:30起"},
+{"lng":"121.307304","lat":"24.995578","name":"三芳藥局","id":"5932011576","tel":"033390986","addr":"桃園市桃園區民族路232號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩發放時間14:00，現場排隊"},
 {"lng":"121.301354","lat":"25.011088","name":"北醫藥局","id":"5932011585","tel":"033575806","addr":"桃園市桃園區中正路854號","business_week":"OXXOXOXOOOOOOXOOOOOXX","memo":"快篩販賣時段：配送後販賣"},
 {"lng":"121.2986","lat":"25.00181","name":"永祥大藥局","id":"5932011870","tel":"033337161","addr":"桃園市桃園區永安路528號","business_week":"OOOOOOXOOOOOOXOOXOOOX","memo":"口罩販賣時段：週一至週六早上9點"},
 {"lng":"121.297478","lat":"25.018982","name":"聖昌藥師藥局","id":"5932012402","tel":"033266654","addr":"桃園市桃園區莊敬里中正路1238號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"每日早上8:15開始賣快篩試劑"},
