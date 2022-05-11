@@ -4185,6 +4185,7 @@ locations = [
 {"lng":"121.459555","lat":"25.090547","name":"謚安中西藥局","id":"5931140238","tel":"0222836375","addr":"新北市蘆洲區永平街6號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.458468","lat":"25.084362","name":"慧安藥局","id":"5931140318","tel":"0228477845","addr":"新北市蘆洲區長安街214號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩依現場公告現場販售"},
 {"lng":"121.4793","lat":"25.08817","name":"松展多利日式連鎖藥粧藥局","id":"5931141726","tel":"0222882586","addr":"新北市蘆洲區民族路161號","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"防疫物資每日下午02:00開始販售"},
+{"lng":"121.477004","lat":"25.084474","name":"隆生藥局","id":"5931141913","tel":"0222814653","addr":"新北市蘆洲區民族路52號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"隨時都可以買口罩"},
 {"lng":"121.462577","lat":"25.083067","name":"長榮大藥局","id":"5931141959","tel":"0282863837","addr":"新北市蘆洲區長榮路51號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售時間，依配送狀況機動調整。"},
 {"lng":"121.457952","lat":"25.086154","name":"福您安中西藥局","id":"5931142018","tel":"0282858322","addr":"新北市蘆洲區長安街246巷6號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"121.474393","lat":"25.091645","name":"永恩健康藥局","id":"5931142241","tel":"0222880379","addr":"新北市蘆洲區民族路414號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"全天皆可以買口罩，隨時都可以買"},
