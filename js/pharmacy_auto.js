@@ -4175,6 +4175,7 @@ locations = [
 {"lng":"121.452674","lat":"24.987297","name":"城恩藥局","id":"5931133564","tel":"0222735808","addr":"新北市土城區學成路34號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.441252","lat":"24.973915","name":"土城人藥局","id":"5931133591","tel":"0222705068","addr":"新北市土城區中央路2段213巷2號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.420793","lat":"24.960941","name":"芮櫟頂埔大藥局","id":"5931133617","tel":"0222677888","addr":"新北市土城區中央路4段30號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.454949","lat":"24.987282","name":"順儷學府藥局","id":"5931133635","tel":"0222701979","addr":"新北市土城區學府路1段144巷2號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.426539","lat":"24.963664","name":"貓頭鷹藥妝藥局","id":"5931133644","tel":"0222695659","addr":"新北市土城區中央路3段88、90號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩配送時間不一定，販賣時間依現場公告為主"},
 {"lng":"121.4593","lat":"24.98285","name":"家泰藥局","id":"5931133653","tel":"0222749490","addr":"新北市土城區青雲路181號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"上午9：00發號碼牌14：00-21：00攜帶號碼牌及費用領快篩"},
 {"lng":"121.439487","lat":"24.970936","name":"中央藥局","id":"5931133662","tel":"0222630345","addr":"新北市土城區中央路2段84、86號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
