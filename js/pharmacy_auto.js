@@ -4375,6 +4375,7 @@ locations = [
 {"lng":"121.256584","lat":"24.973375","name":"內壢忠孝藥局","id":"5932023914","tel":"034636641","addr":"桃園市中壢區忠孝路36號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"121.222696","lat":"24.960439","name":"朝日藥局","id":"5932023923","tel":"032805882","addr":"桃園市中壢區新生路129號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名快篩:週一至周日下午3點發號碼牌，下午3點30分發放試劑"},
 {"lng":"121.2523","lat":"24.92966","name":"龍東藥局","id":"5932023932","tel":"034383088","addr":"桃園市中壢區龍東路205號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
+{"lng":"121.170305","lat":"24.958524","name":"唯恩藥局","id":"5932023941","tel":"034205017","addr":"桃園市中壢區民族路5段310號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"因實名制快篩配送時間不固定，有貨即販售，「請勿」先行排隊，避免久候。謝謝大家的配合!"},
 {"lng":"121.223147","lat":"24.96495","name":"薰衣草藥局","id":"5932023987","tel":"034253330","addr":"桃園市中壢區新生路335號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週日無販售，其餘販售時間依粉絲團公告"},
 {"lng":"121.202248","lat":"25.006253","name":"青瑭藥局","id":"5932023996","tel":"032875901","addr":"桃園市中壢區民權路4段277號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.229201","lat":"24.962696","name":"天晟社區藥局","id":"5932024028","tel":"034629292","addr":"桃園市中壢區延平路153號1樓","business_week":"OOOOOOOOOOOOXXOOOOOXX"},
