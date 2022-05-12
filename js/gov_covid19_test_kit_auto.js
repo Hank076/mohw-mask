@@ -1,6 +1,6 @@
 gov_covid19_test_kit_locations = [
 {"lng":"120.292894","lat":"23.457536","name":"嘉義縣立慢性病防治所","id":"2240110018","tel":"053620571#134","addr":"嘉義縣太保市祥和二路東段3號","business_week":"OOOOOXXXOXXOXXXXXXXXX"},
-{"lng":"121.458327","lat":"25.023316","name":"新北市板橋區衛生所","id":"2331010016","tel":"0222586606","addr":"新北市板橋區英士路192號","business_week":"OOOOOXXXXXXXXXXXXXXXX","memo":"非假日期間週一至週五早上"},
+{"lng":"121.458327","lat":"25.023316","name":"新北市板橋區衛生所","id":"2331010016","tel":"0222586606","addr":"新北市板橋區英士路192號","business_week":"OXOXOXXXXXXXXXXXXXXXX","memo":"非假日期間週二至週四早上，新冠視訊看診週一、三、五早上"},
 {"lng":"121.491392","lat":"25.061191","name":"新北市三重區衛生所","id":"2331020012","tel":"0229825233","addr":"新北市三重區新北大道一段1號","business_week":"OXXOXXXXXXXXXXXXXXXXX"},
 {"lng":"121.516232","lat":"25.004971","name":"新北市永和區衛生所","id":"2331030018","tel":"0232332780","addr":"新北市永和區秀朗路1段137號","business_week":"OOOOXXXOXXXXXXXXXXXXX"},
 {"lng":"121.501638","lat":"24.998691","name":"新北市中和區衛生所","id":"2331040014","tel":"0222491936","addr":"新北市中和區南山路4巷3號","business_week":"OOOOOXXXXXXXXXXXXXXXX","memo":"6／3端午節"},
@@ -647,7 +647,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.592581","lat":"23.987323","name":"自強耳鼻喉科診所","id":"3545051502","tel":"038561277","addr":"花蓮縣吉安鄉北昌村自強路568號","business_week":"OOOOOOXXXXXXXXOOOOOXX"},
 {"lng":"121.576247","lat":"23.992256","name":"和田小兒科診所","id":"3545051548","tel":"038576822","addr":"花蓮縣吉安鄉建國路二段229號1樓","business_week":"OOOOOXXOOOOXXXOOOOXXX"},
 {"lng":"121.53088","lat":"23.909351","name":"信德診所","id":"3545061151","tel":"038661197","addr":"花蓮縣壽豐鄉中山路三段76號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
-{"lng":"121.151902","lat":"22.756105","name":"大慶家醫科外科診所","id":"3546010238","tel":"089322221","addr":"臺東縣臺東市中山路267號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"111\/02\/26上午看診，111\/02\/28正常看診"},
+{"lng":"121.151902","lat":"22.756105","name":"大慶家醫科外科診所","id":"3546010238","tel":"089322221","addr":"臺東縣臺東市中山路267號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"111／06／03正常看診，111／06／04正常看診（只看上午），111／06／05星期日休息"},
 {"lng":"121.151565","lat":"22.75643","name":"育生小兒科診所","id":"3546010354","tel":"089345304","addr":"臺東縣臺東市中山路244號","business_week":"OOOOOXXOOOOOXXOOOOOXX"},
 {"lng":"121.152259","lat":"22.756539","name":"李文正內科診所","id":"3546010407","tel":"089323920","addr":"臺東縣臺東市中正路295號","business_week":"OOOOOOXOOOXOXXOOOOOXX"},
 {"lng":"121.152428","lat":"22.751783","name":"賴鵬雲診所","id":"3546010443","tel":"089310070","addr":"臺東縣臺東市正氣路153號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
