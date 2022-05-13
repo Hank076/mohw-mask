@@ -3038,6 +3038,7 @@ locations = [
 {"lng":"120.708074","lat":"24.14425","name":"十甲東亞藥師大藥局","id":"5903230218","tel":"0422118879","addr":"臺中市東區十甲路410號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名快篩 星期一至六 每日下午一點至五點販售 售完為止"},
 {"lng":"120.710417","lat":"24.144638","name":"東區小林健保藥局","id":"5903230227","tel":"0422135148","addr":"臺中市東區十甲路485號1樓","business_week":"OOOOOOXOOOOOXOXXXXXXX"},
 {"lng":"120.688137","lat":"24.136353","name":"佳境藥局","id":"5903230236","tel":"0422211395","addr":"臺中市東區大智路1-1號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"下午14:00開始販售實名制快篩"},
+{"lng":"120.661521","lat":"24.137829","name":"嶸曜藥局","id":"5903240090","tel":"0423782478","addr":"臺中市西區美村路1段592號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週一至週六11:30至21:30販賣實名制快篩（預約制），售完為止"},
 {"lng":"120.6601","lat":"24.14977","name":"陽光藥局","id":"5903240152","tel":"0423020711","addr":"臺中市西區中美街305號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"正在銷售，售完為止。藥局LineID: cmjsunny歡迎加入詢問"},
 {"lng":"120.67","lat":"24.14767","name":"鑫祐藥局","id":"5903240198","tel":"0423027778","addr":"臺中市西區民權路302-5號","business_week":"OOOOOOXOOOOOOXXXXXXXX","memo":"實名快篩每日開賣時間以店外公告為主，1人1或2卡，週一至週六早上銷售，週日停售"},
 {"lng":"120.6746","lat":"24.13743","name":"台丞藥局","id":"5903240376","tel":"0422279666","addr":"臺中市西區三民路一段166-5號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩實名制販賣時間即營業時間：早上0800開始販售，週日無營業"},
