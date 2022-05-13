@@ -3441,6 +3441,7 @@ locations = [
 {"lng":"120.3059","lat":"22.60262","name":"芳鄰藥局","id":"5907360548","tel":"075361134","addr":"高雄市前鎮區中華五路993號1樓","business_week":"OOOOOOXOOOOOXXOXOXOXO","memo":"快篩實名制販售時間：週一週五下午３點５點，週六早上８點１０點，週日不販售"},
 {"lng":"120.311436","lat":"22.613467","name":"祥安健保藥局","id":"5907360566","tel":"073340393","addr":"高雄市前鎮區復興三路393號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.3117","lat":"22.606487","name":"風鈴藥局","id":"5907360628","tel":"075367833","addr":"高雄市前鎮區管仲路37號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"販售快篩：09:30-11:30 依照配送調整販售時間（周日公休）"},
+{"lng":"120.326117","lat":"22.599235","name":"眾安堂藥局","id":"5907360646","tel":"078219881","addr":"高雄市前鎮區班超路17號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"下午五點隨到隨買喔，請看臉書更新資訊，週日休息一日"},
 {"lng":"120.312779","lat":"22.610047","name":"民權丁丁藥局","id":"5907360655","tel":"079650177","addr":"高雄市前鎮區民權二路345號1-3樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制早上9點開始販售"},
 {"lng":"120.3056","lat":"22.60341","name":"忠純藥局","id":"5907360664","tel":"073366886","addr":"高雄市前鎮區中華五路1009號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"120.3291","lat":"22.60547","name":"前鎮大樹藥局","id":"5907360673","tel":"077137171","addr":"高雄市前鎮區瑞隆路472號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
