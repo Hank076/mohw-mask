@@ -3945,6 +3945,7 @@ locations = [
 {"lng":"121.474394","lat":"25.001624","name":"大誠藥局","id":"5931045041","tel":"0222258394","addr":"新北市中和區民享街87號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩 每日下午03:30開始販售，現場排隊"},
 {"lng":"121.5109","lat":"24.99954","name":"禾昌藥局","id":"5931045069","tel":"0229267330","addr":"新北市中和區中安街178巷2號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩14:00開始販售／醫護警消優先"},
 {"lng":"121.502975","lat":"24.995766","name":"九崧藥局","id":"5931045158","tel":"0222451379","addr":"新北市中和區南華路20號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"實名制快篩試劑每日下午13:30販售(星期日休息)"},
+{"lng":"121.498287","lat":"24.997703","name":"藥安連勝藥局","id":"5931045176","tel":"0222425266","addr":"新北市中和區連勝街37號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩w一~w六下午1點開始，w日早上9點~售完"},
 {"lng":"121.481111","lat":"25.002929","name":"廣來藥師藥局","id":"5931045210","tel":"0232340393","addr":"新北市中和區員山路393號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"代為販售實名制快篩，販售時間：每天上午11點到中午12點為止。"},
 {"lng":"121.5126","lat":"24.98995","name":"佑全中和景新藥局","id":"5931045229","tel":"0229431408","addr":"新北市中和區景新街395號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩試劑---14:00 開始販售78份"},
 {"lng":"121.4774","lat":"25.00579","name":"品心藥局","id":"5931045256","tel":"0222228384","addr":"新北市中和區中山路3段96號1樓","business_week":"OOOOOXXOOOOOOOOOOOOOO"},
