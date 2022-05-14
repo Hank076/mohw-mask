@@ -3516,6 +3516,7 @@ locations = [
 {"lng":"120.997063","lat":"24.798235","name":"宏禎藥局","id":"5912013216","tel":"035750238","addr":"新竹市東區建新路40號1樓","business_week":"OOOOOOOOOOOOOXOOOOXXX","memo":"販賣時段:平日及假日每日早上08:00開始販售.售完為止"},
 {"lng":"121.015264","lat":"24.784334","name":"合康連鎖藥局光復店","id":"5912013243","tel":"035670111","addr":"新竹市東區光復路1段378號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時段:上午9點至晚上9點，售完為止"},
 {"lng":"120.975422","lat":"24.812031","name":"禾心藥局","id":"5912013261","tel":"035332403","addr":"新竹市東區民生路231號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.976806","lat":"24.8055","name":"合康連鎖藥局","id":"5912013305","tel":"035321636","addr":"新竹市東區中華路2段222號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"販售快篩時間為下午17:00發號碼牌後販售"},
 {"lng":"120.97096","lat":"24.806888","name":"康健藥局","id":"5912013341","tel":"035359789","addr":"新竹市東區中央路128-1號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"快篩販售時段: 早8:00-9:00 售完為止"},
 {"lng":"120.975639","lat":"24.8067","name":"牛津藥局","id":"5912013412","tel":"035320780","addr":"新竹市東區民族路62號1樓","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"快篩於9:00開賣"},
 {"lng":"120.979806","lat":"24.813948","name":"佑全新竹自由藥局","id":"5912013458","tel":"035428497","addr":"新竹市東區自由路107號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩每日販售時間早上9:30售完為止。門市營業時間09:00-21:00"},
