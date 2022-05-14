@@ -3754,6 +3754,7 @@ locations = [
 {"lng":"121.443152","lat":"25.001147","name":"名安藥局","id":"5931015990","tel":"0282751784","addr":"新北市板橋區龍興街57號(1樓)","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.465673","lat":"25.024573","name":"幸福健保藥局","id":"5931016237","tel":"0222530009","addr":"新北市板橋區四維路106號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.479","lat":"25.01866","name":"湯明藥局","id":"5931016273","tel":"0229571980","addr":"新北市板橋區中山路2段319號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一到週五 下午四點  六日時間未定 排隊不發號碼"},
+{"lng":"121.460982","lat":"25.022899","name":"楓康藥局","id":"5931016326","tel":"0282582246","addr":"新北市板橋區新海路119號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4644","lat":"25.00394","name":"康匯藥局","id":"5931016335","tel":"0229512610","addr":"新北市板橋區實踐路167號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"★★★每天都有 現領不用等★★★"},
 {"lng":"121.4538","lat":"24.99382","name":"利安社區藥局","id":"5931016433","tel":"0289671551","addr":"新北市板橋區德興街37巷14號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4543","lat":"24.99537","name":"仁泰藥局","id":"5931016504","tel":"0289672133","addr":"新北市板橋區四川路2段33號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
