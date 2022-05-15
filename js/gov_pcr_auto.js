@@ -353,7 +353,7 @@ gov_pcr_locations = [
 {"lng":"120.197306","lat":"23.041803","name":"杏安耳鼻喉科診所","id":"3505370055","tel":"062550296","addr":"台南市安南區安中路一段675號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"5\/01上午看診，5\/02全日看診"},
 {"lng":"120.191692","lat":"23.02494","name":"陳昱成耳鼻喉科診所","id":"3521062478","tel":"062800178","addr":"台南市安南區海佃路一段196號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"110\/01\/02及110\/01\/03提供門診看診"},
 {"lng":"120.17718","lat":"23.15922","name":"佳安診所","id":"3505050183","tel":"067237768","addr":"台南市佳里區中山路188號","business_week":"OOOOOOOOOOOOXXOOOOOXX"},
-{"lng":"120.233749","lat":"22.984421","name":"路加小兒科診所","id":"3521011275","tel":"062883000","addr":"台南市東區中華東路二段185巷26號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"店碼:259911474883557。12\/2~4休診，12\/12加看晚診。"},
+{"lng":"120.233749","lat":"22.984421","name":"路加小兒科診所","id":"3521011275","tel":"062883000","addr":"台南市東區中華東路二段185巷26號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"因應疫情，台南共照雲假日本診所持續服務。"},
 {"lng":"120.235236","lat":"22.988734","name":"丁慶雄耳鼻喉科診所","id":"3521012610","tel":"062371000","addr":"台南市東區裕農路613號","business_week":"OOOOOOXOOOOXOXOOOOOXX"},
 {"lng":"120.22918","lat":"22.973756","name":"陳勃旭耳鼻喉科診所","id":"3521013108","tel":"063358868","addr":"台南市東區崇善路438號","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"4\/2~4\/3門診正常，4\/4~4\/5清明節門診為上午時段，下午晚上休診。"},
 {"lng":"120.190805","lat":"22.972232","name":"加恩耳鼻喉專科診所","id":"3505330300","tel":"062616598","addr":"台南市南區金華路一段450號","business_week":"OOOOOOXOOOOOOXOOOOOOO"},
