@@ -4192,6 +4192,7 @@ locations = [
 {"lng":"121.4207","lat":"24.96088","name":"誠安藥局","id":"5931132343","tel":"0222677737","addr":"新北市土城區中央路4段36號1樓","business_week":"XXXXXOXOOOOOXXOOOOOXX","memo":"快篩代售時段：平日晚上8點，售完為止"},
 {"lng":"121.4501","lat":"24.98629","name":"凱一藥局","id":"5931132389","tel":"0222707679","addr":"新北市土城區裕民路92巷21弄8號1樓","business_week":"OXOOOOOOXOOOOOOXOOOOO","memo":"服務時間10:00~21:00，每週二休息。實名制快篩皆於營業日的10:00開賣。"},
 {"lng":"121.4518","lat":"24.98459","name":"吉城大藥局","id":"5931132601","tel":"0222626870","addr":"新北市土城區學府路1段205號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"★★★每天都有 現領不用等★★★"},
+{"lng":"121.448233","lat":"24.987259","name":"家庭藥師連鎖藥局","id":"5931132683","tel":"0222633601","addr":"新北市土城區裕生路8號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4644","lat":"24.98813","name":"順儷藥師藥局","id":"5931132727","tel":"0222648655","addr":"新北市土城區延和路16之3號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售時段下午3點"},
 {"lng":"121.4522","lat":"24.98595","name":"德隆藥局","id":"5931132781","tel":"0222656056","addr":"新北市土城區裕民路153號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上10點發號碼牌（收健保卡+收錢），下午4點到晚上10點憑號碼牌來領快篩"},
 {"lng":"121.4664","lat":"24.98465","name":"美康藥妝藥局","id":"5931132950","tel":"0222616868","addr":"新北市土城區延吉街254號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩前一天若有到貨，則隔日三點販售"},
