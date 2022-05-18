@@ -23,7 +23,7 @@ var showVersionHistory = function(){
         type: 'green',
         title: '版本資訊',
         content: '<table class="table table-bordered table-condensed table-striped"><tr><th>版本</th><th>歷程</th></tr>' +
-        '<tr><td>05/18</td><td>修正快篩站資料錯誤<br />自動去除掉快篩庫存三天以上無異動的站點</td></tr>' +
+        '<tr><td>05/18</td><td>修正採檢站資料錯誤<br />自動去除掉快篩庫存三天以上無異動的站點</td></tr>' +
         '<tr><td>05/07</td><td>關閉口罩販售地圖(因政府已停止更新庫存)<br />新增社區採檢站地圖<br />新增公費快篩發放地圖</td></tr>' +
         '<tr><td>05/06</td><td>新增顏色區分最近一次販售時間<br />新增顯示無庫存的販售點</td></tr>' +
         '<tr><td>05/05</td><td>調整呈現方式</td></tr>' +
