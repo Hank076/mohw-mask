@@ -6,7 +6,7 @@ gov_pcr_locations = [
 {"lng":"121.5093209","lat":"25.0509696","name":"臺北市立聯合醫院-中興院區","id":"0101090517","tel":"0225523234","addr":"臺北市大同區鄭州路145號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"121.5315656","lat":"25.105194","name":"臺北市立聯合醫院-陽明院區","id":"0101090517","tel":"0228353456#5145","addr":"臺北市士林區雨聲街105號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"121.5860755","lat":"25.0465327","name":"臺北市立聯合醫院-忠孝院區","id":"0101090517","tel":"0227861288","addr":"臺北市南港區同德路87號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
-{"lng":"121.547339","lat":"25.0480541","name":"基督復臨安息日會醫療財團法人臺安醫院","id":"1101010021","tel":"0227718151","addr":"臺北市松山區八德路二段424,426號","business_week":"OOOOOXOOOOOOXXOOOOXXX"},
+{"lng":"121.547339","lat":"25.0480541","name":"基督復臨安息日會醫療財團法人臺安醫院","id":"1101010021","tel":"0227718151","addr":"臺北市松山區八德路二段424號","business_week":"OOOOOXOOOOOOXXOOOOXXX"},
 {"lng":"121.557672","lat":"25.054373","name":"三軍總醫院松山分院附設民眾診療服務處","id":"0501010019","tel":"0227642151","addr":"臺北市松山區健康路131號","business_week":"OOOOOOXOOOOOXXOXXOXXX","memo":"急診全日服務."},
 {"lng":"121.5496556","lat":"25.0555992","name":"長庚醫療財團法人台北長庚紀念醫院","id":"1101010012","tel":"0227135211","addr":"臺北市松山區敦化北路199號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"急診全年無休，門診開診日及開診科別依本院門診表公告為準。"},
 {"lng":"121.6089476","lat":"25.0758907","name":"康寧醫療財團法人康寧醫院","id":"1101110026","tel":"0226345500","addr":"臺北市內湖區成功路五段420巷26號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"急診24小時照常服務;門診上午只看部分門診，下午及夜間休診"},
