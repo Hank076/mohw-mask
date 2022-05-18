@@ -3697,6 +3697,7 @@ locations = [
 {"lng":"120.879717","lat":"24.686774","name":"明志藥局","id":"5935040328","tel":"037472341","addr":"苗栗縣竹南鎮照南里博愛街4號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩賣時間:早上6:30~22:00。週六，周日照常。"},
 {"lng":"120.879572","lat":"24.688741","name":"光復藥局","id":"5935040408","tel":"037476286","addr":"苗栗縣竹南鎮光復路216號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩下午1:00開賣~售完為止"},
 {"lng":"120.879336","lat":"24.684916","name":"昇暉藥局","id":"5935041450","tel":"037464347","addr":"苗栗縣竹南鎮民治街18號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"快篩周一到周五中午12點販售"},
+{"lng":"120.876796","lat":"24.686128","name":"順春藥局","id":"5935041469","tel":"037552068","addr":"苗栗縣竹南鎮延平路27號之12","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"星期一至六上午7:50繳交健保卡，15:30-17:30取回健保卡.快篩"},
 {"lng":"120.876056","lat":"24.686964","name":"林新藥局","id":"5935041610","tel":"037471556","addr":"苗栗縣竹南鎮博愛街124號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"120.877479","lat":"24.685432","name":"瑞士藥師藥局","id":"5935041745","tel":"037552708","addr":"苗栗縣竹南鎮和平街59號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.879084","lat":"24.691374","name":"惠家藥局","id":"5935041781","tel":"037463635","addr":"苗栗縣竹南鎮自強街38號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
