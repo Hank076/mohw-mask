@@ -255,7 +255,7 @@ gov_pcr_locations = [
 {"lng":"121.317322","lat":"24.986035","name":"健新耳鼻喉科診所","id":"3532015190","tel":"033750778","addr":"桃園市桃園區建國路18號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.30546","lat":"25.003736","name":"慈文診所","id":"3532015896","tel":"033355482","addr":"桃園市桃園區中正路566號","business_week":"OXOXOOOXXXXXXXOOOXOXX"},
 {"lng":"121.30546","lat":"25.003736","name":"大中骨科診所","id":"3532016919","tel":"033355482","addr":"桃園市桃園區中正路566號","business_week":"OOOOOOOOOOOOOXOXOOOOX"},
-{"lng":"121.2953991","lat":"25.01783393","name":"何翊菁診所","id":"3532014773","tel":"033551192,03","addr":"桃園市桃園區中埔六街123號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"05\/01下午晚上停診"},
+{"lng":"121.2953991","lat":"25.01783393","name":"何翊菁診所","id":"3532014773","tel":"033551192、03","addr":"桃園市桃園區中埔六街123號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"05\/01下午晚上停診"},
 {"lng":"121.1819444","lat":"24.9186313","name":"邵耳鼻喉科診所","id":"3532041681","tel":"034813212","addr":"桃園市楊梅區中興路105號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.336781","lat":"24.994712","name":"遠東耳鼻喉科診所","id":"3532070548","tel":"033502720","addr":"桃園市龜山區萬壽路二段997號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.297427","lat":"25.046271","name":"南崁現代診所","id":"3532072159","tel":"033218080","addr":"桃園市龜山區南祥路40號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"2／26到2／28三天全日看診.6／3到6／5三天全日看診"},
