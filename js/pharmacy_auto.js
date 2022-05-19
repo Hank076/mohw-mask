@@ -2619,6 +2619,7 @@ locations = [
 {"lng":"121.42669","lat":"25.026664","name":"大愛藥師藥局","id":"5931068866","tel":"0222042119","addr":"新北市新莊區後港一路69號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩代售時間自早上10點 現場排隊"},
 {"lng":"121.418795","lat":"25.02502","name":"旭生藥局","id":"5931068875","tel":"0229021289","addr":"新北市新莊區裕民街42號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，販售時間採滾動式調整。"},
 {"lng":"121.4547","lat":"25.05221","name":"新莊健業藥局","id":"5931068991","tel":"0222798808","addr":"新北市新莊區昌平街37號1樓至2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制每天下午三點開始販售（不發號碼牌）"},
+{"lng":"121.458323","lat":"25.049401","name":"陽光藥局","id":"5931069023","tel":"0222774399","addr":"新北市新莊區福壽街72號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一到週日9點現場發號碼牌排隊販售口罩，售完為止"},
 {"lng":"121.428","lat":"25.01436","name":"招安藥師藥局","id":"5931069201","tel":"0222085138","addr":"新北市新莊區西盛街338號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"5／1 5／2 並無快篩試劑到貨 請勿來電或來店購買"},
 {"lng":"121.4472","lat":"25.04979","name":"國安藥局","id":"5931069425","tel":"0229938003","addr":"新北市新莊區中和街155巷6號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.449","lat":"25.03497","name":"新杏藥局","id":"5931069498","tel":"0222011012","addr":"新北市新莊區新泰路99號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"若有配貨，將固定於週一至週日14:50開始發放號碼牌、15:00開始依序販售快篩，售完為止。"},
