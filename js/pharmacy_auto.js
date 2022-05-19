@@ -4754,6 +4754,7 @@ locations = [
 {"lng":"120.493778","lat":"22.777249","name":"里港寶康藥局","id":"5943091188","tel":"087721189","addr":"屏東縣里港鄉仁和路24號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"快篩下午13:30開始領取號碼牌"},
 {"lng":"120.496104","lat":"22.777363","name":"葉藥局里港店","id":"5943091197","tel":"087750318","addr":"屏東縣里港鄉春林村永春路17-5號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"備註-位於永春路車牌旁.土地公廟斜對面（下午三點領快篩）現場排隊.無號碼牌（一個人最多2張卡）"},
 {"lng":"120.556354","lat":"22.742289","name":"宏大藥局","id":"5943100011","tel":"087935513","addr":"屏東縣鹽埔鄉新二村彭厝路38-5號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩早上8點半開始販售，售完為止。"},
+{"lng":"120.575326","lat":"22.756312","name":"安利藥局","id":"5943101107","tel":"087938969","addr":"屏東縣鹽埔鄉?中村勝利路71號","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"口罩領取時間， 周日不營業"},
 {"lng":"120.5963","lat":"22.81845","name":"宏順藥局","id":"5943110044","tel":"087962136","addr":"屏東縣高樹鄉長榮村南昌路2-2號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業日下午3點開始販售家用快篩，售完為止"},
 {"lng":"120.601944","lat":"22.821809","name":"葉藥局","id":"5943110053","tel":"087967883","addr":"屏東縣高樹鄉高樹村南興路135號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販賣時間：下午1:00開始-售完為止"},
 {"lng":"120.613285","lat":"22.789632","name":"永昌藥局","id":"5943110062","tel":"087956087","addr":"屏東縣高樹鄉產業路163號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"販賣快篩時間下午1:00開始"},
