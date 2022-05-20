@@ -462,7 +462,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.217485","lat":"24.861961","name":"黃啟昌小兒科診所","id":"3532090219","tel":"034798466","addr":"桃園市龍潭區中正路286號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"4\/2~4\/5正常看診"},
 {"lng":"121.217266","lat":"24.862658","name":"龍欣耳鼻喉科診所","id":"3532091654","tel":"034808306","addr":"桃園市龍潭區中正路254號","business_week":"OOOOOOOOOOOOOOOOOOOXX"},
 {"lng":"121.217474","lat":"24.861999","name":"同安親子診所","id":"3532091832","tel":"034707278","addr":"桃園市龍潭區中正路284號","business_week":"OOXOOOOOOXOOXXOOXOOXX"},
-{"lng":"121.202975","lat":"24.953911","name":"文化診所","id":"3532102170","tel":"034951689","addr":"桃園市平鎮區文化街92號1-2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"清明連假全日照常看診"},
+{"lng":"121.202975","lat":"24.953911","name":"文化診所","id":"3532102170","tel":"034951689","addr":"桃園市平鎮區文化街92號1-2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"端午連假全日照常看診"},
 {"lng":"121.140655","lat":"25.045763","name":"全心診所","id":"3532121826","tel":"034834783","addr":"桃園市觀音區大觀路二段182號1樓","business_week":"OOOOOOOOOOOOXOOOOOOXX"},
 {"lng":"121.086465","lat":"24.740089","name":"王尹弘耳鼻喉科診所","id":"3533030511","tel":"035941175","addr":"新竹縣竹東鎮長春路三段5號","business_week":"OOOOOOOOOOOOXXOOOOOXX"},
 {"lng":"121.083378","lat":"24.743969","name":"崇光小兒專科診所","id":"3533031821","tel":"035959878","addr":"新竹縣竹東鎮長春路三段188號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"226早上下午晚上開診227早上下午開診228早上下午晚上開診0603早上下午看診0604早上下午晚上看診0605早上下午看診"},
