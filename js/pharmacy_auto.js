@@ -649,6 +649,7 @@ locations = [
 {"lng":"121.5447","lat":"24.99346","name":"健安藥局","id":"5901203179","tel":"0229323757","addr":"臺北市文山區景興路165號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"周一到周六.下午三點開賣實名制快篩.現場排隊不發號碼牌"},
 {"lng":"121.5388","lat":"25.00197","name":"逸全生活藥局","id":"5901203188","tel":"0229326185","addr":"臺北市文山區羅斯福路5段222號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5549","lat":"25.00062","name":"躍獅新芳藥局","id":"5901203204","tel":"0229308172","addr":"臺北市文山區興隆路3段16號(實際營業地址:1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上九點開始販售實名制快篩，售完為止"},
+{"lng":"121.55833","lat":"25.000306","name":"綠杏萬芳藥局","id":"5901203213","tel":"0229349516","addr":"臺北市文山區興隆路3段111號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.569489","lat":"24.98756","name":"躍獅木柵藥局","id":"5901203268","tel":"0286617752","addr":"臺北市文山區指南路1段28號","business_week":"OOOOOOOXXXXXXXXXXXXXX","memo":"政府快篩若有配貨每天早上9點開賣， 售完為止"},
 {"lng":"121.5742","lat":"24.98784","name":"專品政大藥局","id":"5901203295","tel":"0222343010","addr":"臺北市文山區指南路2段8號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5676","lat":"24.98866","name":"大樹木柵藥局","id":"5901203366","tel":"0222340110","addr":"臺北市文山區木柵路3段108號、110號(1樓、2樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
