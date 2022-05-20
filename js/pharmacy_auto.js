@@ -3532,6 +3532,7 @@ locations = [
 {"lng":"121.0203","lat":"24.81736","name":"晶華藥局","id":"5933052866","tel":"035502107","addr":"新竹縣竹北市莊敬南路110號1樓","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"公費快篩販售時間請看FB公告"},
 {"lng":"121.024943","lat":"24.822424","name":"健樹藥局","id":"5933052875","tel":"035505262","addr":"新竹縣竹北市莊敬三路39號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"5／16 （一）起， 下午3:30開始販售"},
 {"lng":"121.027818","lat":"24.822361","name":"仁里藥局","id":"5933052955","tel":"036673878","addr":"新竹縣竹北市勝利二路125號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販賣時段：星期一~日 上午10:00至售完為止"},
+{"lng":"121.012985","lat":"24.833075","name":"芳鄰藥局","id":"5933052973","tel":"036213887","addr":"新竹縣竹北市三民路261號之1號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"快篩販售：下午1：30，現場排隊領號碼牌，自備500元及健保卡"},
 {"lng":"120.9989","lat":"24.84168","name":"如佳藥局","id":"5933052982","tel":"035533161","addr":"新竹縣竹北市中正西路189號","business_week":"OOOOOOOOOOOOOOXOOOOOO","memo":"每日下午13:30發放號碼牌，14:00開始販售"},
 {"lng":"121.009374","lat":"24.821446","name":"禾坊藥局","id":"5933053023","tel":"035588797","addr":"新竹縣竹北市科大一路85號","business_week":"OOOOOOOOOOOOOOOOOOOXO","memo":"快篩販賣時段：每日早上09:00，由於近期物流不穩定，若前一天沒有收到快篩將會公告在Facebook上。"},
 {"lng":"121.028688","lat":"24.810204","name":"中一藥局","id":"5933053041","tel":"036670827","addr":"新竹縣竹北市文興路一段242號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"更新:快篩販售時間下午16:00"},
