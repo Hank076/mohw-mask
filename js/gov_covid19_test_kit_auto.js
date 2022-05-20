@@ -228,7 +228,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.637752","lat":"24.139341","name":"親子診所","id":"3517070533","tel":"0423862626","addr":"臺中市南屯區黎明路一段1091號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.652835","lat":"24.138047","name":"蘇德慶診所","id":"3517070757","tel":"0424717572","addr":"臺中市南屯區東興路二段57號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.653195","lat":"24.137032","name":"林耳鼻喉科診所","id":"3517071914","tel":"0424751525","addr":"臺中市南屯區東興路2段50號","business_week":"OOOOOXOOOXXOXXOOOOOXO","memo":"國定假日休診，2\/26休診，2\/27早晚看診，2\/28全天三診"},
-{"lng":"120.66592","lat":"24.181868","name":"張廣智耳鼻喉科診所","id":"3517081938","tel":"0422924703","addr":"臺中市北屯區中清路二段531號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"111年2月28日(週一) ，當天正常看診。"},
+{"lng":"120.66592","lat":"24.181868","name":"張廣智耳鼻喉科診所","id":"3517081938","tel":"0422924703","addr":"臺中市北屯區中清路二段531號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"6月3日端午節（周五）當天正常看診，6月4日（周六）休診。"},
 {"lng":"120.700119","lat":"24.178538","name":"優幼診所","id":"3517083914","tel":"0422493636","addr":"臺中市北屯區北屯路435-16號","business_week":"OOOOXOOXXXXXOOOOOOXOO"},
 {"lng":"120.221654","lat":"22.991342","name":"徐慶鐘小兒科診所","id":"3521011435","tel":"062369954","addr":"臺南市東區長榮路二段306號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"4\/2早上8-12正常門診.4\/3-4\/5 休診"},
 {"lng":"120.2221525","lat":"22.9812838","name":"陳淑玲林原弘小兒科診所","id":"3521012567","tel":"062900255","addr":"臺南市東區崇學路229號","business_week":"OOOOOOOOOOOOOXOOOOOXO"},
