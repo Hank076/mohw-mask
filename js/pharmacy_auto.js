@@ -2049,6 +2049,7 @@ locations = [
 {"lng":"120.218878","lat":"23.063089","name":"守利藥局","id":"5921060116","tel":"063559347","addr":"臺南市安南區卅南里安和路4段616號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩實名制 星期一~六  9:00~售完"},
 {"lng":"120.188706","lat":"23.022403","name":"嘉庭藥局","id":"5921060143","tel":"062581618","addr":"臺南市安南區海佃里國安街118號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑.進貨時間不確定.貨到即賣.請來電洽詢"},
 {"lng":"120.1737","lat":"23.05","name":"仲宏藥局","id":"5921060161","tel":"062567798","addr":"臺南市安南區淵中里安中路3段431號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期一~星期六08:00-22:00 星期日:公休"},
+{"lng":"120.192447","lat":"23.032324","name":"明杰藥局","id":"5921060170","tel":"062567821","addr":"臺南市安南區理想里大安街98號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"固定周一至周六10:00開始發放號碼牌並依序販售快篩，售完為止"},
 {"lng":"120.1947","lat":"23.0437","name":"平光藥局","id":"5921060198","tel":"062459641","addr":"臺南市安南區安中路1段822號","business_week":"OOOOOOXOOOOOOXOOOOOOO","memo":"快篩 早上 10:30 開店起 販售 周日不賣快篩"},
 {"lng":"120.187399","lat":"23.042208","name":"建壽藥局","id":"5921060205","tel":"062555388","addr":"臺南市安南區海東里海佃路2段572號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上8點開始販售。"},
 {"lng":"120.191887","lat":"23.03148","name":"慈安藥局","id":"5921060321","tel":"062551117","addr":"臺南市安南區大安街53號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午2:00"},
