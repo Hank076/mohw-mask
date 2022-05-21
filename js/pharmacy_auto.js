@@ -2000,6 +2000,7 @@ locations = [
 {"lng":"120.18981","lat":"22.984811","name":"豐陽藥局","id":"5921020096","tel":"062610628","addr":"臺南市南區文南里文南路115號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"週一至週日08:00 開始營業及販售防疫快篩試劑，售完為止."},
 {"lng":"120.1936","lat":"22.97731","name":"裕仁藥局","id":"5921020112","tel":"062614263","addr":"臺南市南區新興里新興路194號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩週一到週六13:00起依序憑健保卡發號碼牌，售完為止。週日店休。"},
 {"lng":"120.1902","lat":"22.96689","name":"裕祥藥局","id":"5921020130","tel":"062635796","addr":"臺南市南區明興里金華路1段228號","business_week":"OOOOOOXXXXXXXXXXXXXXX","memo":"口罩販售時間:星期一~六 07:30開始"},
+{"lng":"120.189826","lat":"22.984865","name":"吉祥藥局","id":"5921020149","tel":"062632853","addr":"臺南市南區文南路117號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"星期一~日 08:10營業快篩中午1點販售周日停售"},
 {"lng":"120.18","lat":"22.94471","name":"全民藥局","id":"5921020167","tel":"062625814","addr":"臺南市南區喜東里喜樹路73之18號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"08:00-22:00"},
 {"lng":"120.18","lat":"22.94099","name":"安心藥局","id":"5921020185","tel":"062622570","addr":"臺南市南區喜東里喜樹路151巷33號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩服務時間:每天上午7時30分開賣 星期日休假"},
 {"lng":"120.1869","lat":"22.96696","name":"鹽埕藥局","id":"5921020194","tel":"062651961","addr":"臺南市南區白雪里鹽埕路68號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"下午6點販售 星期六 日上午8點販售"},
