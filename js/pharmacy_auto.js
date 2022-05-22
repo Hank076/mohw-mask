@@ -4613,6 +4613,7 @@ locations = [
 {"lng":"120.301763","lat":"22.800708","name":"建元藥局","id":"5942020265","tel":"076216672","addr":"高雄市岡山區大仁北路104號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"早上8點開始販售，售完為止。"},
 {"lng":"120.288392","lat":"22.790917","name":"丁丁藥局","id":"5942021664","tel":"076256157","addr":"高雄市岡山區仁壽里中華路1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制早上9點開始販售"},
 {"lng":"120.294862","lat":"22.788652","name":"勵志藥局","id":"5942021717","tel":"076230826","addr":"高雄市岡山區忠孝里勵志二路38號","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"快篩-星期一~六下午2:00"},
+{"lng":"120.298672","lat":"22.793514","name":"天德藥局","id":"5942021726","tel":"076230111","addr":"高雄市岡山區碧紅里中山北路39號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午3點開始販售售完為止"},
 {"lng":"120.297663","lat":"22.793487","name":"長青連鎖藥局","id":"5942021735","tel":"076232566","addr":"高雄市岡山區碧紅里維新東街33號","business_week":"OOOOOOOXXXXXXXOOOOOOO","memo":"營業日上午9:00~晚上09:30為販賣快篩時間，售完為止"},
 {"lng":"120.289338","lat":"22.800055","name":"欣康立健保藥局","id":"5942021753","tel":"076246299","addr":"高雄市岡山區公園北路31號1樓","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"上午7:30開始販售實名制快篩"},
 {"lng":"120.4818","lat":"22.88361","name":"天明藥局","id":"5942030092","tel":"076621311","addr":"高雄市旗山區大同路至誠巷15號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業日8:00~發號碼牌 8:30領至下午9:00為販賣口罩時間，售完為止8:00"},
