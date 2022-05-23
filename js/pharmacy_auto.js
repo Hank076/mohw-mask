@@ -1823,6 +1823,7 @@ locations = [
 {"lng":"120.927927","lat":"24.789637","name":"高晟藥師藥局","id":"5912051350","tel":"035306645","addr":"新竹市香山區大庄路59號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午2點銷售快篩"},
 {"lng":"120.944216","lat":"24.79613","name":"牛埔丁丁藥局","id":"5912051421","tel":"035384612","addr":"新竹市香山區牛埔東路247號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一~週日於上午09:00開始販售實名制快篩試劑!丁丁藥局關心您!"},
 {"lng":"120.929655","lat":"24.788858","name":"三姓藥局","id":"5912051430","tel":"035385886","addr":"新竹市香山區中華路四段576號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
+{"lng":"120.932357","lat":"24.790109","name":"金正好藥局","id":"5912051449","tel":"035305525","addr":"新竹市香山區中華路四段512號1樓","business_week":"OOOOOXXOOOOOXXXXXXXXX"},
 {"lng":"120.6817","lat":"24.14482","name":"仁壽藥局","id":"5917010082","tel":"0422228058","addr":"臺中市中區東墩里三民路三段1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一至週日上午9時30分起販售快篩劑"},
 {"lng":"120.6786","lat":"24.14054","name":"永大藥局","id":"5917010126","tel":"0422210180","addr":"臺中市中區錦上里民族路122號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩販售時間:週一至週六上午09:00 ~ 晚上20:30；週日上午09:00 ~ 中午12:00"},
 {"lng":"120.681969","lat":"24.142601","name":"郭藥局","id":"5917011847","tel":"0422200005","addr":"臺中市中區平等街一二四號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"周一至周六每日上午11點至12點販賣快篩"},
