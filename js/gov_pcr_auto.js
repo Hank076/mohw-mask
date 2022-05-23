@@ -332,7 +332,7 @@ gov_pcr_locations = [
 {"lng":"121.548528","lat":"25.082196","name":"惟廉診所","id":"3501107645","tel":"0225323038","addr":"台北市中山區北安路595巷1號地下1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.548872","lat":"25.082975","name":"固廉診所","id":"3501108277","tel":"0225323036","addr":"台北市中山區北安路613號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.54089","lat":"25.066137","name":"龍江固廉診所","id":"3501109532","tel":"0225170093","addr":"台北市中山區龍江路360號1樓","business_week":"OOOOOOOOOOOOXXOOOOOXX","memo":"國定假日未休診"},
-{"lng":"121.51399","lat":"25.043099","name":"禾馨婦產科診所","id":"3501184731","tel":"0223612323","addr":"台北市中正區懷寧街78號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"121.51399","lat":"25.043099","name":"禾馨婦產科診所","id":"3501184731","tel":"0223612323","addr":"台北市中正區懷寧街78號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"社區採檢PCR尚未啟動!待啟動後再公告，造成不便敬請見諒!!"},
 {"lng":"121.513333","lat":"25.043099","name":"小禾馨懷寧小兒專科診所","id":"3501185774","tel":"0223110353","addr":"台北市中正區重慶南路1段99號2樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.607118","lat":"25.074805","name":"日新診所","id":"3501112851","tel":"0226342743","addr":"台北市內湖區成功路五段446號1樓","business_week":"OOOOOXOOOOOXXXOOOOXXX","memo":"上午0730-1200.下午1600-1800.晚上1800-2000"},
 {"lng":"121.581657","lat":"25.06774","name":"禾馨民權婦幼診所","id":"3501113929","tel":"0255713333","addr":"台北市內湖區民權東路六段42號2.3.4樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"全年24H生產急診照常"},
