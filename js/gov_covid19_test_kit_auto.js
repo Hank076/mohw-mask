@@ -498,7 +498,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.573981","lat":"24.268232","name":"林玉彪診所","id":"3536040224","tel":"0426233880","addr":"臺中市清水區光華路135號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.573352","lat":"24.264326","name":"陳振昆診所","id":"3536040279","tel":"0426225205","addr":"臺中市清水區中山路127號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.573849","lat":"24.27504","name":"清水祥和診所","id":"3536041623","tel":"0426232191","addr":"臺中市清水區五權東路81號","business_week":"OOOXOOXOXXOOOXOOXOOXX","memo":"星期二下午五點看診"},
-{"lng":"120.559135","lat":"24.234493","name":"小太陽小兒科診所","id":"3536051601","tel":"0426365757","addr":"臺中市沙鹿區鎮南路二段631號","business_week":"OOOOXOOOOOOXOOOOOOXOO","memo":"111\/02\/26  111\/02\/27  111\/02\/28看診"},
+{"lng":"120.559135","lat":"24.234493","name":"小太陽小兒科診所","id":"3536051601","tel":"0426365757","addr":"臺中市沙鹿區鎮南路二段631號","business_week":"OOOOXOOOOOOXOOOOOOXOO","memo":"111／06／04 111／06／05 看診"},
 {"lng":"120.564747","lat":"24.24184","name":"真善美診所","id":"3536051718","tel":"0426656037","addr":"臺中市沙鹿區成功東街119號","business_week":"OOOOXOXOOOOOOXOOOOOXX"},
 {"lng":"120.558578","lat":"24.232405","name":"何秋燕皮膚科診所","id":"3536051754","tel":"0426362982","addr":"臺中市沙鹿區沙田路53之5號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.534901","lat":"24.249396","name":"安心診所","id":"3536061241","tel":"0426562059","addr":"臺中市梧棲區港埠路一段1115號","business_week":"OOOOOOXOXOOOOXOXOOOXX"},
