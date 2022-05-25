@@ -308,7 +308,7 @@ gov_pcr_locations = [
 {"lng":"120.331613","lat":"22.653659","name":"崇田耳鼻喉科診所","id":"3507320231","tel":"073899900","addr":"高雄市三民區建工路302號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOO","memo":"2\/26正常開診.2\/27正常開診.2\/28下午休診"},
 {"lng":"120.355224","lat":"22.567098","name":"合田耳鼻喉科診所","id":"3502112104","tel":"078013571","addr":"高雄市小港區漢民路337號1F","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.288363","lat":"22.682679","name":"加安耳鼻喉科診所","id":"3502030554","tel":"075816899","addr":"高雄市左營區左營大路95號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
-{"lng":"120.307227","lat":"22.661249","name":"楊宜璋耳鼻喉科診所","id":"3502030723","tel":"075591007","addr":"高雄市左營區明誠二路362號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"120.307227","lat":"22.661249","name":"楊宜璋耳鼻喉科診所","id":"3502030723","tel":"075591007","addr":"高雄市左營區明誠二路362號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"6／3（五）6／4（六）早、午、晚開診，6／5（日）休診"},
 {"lng":"120.315601","lat":"22.685597","name":"福山診所","id":"3502033297","tel":"073482323","addr":"高雄市左營區重愛路218號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"4\/3 星期日只有上午診.其他均正常門診"},
 {"lng":"120.293929","lat":"22.633792","name":"余國榮耳鼻咽喉科診所","id":"3502070825","tel":"072167126","addr":"高雄市前金區中華三路227 號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"2\/26上午及下午看診，2\/27休診，2\/28上午看診"},
 {"lng":"120.255339","lat":"22.72978361","name":"蔡政達診所","id":"3542200272","tel":"076173295","addr":"高雄市梓官區廣澤路2號2樓","business_week":"OOOOOOXOOOOOXXOOOOOXO"},
