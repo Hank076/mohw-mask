@@ -208,6 +208,7 @@ locations = [
 {"lng":"121.5129","lat":"25.05926","name":"保慶藥局","id":"5901090369","tel":"0225538988","addr":"臺北市大同區保安街21號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"因到貨時間不定，視到貨時間販售"},
 {"lng":"121.5146","lat":"25.05349","name":"快安藥局","id":"5901091473","tel":"0225561925","addr":"臺北市大同區南京西路282、284號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午兩點開放快篩試劑購買"},
 {"lng":"121.5115","lat":"25.06029","name":"得意藥師藥局","id":"5901091544","tel":"0225534294","addr":"臺北市大同區延平北路2段229號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩，11點賣"},
+{"lng":"121.5155","lat":"25.06872","name":"健康美藥局","id":"5901091624","tel":"0225976707","addr":"臺北市大同區民族西路165號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩:星期一~星期六:AM::09:00"},
 {"lng":"121.5145","lat":"25.07213","name":"宏泰藥師藥局","id":"5901091688","tel":"0225957025","addr":"臺北市大同區酒泉街131號","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"週一至週五9:30-22:00。週日14:00-22:00※快篩發放號碼牌時間為14:30，發完為止。"},
 {"lng":"121.5158","lat":"25.06065","name":"儷安藥局","id":"5901091759","tel":"0225578033","addr":"臺北市大同區錦西街53巷16號","business_week":"OOOOOOXOOOOOOXXXXXXXX","memo":"12點開始販售快篩試劑，營業時間:上午10點到下午6點"},
 {"lng":"121.5115","lat":"25.05733","name":"富康藥局","id":"5901091820","tel":"0225537782","addr":"臺北市大同區延平北路2段126號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"代售快篩早上9:00開始售完為止"},
