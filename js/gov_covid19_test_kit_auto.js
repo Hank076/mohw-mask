@@ -10,7 +10,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.352529","lat":"24.95047","name":"新北市鶯歌區衛生所","id":"2331080018","tel":"0226702304","addr":"新北市鶯歌區文化路389號","business_week":"OOOOOXXXXXXXXXXXXXXXX","memo":"例假日均停診"},
 {"lng":"121.376129","lat":"24.928297","name":"新北市三峽區衛生所","id":"2331090014","tel":"0226711592","addr":"新北市三峽區光明路71號3樓","business_week":"OOOOOXXXXXXXXXXXXXXXX"},
 {"lng":"121.440844","lat":"25.172778","name":"新北市淡水區衛生所","id":"2331100015","tel":"0226215620","addr":"新北市淡水區中山路158號","business_week":"OOOOOXXOXOXOXXXXXXXXX","memo":"春節期間（1\/29-2\/6）全部停診。"},
-{"lng":"121.658534","lat":"25.063513","name":"新北市汐止區衛生所","id":"2331110011","tel":"0226412030","addr":"新北市汐止區新台五路一段266號","business_week":"OOXOOXXXXXXXXXXXXXXXX","memo":"六.日不固定，"},
+{"lng":"121.658534","lat":"25.063513","name":"新北市汐止區衛生所","id":"2331110011","tel":"0226412030","addr":"新北市汐止區新台五路一段266號","business_week":"OOOOOXXOXXOXXXXXXXXXX","memo":"六.日不固定，"},
 {"lng":"121.809044","lat":"25.107371","name":"新北市瑞芳區衛生所","id":"2331120017","tel":"0224972132","addr":"新北市瑞芳區明燈路3段1號","business_week":"OOOOOXXOXOXOXXXXXXXXX"},
 {"lng":"121.443189","lat":"24.972857","name":"新北市土城區衛生所","id":"2331130013","tel":"0222603181","addr":"新北市土城區和平路26號","business_week":"OOOOXXXXXXXXXXXXXXXXX"},
 {"lng":"121.473284","lat":"25.083963","name":"新北市蘆洲區衛生所","id":"2331140019","tel":"0222812011","addr":"新北市蘆洲區中央路58號","business_week":"OOOOOXXOXXXXXXXXXXXXX"},

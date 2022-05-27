@@ -279,7 +279,7 @@ gov_pcr_locations = [
 {"lng":"120.908034","lat":"24.686109","name":"莊耳鼻喉科診所","id":"3535050235","tel":"037681787","addr":"苗栗縣頭份市中華路938號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.908027","lat":"24.686112","name":"黃耳鼻喉科診所","id":"3535051830","tel":"037681787","addr":"苗栗縣頭份市中華路938號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.6272075","lat":"24.35025191","name":"琉璃光診所","id":"3536030451","tel":"0426873051","addr":"台中市大甲區順天路342號","business_week":"OOOOOOXOOOXOOXOXOOOXX"},
-{"lng":"120.700744","lat":"24.179698","name":"承安耳鼻喉科診所","id":"3517082999","tel":"0422425252","addr":"台中市北屯區北屯路441號","business_week":"OOOOOXOOOOOOXOOOOOOXO","memo":"平日看診時間：8:00-12:00;15:00-17:00;18:00-21:00；國定假日正常看診"},
+{"lng":"120.700744","lat":"24.179698","name":"承安耳鼻喉科診所","id":"3517082999","tel":"0422425252","addr":"台中市北屯區北屯路441號","business_week":"OOOOOXOOOOOOXOOOOOOXO","memo":"平日看診時間：8:00-12:00；15:00-17:50；19:00-21:30；國定假日正常看診"},
 {"lng":"120.69053","lat":"24.132027","name":"惟康耳鼻喉科診所","id":"3517020891","tel":"0422808716","addr":"台中市東區建成路662號","business_week":"OOOOOOXOOXOOXXOOOOOXX","memo":"6月14日早上看診"},
 {"lng":"120.8292479","lat":"24.25540886","name":"長頸鹿小兒科診所","id":"3536021452","tel":"0425771809","addr":"台中市東勢區豐勢路418號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"2\/26 及 2\/28 上午\/下午\/晚上開診"},
 {"lng":"120.632392","lat":"24.152346","name":"主悅診所","id":"3503280987","tel":"0422540711","addr":"台中市南屯區干城街269號1樓","business_week":"OOOOOOXXXXXXXXOOOOXXX","memo":"06／03早上看診"},
