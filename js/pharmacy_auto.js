@@ -2872,6 +2872,7 @@ locations = [
 {"lng":"121.4637","lat":"24.98557","name":"大眾藥局","id":"5931132736","tel":"0222666057","addr":"新北市土城區明峰街6巷1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售:11：00-12：00 其餘時段恕不服務"},
 {"lng":"121.4522","lat":"24.98595","name":"德隆藥局","id":"5931132781","tel":"0222656056","addr":"新北市土城區裕民路153號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上10點發號碼牌（收健保卡+收錢），下午4點到晚上10點憑號碼牌來領快篩"},
 {"lng":"121.4407","lat":"24.97312","name":"健業藥局","id":"5931132807","tel":"0222704798","addr":"新北市土城區中央路2段223-10號","business_week":"OXOXOOOOXOXOOOOOOOOXX"},
+{"lng":"121.4566","lat":"24.98829","name":"大康藥局","id":"5931132816","tel":"0222738004","addr":"新北市土城區學府路1段72號2樓","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"實名制快篩早上8點開始販售"},
 {"lng":"121.4539","lat":"24.98661","name":"佳霖藥局","id":"5931132852","tel":"0222641425","addr":"新北市土城區學府路1段170號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"121.4664","lat":"24.98465","name":"美康藥妝藥局","id":"5931132950","tel":"0222616868","addr":"新北市土城區延吉街254號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩前一天若有到貨，則隔日三點販售"},
 {"lng":"121.458","lat":"24.98854","name":"學府松藥局","id":"5931133019","tel":"0282628665","addr":"新北市土城區學府路一段38號1、2樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"實名制快篩:每日14:30-17:00販售（通常半小時完售），週日公休。"},
