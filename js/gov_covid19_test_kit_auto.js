@@ -418,7 +418,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.601715","lat":"25.003495","name":"幼恩診所","id":"3531180198","tel":"0226625951","addr":"新北市深坑區北深路三段173號","business_week":"OOOOOOXOOOOOXXOOOOOOX"},
 {"lng":"121.500763","lat":"25.257218","name":"三芝彭小兒科診所","id":"3531211081","tel":"0226369622;02","addr":"新北市三芝區中山路一段59號1樓","business_week":"OOOOOOXXXXXXXXOOOOOXX"},
 {"lng":"121.502802","lat":"25.259073","name":"曾明診所","id":"3531211090","tel":"0226369942","addr":"新北市三芝區中正路一段6號1樓","business_week":"OOOOOOXXXXXXXXOOOOOXX"},
-{"lng":"121.411033","lat":"25.157539","name":"誠泰診所","id":"3531231190","tel":"0226108205","addr":"新北市八里區中山路一段231號","business_week":"OOOOOXOOOOOOXOOOOOOXO","memo":"上午8:00~11:50  下午3:00~6:00 晚上6:00~8:25(提早)"},
+{"lng":"121.411033","lat":"25.157539","name":"誠泰診所","id":"3531231190","tel":"0226108205","addr":"新北市八里區中山路一段231號","business_week":"OOOOOXOOOOOOXOOOOOOXO","memo":"上午8:00~11:50  下午3:00~6:00 晚上6:00~7:55（因疫情提早）"},
 {"lng":"121.738684","lat":"25.024989","name":"瑞安診所","id":"3531241043","tel":"0224951083","addr":"新北市平溪區平溪街9號","business_week":"OOOOOOXOOOOOXXXXXXXXX"},
 {"lng":"121.689323","lat":"25.177399","name":"享悅診所","id":"3531281172","tel":"0224928190","addr":"新北市萬里區瑪鋉路34號","business_week":"OOOOOXXOOOOOXXOOOOOXX"},
 {"lng":"121.294167","lat":"24.990919","name":"柯福順耳鼻喉科診所","id":"3532012804","tel":"032201122","addr":"桃園市桃園區中山路613號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
