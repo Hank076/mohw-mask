@@ -310,7 +310,7 @@ gov_pcr_locations = [
 {"lng":"120.288363","lat":"22.682679","name":"加安耳鼻喉科診所","id":"3502030554","tel":"075816899","addr":"高雄市左營區左營大路95號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.307227","lat":"22.661249","name":"楊宜璋耳鼻喉科診所","id":"3502030723","tel":"075591007","addr":"高雄市左營區明誠二路362號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"6／3（五）6／4（六）早、午、晚開診，6／5（日）休診"},
 {"lng":"120.315601","lat":"22.685597","name":"福山診所","id":"3502033297","tel":"073482323","addr":"高雄市左營區重愛路218號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"4\/3 星期日只有上午診.其他均正常門診"},
-{"lng":"120.293929","lat":"22.633792","name":"余國榮耳鼻咽喉科診所","id":"3502070825","tel":"072167126","addr":"高雄市前金區中華三路227 號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"2\/26上午及下午看診，2\/27休診，2\/28上午看診"},
+{"lng":"120.293929","lat":"22.633792","name":"余國榮耳鼻咽喉科診所","id":"3502070825","tel":"072167126","addr":"高雄市前金區中華三路227 號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"6／3端午節全日休診， 其餘不變"},
 {"lng":"120.255339","lat":"22.72978361","name":"蔡政達診所","id":"3542200272","tel":"076173295","addr":"高雄市梓官區廣澤路2號2樓","business_week":"OOOOOOXOOOOOXXOOOOOXO"},
 {"lng":"120.3138301","lat":"22.63357609","name":"雄大診所","id":"3507330595","tel":"072232000","addr":"高雄市新興區民族二路90號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"1110401起，神經外科及一般外科夜間及週六停診；復健夜間暫停治療。0525-0527胃腸科-鄭錦翔醫師停診；端午節正常看診"},
 {"lng":"120.297783","lat":"22.72363","name":"林邑樵耳鼻喉科診所","id":"3507310164","tel":"073600819","addr":"高雄市楠梓區益群路6號","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"2／26早上下午晚上開診2／27早上下午晚上開診2／28早上下午晚上開診6／3-6／4正常門診6／5早晚診"},
@@ -401,7 +401,7 @@ gov_pcr_locations = [
 {"lng":"120.333507","lat":"22.603961","name":"明真耳鼻喉科診所","id":"3507360600","tel":"077213456","addr":"高雄市前鎮區永豐路19-6號","business_week":"OOOOOOOOOOOOXXOOOOOXX"},
 {"lng":"120.304734","lat":"22.629749","name":"紀耳鼻喉科診所","id":"3502060534","tel":"072719087","addr":"高雄市新興區林森一路154-1號","business_week":"OOOOOOOOOOOOOXOOOOOOO"},
 {"lng":"120.313016","lat":"22.720527","name":"郭士彰耳鼻喉科","id":"3502041824","tel":"073683235","addr":"高雄市楠梓區後昌路862-1號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
-{"lng":"120.300349","lat":"22.663333","name":"南加大耳鼻喉科診所","id":"3507290283","tel":"075525711","addr":"高雄市鼓山區明華路303號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"5／2早上，下午，晚上看診。"},
+{"lng":"120.300349","lat":"22.663333","name":"南加大耳鼻喉科診所","id":"3507290283","tel":"075525711","addr":"高雄市鼓山區明華路303號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"6／3早上開診，下午開診，晚上開診。6／4早上開診，下午開診，晚上開診。6／5早上休診，下午休診，晚上休診。"},
 {"lng":"120.496504","lat":"22.684975","name":"李俊弘耳鼻喉科診所","id":"3543014387","tel":"087377555","addr":"屏東縣屏東市廣東路633號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.489864","lat":"22.67237","name":"江耳鼻喉科診所","id":"3543011555","tel":"087669471","addr":"屏東縣屏東市端正里中華路49號","business_week":"OOOOOOXXXXXXXXOOOOOXX","memo":"4\/1全日休診."},
 ];
