@@ -391,6 +391,7 @@ locations = [
 {"lng":"121.5267","lat":"25.08878","name":"得安藥局","id":"5901152471","tel":"0228836336","addr":"臺北市士林區文林路140號","business_week":"XXXXXXXOOOOOOOOOOOOOO","memo":"星期一三五六日下午5:00  星期二 四下午5:00--6:30"},
 {"lng":"121.5099","lat":"25.08877","name":"達揚藥局","id":"5901152604","tel":"0288115559","addr":"臺北市士林區社正路36號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5083","lat":"25.08769","name":"仁大藥局","id":"5901152640","tel":"0288113793","addr":"臺北市士林區社子街13號1樓","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"週一至週六上午8:40開始販售，週日公休。"},
+{"lng":"121.5228","lat":"25.08444","name":"和樹藥局","id":"5901152659","tel":"0228821188","addr":"臺北市士林區後港街45巷1號1樓","business_week":"OOOOOOXXXXXXXXXXXXXXX","memo":"週日公休，周一早上9:30"},
 {"lng":"121.5096","lat":"25.08628","name":"三光藥局","id":"5901152686","tel":"0228123786","addr":"臺北市士林區延平北路5段320號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5088","lat":"25.08788","name":"博信藥局","id":"5901152720","tel":"0228128295","addr":"臺北市士林區延平北路6段61號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期天休息"},
 {"lng":"121.508","lat":"25.0875","name":"芳圓藥局","id":"5901152739","tel":"0228168666","addr":"臺北市士林區社子街26-1號","business_week":"OOOOXXXOOOOXXXOOOOXXX","memo":"快篩販售時間，目前量能足夠，早上9點15分開賣"},
