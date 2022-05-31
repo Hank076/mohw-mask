@@ -1816,6 +1816,7 @@ locations = [
 {"lng":"120.9161","lat":"24.73088","name":"速安藥局","id":"5912050040","tel":"035371557","addr":"新竹市香山區中華路6段676號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"7：10"},
 {"lng":"120.9058","lat":"24.74397","name":"健安藥局","id":"5912051216","tel":"035370111","addr":"新竹市香山區內湖路六十號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"實名制口罩已結束販售"},
 {"lng":"120.9279","lat":"24.78964","name":"高晟藥師藥局","id":"5912051350","tel":"035306645","addr":"新竹市香山區大庄路59號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午2點銷售快篩"},
+{"lng":"120.944216","lat":"24.79613","name":"牛埔丁丁藥局","id":"5912051421","tel":"035384612","addr":"新竹市香山區牛埔東路247號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一~週日於上午09:00開始販售實名制快篩試劑!丁丁藥局關心您!"},
 {"lng":"120.9297","lat":"24.78886","name":"三姓藥局","id":"5912051430","tel":"035385886","addr":"新竹市香山區中華路四段576號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"120.9324","lat":"24.79011","name":"金正好藥局","id":"5912051449","tel":"035305525","addr":"新竹市香山區中華路四段512號1樓","business_week":"OOOOOXXOOOOOXXXXXXXXX"},
 {"lng":"120.9284","lat":"24.78931","name":"健佑藥局","id":"5912051467","tel":"035306555","addr":"新竹市香山區大庄路45巷2、6號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑下午兩點開始販售"},
