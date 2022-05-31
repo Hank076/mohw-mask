@@ -2633,6 +2633,7 @@ locations = [
 {"lng":"121.4475","lat":"25.04809","name":"健業藥妝藥局","id":"5931069765","tel":"0222796279","addr":"新北市新莊區中和街130號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販售資訊:下午3點~11點販售"},
 {"lng":"121.4219","lat":"25.02037","name":"真安綜合大藥局","id":"5931069774","tel":"0222026188","addr":"新北市新莊區四維路205號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.4543","lat":"25.04863","name":"宏泰藥局","id":"5931069792","tel":"0229964649","addr":"新北市新莊區自信街37號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.4435","lat":"25.03531","name":"大仁藥局","id":"593106A039","tel":"0222776023","addr":"新北市新莊區公園一路32號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售時間:週一至週五 （16：30-17：30）， 週六、週日停止販售"},
 {"lng":"121.452","lat":"25.05105","name":"環球藥局","id":"593106A093","tel":"0229901934","addr":"新北市新莊區中港路436號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間8-23，全年無休  **實名制快篩，每日下午3點發放號碼牌**"},
 {"lng":"121.4248","lat":"25.0186","name":"日榮藥局","id":"593106A155","tel":"0222051523","addr":"新北市新莊區龍安路461號1樓","business_week":"OOOOOOXXXXXXXXXXXXXXX","memo":"快篩還有 不用問 早上可以直接來買 快篩販賣平日 8:30 周六 9點開賣 限早上"},
 {"lng":"121.4341","lat":"25.03294","name":"輔大美康藥局","id":"593106A379","tel":"0229013056","addr":"新北市新莊區中正路510號之1,1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"實名制快篩9:20發號碼牌\/9:30過卡+收費"},
