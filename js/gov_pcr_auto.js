@@ -245,7 +245,7 @@ gov_pcr_locations = [
 {"lng":"121.462344","lat":"25.080349","name":"超群耳鼻喉科診所","id":"3531142394","tel":"0228487547","addr":"新北市蘆洲區長安街78號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"2\/26，2\/27，2\/28 正常看診"},
 {"lng":"121.295374","lat":"24.930848","name":"郭淵進診所","id":"3532082379","tel":"033732373","addr":"桃園市八德區興豐路650號1樓","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"週一至週五早上07:30開始看診， 假日08:30開始看診， 週六及週日晚上七點後休診"},
 {"lng":"121.299749","lat":"24.960214","name":"李耳鼻喉科診所","id":"3532082726","tel":"033630063","addr":"桃園市八德區介壽路一段907號","business_week":"OOXOOOOOOOOOXOOOOOOXX","memo":"5／1上午及下午看診，5／2全天正常看診"},
-{"lng":"121.288064","lat":"24.88211","name":"大桃園耳鼻喉科診所","id":"3532031943","tel":"033870976","addr":"桃園市大溪區康莊路100號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.288064","lat":"24.88211","name":"大桃園耳鼻喉科診所","id":"3532031943","tel":"033870976","addr":"桃園市大溪區康莊路100號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"6／3~6／5正常看診"},
 {"lng":"121.236829","lat":"24.956136","name":"佳國耳鼻喉科診所","id":"3532027172","tel":"034664735","addr":"桃園市中壢區中北路47號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.294167","lat":"24.990919","name":"柯福順耳鼻喉科診所","id":"3532012804","tel":"032201122","addr":"桃園市桃園區中山路613號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.304908","lat":"25.004038","name":"鴻林耳鼻喉科診所","id":"3532012966","tel":"033377088","addr":"桃園市桃園區中正路567號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
