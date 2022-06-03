@@ -3616,6 +3616,7 @@ locations = [
 {"lng":"121.7701","lat":"24.68102","name":"晨安藥局","id":"5934021972","tel":"039540633","addr":"宜蘭縣羅東鎮倉前路40號","business_week":"OOOOOOXOOOOOOOOOOOOXX","memo":"快篩 周一至周五 9點-12點 15點-21點 ；周六 9點-12點半"},
 {"lng":"121.7672","lat":"24.67253","name":"成功藥局","id":"5934021990","tel":"039577550","addr":"宜蘭縣羅東鎮興東南路235號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"121.7692","lat":"24.67309","name":"康莊藥局","id":"5934022013","tel":"039553168","addr":"宜蘭縣羅東鎮康樂巷1號","business_week":"OOOOOOOOOOOOXOOOOOOXX","memo":"實名制快篩；每天早上皆有營業；星期六下午晚上休息"},
+{"lng":"121.7715","lat":"24.67827","name":"大菖藥局","id":"5934022031","tel":"039559898","addr":"宜蘭縣羅東鎮公正路88號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"星期一到六上午10:00販售，不發號碼牌，現場排隊售完為止。星期日上午9:00販售"},
 {"lng":"121.7635","lat":"24.67976","name":"宏安藥局","id":"5934022059","tel":"039518696","addr":"宜蘭縣羅東鎮賢文里純精路2段225巷10號1樓","business_week":"OOOOOOOOOOOOXXOOOOOXX","memo":"快篩9；00開賣"},
 {"lng":"121.7705","lat":"24.67232","name":"天一藥師藥局","id":"5934022077","tel":"039541160","addr":"宜蘭縣羅東鎮南昌街95號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩開賣平日時間早上8點開始，禮拜天早上10~12點健保卡不分單雙號，快篩數量超級多歡迎來購買唷!!!"},
 {"lng":"121.7786","lat":"24.67394","name":"羅東啄木鳥藥局","id":"5934022095","tel":"039604670","addr":"宜蘭縣羅東鎮中山路2段303號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"5／9起下午3點開始販售"},
