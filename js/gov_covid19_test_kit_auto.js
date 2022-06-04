@@ -188,7 +188,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.695477","lat":"25.081966","name":"西華診所","id":"3511020333","tel":"0224512942","addr":"基隆市七堵區百三街29號","business_week":"OOOOOOXOOOOOOXOOOXOXX"},
 {"lng":"121.715813","lat":"25.098154","name":"泰安內科診所","id":"3511021572","tel":"0224552305","addr":"基隆市七堵區明德一路93號","business_week":"OOOOOOXOOOOOOXOXOXOXX","memo":"固定休周日，其餘全年無休。"},
 {"lng":"121.757513","lat":"25.099426","name":"碇內診所","id":"3511031247","tel":"0224595878","addr":"基隆市暖暖區源遠路323號","business_week":"OOOOOOOOOOOXOXOOOOXXX"},
-{"lng":"121.740956","lat":"25.129251","name":"李任堅小兒科診所","id":"3511040479","tel":"0224269096","addr":"基隆市仁愛區孝一路86號","business_week":"OOOOOOXXXXXXXXOOOOOXX","memo":"228看早上-下午晚上休息"},
+{"lng":"121.740956","lat":"25.129251","name":"李任堅小兒科診所","id":"3511040479","tel":"0224269096","addr":"基隆市仁愛區孝一路86號","business_week":"OOOOOOXXXXXXXXOOOOOXX","memo":"端午節早上門診"},
 {"lng":"121.742976","lat":"25.124624","name":"王孟俊診所","id":"3511040639","tel":"0224293128","addr":"基隆市仁愛區南榮路143號","business_week":"OOOOOOXOOOXOXXOOOOOXX"},
 {"lng":"121.748048","lat":"25.127382","name":"楊耳鼻喉科診所","id":"3511040693","tel":"0224245212","addr":"基隆市仁愛區仁二路115號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"6／3早上看診，午晚休診；6／4早午看診"},
 {"lng":"121.739842","lat":"25.130723","name":"仁愛診所","id":"3511041181","tel":"0224223255","addr":"基隆市仁愛區孝三路80號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"端午節(6\/14)只看上午時段"},
