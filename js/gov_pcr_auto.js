@@ -241,7 +241,7 @@ gov_pcr_locations = [
 {"lng":"121.462967","lat":"25.082716","name":"本一診所","id":"3531142947","tel":"0222836622","addr":"新北市蘆洲區長榮路43-1號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.481358","lat":"25.085131","name":"蘆洲現代耳鼻喉科診所","id":"3531143686","tel":"0282811112","addr":"新北市蘆洲區集賢路306號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"2／26-2／28正常門診6／3早上.下午.晚上看診.6／4早上.下午.晚上看診.6／5早上.下午.晚上看診"},
 {"lng":"121.481358","lat":"25.085131","name":"蘆洲集賢耳鼻喉科診所","id":"3531143695","tel":"0282811112","addr":"新北市蘆洲區集賢路306號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
-{"lng":"121.469391","lat":"25.084572","name":"福安小兒科診所","id":"3531143855","tel":"0282816880","addr":"新北市蘆洲區中正路131號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
+{"lng":"121.469391","lat":"25.084572","name":"福安小兒科診所","id":"3531143855","tel":"0282816880","addr":"新北市蘆洲區中正路131號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.462344","lat":"25.080349","name":"超群耳鼻喉科診所","id":"3531142394","tel":"0228487547","addr":"新北市蘆洲區長安街78號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"6／3上午，下午看診，6／4，6／5 正常看診."},
 {"lng":"121.295374","lat":"24.930848","name":"郭淵進診所","id":"3532082379","tel":"033732373","addr":"桃園市八德區興豐路650號1樓","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"週一至週五早上07:30開始看診， 假日08:30開始看診， 週六及週日晚上七點後休診"},
 {"lng":"121.299749","lat":"24.960214","name":"李耳鼻喉科診所","id":"3532082726","tel":"033630063","addr":"桃園市八德區介壽路一段907號","business_week":"OOXOOOOOOOOOXOOOOOOXX","memo":"6／3 上午看診 下午晚上休診"},
