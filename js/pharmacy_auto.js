@@ -1669,6 +1669,7 @@ locations = [
 {"lng":"121.7885","lat":"25.13594","name":"天康新豐藥局","id":"5911011478","tel":"0224695168","addr":"基隆市中正區新豐街251巷4弄9號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.7963","lat":"25.13946","name":"源昌藥局","id":"5911011496","tel":"0224691686","addr":"基隆市中正區北寧路384號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.7958","lat":"25.13944","name":"八斗子東亞藥局","id":"5911011512","tel":"0224698829","addr":"基隆市中正區北寧路378號","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"中午12點鐘開賣實名制快篩，售完為止"},
+{"lng":"121.7605","lat":"25.14233","name":"禎宸藥局","id":"5911011521","tel":"0224620366","addr":"基隆市中正區中正路175號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.7458","lat":"25.13279","name":"百福義一藥師藥局","id":"5911011576","tel":"0224268288","addr":"基隆市中正區義一路48號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"周一至周六08:00開門，周日09:00開門"},
 {"lng":"121.7456","lat":"25.13309","name":"雙鶴藥局","id":"5911011585","tel":"0224263193","addr":"基隆市中正區義一路35號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"平日下午14:00開始販售，星期六08:30-17:30開始販售"},
 {"lng":"121.7895","lat":"25.138","name":"禾新藥局","id":"5911011594","tel":"0224698940","addr":"基隆市中正區新豐街205巷7號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制販售時間:下午3點開始"},
