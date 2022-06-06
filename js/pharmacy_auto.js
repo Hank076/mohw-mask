@@ -930,6 +930,7 @@ locations = [
 {"lng":"120.7137","lat":"24.1591","name":"承泓藥局","id":"5903190531","tel":"0423935148","addr":"臺中市太平區育賢路363號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間08:30~23:00   公費快篩發放時間09:00至售完為止"},
 {"lng":"120.7203","lat":"24.15735","name":"樹孝炘星藥局","id":"5903190586","tel":"0423929578","addr":"臺中市太平區樹孝路476號1樓","business_week":"OOOOOXOOOOOOXOOOOOOXO","memo":"快篩周一到周五及周日早上8:00開賣，售完為止！異動資訊請洽博合耳鼻喉科粉絲專頁"},
 {"lng":"120.7164","lat":"24.13336","name":"布拉格藥局","id":"5903190595","tel":"0422786580","addr":"臺中市太平區東平路615號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩每日早上9:30開始販售，星期日藥局公休"},
+{"lng":"120.7056","lat":"24.15992","name":"川越藥局","id":"5903190666","tel":"0423935719","addr":"臺中市太平區新興二街136號1樓","business_week":"OOOOOXOOOOOOXOXXXXXXX","memo":"每日11點開始販售快篩"},
 {"lng":"120.7146","lat":"24.12617","name":"德芳太平藥局","id":"5903190675","tel":"0423511588","addr":"臺中市太平區中興路133巷1-1號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售時間:下午3點~6點"},
 {"lng":"120.7163","lat":"24.12783","name":"維肯藥局","id":"5903190693","tel":"0423512198","addr":"臺中市太平區中興路78-1號1樓","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"實名制快篩 週一~六早上10點開始發放"},
 {"lng":"120.712","lat":"24.15444","name":"佑全太平藥局","id":"5903190700","tel":"0423910016","addr":"臺中市太平區樹德路121號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天14點至21點販售實名制快篩"},
