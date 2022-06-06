@@ -609,6 +609,7 @@ locations = [
 {"lng":"121.4985","lat":"25.03892","name":"光華藥局","id":"5901193249","tel":"0223613609","addr":"臺北市萬華區華西街19-5號","business_week":"XXXXXXXOOOOOOXOOOOOOX","memo":"周一至六上午11時營業即配合政府快篩試劑到貨發放，週日公休"},
 {"lng":"121.4981","lat":"25.02096","name":"富安藥局","id":"5901193301","tel":"0223377878","addr":"臺北市萬華區萬大路426號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制：一人一卡，現場排隊，售完為止"},
 {"lng":"121.4935","lat":"25.02698","name":"和德藥局","id":"5901193310","tel":"0223331522","addr":"臺北市萬華區西園路2段292號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
+{"lng":"121.4942","lat":"25.02714","name":"西園宏越藥局","id":"5901193329","tel":"0223097336","addr":"臺北市萬華區西園路2段213號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩下午4點~5點販售"},
 {"lng":"121.5035","lat":"25.02955","name":"艾米力藥師藥局","id":"5901193338","tel":"0223036583","addr":"臺北市萬華區西藏路107-2號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"實名制快篩：早上9:00販售"},
 {"lng":"121.5007","lat":"25.03886","name":"企鵝藥局","id":"5901193365","tel":"0223884691","addr":"臺北市萬華區西昌街175號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"公費快篩，系統發放時間10:00 - 20:00"},
 {"lng":"121.561","lat":"24.98889","name":"建興藥局","id":"5901200105","tel":"0229399993","addr":"臺北市文山區木柵路2段81號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"星期一至星期日早上8時30分現場販售實名制快篩試劑"},
