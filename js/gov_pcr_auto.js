@@ -249,7 +249,7 @@ gov_pcr_locations = [
 {"lng":"121.236829","lat":"24.956136","name":"佳國耳鼻喉科診所","id":"3532027172","tel":"034664735","addr":"桃園市中壢區中北路47號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.294167","lat":"24.990919","name":"柯福順耳鼻喉科診所","id":"3532012804","tel":"032201122","addr":"桃園市桃園區中山路613號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"05／03上午下午門診，05／04上午下午門診，05／05上午門診（視訊）"},
 {"lng":"121.304908","lat":"25.004038","name":"鴻林耳鼻喉科診所","id":"3532012966","tel":"033377088","addr":"桃園市桃園區中正路567號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
-{"lng":"121.309381","lat":"25.014804","name":"楊文彬耳鼻喉科診所","id":"3532014273","tel":"033150628","addr":"桃園市桃園區春日路850號1樓","business_week":"OOOOOOOXXXXXXXOOOOOXX","memo":"防疫期間， 平日下午診改為17:00-21:00 端午節連假 只開上午診"},
+{"lng":"121.309381","lat":"25.014804","name":"楊文彬耳鼻喉科診所","id":"3532014273","tel":"033150628","addr":"桃園市桃園區春日路850號1樓","business_week":"OOOOOOOXXXXXXXOOOOOXX","memo":"防疫期間， 平日下午診改為17:00-21:00"},
 {"lng":"121.289171","lat":"24.989895","name":"李柏鋒診所","id":"3532014782","tel":"032207480","addr":"桃園市桃園區中山路807號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"連假皆正常看診"},
 {"lng":"121.317322","lat":"24.986035","name":"健新耳鼻喉科診所","id":"3532015190","tel":"033750778","addr":"桃園市桃園區建國路18號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.30546","lat":"25.003736","name":"慈文診所","id":"3532015896","tel":"033355482","addr":"桃園市桃園區中正路566號","business_week":"OXOXOOOXXXXXXXOOOXOXX"},
