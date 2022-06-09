@@ -263,7 +263,7 @@ gov_pcr_locations = [
 {"lng":"120.971673","lat":"24.818121","name":"祐庭耳鼻喉科診所","id":"3512042244","tel":"035351166","addr":"新竹市北區光華街99-1號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.979828","lat":"24.807053","name":"林安復耳鼻喉科診所","id":"3512010126","tel":"035355890","addr":"新竹市東區中華路二段159號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.973597","lat":"24.808684","name":"彭耳鼻喉科診所","id":"3512011132","tel":"035428888","addr":"新竹市東區中央路195號","business_week":"OOOOOOOOOOOOOXOOOOOXX"},
-{"lng":"120.973793","lat":"24.795472","name":"普惠耳鼻喉科","id":"3512011196","tel":"035615151","addr":"新竹市東區食品路259號","business_week":"OOOOOOXOOOOOOXOOOOOXO","memo":"6／3（W五）端午節，早上門診，下午、晚上休診。"},
+{"lng":"120.973793","lat":"24.795472","name":"普惠耳鼻喉科","id":"3512011196","tel":"035615151","addr":"新竹市東區食品路259號","business_week":"OOOOOOXOOOOOOXOOOOOXO"},
 {"lng":"120.972097","lat":"24.812424","name":"邱國華耳鼻喉科診所","id":"3512011267","tel":"035358758","addr":"新竹市東區北大路66 號","business_week":"OOOOOOOOOOOOOXOOOOOXX"},
 {"lng":"120.998682","lat":"24.795555","name":"英慈耳鼻喉科診所","id":"3512011356","tel":"035722846","addr":"新竹市東區光復路2段308號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"端午連假6月3日 6月4日 都是上午門診"},
 {"lng":"120.970001","lat":"24.796852","name":"禾康耳鼻喉科診所","id":"3512013449","tel":"035623358","addr":"新竹市東區西大路142號","business_week":"OOOOOOOOOOOOXXOOOOOXX","memo":"6／3休診"},
