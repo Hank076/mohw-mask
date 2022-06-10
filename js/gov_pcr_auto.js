@@ -133,7 +133,7 @@ gov_pcr_locations = [
 {"lng":"120.313307","lat":"23.308848","name":"衛生福利部新營醫院","id":"0141010013","tel":"066351131","addr":"臺南市新營區信義街73號","business_week":"OOOOOOXOOOOOXXOOOXXXX","memo":"全年提供急診24小時服務"},
 {"lng":"120.336408","lat":"23.062491","name":"衛生福利部臺南醫院新化分院","id":"0141060513","tel":"065911929","addr":"臺南市新化區那拔里牧場72號","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"急診照常看診"},
 {"lng":"120.240268","lat":"22.997284","name":"高雄榮民總醫院臺南分院","id":"0641310018","tel":"063125101","addr":"臺南市永康區復興路427號","business_week":"OOOOOOXOOOOOXXOXOXXXX","memo":"急診每日24小時全年不打烊"},
-{"lng":"120.3445776","lat":"22.96701263","name":"吉安醫療社團法人吉安醫院","id":"0905290020","tel":"066025115","addr":"臺南市關廟區中正路435號","business_week":"OOOOOOXOOOOOXXXXXXXXX"},
+{"lng":"120.3445776","lat":"22.96701263","name":"吉安醫療社團法人吉安醫院","id":"0905290020","tel":"066025115","addr":"臺南市關廟區中正路435號","business_week":"OOOOOXXOOOOOXXXXXXXXX"},
 {"lng":"120.2998589","lat":"23.30849496","name":"營新醫院","id":"1541011126","tel":"066592345","addr":"臺南市新營區隋唐街228號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"急診服務時間為08:00-24:00"},
 {"lng":"120.2939464","lat":"23.12799491","name":"誼仁診所(抗原快篩服務)","id":"3505070032","tel":"065817267","addr":"臺南市善化區中正路387號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"6／3早上正常門診，下午晚上休診，6／4早上門診，下午門診。"},
 {"lng":"120.2515169","lat":"23.02973265","name":"中正耳鼻喉科診所(抗原快篩服務)","id":"3541313172","tel":"062333566","addr":"臺南市永康區正強街231號","business_week":"OOOOOOOOOOOOXXOOOOOXX"},
