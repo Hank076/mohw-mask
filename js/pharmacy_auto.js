@@ -4306,6 +4306,7 @@ locations = [
 {"lng":"120.3585","lat":"23.75958","name":"詠大藥局","id":"5939121208","tel":"056967990","addr":"雲林縣崙背鄉南陽村中山路109-2號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"120.3595","lat":"23.76132","name":"昀橙藥局","id":"5939121262","tel":"056969089","addr":"雲林縣崙背鄉東明村正義路120-1號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"平日早上8點販售實名制快篩至售完，週日早上8點-下午13：30至售完，不發號碼牌，現場排隊"},
 {"lng":"120.3548","lat":"23.76012","name":"崙背台丞藥局","id":"5939121271","tel":"056966789","addr":"雲林縣崙背鄉建國路56號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週日公休，早上8：0０開賣，售完為止。"},
+{"lng":"120.2783","lat":"23.79629","name":"見春藥局","id":"5939130029","tel":"056912265","addr":"雲林縣麥寮鄉橋頭村仁德路74號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"快篩劑五月六日起改為早上七點半開賣-即本星期五開始."},
 {"lng":"120.25","lat":"23.75073","name":"中崙保健藥局","id":"5939130047","tel":"056935697","addr":"雲林縣麥寮鄉中山路440號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"固定每日早上7點30分開始依序販售快篩試劑，售完為止。"},
 {"lng":"120.2758","lat":"23.79673","name":"三芳藥局","id":"5939131151","tel":"056911053","addr":"雲林縣麥寮鄉橋頭村仁德路176號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩上午8:30開始販售，售完為止"},
 {"lng":"120.2518","lat":"23.74714","name":"新興藥局","id":"5939131286","tel":"056938030","addr":"雲林縣麥寮鄉麥豐村新興路37-1號","business_week":"OOOOOOXOOOOOOXOOOOXXX","memo":"週日公休。家用快篩試劑8點開始販售，賣完為止"},
