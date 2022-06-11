@@ -296,7 +296,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.494617","lat":"25.071697","name":"華貞診所","id":"3531026288","tel":"0229716626","addr":"新北市三重區三和路三段80號","business_week":"OOOOOOXOXXXXXXOOOOOXX","memo":"1\/30、1\/31、2\/6、2\/13、2\/20、4\/5、6\/3、9\/10僅上午看診"},
 {"lng":"121.489155","lat":"25.086228","name":"皇嘉耳鼻喉科診所","id":"3531026420","tel":"0228579666","addr":"新北市三重區五華街247號","business_week":"OOOOOOOOOOOOXOOOOOOXX","memo":"06／03端午節，看診半天"},
 {"lng":"121.494832","lat":"25.086417","name":"艾樂堡診所","id":"3531026564","tel":"0282875777","addr":"新北市三重區集賢路63之1號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
-{"lng":"121.524964","lat":"24.999426","name":"吳宗坡耳鼻喉科診所","id":"3531032026","tel":"0286603386","addr":"新北市永和區得和路381號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"121.524964","lat":"24.999426","name":"吳宗坡耳鼻喉科診所","id":"3531032026","tel":"0286603386","addr":"新北市永和區得和路381號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.50991","lat":"25.007027","name":"國平耳鼻喉科診所","id":"3531032179","tel":"0289233980","addr":"新北市永和區永貞路376號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.516994","lat":"25.005607","name":"德美診所","id":"3531033747","tel":"0229273001","addr":"新北市永和區中正路455之1號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"121.514465","lat":"24.995903","name":"德上診所","id":"3531034039","tel":"0229403938","addr":"新北市永和區中正路106號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"全年無休，颱風、地震、海嘯皆正常看診。"},
