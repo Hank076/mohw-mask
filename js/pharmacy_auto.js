@@ -3288,6 +3288,7 @@ locations = [
 {"lng":"121.3241","lat":"24.98942","name":"福民藥局","id":"5932070208","tel":"033207779","addr":"桃園市龜山區山鶯路108號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時段：原則上週一至週六早上9點-11點，以藥局當天公告為主"},
 {"lng":"121.3237","lat":"24.99004","name":"高田藥師藥局","id":"5932070253","tel":"033336363","addr":"桃園市龜山區山鶯路76號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時段：14:30"},
 {"lng":"121.3558","lat":"25.04531","name":"德佑藥局","id":"5932071009","tel":"033283556","addr":"桃園市龜山區大崗里新興街293號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑販賣時段為每日晚上07:30開始（星期日暫停販售）"},
+{"lng":"121.3379","lat":"24.99506","name":"安康藥局","id":"5932076157","tel":"033597032","addr":"桃園市龜山區萬壽路二段957號一樓","business_week":"OOOOOOXXXXXXXXOOOOOOX","memo":"111／6／6-111／6／12休診"},
 {"lng":"121.4035","lat":"25.01723","name":"安得福藥局","id":"5932076255","tel":"0282001467","addr":"桃園市龜山區萬壽路一段281號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時段：13：00開始發號碼牌排隊領取過號重排"},
 {"lng":"121.3648","lat":"25.05903","name":"安欣藥局","id":"5932076746","tel":"033185689","addr":"桃園市龜山區文化二路34巷14弄8號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩:6／6第二輪開始販售 ，0-6歲免費快篩領取 ，週日公休"},
 {"lng":"121.3369","lat":"24.99464","name":"帕米爾藥局","id":"5932076844","tel":"033295522","addr":"桃園市龜山區萬壽路二段991號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"因人力不足，目前暫時販售。"},
