@@ -2815,6 +2815,7 @@ locations = [
 {"lng":"121.4697","lat":"24.98577","name":"裕達藥局","id":"5931131882","tel":"0222739328","addr":"新北市土城區延吉街171號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"下午2點開賣快篩，星期日休息"},
 {"lng":"121.4692","lat":"24.99035","name":"璨鴻藥局","id":"5931131908","tel":"0282622588","addr":"新北市土城區延和路191號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩發放時間星期一至五"},
 {"lng":"121.4421","lat":"24.97649","name":"心中外藥局","id":"5931132138","tel":"0222603023","addr":"新北市土城區中央路2段157號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩販賣時段:6／6日起 下午2點開始販售"},
+{"lng":"121.4407","lat":"24.97319","name":"佳佳藥局","id":"5931132165","tel":"0282614558","addr":"新北市土城區中央路2段223-9號2樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"5／3起實名制快篩販售時間為19:30，採現場排隊（特殊情形例外）"},
 {"lng":"121.4406","lat":"24.97626","name":"善淳藥師藥局","id":"5931132236","tel":"0282627371","addr":"新北市土城區福仁街19號1樓、B1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩早上9:30點發售.週日公休一天:午休12:30至14:00點"},
 {"lng":"121.417","lat":"24.95827","name":"萬昌健保藥局","id":"5931132245","tel":"0222678057","addr":"新北市土城區中央路4段160號","business_week":"OOOOOOOOXOXOXXOOOOOOX","memo":"早上十點開始販售"},
 {"lng":"121.4421","lat":"24.97475","name":"立新藥局","id":"5931132263","tel":"0282626111","addr":"新北市土城區光明街5號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩試劑下午3點開始銷售"},
