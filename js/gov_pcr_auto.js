@@ -326,7 +326,7 @@ gov_pcr_locations = [
 {"lng":"121.509998","lat":"25.083221","name":"慈田耳鼻喉科診所","id":"3501151901","tel":"0228123411","addr":"台北市士林區延平北路5段185號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.53463","lat":"25.025779","name":"禾馨新生婦幼診所","id":"350102B364","tel":"0223682333","addr":"台北市大安區新生南路三段2號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"全年24H生產急診照常"},
 {"lng":"121.534604","lat":"25.025575","name":"小禾馨小兒專科診所","id":"350102C576","tel":"0223698833","addr":"台北市大安區新生南路三段4號","business_week":"OOOOOOOOOOOOOOOOOOOXX"},
-{"lng":"121.537266","lat":"25.025172","name":"尹書田醫療財團法人書田泌尿科眼科診所","id":"4001020028","tel":"0223690211#3130","addr":"台北市大安區建國南路二段276號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"111／06／03僅看早診 眼科／內科／泌尿科值班"},
+{"lng":"121.537266","lat":"25.025172","name":"尹書田醫療財團法人書田泌尿科眼科診所","id":"4001020028","tel":"0223690211#3130","addr":"台北市大安區建國南路二段276號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"111／09／10僅早診 泌尿科／眼科／內科／皮膚科值班看診"},
 {"lng":"121.54879","lat":"25.08253","name":"詹益偉耳鼻喉科診所","id":"3501108482","tel":"0225334711","addr":"台北市中山區北安路611號","business_week":"XOXXXOOOOOOOOOOOOOOOO"},
 {"lng":"121.548872","lat":"25.082975","name":"高固?診所","id":"3501105310","tel":"0225323036","addr":"台北市中山區北安路613號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.548528","lat":"25.082196","name":"惟?診所","id":"3501107645","tel":"0225323038","addr":"台北市中山區北安路595巷1號地下1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
