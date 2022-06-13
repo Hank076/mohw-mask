@@ -136,7 +136,6 @@ gov_pcr_locations = [
 {"lng":"120.3445776","lat":"22.96701263","name":"吉安醫療社團法人吉安醫院","id":"0905290020","tel":"066025115","addr":"臺南市關廟區中正路435號","business_week":"OOOOOXXOOOOOXXXXXXXXX"},
 {"lng":"120.2998589","lat":"23.30849496","name":"營新醫院","id":"1541011126","tel":"066592345","addr":"臺南市新營區隋唐街228號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"急診服務時間為08:00-24:00"},
 {"lng":"120.2939464","lat":"23.12799491","name":"誼仁診所(抗原快篩服務)","id":"3505070032","tel":"065817267","addr":"臺南市善化區中正路387號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"6／3早上正常門診，下午晚上休診，6／4早上門診，下午門診。"},
-{"lng":"120.2515169","lat":"23.02973265","name":"中正耳鼻喉科診所(抗原快篩服務)","id":"3541313172","tel":"062333566","addr":"臺南市永康區正強街231號","business_week":"OOOOOOOOOOOOXXOOOOOXX"},
 {"lng":"120.3146436","lat":"23.30373169","name":"杏仁診所","id":"3541010247","tel":"066332659","addr":"臺南市新營區民權里民有街27號1樓","business_week":"OOOOOXXOOXOOXXXXXXXXX"},
 {"lng":"120.363101","lat":"22.567359","name":"高雄市立小港醫院","id":"1102110011","tel":"078036783#3134","addr":"高雄市小港區山明里山明路四八二號B1-10樓","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"本院急診全年24小時全天候看診"},
 {"lng":"120.290414","lat":"22.701528","name":"國軍高雄總醫院左營分院附設民眾診療服務處","id":"0502030015","tel":"075817121","addr":"高雄市左營區軍校路553號","business_week":"OOOOOOXOOOOOXXOOXOXXX","memo":"本院於6／3端午節開設內、外科上下午各一診。"},
