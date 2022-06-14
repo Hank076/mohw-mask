@@ -2568,6 +2568,7 @@ locations = [
 {"lng":"121.4524","lat":"25.04544","name":"十安藥局","id":"5931060342","tel":"0229922859","addr":"新北市新莊區中港路316號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日販售實名制快篩時間為下午3點"},
 {"lng":"121.4657","lat":"25.0465","name":"武田藥局","id":"5931060431","tel":"0229944029","addr":"新北市新莊區化成路212號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.446","lat":"25.04029","name":"一安藥局","id":"5931060557","tel":"0229941618","addr":"新北市新莊區立德里新泰路268號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩發放時間詳情請上FB查詢"},
+{"lng":"121.446","lat":"25.04284","name":"蘇藥局","id":"5931060619","tel":"0229917818","addr":"新北市新莊區中平路6巷37號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"販售快篩時間  固定每日下午3點發放!!!售完為止"},
 {"lng":"121.427","lat":"25.02604","name":"錄新藥局","id":"5931060628","tel":"0222051849","addr":"新北市新莊區後港一路76巷10弄1號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4544","lat":"25.04988","name":"王藥局","id":"5931060646","tel":"0229922404","addr":"新北市新莊區昌盛街38號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑.今日正常銷售服務.售完為止."},
 {"lng":"121.4456","lat":"25.03585","name":"勝安藥局","id":"5931060682","tel":"0229963394","addr":"新北市新莊區中正路334巷23號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
