@@ -578,7 +578,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.313373","lat":"23.278623","name":"蔡瑞頒診所","id":"3541090101","tel":"066224466","addr":"臺南市柳營區光福里成功街210號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"每天有門診(星期日及國定假日上午看診\/急診:電話6224466\/休假日交付調劑)"},
 {"lng":"120.351375","lat":"23.231106","name":"民生診所","id":"3541130084","tel":"066986015","addr":"臺南市六甲區六甲里中正路531號","business_week":"OOXOOOXOOXOOOXOOXOOOO"},
 {"lng":"120.3501256","lat":"23.2309362","name":"甲和診所","id":"3541131232","tel":"066991393","addr":"臺南市六甲區六甲里建國街74號","business_week":"OOOOOOXOOXOXOXXXXXXXX","memo":"下午 2~6點"},
-{"lng":"120.20335","lat":"23.122012","name":"千日好診所","id":"3541161114","tel":"067954509","addr":"臺南市西港區中山路350號","business_week":"OOOOOOXOOXXXXXOOOOOXX","memo":"（1）星期三.四.五下午休診（2）星期日休診（3）上午7:50至11:30下午2:30至6晚上6:30至8:30（4）6／3端午節休診一天"},
+{"lng":"120.20335","lat":"23.122012","name":"千日好診所","id":"3541161114","tel":"067954509","addr":"臺南市西港區中山路350號","business_week":"OOOOOOXOOXXXXXOOOOOXX","memo":"（1）星期一.二.三.四.五下午休診（2）星期日休診（3）上午7:50至11:30晚上5:30至8:30"},
 {"lng":"120.164703","lat":"23.217893","name":"美地診所","id":"3541181170","tel":"067946127","addr":"臺南市將軍區苓仔寮里苓保81號","business_week":"OOOOOOXOXOXOXXOXOXOXX"},
 {"lng":"120.124859","lat":"23.267258","name":"大立診所","id":"3541190035","tel":"067860090","addr":"臺南市北門區北門里72號","business_week":"OOOOOOXOOOOOXXXXXXXXX"},
 {"lng":"120.263112","lat":"22.991444","name":"三華診所","id":"3541270314","tel":"062731826","addr":"臺南市仁德區太子路142號","business_week":"OOOOOOXOOOOOXXXXXXXXX"},
