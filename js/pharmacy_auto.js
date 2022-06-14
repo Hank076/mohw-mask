@@ -438,6 +438,7 @@ locations = [
 {"lng":"121.4692","lat":"25.12843","name":"昌源藥局","id":"5901160286","tel":"0228928695","addr":"臺北市北投區中央北路4段485號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"周日公休"},
 {"lng":"121.4672","lat":"25.12134","name":"世全藥局","id":"5901160400","tel":"0228585378","addr":"臺北市北投區知行路273號","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"早0000-0100，午0000-0000晚17:30-2400"},
 {"lng":"121.5081","lat":"25.12612","name":"九福藥局","id":"5901160428","tel":"0228953009","addr":"臺北市北投區公館路236號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"★週日店休未營業. 快篩下午1點發號碼牌"},
+{"lng":"121.5193","lat":"25.11219","name":"弘安藥局","id":"5901160517","tel":"0228206390","addr":"臺北市北投區懷德街33號1樓","business_week":"OOOOOOXOOOOOOOOOOOOOX","memo":"快篩劑每日下午2:00開賣"},
 {"lng":"121.5066","lat":"25.11817","name":"黎明藥局","id":"5901160544","tel":"0228223795","addr":"臺北市北投區尊賢街253-1號","business_week":"OOOOOOOXXXXXXXOOOOOOX","memo":"營業時間星期1-6早上900至1230 下午1600至2100每日 星期日早上連假只有早上"},
 {"lng":"121.5199","lat":"25.11231","name":"名山藥局","id":"5901160562","tel":"0228226101","addr":"臺北市北投區東陽街475號1樓","business_week":"OOOOOOXOOXOOOXOOXOOXX","memo":"快篩試劑早上08:30販賣"},
 {"lng":"121.5015","lat":"25.13156","name":"明華藥局","id":"5901160704","tel":"0228971056","addr":"臺北市北投區清江路8號(實際使用:1樓)","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"實名制快篩上午9:00現場販售"},
