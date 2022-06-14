@@ -2258,6 +2258,7 @@ locations = [
 {"lng":"121.4916","lat":"25.08358","name":"唯安藥局","id":"5931020044","tel":"0229875750","addr":"新北市三重區五華街130號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4822","lat":"25.06757","name":"上豪藥局","id":"5931020133","tel":"0229820399","addr":"新北市三重區中正北路220號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期天公休"},
 {"lng":"121.4932","lat":"25.06668","name":"優達藥局","id":"5931020320","tel":"0229803986","addr":"新北市三重區大智街108號1F","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.4855","lat":"25.05893","name":"新迪化中西藥局","id":"5931020400","tel":"0229884755","addr":"新北市三重區三陽路27號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制中午12點開始販售，發號碼牌"},
 {"lng":"121.4964","lat":"25.07193","name":"久泰藥局","id":"5931020428","tel":"0229735880","addr":"新北市三重區仁愛街36號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.4793","lat":"25.07519","name":"玉美藥局","id":"5931020446","tel":"0222879836","addr":"新北市三重區力行路2段136巷49弄2號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩:星期一~星期日販售下午4:00  ** 沒有預先發號碼牌，現場販售.**"},
 {"lng":"121.4972","lat":"25.06597","name":"合眾藥局","id":"5931020464","tel":"0229897379","addr":"新北市三重區文化北路102巷39號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"實名制快篩販售時間：星期一~六 早上9點至晚上9點。星期日『停止販售!』 0-6歲領取免費快篩"},
