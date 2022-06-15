@@ -247,6 +247,7 @@ locations = [
 {"lng":"121.5255","lat":"25.06127","name":"久大藥局","id":"5901102015","tel":"0225111594","addr":"臺北市中山區林森北路480號","business_week":"OOOOOOXOOOOOOXOOXOXXX","memo":"即日起周一至周六下午1:00-4:00發快篩。 周日公休"},
 {"lng":"121.5347","lat":"25.05426","name":"專心藥局","id":"5901102060","tel":"0225155847","addr":"臺北市中山區伊通街112-2號","business_week":"OOOOOXXOOOOOOXOOOOOOX"},
 {"lng":"121.5438","lat":"25.05617","name":"康林藥局","id":"5901102408","tel":"0225171867","addr":"臺北市中山區興安街105號","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"快篩販售時間：星期一到六早上9點，星期日下午2點"},
+{"lng":"121.5352","lat":"25.06024","name":"啟美藥師藥局","id":"5901102444","tel":"0225178032","addr":"臺北市中山區錦州街282號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"快篩 販售時間 20點開賣到21點，星期六日公休"},
 {"lng":"121.5403","lat":"25.06591","name":"龍江藥局","id":"5901102560","tel":"0225023724","addr":"臺北市中山區龍江路356巷14號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5245","lat":"25.06501","name":"躍獅晴光藥局","id":"5901102579","tel":"0225951393","addr":"臺北市中山區農安街23之2號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售時間17:00，售完會提前結束"},
 {"lng":"121.53","lat":"25.06652","name":"德惠藥局","id":"5901102597","tel":"0225971131","addr":"臺北市中山區德惠街122號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"每日下午3點30分開始販售快篩實名制"},
