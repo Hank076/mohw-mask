@@ -2037,6 +2037,7 @@ locations = [
 {"lng":"120.2115","lat":"23.03032","name":"樂成藥局","id":"5921060385","tel":"062568576","addr":"臺南市安南區安和路一段159巷83號","business_week":"OOOOOOOOOOOOOXOOOOOOO"},
 {"lng":"120.1735","lat":"23.05076","name":"景惠藥局","id":"5921061542","tel":"062557060","addr":"臺南市安南區安中路4段2號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩代售時間自早上9:30---售完為止"},
 {"lng":"120.1722","lat":"23.04956","name":"泰赫中西藥局","id":"5921061604","tel":"062562317","addr":"臺南市安南區安中路4段79號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上8開始銷售賣完為止"},
+{"lng":"120.130855","lat":"23.062963","name":"新資生藥師藥局","id":"5921061668","tel":"062571153","addr":"臺南市安南區城北路52號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOO","memo":"星期一~星期六早上.快篩販售8點到10點止"},
 {"lng":"120.2179","lat":"23.0659","name":"康悅健藥師藥局","id":"5921061720","tel":"063556382","addr":"臺南市安南區安和路5段149-2號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩-星期一-五13:00-售完   星期六-日15:00-售完"},
 {"lng":"120.2118","lat":"23.03457","name":"宏恩藥局","id":"5921061757","tel":"062474513","addr":"臺南市安南區長溪路1段52號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩試劑星期一至五早上8:30開賣，週六.週日不販售"},
 {"lng":"120.1686","lat":"22.98883","name":"康活藥局","id":"5921071226","tel":"062936483","addr":"臺南市安平區健康三街186號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"快篩晚上18:00開賣."},
