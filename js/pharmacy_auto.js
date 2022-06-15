@@ -3798,7 +3798,6 @@ locations = [
 {"lng":"120.6989","lat":"24.06515","name":"霧峰福倫藥局","id":"5936181373","tel":"0423318818","addr":"臺中市霧峰區中正路936之1號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.7262105","lat":"24.1500115","name":"愛心藥局","id":"5936190078","tel":"0423929396","addr":"臺中市太平區光華里中山路二段412-7號","business_week":"OOOOOOXXXXXXXXXXXXXXX","memo":"0830-1330...1530-2000.營業.....有配合實名制家用快篩發放.."},
 {"lng":"120.7131","lat":"24.12447","name":"富眾藥局","id":"5936190327","tel":"0422706009","addr":"臺中市太平區永豐路35號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"111年平安吉祥年:星期一至星期六.下午1點.星期日:休息."},
-{"lng":"120.703397","lat":"24.111244","name":"仁和藥局","id":"5936190336","tel":"0422783239","addr":"臺中市太平區新仁路一段160號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時間詳情，請見藥局粉絲團專頁"},
 {"lng":"120.7202","lat":"24.15065","name":"同安藥局","id":"5936190416","tel":"0423918391","addr":"臺中市太平區新平路三段87號","business_week":"OOOOOOXXXXXXXXOOOOOXX","memo":"5／6起每日上午9點開賣快篩，週日休息。"},
 {"lng":"120.7165","lat":"24.14456","name":"衛民藥局","id":"5936190550","tel":"0422795581","addr":"臺中市太平區宜欣二路72號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"早上九點開始賣快篩 不用排隊"},
 {"lng":"120.7199","lat":"24.15663","name":"杏原藥局","id":"5936190649","tel":"0423918768","addr":"臺中市太平區新坪里樹孝路77號","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"早上9點現場排隊販賣口罩.快篩試劑"},
