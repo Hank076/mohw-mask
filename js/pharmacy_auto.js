@@ -4713,6 +4713,7 @@ locations = [
 {"lng":"120.5247","lat":"22.65251","name":"立登藥局","id":"5943071088","tel":"087213590","addr":"屏東縣麟洛鄉中山路256之1號","business_week":"OOOOOOOOOOOOXXOOOOOXX","memo":"星期一到星期日早上8點開始販售"},
 {"lng":"120.5262","lat":"22.65114","name":"麟洛藥局","id":"5943071168","tel":"087222617","addr":"屏東縣麟洛鄉麟趾村中山路391-393號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"健保快篩早上9:00開賣，若前一日無配送隔日量，將於當日收到後，立即開始銷售"},
 {"lng":"120.4888","lat":"22.73183","name":"穎昇藥局","id":"5943081146","tel":"087393672","addr":"屏東縣九如鄉九如路二段131號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"販賣實名制快篩時間，中午12點開始至售完為止。"},
+{"lng":"120.4888","lat":"22.7316","name":"信昌藥局","id":"5943081155","tel":"087397337","addr":"屏東縣九如鄉九如路2段119號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"自5／6起實名制快篩販賣時間:早上8:30開始.售完為止"},
 {"lng":"120.4893","lat":"22.73311","name":"九如藥局","id":"5943081164","tel":"087397777","addr":"屏東縣九如鄉九如路二段230號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售時間:1600-售完為止（請注意身分證單雙號分流）"},
 {"lng":"120.4905","lat":"22.77635","name":"祥安藥局","id":"5943091151","tel":"087757652","addr":"屏東縣里港鄉玉田村玉田路63-2號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.4938","lat":"22.77725","name":"里港寶康藥局","id":"5943091188","tel":"087721189","addr":"屏東縣里港鄉仁和路24號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"5／24起快篩不限時間領取，隨到隨領，售完為止"},
