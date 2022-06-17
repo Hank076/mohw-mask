@@ -402,7 +402,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.43384","lat":"25.074088","name":"五股水碓診所","id":"3531151731","tel":"0222921516","addr":"新北市五股區自強路36號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"121.433546","lat":"25.060758","name":"溫法烈耳鼻喉科診所","id":"3531160203","tel":"0229098253","addr":"新北市泰山區泰林路2段175號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"111.2.28 全天看診 111.4.4  全天看診 111.4.5 僅上午門診"},
 {"lng":"121.424919","lat":"25.04388","name":"蔡興龍小兒科診所","id":"3531160258","tel":"0222093645","addr":"新北市泰山區明志路二段422號","business_week":"OOOXOOOOOOXOOXOOOXOOO"},
-{"lng":"121.42944","lat":"25.053101","name":"賴和鴻診所","id":"3531160267","tel":"0229094502","addr":"新北市泰山區明志路二段42號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"國定假日上午門診(下午晚上休診)"},
+{"lng":"121.42944","lat":"25.053101","name":"賴和鴻診所","id":"3531160267","tel":"0229094502","addr":"新北市泰山區明志路二段42號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"國定假日上午門診(下午晚上休診)"},
 {"lng":"121.433508","lat":"25.062438","name":"楓江診所","id":"3531161531","tel":"0222969708","addr":"新北市泰山區楓江路8號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週日不定期看診，需事先電話聯絡"},
 {"lng":"121.429024","lat":"25.052689","name":"泰和診所","id":"3531161568","tel":"0285315320","addr":"新北市泰山區明志路2段62號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"111／06／01，111／06／02 僅上午看診"},
 {"lng":"121.432211","lat":"25.060299","name":"弘森診所","id":"3531161666","tel":"0229090568","addr":"新北市泰山區明志路一段257號","business_week":"OOOOOOXOOOOOOXXXXXXXX"},
