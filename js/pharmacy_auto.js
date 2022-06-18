@@ -1868,6 +1868,7 @@ locations = [
 {"lng":"120.6612","lat":"24.1724","name":"瑞康藥局","id":"5917060322","tel":"0422914046","addr":"臺中市西屯區長安路二段2號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"營業時間8:30~21:30 （家用快篩，酒精及防疫口罩）"},
 {"lng":"120.6673","lat":"24.17773","name":"宏吉藥局","id":"5917060331","tel":"0422910825","addr":"臺中市西屯區大福里長安路二段316號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑.防疫口罩.酒精上午7：30開始販售，營業至21:00（週日正常營業）"},
 {"lng":"120.6564","lat":"24.16345","name":"明達藥局","id":"5917060359","tel":"0423137079","addr":"臺中市西屯區何厝里青海路一段17號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"固定周一至周六9:30開始販售口罩"},
+{"lng":"120.6369","lat":"24.1726","name":"大東藥局","id":"5917060644","tel":"0427020418","addr":"臺中市西屯區西墩里黎明路三段57號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"暫停販賣。"},
 {"lng":"120.6194","lat":"24.18731","name":"佳蒝藥局","id":"5917061061","tel":"0424617763","addr":"臺中市西屯區西屯路3段159之10之5號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"中午11:30開始售快篩"},
 {"lng":"120.652","lat":"24.15929","name":"裕和藥局","id":"5917061150","tel":"0423252629","addr":"臺中市西屯區大墩路951號1F","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩星期一到星期六 09:00開始販售；星期天 09:00-10:30"},
 {"lng":"120.6177","lat":"24.18807","name":"典安大藥局","id":"5917062353","tel":"0424616571","addr":"臺中市西屯區西屯路3段159-60號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天10:00發放快篩"},
