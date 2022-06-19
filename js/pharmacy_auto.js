@@ -3799,6 +3799,7 @@ locations = [
 {"lng":"120.7","lat":"24.10471","name":"懷安藥局","id":"5936209769","tel":"0422736808","addr":"臺中市大里區立新街369號","business_week":"XXXXXXXOOOOOOOXXXXXXX","memo":"以政府配送為主.預計每日下午2點憑健保卡領號碼牌."},
 {"lng":"120.6773","lat":"24.09864","name":"永欣藥局","id":"5936209796","tel":"0424077085","addr":"臺中市大里區新里里新興路24號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.6899","lat":"24.1106","name":"三商藥局","id":"593620A917","tel":"0424852072","addr":"臺中市大里區中興路2段333、335號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售時間每周一至六早上9:30開賣~星期日下午3:30開賣~賣完為止"},
+{"lng":"120.6919","lat":"24.10295","name":"聯生中西健保藥局","id":"593620B138","tel":"0424834058","addr":"臺中市大里區現岱路158巷11號","business_week":"XOOOOOOOOOOOOOOOOOOOO","memo":"早上八點半領號碼牌下午四點到六點領口罩W6W日早七點"},
 {"lng":"120.68051","lat":"24.109812","name":"大仁祥藥局","id":"593620B165","tel":"0424814349","addr":"臺中市大里區大德街89號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"販售實名制快篩時間:週一至週六8:00起、週日公休"},
 {"lng":"120.703747","lat":"24.088042","name":"綠洲藥局","id":"593620B183","tel":"0424932626","addr":"臺中市大里區塗城路603號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩販售時間:週一至週五9:00開始.週六下午2點開始.週日休息"},
 {"lng":"120.7005","lat":"24.09618","name":"仁一藥局","id":"593620B307","tel":"0424913610","addr":"臺中市大里區仁化路497號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"5／24~5／27~早上9:00開始賣"},
