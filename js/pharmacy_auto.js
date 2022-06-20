@@ -4802,6 +4802,7 @@ locations = [
 {"lng":"121.594","lat":"23.96871","name":"享寧藥局","id":"5945051682","tel":"038526532","addr":"花蓮縣吉安鄉中正路一段2號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"快篩開賣時間: 星期一到五早上九點到晚上九點； 星期六早上九點； 星期日休息"},
 {"lng":"121.5689","lat":"23.97907","name":"安康藥局","id":"5945051726","tel":"038513951","addr":"花蓮縣吉安鄉中山路3段384號","business_week":"OOOOOOXOOOOOXXOOOOOXO","memo":"週一至週六早上08:00與周日18:00開賣快篩，售完為止"},
 {"lng":"121.584874","lat":"23.988454","name":"杏一吉安建國藥局","id":"5945051735","tel":"038575611","addr":"花蓮縣吉安鄉建國路1段141、143號1樓","business_week":"OOOOOOOOOOOOOOXXXXXXX","memo":"中午12點開賣（領取號碼牌後請在現場排隊，拿完號碼牌自行離開者視同放棄）"},
+{"lng":"121.5307","lat":"23.90699","name":"志成藥局","id":"5945061106","tel":"038661303","addr":"花蓮縣壽豐鄉志學村中正路37號","business_week":"OOOOOOOOOOOOOOOOOXOXO"},
 {"lng":"121.5091","lat":"23.8693","name":"益昌藥局","id":"5945061204","tel":"038653718","addr":"花蓮縣壽豐鄉壽豐村中山路5段113號","business_week":"OOOOOOOOOOOOXXXXXXXXX","memo":"營業時間:早上W1~W6  8:30~12:00  下午W1~W5  2:00~6:00"},
 {"lng":"121.4235","lat":"23.66588","name":"合康藥局","id":"5945070561","tel":"038700306","addr":"花蓮縣光復鄉中正路一段85號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"無"},
 {"lng":"121.38","lat":"23.498","name":"立健藥局","id":"5945091088","tel":"038870184","addr":"花蓮縣瑞穗鄉中華路92號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"服務時間：07:30-21:30"},
