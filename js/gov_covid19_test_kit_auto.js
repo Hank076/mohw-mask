@@ -470,7 +470,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.00573","lat":"24.83239","name":"傅仁良小兒科診所","id":"3533051547","tel":"035530106","addr":"新竹縣竹北市博愛街172號","business_week":"OOOOOOOOOOXOXXOOOOOXX","memo":"6／3上午開診及晚上都開診"},
 {"lng":"121.009949","lat":"24.825628","name":"游恆懿診所","id":"3533051636","tel":"035586721","addr":"新竹縣竹北市縣政八街23號","business_week":"OOOOOOXOXOXXXXXXXOXXX"},
 {"lng":"121.024942","lat":"24.822424","name":"啄木鳥耳鼻喉科診所","id":"3533052099","tel":"036586586","addr":"新竹縣竹北市莊敬三路39號1號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"2／26早上下午晚上開診2／27早上開診2／28早上下午晚上開診6／3早午開診6／4早午開診6／5早晚開診"},
-{"lng":"121.028431","lat":"24.814446","name":"艾兒診所","id":"3533052491","tel":"036586699","addr":"新竹縣竹北市福興東路二段140號","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"2022年6月起新增星期四下午門診，請多加利用。"},
+{"lng":"121.028431","lat":"24.814446","name":"艾兒診所","id":"3533052491","tel":"036586699","addr":"新竹縣竹北市福興東路二段140號","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"公告:  6／22-25 診所年休，造成不便敬請見諒。"},
 {"lng":"121.044863","lat":"24.9026","name":"朱先營診所","id":"3533060153","tel":"035998325","addr":"新竹縣湖口鄉中正路一段27號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.115719","lat":"24.718969","name":"橫山庄診所","id":"3533071058","tel":"035931395","addr":"新竹縣橫山鄉橫山街一段216號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"無急診"},
 {"lng":"120.994546","lat":"24.874811","name":"羅世績診所","id":"3533080226","tel":"035593399","addr":"新竹縣新豐鄉建興路一段154-10號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
