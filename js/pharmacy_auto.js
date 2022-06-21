@@ -2436,6 +2436,7 @@ locations = [
 {"lng":"121.4814","lat":"24.99994","name":"杏元藥局","id":"5931043761","tel":"0222236868","addr":"新北市中和區員山路172號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩1400 發放，現場排隊。"},
 {"lng":"121.5091","lat":"24.99895","name":"宜安健康人生藥局","id":"5931043770","tel":"0229224648","addr":"新北市中和區宜安路162號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"下午六點起發實名制快篩"},
 {"lng":"121.5176","lat":"24.99222","name":"永成藥局","id":"5931043798","tel":"0229407619","addr":"新北市中和區景平路156號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.4833","lat":"24.99555","name":"良安藥局","id":"5931043921","tel":"0222225798","addr":"新北市中和區連城路477巷1號1樓","business_week":"XXXXXXXOOOOOXXOOOOOXX","memo":"週六日不開店，實名制快篩，晚上9:00開始販售"},
 {"lng":"121.5044","lat":"24.99207","name":"三德和藥局","id":"5931043930","tel":"0222471028","addr":"新北市中和區吉興里南山路289號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5038","lat":"24.99671","name":"詠邑藥局","id":"5931043976","tel":"0222445630","addr":"新北市中和區南華路43號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5122","lat":"24.98581","name":"幸福連鎖藥局","id":"5931044017","tel":"0229410771","addr":"新北市中和區忠孝街122號1樓","business_week":"XXXXXXXOOOOOOXOOOOOOX"},
