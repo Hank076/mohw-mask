@@ -536,6 +536,7 @@ locations = [
 {"lng":"121.5303","lat":"25.01654","name":"中心藥局","id":"5901180224","tel":"0223689889","addr":"臺北市中正區汀州路3段121號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩實名制目前0-6歲兒童可免費領取一次，每日依單，雙號分流領取"},
 {"lng":"121.527","lat":"25.03545","name":"祥全藥局","id":"5901180304","tel":"0223939339","addr":"臺北市中正區信義路2段79巷15-8號1F","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期一至六下午3點開始賣快篩試劑"},
 {"lng":"121.5174","lat":"25.03086","name":"南昌大藥局","id":"5901180322","tel":"0223510322","addr":"臺北市中正區南昌路1段86號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"121.5301","lat":"25.01667","name":"古亭藥局","id":"5901180368","tel":"0223683618","addr":"臺北市中正區汀州路3段117號","business_week":"OOOOOXXOOOOOOXOOOOOOX","memo":"實名制  快篩  停售"},
 {"lng":"121.5068","lat":"25.02999","name":"永興藥局","id":"5901182068","tel":"0223050986","addr":"臺北市中正區汀州路1段92巷28號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5079","lat":"25.03487","name":"國杏藥師示範藥局","id":"5901182086","tel":"0223811322","addr":"臺北市中正區延平南路171巷3號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.53","lat":"25.01673","name":"東華藥局","id":"5901182111","tel":"0223640852","addr":"臺北市中正區汀州路3段113號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期日店休   星期一至星期六 下午15點開始販售快篩試劑"},
