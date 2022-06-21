@@ -2684,7 +2684,7 @@ locations = [
 {"lng":"121.3258","lat":"24.97205","name":"鶯歌藥局","id":"5931081510","tel":"0286778778","addr":"新北市鶯歌區鶯桃路2段11號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"121.3497","lat":"24.95358","name":"正雅藥局","id":"5931081529","tel":"0226701128","addr":"新北市鶯歌區建國路176號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.3534","lat":"24.95571","name":"信義健保藥局","id":"5931081547","tel":"0286775563","addr":"新北市鶯歌區信義街63號1樓","business_week":"OOOOOOOXXXXXXXOOOOOOX","memo":"發放時間以現場公告為主"},
-{"lng":"121.3469","lat":"24.94851","name":"易加藥局","id":"5931081556","tel":"0226705686","addr":"新北市鶯歌區尖山路137巷4號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩週一至週六早上8:30開始販售【週日公休】"},
+{"lng":"121.3469","lat":"24.94851","name":"易加藥局","id":"5931081556","tel":"0226705686","addr":"新北市鶯歌區尖山路137巷4號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.3722","lat":"24.93491","name":"大和藥局","id":"5931090117","tel":"0226711010","addr":"新北市三峽區民生街150號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.3665","lat":"24.93583","name":"人來安藥局","id":"5931090180","tel":"0226721199","addr":"新北市三峽區文化路266-5號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"營業時間早上8點至中午1點下午5點至晚上9點星期日公休"},
 {"lng":"121.3769","lat":"24.92836","name":"勝全藥局","id":"5931090279","tel":"0226736186","addr":"新北市三峽區大同路27之1號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"每日8:00-22:00營業，星期日11:00-17:00休息；快篩早上8點開始過卡賣完為止"},
