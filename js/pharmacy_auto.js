@@ -632,6 +632,7 @@ locations = [
 {"lng":"121.5607","lat":"24.98426","name":"光明大藥局","id":"5901203106","tel":"0229390275","addr":"臺北市文山區忠順街1段66號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5505","lat":"25.00345","name":"福興藥局","id":"5901203124","tel":"0289313868","addr":"臺北市文山區福興路56號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"領快篩時間:周一到周六，下午2點開放購買快篩，1人1卡1份"},
 {"lng":"121.5522","lat":"25.00022","name":"路加健康藥局","id":"5901203160","tel":"0229302336","addr":"臺北市文山區興隆路2段220巷39號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"121.5447","lat":"24.99346","name":"健安藥局","id":"5901203179","tel":"0229323757","addr":"臺北市文山區景興路165號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"周一到周六.下午三點開賣實名制快篩.現場排隊不發號碼牌"},
 {"lng":"121.5388","lat":"25.00197","name":"逸全生活藥局","id":"5901203188","tel":"0229326185","addr":"臺北市文山區羅斯福路5段222號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5549","lat":"25.00062","name":"躍獅新芳藥局","id":"5901203204","tel":"0229308172","addr":"臺北市文山區興隆路3段16號(實際營業地址:1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上九點開始販售實名制快篩，售完為止"},
 {"lng":"121.5583","lat":"25.00031","name":"綠杏萬芳藥局","id":"5901203213","tel":"0229349516","addr":"臺北市文山區興隆路3段111號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
