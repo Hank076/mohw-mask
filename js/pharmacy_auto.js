@@ -2272,6 +2272,7 @@ locations = [
 {"lng":"121.4954","lat":"25.07005","name":"聯鑫藥師藥局","id":"5931022806","tel":"0289829880","addr":"新北市三重區正義北路269號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4819","lat":"25.0716","name":"名成藥局","id":"5931022959","tel":"0229847828","addr":"新北市三重區力行路1段182號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩實名制，星期1--6下午2點30開始領，5月1日星期日，九點開始領"},
 {"lng":"121.496","lat":"25.06827","name":"重德藥局","id":"5931023018","tel":"0289816164","addr":"新北市三重區正義北路246號2樓","business_week":"OOOOOOOOOOOOOXOOOOOXX"},
+{"lng":"121.4951","lat":"25.07004","name":"成立藥局","id":"5931023198","tel":"0289852355","addr":"新北市三重區正義北路310-1號2樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"第二輪快曬試劑 早上8:30開賣"},
 {"lng":"121.4836","lat":"25.06267","name":"迪化藥局","id":"5931023349","tel":"0229834445","addr":"新北市三重區中華路77號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩每日早上九點發牌號"},
 {"lng":"121.4945","lat":"25.08106","name":"正大藥局","id":"5931023401","tel":"0289815931","addr":"新北市三重區五華街39號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.4953","lat":"25.06978","name":"安泰藥局","id":"5931023447","tel":"0289815379","addr":"新北市三重區正義北路300-3號2樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"6／4只有早上8:30--12:00營業下午.及晚上休息"},
