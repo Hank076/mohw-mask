@@ -213,6 +213,7 @@ locations = [
 {"lng":"121.5158","lat":"25.07061","name":"佳禾藥局","id":"5901091857","tel":"0225953806","addr":"臺北市大同區大龍街262號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5147","lat":"25.06078","name":"躍獅雙蓮藥局","id":"5901091884","tel":"0225537551","addr":"臺北市大同區涼州街4號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩：平日週一五 下午３點開始販售 （週六停售）"},
 {"lng":"121.5151","lat":"25.06582","name":"旭豐藥局","id":"5901092014","tel":"0225853880","addr":"臺北市大同區昌吉街96號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"121.5116","lat":"25.05751","name":"躍獅遠東藥局","id":"5901092069","tel":"0225594835","addr":"臺北市大同區延平北路2段131號(實際營業地址:1樓)","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩販賣時間：下午2點~下午3點★若有剩下，晚上7點~晚上8點才賣★不發號碼牌★"},
 {"lng":"121.5197","lat":"25.0574","name":"躍獅文昌藥局","id":"5901092087","tel":"0225586189","addr":"臺北市大同區民生西路108號(實際營業:一層)","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5143","lat":"25.06584","name":"新聖安藥局","id":"5901092103","tel":"0225977877","addr":"臺北市大同區昌吉街130號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日下午2點開賣 （前10分鐘發號碼牌）"},
 {"lng":"121.5146","lat":"25.07193","name":"酒泉春天藥局","id":"5901092112","tel":"0225977932","addr":"臺北市大同區酒泉街94號、94號2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
