@@ -2693,6 +2693,7 @@ locations = [
 {"lng":"121.3769","lat":"24.92836","name":"勝全藥局","id":"5931090279","tel":"0226736186","addr":"新北市三峽區大同路27之1號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"每日8:00-22:00營業，星期日11:00-17:00休息；快篩早上8點開始過卡賣完為止"},
 {"lng":"121.3711","lat":"24.93607","name":"全球藥師藥局","id":"5931091374","tel":"0226748128","addr":"新北市三峽區文化路95號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.3755","lat":"24.9362","name":"盛加藥局","id":"5931091481","tel":"0226739797","addr":"新北市三峽區民生街49號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"政府快篩平日下午1:50發號碼牌，下午2:00準時販售，假日視政府配量（販售時間相同）"},
+{"lng":"121.3685","lat":"24.93606","name":"三峽文化藥局","id":"5931091605","tel":"0226710825","addr":"新北市三峽區文化路212-2號","business_week":"OOOOOOXOXOOOOXOOOOOXX","memo":"12:00~14:00 17:00~18:00 休息時間"},
 {"lng":"121.3742","lat":"24.93265","name":"兆康藥局","id":"5931091623","tel":"0226717875","addr":"新北市三峽區中華路22號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩早上9:00開始發放號碼牌"},
 {"lng":"121.3699","lat":"24.93598","name":"祥祐藥局","id":"5931091696","tel":"0226738080","addr":"新北市三峽區文化路125號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩下午2點開始販售"},
 {"lng":"121.3734","lat":"24.93084","name":"誠祐藥局","id":"5931091712","tel":"0226746211","addr":"新北市三峽區光明路22號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
