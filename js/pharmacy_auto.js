@@ -1666,6 +1666,7 @@ locations = [
 {"lng":"121.7357","lat":"25.10036","name":"柏林藥局","id":"5911031158","tel":"0224592277","addr":"基隆市暖暖區暖暖街246巷167號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上8.40銷售快篩實名制"},
 {"lng":"121.7563","lat":"25.0992","name":"家宏藥局","id":"5911031176","tel":"0224595982","addr":"基隆市暖暖區源遠路281之2號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"實名制快篩試劑每天0930開始販售.6／3端午節下午休息."},
 {"lng":"121.7574","lat":"25.09941","name":"碇內東亞藥師藥局","id":"5911031238","tel":"0224590033","addr":"基隆市暖暖區源遠路319號1樓","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"周一至周六下午三點發放快篩試劑"},
+{"lng":"121.7365","lat":"25.09258","name":"福安藥局","id":"5911031283","tel":"0224588550","addr":"基隆市暖暖區暖暖街552號","business_week":"XXOOOOXXXOOOOXXXOOOXX","memo":"6／20（一）~6／21（二） 休息兩天  造成不便敬請見諒"},
 {"lng":"121.7492","lat":"25.09815","name":"安安藥局","id":"5911031318","tel":"0224585577","addr":"基隆市暖暖區源遠路168號","business_week":"OOOOOXOOOOOOXOOOOOOXO","memo":"每週六公休，星期日~星期五早上8:30販售實名制快篩"},
 {"lng":"121.7357","lat":"25.09904","name":"百福暖暖專業藥局","id":"5911031327","tel":"0224596999","addr":"基隆市暖暖區暖暖街189號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.7407","lat":"25.12728","name":"回春藥局","id":"5911040175","tel":"0224224728","addr":"基隆市仁愛區仁五路43號","business_week":"OOOOOOXOOOOOOXXOOOXXX","memo":"3\/9及3\/10因電腦送修不賣口罩 13:00發號碼牌 16:00~18:00領口罩"},
