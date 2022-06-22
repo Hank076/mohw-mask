@@ -3773,6 +3773,7 @@ locations = [
 {"lng":"120.7167","lat":"24.12806","name":"東亞藥師大藥局","id":"5936190710","tel":"0422787987","addr":"臺中市太平區中興路66號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日早上9:00~晚上9:00販賣快篩試劑"},
 {"lng":"120.7207","lat":"24.13334","name":"佑昇藥局","id":"5936191851","tel":"0422783697","addr":"臺中市太平區中平路16號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.7164","lat":"24.15076","name":"玖裕藥局","id":"5936191879","tel":"0423917005","addr":"臺中市太平區樹孝路45號1樓","business_week":"OOXOOOXOOOOOXXOOOOOXX","memo":"營業時間都可以現場直接購買"},
+{"lng":"120.7113","lat":"24.15324","name":"興明健保藥局","id":"5936191913","tel":"0423955521","addr":"臺中市太平區樹德路97-6號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"週一至週六早上10:00開始販售實名制快篩劑"},
 {"lng":"120.7203","lat":"24.15716","name":"和康藥局","id":"5936192018","tel":"0423917355","addr":"臺中市太平區樹孝路462號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩販售星期一至六  晚上七點銷售完為止! 昨日有庫存早上繼續銷售!  5／29 假日早上9:00  加班!"},
 {"lng":"120.7115","lat":"24.15386","name":"樹德大藥局","id":"5936192134","tel":"0423981782","addr":"臺中市太平區樹德路102號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午3點開始領號碼牌，分流領取，請勿依賴網站庫存"},
 {"lng":"120.7108","lat":"24.1496","name":"德侑健保藥局","id":"5936192198","tel":"0423959617","addr":"臺中市太平區中山路4段86之1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日下午三點開始，領取實名制快篩"},
