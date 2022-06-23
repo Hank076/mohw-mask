@@ -419,6 +419,7 @@ locations = [
 {"lng":"121.5291","lat":"25.11256","name":"士東藥局","id":"5901153941","tel":"0228760588","addr":"臺北市士林區士東路91巷3號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"121.51","lat":"25.08468","name":"杏一士林延平藥局","id":"5901153969","tel":"0228112937","addr":"臺北市士林區延平北路5段250號(1樓)、252號1樓","business_week":"OXXOXXXOOXOOXXXOOXOOX","memo":"周一至周六中午12點販售實名制快篩試劑"},
 {"lng":"121.5216","lat":"25.09562","name":"文昌春天藥局","id":"5901153996","tel":"0228838539","addr":"臺北市士林區文昌路44號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.5213","lat":"25.09634","name":"文昌大藥局","id":"5901154000","tel":"0228376196","addr":"臺北市士林區文昌路72號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩已開始販售，每日提供醫護警消人員優先購買"},
 {"lng":"121.5315","lat":"25.106","name":"忠義台安藥局","id":"5901154019","tel":"0228380685","addr":"臺北市士林區忠義街72號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日上午9點到晚上9點（當日份數售完即結束販售）"},
 {"lng":"121.5328","lat":"25.10935","name":"向宇藥局","id":"5901154028","tel":"0288661101","addr":"臺北市士林區德行東路217號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5304","lat":"25.11483","name":"天母盛康藥局","id":"5901154055","tel":"0228720208","addr":"臺北市士林區天母東路8巷84號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩每日14:00開始，賣完為止。"},
