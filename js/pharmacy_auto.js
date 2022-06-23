@@ -2746,6 +2746,7 @@ locations = [
 {"lng":"121.444306","lat":"25.183443","name":"池慶藥局","id":"5931102452","tel":"0226238852","addr":"新北市淡水區中山北路2段5號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售15:00到16:00"},
 {"lng":"121.4414","lat":"25.17107","name":"淡水藥局","id":"5931102461","tel":"0286313663","addr":"新北市淡水區中山路127號(1、2樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"121.447","lat":"25.172","name":"水源藥局","id":"5931102489","tel":"0226295233","addr":"新北市淡水區水源街1段133號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
+{"lng":"121.6421","lat":"25.0656","name":"麒豐藥局","id":"5931110034","tel":"0226434737","addr":"新北市汐止區樟樹一路135巷2號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"實名制口罩銷售時間9:30~21:00"},
 {"lng":"121.6561","lat":"25.06311","name":"春德堂藥局","id":"5931110258","tel":"0226422048","addr":"新北市汐止區新台五路1段220號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩 周一~周六 1300開始，售完為止（無發放號碼牌"},
 {"lng":"121.632","lat":"25.07005","name":"品康藥局","id":"5931111586","tel":"0226954441","addr":"新北市汐止區湖前街47號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午2點販售實名制快篩"},
 {"lng":"121.6648","lat":"25.07268","name":"廣誠藥師藥局","id":"5931111737","tel":"0286916091","addr":"新北市汐止區建成路22號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間AM 9:30 到PM 10:00 全年無休"},
