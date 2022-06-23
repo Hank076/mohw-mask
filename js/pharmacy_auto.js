@@ -4307,6 +4307,7 @@ locations = [
 {"lng":"120.2425","lat":"23.572","name":"全仁藥局","id":"5939201336","tel":"057852721","addr":"雲林縣水林鄉水林路130號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩實名制星期一到星期日上午8點開賣（視快篩到貨時間開賣）"},
 {"lng":"120.2406","lat":"23.57206","name":"金花藥局","id":"5939201345","tel":"057856112","addr":"雲林縣水林鄉水北村水林路222號","business_week":"OOOOOOXOOXOOXXXXXXXXX","memo":"禮拜三六半天，休息時間12-14"},
 {"lng":"120.2466","lat":"23.57223","name":"玉璽藥局","id":"5939201354","tel":"057856019","addr":"雲林縣水林鄉水南村水林路115號之1","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"實名制快篩早上8:30 開賣，售完為止"},
+{"lng":"120.2444","lat":"23.46605","name":"石原藥局","id":"5940010154","tel":"053792389","addr":"嘉義縣朴子市中正里中正路149號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"有營業時間8點起售快篩售完6點為止"},
 {"lng":"120.2445","lat":"23.46537","name":"榮一藥局","id":"5940011286","tel":"053792448","addr":"嘉義縣朴子市山通路61號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制周一至周日上午09點開始銷售至售完為止"},
 {"lng":"120.2427","lat":"23.45932","name":"正仁藥局","id":"5940011295","tel":"053798978","addr":"嘉義縣朴子市竹圍里南通路三段559號","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"上午八點20分開始販售快篩試劑"},
 {"lng":"120.2446","lat":"23.46725","name":"開元藥局","id":"5940011302","tel":"053700014","addr":"嘉義縣朴子市開元路154號","business_week":"OOOOOOOOOOOOXXXXXXXXX","memo":"週一至週五08:30~18:00，週六、週日8:30~售完為止，下午休息。"},
