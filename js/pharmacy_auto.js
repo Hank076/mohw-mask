@@ -1629,6 +1629,7 @@ locations = [
 {"lng":"120.3056","lat":"22.60341","name":"忠純藥局","id":"5907360664","tel":"073366886","addr":"高雄市前鎮區中華五路1009號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"120.3291","lat":"22.60547","name":"前鎮大樹藥局","id":"5907360673","tel":"077137171","addr":"高雄市前鎮區瑞隆路472號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"120.2724","lat":"22.60775","name":"瑞康藥師藥局","id":"5907370053","tel":"075718985","addr":"高雄市旗津區中洲三路597號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"藥局販售口罩時間，依藥局門口公告時間為主(售完為止)"},
+{"lng":"120.353066","lat":"22.566526","name":"新朋友藥師藥局小港店","id":"5907380175","tel":"078065361","addr":"高雄市小港區漢民路254號","business_week":"OOOOOXOOOOOOXOOOOOOXO","memo":"快篩週一至週五早上9：00開始販售賣完為止，週六日不販售快篩，週六公休"},
 {"lng":"120.3586","lat":"22.58393","name":"安安藥師藥局","id":"5907380255","tel":"077915933","addr":"高雄市小港區孔鳳路565號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.3587","lat":"22.5828","name":"大樹孔鳳藥局","id":"5907380264","tel":"077918521","addr":"高雄市小港區孔鳳路519、521號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"120.3488","lat":"22.56552","name":"富康活力藥局小港店","id":"5907380291","tel":"078020333","addr":"高雄市小港區二苓路204號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
