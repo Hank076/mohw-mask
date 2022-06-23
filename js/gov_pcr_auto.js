@@ -314,7 +314,7 @@ gov_pcr_locations = [
 {"lng":"120.315601","lat":"22.685597","name":"福山診所","id":"3502033297","tel":"073482323","addr":"高雄市左營區重愛路218號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"4\/3 星期日只有上午診.其他均正常門診"},
 {"lng":"120.293929","lat":"22.633792","name":"余國榮耳鼻咽喉科診所","id":"3502070825","tel":"072167126","addr":"高雄市前金區中華三路227 號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"6／3端午節全日休診， 其餘不變"},
 {"lng":"120.255339","lat":"22.72978361","name":"蔡政達診所","id":"3542200272","tel":"076173295","addr":"高雄市梓官區廣澤路2號2樓","business_week":"OOOOOOXOOOOOXXOOOOOXO","memo":"端午節休診.星期六.日正常門診"},
-{"lng":"120.3138301","lat":"22.63357609","name":"雄大診所","id":"3507330595","tel":"072232000","addr":"高雄市新興區民族二路90號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"1110401起，神經外科及一般外科夜間及週六停診；復健夜間暫停治療。端午節正常看診。"},
+{"lng":"120.3138301","lat":"22.63357609","name":"雄大診所","id":"3507330595","tel":"072232000","addr":"高雄市新興區民族二路90號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"1110401起，神經外科及一般外科夜間及週六停診；復健夜間暫停治療。官方LINE ：ID : @237wbxxk"},
 {"lng":"120.297783","lat":"22.72363","name":"林邑樵耳鼻喉科診所","id":"3507310164","tel":"073600819","addr":"高雄市楠梓區益群路6號","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"2／26早上下午晚上開診2／27早上下午晚上開診2／28早上下午晚上開診6／3-6／4正常門診6／5早晚診"},
 {"lng":"120.329623","lat":"22.726123","name":"建霖診所","id":"3507310342","tel":"073523006","addr":"高雄市楠梓區鳳楠路248號1樓","business_week":"OOOOOOOOOOOOXXOOOOOOO"},
 {"lng":"120.298018","lat":"22.71554","name":"季建華耳鼻喉科診所","id":"3507310351","tel":"073663331","addr":"高雄市楠梓區加昌路618號1樓","business_week":"OOOOOOXOOOOOXXOOOOOOX"},
