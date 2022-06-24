@@ -2668,7 +2668,7 @@ locations = [
 {"lng":"121.4221","lat":"24.99391","name":"世淇健保藥局","id":"5931072520","tel":"0226842255","addr":"新北市樹林區復興路50號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4197","lat":"24.97853","name":"樂澄藥局","id":"5931072539","tel":"0286860093","addr":"新北市樹林區國凱街32-3號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩每天9:30發售，第一手訊息請參閱樂澄藥局官方臉書"},
 {"lng":"121.4227","lat":"24.99003","name":"永賀藥局","id":"5931072575","tel":"0226815801","addr":"新北市樹林區中山路1段127號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
-{"lng":"121.3941","lat":"24.97095","name":"佳園藥局","id":"5931072584","tel":"0226685056","addr":"新北市樹林區佳園路一段41巷20號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.3941","lat":"24.97095","name":"佳園藥局","id":"5931072584","tel":"0226685056","addr":"新北市樹林區佳園路1段41巷20號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.3477","lat":"24.95354","name":"林政德西藥局","id":"5931080031","tel":"0226781412","addr":"新北市鶯歌區建國路256號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"春節期間看診時段請電洽"},
 {"lng":"121.3654","lat":"24.95653","name":"快安藥師藥局","id":"5931080148","tel":"0226792356","addr":"新北市鶯歌區中正一路94、96號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩早上8:30開賣"},
 {"lng":"121.3254","lat":"24.97248","name":"嘉泰藥師藥局","id":"5931081216","tel":"0226709668","addr":"新北市鶯歌區鶯桃路2段31號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩隨時皆可領取【星期日公休】"},
