@@ -2939,6 +2939,7 @@ locations = [
 {"lng":"121.6184","lat":"25.00373","name":"健康小站藥局","id":"5931181195","tel":"0226629568","addr":"新北市深坑區埔新里北深路2段75號","business_week":"OOOOOOXOOOOOOOOOOOOXO","memo":"販售時間"},
 {"lng":"121.6209","lat":"25.00282","name":"怡恩藥局","id":"5931181239","tel":"0226620285","addr":"新北市深坑區埔新街41號","business_week":"OOOOOOXOOOOOXOOOOOOXO","memo":"快篩晚上九點後停賣"},
 {"lng":"121.6017","lat":"25.00351","name":"福康藥粧藥局","id":"5931181257","tel":"0226646529","addr":"新北市深坑區北深路3段175號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日早上8:30開賣，賣完為止"},
+{"lng":"121.658","lat":"24.99424","name":"碇康藥局","id":"5931190514","tel":"0226634229","addr":"新北市石碇區潭邊里石崁24-1號","business_week":"XOOXXXXOOOXXXXOOOXXXX"},
 {"lng":"121.5032","lat":"25.25816","name":"三芝藥師藥局","id":"5931211045","tel":"0286353982","addr":"新北市三芝區中正路1段43號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4053","lat":"25.14971","name":"杏家藥局","id":"5931231127","tel":"0226105369","addr":"新北市八里區中華路2段256號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"121.4052","lat":"25.15151","name":"八里藥師藥局","id":"5931231181","tel":"0226101212","addr":"新北市八里區中山路2段226號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
