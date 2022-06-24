@@ -1433,7 +1433,7 @@ locations = [
 {"lng":"120.3457","lat":"22.67722","name":"新高橋藥局仁雄店","id":"5907080223","tel":"073485857","addr":"高雄市仁武區赤山里仁雄路89-3號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"藥局電話07-3743243"},
 {"lng":"120.3469","lat":"22.67811","name":"大樹仁武藥局","id":"5907080232","tel":"073744777","addr":"高雄市仁武區赤山里仁雄路80-9號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"120.3313","lat":"22.69072","name":"仁同藥局","id":"5907080250","tel":"073736142","addr":"高雄市仁武區八卦里永仁街706號1樓","business_week":"OOOOOOOXXXXXXXXXXXXXX","memo":"可購買快篩試劑時間每日早上7:30到8:30"},
-{"lng":"120.3516","lat":"22.69985","name":"興德昌藥局","id":"5907080269","tel":"073757005","addr":"高雄市仁武區文武里中華路232號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"固定週一至週日14:30~16:00開始發放號碼牌並依序販售快篩.售完為止"},
+{"lng":"120.3516","lat":"22.69985","name":"興德昌藥局","id":"5907080269","tel":"073757005","addr":"高雄市仁武區文武里中華路232號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"固定週一至週日08:00~22:00開始販售快篩.售完為止"},
 {"lng":"120.3422","lat":"22.68538","name":"群邦藥局","id":"5907080303","tel":"073745985","addr":"高雄市仁武區八德東路180號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"每日8:30開始販售公費快篩（售完為止），星期日公休停止販售快篩"},
 {"lng":"120.3297","lat":"22.68191","name":"德杏藥局","id":"5907080321","tel":"073735936","addr":"高雄市仁武區永仁街20號1樓","business_week":"OOOOOXXOOOOOOXXXXXXOX","memo":"FB粉絲專頁會有即時公告喔@DEXINGPHARMACY 快篩預計10:00開賣喔~"},
 {"lng":"120.3535","lat":"22.7011","name":"文武藥局","id":"5907080330","tel":"073733551","addr":"高雄市仁武區文武里中華路353號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
