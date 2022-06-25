@@ -2422,6 +2422,7 @@ locations = [
 {"lng":"121.4998","lat":"25.00221","name":"一安藥妝藥局","id":"5931043565","tel":"0222483778","addr":"新北市中和區中和路9號1.2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午3點開始發號碼牌販售快篩"},
 {"lng":"121.4812","lat":"25.0006","name":"銓家藥局","id":"5931043627","tel":"0222257728","addr":"新北市中和區員山路319號1-2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩 下午3點販售 六日國定例假不販售"},
 {"lng":"121.4941","lat":"24.99375","name":"雙合藥局","id":"5931043636","tel":"0222476607","addr":"新北市中和區中正路291號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
+{"lng":"121.5004","lat":"24.99323","name":"群芳藥局","id":"5931043663","tel":"0222433729","addr":"新北市中和區和興里中興街73號1樓","business_week":"OOXOOOXOOOOOOOOOOOOOO","memo":"周12456早上9:10發快篩星期3日下午3:10"},
 {"lng":"121.4651","lat":"24.99646","name":"捷勝藥師藥局","id":"5931043690","tel":"0229646225","addr":"新北市中和區華順街122號〈1樓〉","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"每天0830開始賣快篩（週日無）6／3只營業到1800"},
 {"lng":"121.4814","lat":"24.99994","name":"杏元藥局","id":"5931043761","tel":"0222236868","addr":"新北市中和區員山路172號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩1400 發放，現場排隊。"},
 {"lng":"121.5091","lat":"24.99895","name":"宜安健康人生藥局","id":"5931043770","tel":"0229224648","addr":"新北市中和區宜安路162號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"下午六點起發實名制快篩"},
