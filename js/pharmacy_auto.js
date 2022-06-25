@@ -2853,6 +2853,7 @@ locations = [
 {"lng":"121.4698","lat":"25.0841","name":"康群生活藥局","id":"5931142303","tel":"0282835630","addr":"新北市蘆洲區中正路105號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"快篩領取時間每日14:00，現場排隊現場領取，不發號碼牌。"},
 {"lng":"121.4725","lat":"25.07918","name":"世全藥局","id":"5931142429","tel":"0222817386","addr":"新北市蘆洲區民生街133號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩販賣時間 . 每日上午11點開始.周日停售"},
 {"lng":"121.4694","lat":"25.08493","name":"萊康連鎖藥局","id":"5931142509","tel":"0282867383","addr":"新北市蘆洲區中正路126號1樓","business_week":"OOOOOXOOOOOOXXOOOOOXO","memo":"營業時間皆有販售"},
+{"lng":"121.4739","lat":"25.08204","name":"幸安藥局","id":"5931142572","tel":"0282835389","addr":"新北市蘆洲區中山二路53號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上九點販售（六月 619  626無販售）"},
 {"lng":"121.4633","lat":"25.07973","name":"華安大藥局","id":"5931142634","tel":"0222881168","addr":"新北市蘆洲區長安街48號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.4821","lat":"25.08454","name":"陽光幸福藥局","id":"5931142670","tel":"0228486566","addr":"新北市蘆洲區重陽街88號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制 早上9點開始販售 採現場排隊"},
 {"lng":"121.4798","lat":"25.08763","name":"芯聯藥局","id":"5931142778","tel":"0282866803","addr":"新北市蘆洲區民族路210號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩 早上9:30開始販售 售完為止"},
