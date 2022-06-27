@@ -578,6 +578,7 @@ locations = [
 {"lng":"121.5003","lat":"25.02495","name":"聯慶大藥局","id":"5901190668","tel":"0223039850","addr":"臺北市萬華區萬大路306號1樓","business_week":"OOOOOOXXXXXXXXXXXXXXX"},
 {"lng":"121.5052","lat":"25.02581","name":"信義藥局","id":"5901190686","tel":"0223074599","addr":"臺北市萬華區青年路28號","business_week":"OOOOOOXXXXXXXXOOOOOXX","memo":"12點領（快篩） 視排隊狀況發號碼牌"},
 {"lng":"121.4983","lat":"25.02177","name":"欣安藥局","id":"5901190784","tel":"0223327830","addr":"臺北市萬華區東園街190、192號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"販售時間13:00-20:00止"},
+{"lng":"121.4948","lat":"25.02529","name":"寶興大藥局","id":"5901192162","tel":"0223013375","addr":"臺北市萬華區寶興街119號","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"周一至周五12：00開始代售，現場排隊，不發號碼牌"},
 {"lng":"121.5055","lat":"25.02592","name":"康之友藥局","id":"5901192180","tel":"0223011598","addr":"臺北市萬華區青年路20號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午兩點發號碼牌"},
 {"lng":"121.4919","lat":"25.03246","name":"健誠大藥局","id":"5901192448","tel":"0223042223","addr":"臺北市萬華區環河南路2段185號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"實名制快篩販售：周一至周五早上9點開始，周六、周日早上10點開始"},
 {"lng":"121.4946","lat":"25.02784","name":"躍獅西園藥局","id":"5901192546","tel":"0223094063","addr":"臺北市萬華區西園路2段260號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售時段：下午2點至售完為止（政府正常配貨的情況下，現場排隊）"},
