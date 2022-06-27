@@ -2456,6 +2456,7 @@ locations = [
 {"lng":"121.5081","lat":"24.99078","name":"信毅藥局","id":"5931045416","tel":"0229423663","addr":"新北市中和區捷運路56號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5134","lat":"24.99526","name":"千樂台安藥局","id":"5931045425","tel":"0229406029","addr":"新北市中和區安樂路101之2號1、2樓及101之3號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5032","lat":"24.9902","name":"台昕藥局","id":"5931045443","tel":"0222406080","addr":"新北市中和區復興路255號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.4949","lat":"24.99236","name":"安華藥局","id":"5931045452","tel":"0222426010","addr":"新北市中和區圓通路293之2號2樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.4865","lat":"24.99805","name":"富康活力遠東藥局","id":"5931045461","tel":"0282262299","addr":"新北市中和區建八路10之1號1樓","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"因屬園區大樓，販售時間請依LINE社群公告"},
 {"lng":"121.5141","lat":"25.00377","name":"富康活力永禎藥局","id":"5931045470","tel":"0229215999","addr":"新北市中和區永貞路254號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5136","lat":"24.98825","name":"好意藥局","id":"5931045498","tel":"0289416598","addr":"新北市中和區景新街467巷3號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"週日無販售快篩試劑"},
