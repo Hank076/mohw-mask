@@ -1250,6 +1250,7 @@ locations = [
 {"lng":"120.2322","lat":"22.96171","name":"高福藥局","id":"5905320331","tel":"062904668","addr":"臺南市東區大智里德東街168號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"禮拜一至六**早上10點**開始販售實名制快篩試劑"},
 {"lng":"120.2215","lat":"22.97337","name":"巴克禮中西藥局","id":"5905320368","tel":"06","addr":"臺南市東區中華東路三段377巷8號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.2253","lat":"22.97603","name":"佑全中華藥局","id":"5905320466","tel":"062906386","addr":"臺南市東區中華東路三段215號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"星期一-六08:00-21:00"},
+{"lng":"120.2367","lat":"22.96862","name":"美生藥局","id":"5905320475","tel":"062670035","addr":"臺南市東區德高里自由路一段161號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.2168","lat":"22.99104","name":"舒惠藥局","id":"5905320537","tel":"062087052","addr":"臺南市東區青年路432-6號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"快篩每日販賣時間早上8:30開始"},
 {"lng":"120.2335","lat":"22.98546","name":"佑丞藥局","id":"5905320546","tel":"062902709","addr":"臺南市東區中華東路二段129號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週一至週六早上十點開放領取 請備好鈔票不找錢"},
 {"lng":"120.2274","lat":"22.96762","name":"杏一台南崇德藥局","id":"5905320564","tel":"062671939","addr":"臺南市東區崇德路674號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"健保快篩發送時間:周一至周日:下午:15:00"},
