@@ -3651,6 +3651,7 @@ locations = [
 {"lng":"120.7226","lat":"24.23821","name":"復生藥局","id":"5936010780","tel":"0425261803","addr":"臺中市豐原區田心路2段269號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間９：００２１：３０，實名制快篩每日下午２：００販售"},
 {"lng":"120.7184","lat":"24.25345","name":"惠笙大藥局","id":"5936010888","tel":"0425279912","addr":"臺中市豐原區三民路180號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"120.7074","lat":"24.24539","name":"安效藥局","id":"5936012088","tel":"0425269086","addr":"臺中市豐原區西安里西勢路114巷32號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩代售時間，2\/12不代售，(星期四，星期日不代售)下午2:00-2:30排隊購買"},
+{"lng":"120.7173","lat":"24.25196","name":"林芳泉藥局","id":"5936012097","tel":"0425222308","addr":"臺中市豐原區中正路二二八號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日 9:30 排隊方式販售。"},
 {"lng":"120.7208","lat":"24.25202","name":"錦堂藥局","id":"5936012113","tel":"0425229969","addr":"臺中市豐原區中正路106號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"早上 9:00 開始販售"},
 {"lng":"120.7181","lat":"24.25348","name":"美日藥局","id":"5936012140","tel":"0425228490","addr":"臺中市豐原區三民路188號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上8:00販售（如貨運延遲則改為14:00）"},
 {"lng":"120.7166","lat":"24.25276","name":"恆安大藥局","id":"5936012337","tel":"0425226700","addr":"臺中市豐原區忠孝街46號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"星期日下午及晚上店休"},
