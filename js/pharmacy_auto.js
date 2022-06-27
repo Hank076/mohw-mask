@@ -438,6 +438,7 @@ locations = [
 {"lng":"121.5004","lat":"25.14047","name":"良興藥局","id":"5901161890","tel":"0228933360","addr":"臺北市北投區中和街286號","business_week":"XXXXXXXXXXXXXXOOOOOOX","memo":"18:30 開始營業至凌晨 12:30"},
 {"lng":"121.4998","lat":"25.14108","name":"康揚藥局","id":"5901161934","tel":"0228946520","addr":"臺北市北投區中和街322號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"（ 實名制快篩發放時間: 14:00~16:00）周日公休"},
 {"lng":"121.5073","lat":"25.11707","name":"祐鄰藥局","id":"5901162119","tel":"0228281232","addr":"臺北市北投區尊賢街250號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間隨到隨買，售完為止"},
+{"lng":"121.5014","lat":"25.13145","name":"小明藥局","id":"5901162173","tel":"0228928950","addr":"臺北市北投區中央南路1段69號2樓","business_week":"OOOOOOOXXXXXXXXXXXXXX","memo":"快篩實名制購買時間:週一至週六早上8:00-9:00"},
 {"lng":"121.4997","lat":"25.14097","name":"上頤藥局","id":"5901162306","tel":"0228981230","addr":"臺北市北投區中和街327號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售時間:星期一~六 下午2點開賣，星期日停售"},
 {"lng":"121.5155","lat":"25.11074","name":"長宜藥局","id":"5901162477","tel":"0228216605","addr":"臺北市北投區自強街112號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩試劑發放時間:14:00~售完為止，會依政府配送狀況調整"},
 {"lng":"121.5033","lat":"25.13566","name":"大家藥局","id":"5901162806","tel":"0228959000","addr":"臺北市北投區光明路182號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩早上9點開賣 售完為止 沒有號碼牌 現場排隊"},
