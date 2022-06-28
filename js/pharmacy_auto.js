@@ -961,6 +961,7 @@ locations = [
 {"lng":"120.7097","lat":"24.14406","name":"康是美藥局東英店","id":"5903230192","tel":"0422139034","addr":"臺中市東區十甲路450號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩於每日下午3點開賣"},
 {"lng":"120.6893","lat":"24.14543","name":"東京藥師藥局","id":"5903230209","tel":"0422132278","addr":"臺中市東區復興路五段149號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.7081","lat":"24.14425","name":"十甲東亞藥師大藥局","id":"5903230218","tel":"0422118879","addr":"臺中市東區十甲路410號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名快篩 星期一至六 每日下午一點至五點販售 售完為止"},
+{"lng":"120.7104","lat":"24.14464","name":"東區小林健保藥局","id":"5903230227","tel":"0422135148","addr":"臺中市東區十甲路485號1樓","business_week":"OOOOOOXOOOOOXOXXXXXXX"},
 {"lng":"120.6881","lat":"24.13635","name":"佳境藥局","id":"5903230236","tel":"0422211395","addr":"臺中市東區大智路1-1號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"下午14:00開始販售實名制快篩"},
 {"lng":"120.6615","lat":"24.13783","name":"嶸曜藥局","id":"5903240090","tel":"0423782478","addr":"臺中市西區美村路1段592號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週一至週六11:30至21:30販賣實名制快篩（預約制），售完為止"},
 {"lng":"120.6758","lat":"24.13714","name":"利民藥局","id":"5903240143","tel":"0422292931","addr":"臺中市西區四維街23號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"平日營業時間10-20，周六10-15，周日休。實名制快篩營業時間販售至售完或營業結束。"},
