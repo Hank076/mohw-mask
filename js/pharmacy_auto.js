@@ -490,6 +490,7 @@ locations = [
 {"lng":"121.5621","lat":"25.0296","name":"信桉藥局","id":"5901172740","tel":"0287860005","addr":"臺北市信義區莊敬路236號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩販售 W1-5 11:00-20:00，W6 11:00-15:00"},
 {"lng":"121.5685","lat":"25.04266","name":"安心藥局","id":"5901172820","tel":"0227474992","addr":"臺北市信義區永吉路30巷148弄4之1號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"快篩代售時間14:00起現場排隊"},
 {"lng":"121.5543","lat":"25.02294","name":"九州藥局","id":"5901172839","tel":"0287323331","addr":"臺北市信義區和平東路3段239號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"121.5739","lat":"25.04572","name":"永吉藥局","id":"5901172857","tel":"0287874043","addr":"臺北市信義區永吉路213號","business_week":"OOOOOOXXXXXXXXXXXXXXX","memo":"有關快篩，隨時賣!"},
 {"lng":"121.5688","lat":"25.02617","name":"躍獅松仁藥局","id":"5901172924","tel":"0227238626","addr":"臺北市信義區松仁路233號(實際營業地址:1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售時段:下午13:30開始售完至晚上19:00前"},
 {"lng":"121.5753","lat":"25.03752","name":"喜樂藥局","id":"5901172933","tel":"0227275797","addr":"臺北市信義區松德路125號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"周一至周六0900開始販發放實名制快篩.假日休"},
 {"lng":"121.5582","lat":"25.03659","name":"榮泰藥局","id":"5901172964","tel":"0277296777","addr":"臺北市信義區光復南路419巷19號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上9:00開始發放實名制快篩號碼牌"},
