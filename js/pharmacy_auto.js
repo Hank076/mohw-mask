@@ -2293,6 +2293,7 @@ locations = [
 {"lng":"121.4982","lat":"25.07515","name":"恆源藥局","id":"5931025745","tel":"0229765002","addr":"新北市三重區仁興街28巷41號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"國定假日有提供調劑業務"},
 {"lng":"121.4831","lat":"25.08392","name":"芯慈藥局","id":"5931025781","tel":"0228570670","addr":"新北市三重區永安北路2段105號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"國定假日有提供藥劑服務"},
 {"lng":"121.4892","lat":"25.08623","name":"銀河藥局","id":"5931025790","tel":"0228578688","addr":"新北市三重區五華街247號1樓","business_week":"OOOOOOOOOOOOXOOOOOOXX","memo":"實名制快篩販售時間：周一至週五下午三點，周六上午十點，星期日不販售"},
+{"lng":"121.4827","lat":"25.07837","name":"永福藥局","id":"5931025807","tel":"0222861161","addr":"新北市三重區永福街3號1樓","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"營業時間都可以買快篩"},
 {"lng":"121.4826","lat":"25.06755","name":"美康中正北藥局","id":"5931025825","tel":"0229882836","addr":"新北市三重區中正北路149號1樓2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4722","lat":"25.04874","name":"專品先嗇宮藥局","id":"5931025843","tel":"0285124658","addr":"新北市三重區光復路1段47號1樓","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"國定假日有提供藥劑業務"},
 {"lng":"121.4898","lat":"25.05306","name":"宏安藥局","id":"5931025870","tel":"0229785866","addr":"新北市三重區集美街158號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
