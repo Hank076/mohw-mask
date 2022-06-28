@@ -2215,6 +2215,7 @@ locations = [
 {"lng":"121.4955","lat":"25.06775","name":"新英藥師藥局","id":"5931020624","tel":"0229824840","addr":"新北市三重區雙園街37號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩每日10:00起隨到隨買，不發號碼牌。"},
 {"lng":"121.4898","lat":"25.07265","name":"厚德藥局","id":"5931020688","tel":"0229717277","addr":"新北市三重區大智街175號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"防疫口罩於早上0830發放，售完為止"},
 {"lng":"121.4852","lat":"25.06355","name":"建興藥局","id":"5931020697","tel":"0229888757","addr":"新北市三重區三民街105號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"5／9實名制快篩早上九點.自備零錢"},
+{"lng":"121.4904","lat":"25.05321","name":"建芳藥局","id":"5931020704","tel":"0229763351","addr":"新北市三重區集美街174號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4838","lat":"25.07641","name":"忠民藥局","id":"5931020740","tel":"0222868256","addr":"新北市三重區車路頭街162號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.4928","lat":"25.06775","name":"杜廣德藥師藥局","id":"5931020795","tel":"0229843152","addr":"新北市三重區大智街53號","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"防疫快篩代售時間 星期一到星期日 上午10:30開始販售"},
 {"lng":"121.4828","lat":"25.06503","name":"三民藥師藥局","id":"5931020820","tel":"0229829328","addr":"新北市三重區三民街134號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
