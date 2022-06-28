@@ -1429,6 +1429,7 @@ locations = [
 {"lng":"120.3062","lat":"22.75491","name":"安麗兒藥局橋頭店","id":"5907110066","tel":"076111209","addr":"高雄市橋頭區隆豐路148號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"上午10點開始販售快篩~售完為止"},
 {"lng":"120.3099","lat":"22.74901","name":"昱佳藥局","id":"5907110084","tel":"076110302","addr":"高雄市橋頭區仕豐南路66號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩試劑售時間:早上7:30開始發售（售完為止）"},
 {"lng":"120.3087","lat":"22.75144","name":"順和藥局","id":"5907110093","tel":"076118688","addr":"高雄市橋頭區仕豐路5號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"政府快篩發放時間晚上10點-10點半"},
+{"lng":"120.31051","lat":"22.7563","name":"民權藥局","id":"5907110146","tel":"076113632","addr":"高雄市橋頭區橋頭里28鄰成功路227號1樓-229號1樓","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"5／3起每日快篩販售時間為下午1:30-3:30"},
 {"lng":"120.3134","lat":"22.75229","name":"丁丁藥局橋頭店","id":"5907110155","tel":"076113633","addr":"高雄市橋頭區成功南路148巷3號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售時間自早上9點起"},
 {"lng":"120.3612","lat":"22.79345","name":"和德藥局燕巢店","id":"5907120017","tel":"076143499","addr":"高雄市燕巢區西燕里中民路628號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"開放購買快篩及0-6歲免費領取快篩試劑時間為早上9點至晚上9點"},
 {"lng":"120.3321","lat":"22.88075","name":"德昌藥局阿蓮店","id":"5907140108","tel":"076318868","addr":"高雄市阿蓮區阿蓮里中正路456號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天8:00販售實名制快篩，售完為止"},
