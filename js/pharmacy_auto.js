@@ -475,6 +475,7 @@ locations = [
 {"lng":"121.5696","lat":"25.02425","name":"必欣藥局","id":"5901170059","tel":"0227225060","addr":"臺北市信義區松仁路264號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售時間：星期一至星期日午13：30開始"},
 {"lng":"121.5643","lat":"25.02656","name":"福華藥局","id":"5901170139","tel":"0227208527","addr":"臺北市信義區吳興街281巷3號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"下午1:00配合政府發售快篩試劑"},
 {"lng":"121.5823","lat":"25.04136","name":"臺陽藥局","id":"5901170184","tel":"0227283403","addr":"臺北市信義區大道路61號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩試劑早上9:30現場販售，週日沒有販售"},
+{"lng":"121.5753","lat":"25.03976","name":"杏康藥局","id":"5901170264","tel":"0223457422","addr":"臺北市信義區忠孝東路5段372巷27弄68-2號1F","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"早上9:30開始販售"},
 {"lng":"121.5777","lat":"25.04256","name":"慧生藥局","id":"5901170335","tel":"0227647138","addr":"臺北市信義區松山路310號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩開賣時間:每天 上午8:40起"},
 {"lng":"121.5653","lat":"25.04222","name":"鼎泰藥局","id":"5901170406","tel":"0227620617","addr":"臺北市信義區基隆路1段155號1樓","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"周一至周五 9：30-21：30 （9:30 開始發快篩） 5／1 有營業"},
 {"lng":"121.5781","lat":"25.04526","name":"松山大藥局","id":"5901170433","tel":"0932156305","addr":"臺北市信義區永吉路436號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"購防疫快篩早上10:00_發售. 週日休息"},
