@@ -2736,6 +2736,7 @@ locations = [
 {"lng":"121.6331","lat":"25.06651","name":"汐止藥局","id":"5931113188","tel":"0286932587","addr":"新北市汐止區福德二路70號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"121.6637","lat":"25.06809","name":"博昱忠孝藥局","id":"5931113197","tel":"0286423838","addr":"新北市汐止區忠孝東路278號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午兩點開始賣快篩"},
 {"lng":"121.6638","lat":"25.06854","name":"富康活力忠孝藥局","id":"5931113204","tel":"0226422666","addr":"新北市汐止區忠孝東路279號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.8076","lat":"25.10913","name":"本平藥局","id":"5931120049","tel":"0224972167","addr":"新北市瑞芳區瑞芳街45號","business_week":"OOOOOXXOOOOOXXOOOOOXX"},
 {"lng":"121.8086","lat":"25.10743","name":"瑞聯藥局","id":"5931120156","tel":"0224975852","addr":"新北市瑞芳區明燈路3段11號","business_week":"OOOOOOXOOOOOOXOOXOOXX"},
 {"lng":"121.762","lat":"25.10079","name":"大埔藥局","id":"5931121279","tel":"0224587020","addr":"新北市瑞芳區大埔路128-3號1樓","business_week":"OOOOOOOOOOOOOOXXXXXXX","memo":"快篩劑下午1點開賣（含周六日）"},
 {"lng":"121.8055","lat":"25.10773","name":"瑞芳東亞大藥局","id":"5931121297","tel":"0224960179","addr":"新北市瑞芳區中正路84號","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"快篩試劑下午1點開始"},
