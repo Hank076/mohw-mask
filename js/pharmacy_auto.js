@@ -2905,6 +2905,7 @@ locations = [
 {"lng":"121.3619","lat":"25.07016","name":"林口辰安藥局","id":"5931171886","tel":"0226099151","addr":"新北市林口區文化三路1段191巷5號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩1600開始販售，現場排隊領取"},
 {"lng":"121.3632","lat":"25.07147","name":"奇異果三井藥局","id":"5931171895","tel":"0226068650","addr":"新北市林口區文化三路1段241號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩每日13:00開賣喔"},
 {"lng":"121.6172","lat":"25.002","name":"介新大藥局","id":"5931181104","tel":"0226648149","addr":"新北市深坑區文化街94號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"執業時段請電洽藥局"},
+{"lng":"121.6056","lat":"25.00171","name":"信東深坑北深藥局","id":"5931181159","tel":"0277092976","addr":"新北市深坑區北深路3段103號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"W1-W5快篩代售時間13:00-20:00； W6:13:00-17；00"},
 {"lng":"121.6184","lat":"25.00373","name":"健康小站藥局","id":"5931181195","tel":"0226629568","addr":"新北市深坑區埔新里北深路2段75號","business_week":"OOOOOOXOOOOOOOOOOOOXO","memo":"販售時間"},
 {"lng":"121.6209","lat":"25.00282","name":"怡恩藥局","id":"5931181239","tel":"0226620285","addr":"新北市深坑區埔新街41號","business_week":"OOOOOOXOOOOOXOOOOOOXO","memo":"快篩晚上九點後停賣"},
 {"lng":"121.6017","lat":"25.00351","name":"福康藥粧藥局","id":"5931181257","tel":"0226646529","addr":"新北市深坑區北深路3段175號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日早上8:30開賣，賣完為止"},
