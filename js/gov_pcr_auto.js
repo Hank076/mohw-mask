@@ -375,7 +375,7 @@ gov_pcr_locations = [
 {"lng":"120.619424","lat":"24.347256","name":"力倫診所","id":"3536031832","tel":"0426805889","addr":"台中市大甲區蔣公路246號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"111／06／03休診 111／06／04中午12點後休診"},
 {"lng":"120.681089","lat":"24.162638","name":"詠康耳鼻喉科診所","id":"3503260770","tel":"0422352015","addr":"台中市北區學士路312號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"6／4休診"},
 {"lng":"120.645563","lat":"24.170529","name":"祥威耳鼻喉科診所","id":"3503271915","tel":"0427000132","addr":"台中市西屯區青海路二段240-8號","business_week":"OXOXXOOOXXXOXXXXOOOXO","memo":"2\/26-2\/28全日看診"},
-{"lng":"120.6495592","lat":"24.1662212","name":"翁耳鼻喉科診所","id":"3517062960","tel":"0424526346","addr":"台中市西屯區青海路二段209-3號","business_week":"OOOXOOXOOOXOOXOXOXOXX","memo":"6／4上下午門診 晚上休診"},
+{"lng":"120.6495592","lat":"24.1662212","name":"翁耳鼻喉科診所","id":"3517062960","tel":"0424526346","addr":"台中市西屯區青海路二段209-3號","business_week":"OOOXOOXOOOXOOXOXOXOXX","memo":"7月起門診時間 上午8:30-12:00 午晚3:30-7:30   晚休"},
 {"lng":"120.654302","lat":"24.164942","name":"林鴻任耳鼻喉科診所","id":"3517064286","tel":"0423111518","addr":"台中市西屯區青海路一段116號","business_week":"OOXOOXOOOXOOXXOOOOOXX","memo":"星期日早上門診: 08:30 ~ 12:00 6月3日~6月5日休診"},
 {"lng":"120.635127","lat":"24.15214","name":"祥威黎明耳鼻喉科兒科診所","id":"3503281582","tel":"0422541898","addr":"台中市南屯區黎明路2段446號","business_week":"OOXOOOOOOXOOOOOOXOOOO","memo":"6／3-6／5全天看診"},
 {"lng":"120.713165","lat":"24.25098","name":"呂維國婦產科診所","id":"3536012855","tel":"0425262889","addr":"台中市豐原區中正路348號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
