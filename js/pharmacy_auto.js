@@ -2524,6 +2524,7 @@ locations = [
 {"lng":"121.4449","lat":"25.04181","name":"祥好大藥局","id":"5931060744","tel":"0229939051","addr":"新北市新莊區新泰路331號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4262","lat":"25.02423","name":"祐全大藥局","id":"5931060815","tel":"0222026008","addr":"新北市新莊區建安街88號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩代售時間:10:00；現場排隊售完為止.週日不營業"},
 {"lng":"121.4555","lat":"25.0455","name":"禮安藥師藥局","id":"5931060824","tel":"0229942891","addr":"新北市新莊區自立街109號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.4262","lat":"25.01296","name":"恩泰藥局","id":"5931067092","tel":"0222038680","addr":"新北市新莊區民安西路265號-1","business_week":"XOOOOOXXOOOOOXXOOOOXX"},
 {"lng":"121.4552","lat":"25.04131","name":"揚明藥師藥局","id":"5931067109","tel":"0229921473","addr":"新北市新莊區中港路154號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"實名制家用快篩試劑每日9:30開始販賣 注意單雙號分流機制星期日停售"},
 {"lng":"121.4518","lat":"25.05187","name":"蒲陽藥局","id":"5931067136","tel":"0229930069","addr":"新北市新莊區中港路514號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"121.4474","lat":"25.04878","name":"鍵豐藥局","id":"5931067216","tel":"0229917452","addr":"新北市新莊區中和街158號1樓","business_week":"OOOOOOXOOOOOOOOOOOOOO"},
