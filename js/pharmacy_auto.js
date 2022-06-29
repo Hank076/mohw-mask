@@ -1972,6 +1972,7 @@ locations = [
 {"lng":"120.2239","lat":"23.01149","name":"一方藥局","id":"5921041835","tel":"062742419","addr":"臺南市北區開元路485巷41弄28號1樓","business_week":"OOOOOOXOOOOOOXXXXXXXX","memo":"販售快篩時間:星期一六16:30-18:30"},
 {"lng":"120.2084","lat":"23.00521","name":"芳鄰藥局","id":"5921041924","tel":"062811101","addr":"臺南市北區公園北路152號","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"營業時間早上8點~晚上9點"},
 {"lng":"120.2044","lat":"23.01224","name":"康友藥師藥局","id":"5921041979","tel":"062520666","addr":"臺南市北區和緯路二段243號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩之亂沒在怕！「隨到隨買」免排隊！"},
+{"lng":"120.2159","lat":"23.01003","name":"佳一藥局","id":"5921042038","tel":"062511947","addr":"臺南市北區北門路2段519號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期一至六 上午9點開始販售快篩.至售完為止"},
 {"lng":"120.2188","lat":"23.00482","name":"欣平藥局","id":"5921042118","tel":"062354293","addr":"臺南市北區勝利路425號","business_week":"OOOOOOXOOOOOOXOXOOOXX","memo":"固定周一到周六早上8:00開始販售快篩實名制售完為止"},
 {"lng":"120.2197","lat":"23.00691","name":"王大藥局","id":"5921042145","tel":"062086169","addr":"臺南市北區開元路156號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩實名制：週 一  週 六，上午 9:00 開始販售，售完為止 （ 請攜帶健保卡）"},
 {"lng":"120.2097","lat":"23.01532","name":"佳愛藥局","id":"5921042252","tel":"062516697","addr":"臺南市北區西門路四段341巷2號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"平日08:30-12:00 16:00-20:00 週六0830-12:00 國定假日公休"},
