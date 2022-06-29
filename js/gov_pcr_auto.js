@@ -268,7 +268,7 @@ gov_pcr_locations = [
 {"lng":"120.973793","lat":"24.795472","name":"普惠耳鼻喉科","id":"3512011196","tel":"035615151","addr":"新竹市東區食品路259號","business_week":"OOOOOOXOOOOOOXOOOOOXO"},
 {"lng":"120.972097","lat":"24.812424","name":"邱國華耳鼻喉科診所","id":"3512011267","tel":"035358758","addr":"新竹市東區北大路66 號","business_week":"OOOOOOOOOOOOOXOOOOOXX"},
 {"lng":"120.998682","lat":"24.795555","name":"英慈耳鼻喉科診所","id":"3512011356","tel":"035722846","addr":"新竹市東區光復路2段308號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"端午連假6月3日 6月4日 都是上午門診"},
-{"lng":"120.970001","lat":"24.796852","name":"禾康耳鼻喉科診所","id":"3512013449","tel":"035623358","addr":"新竹市東區西大路142號","business_week":"OOOOOOOOOOOOXXOOOOOXX","memo":"6／3休診"},
+{"lng":"120.970001","lat":"24.796852","name":"禾康耳鼻喉科診所","id":"3512013449","tel":"035623358","addr":"新竹市東區西大路142號","business_week":"OOOOOOOOOOOOXXOOOOOXX","memo":"7／1-7／6休診"},
 {"lng":"121.017513","lat":"24.783565","name":"陽光診所","id":"3512013805","tel":"036662028","addr":"新竹市東區光復路一段360之5號","business_week":"OOOOOOOOOOOOXOOOOOOXO"},
 {"lng":"121.011666","lat":"24.789563","name":"昇安診所","id":"3512014115","tel":"036662783","addr":"新竹市東區龍山東路1號","business_week":"OOOOOOXOOOOOXXOOOOOXO","memo":"8:00-12:00；15:00-18:30；19:00-21:00；國定假日當天僅上午1診；除夕上午看診，除夕下午至初三休診"},
 {"lng":"120.972635","lat":"24.808306","name":"晨心兒科診所","id":"3512014133","tel":"035322066","addr":"新竹市東區中央路163號1樓","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"8:00-12:00、15:00-18:00、18:30-21:30"},
