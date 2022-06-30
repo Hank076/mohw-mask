@@ -254,7 +254,7 @@ locations = [
 {"lng":"121.5426","lat":"25.04839","name":"正傑健保藥局","id":"5901102837","tel":"0227310181","addr":"臺北市中山區長安東路2段181號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"下午四點開始販售"},
 {"lng":"121.5216","lat":"25.06024","name":"錦西春天生活藥局","id":"5901102855","tel":"0225312658","addr":"臺北市中山區錦西街10號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩14:40領號碼牌 15:00開始販售"},
 {"lng":"121.5493","lat":"25.08191","name":"保德明水藥局","id":"5901102971","tel":"0285097769","addr":"臺北市中山區北安路608巷4弄1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制晚上七點開賣，不提早發號碼牌"},
-{"lng":"121.5486","lat":"25.08194","name":"大直健康藥局","id":"5901103110","tel":"0225323310","addr":"臺北市中山區北安路591號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"販售時間:W1-W6:09:00-21:00  W7:09:00-17:00"},
+{"lng":"121.5486","lat":"25.08194","name":"大直健康藥局","id":"5901103110","tel":"0225323310","addr":"臺北市中山區北安路591號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"販售時間:W1-W7:09:00-21:00"},
 {"lng":"121.5349","lat":"25.05305","name":"娸淇藥局","id":"5901103147","tel":"0225082762","addr":"臺北市中山區伊通街95號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"口罩販售時間2:30PM(六日無發口罩)4\/2-4\/5 清明休息"},
 {"lng":"121.5435","lat":"25.05615","name":"OK藥師藥局","id":"5901103183","tel":"0225170068","addr":"臺北市中山區興安街95號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"全年無休"},
 {"lng":"121.5269","lat":"25.05018","name":"昶青林森藥局","id":"5901103192","tel":"0225639939","addr":"臺北市中山區林森北路119巷52號","business_week":"OOOOOXXOOOOOOOOOOOOXX","memo":"實名制快篩每日14:00販售，13:30發號碼牌，週日人力不足不發售"},
