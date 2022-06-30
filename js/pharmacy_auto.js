@@ -2508,6 +2508,7 @@ locations = [
 {"lng":"121.542","lat":"24.97145","name":"康倍藥局","id":"5931053212","tel":"0289119185","addr":"新北市新店區中正路134號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5439","lat":"24.97036","name":"富康活力惠國藥局","id":"5931053267","tel":"0229100066","addr":"新北市新店區中正路78號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩，若當日有貨販售，於8:00準時開賣，請攜帶健保卡／居留證，謝謝您。"},
 {"lng":"121.5396","lat":"24.97293","name":"富康活力新店藥局","id":"5931053276","tel":"0229101111","addr":"新北市新店區中正路221號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.5413","lat":"24.98429","name":"北新212藥局","id":"5931053285","tel":"0229183212","addr":"新北市新店區北新路3段212號(2樓)","business_week":"OXOOOOXOOXOOXXXOXXXXX","memo":"依照行一昌勳診所門診時間營業"},
 {"lng":"121.517","lat":"24.9853","name":"安和藥局","id":"5931053310","tel":"0286685309","addr":"新北市新店區安和路3段137號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天下午二點開始販售快篩"},
 {"lng":"121.5396","lat":"24.98307","name":"康宜庭民權藥局","id":"5931053329","tel":"0286655371","addr":"新北市新店區民權路48-2號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名快篩星期一~六14:00開賣現場排隊"},
 {"lng":"121.5398","lat":"24.97777","name":"健詮藥局","id":"5931053347","tel":"0229116312","addr":"新北市新店區建國路119號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"11點發號碼牌，12點半-3點過卡買快篩。最新消息會公佈在臉書「健詮藥局」"},
