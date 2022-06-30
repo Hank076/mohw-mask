@@ -322,7 +322,7 @@ gov_pcr_locations = [
 {"lng":"120.348331","lat":"22.6128","name":"唯均耳鼻喉科診所","id":"3542011935","tel":"077638199","addr":"高雄市鳳山區海洋2路139號","business_week":"OOOOOOXOOOOOOXOOOOOOO"},
 {"lng":"120.458326","lat":"22.469742","name":"侯友益耳鼻喉科診所","id":"3543031646","tel":"088337001","addr":"屏東縣東港鎮光復路一段311號","business_week":"XOOOOOXXXXXXXXOOOOOOX"},
 {"lng":"120.5036206","lat":"22.68724362","name":"華正診所","id":"3543011779","tel":"087378806","addr":"屏東縣屏東市華正路6號","business_week":"OOOOOOXOOOOXXXOOOOOXX"},
-{"lng":"121.608309","lat":"23.982284","name":"嘉光耳鼻喉科診所","id":"3545011124","tel":"038341440","addr":"花蓮縣花蓮市明禮路71之5號","business_week":"OOOOOOOOOOOOXXOOOOOOO","memo":"2／26早上晚上開診2／27早上晚上開診2／28早上下午晚上開診6／3正常門診6／4-6／5早晚診"},
+{"lng":"121.608309","lat":"23.982284","name":"嘉光耳鼻喉科診所","id":"3545011124","tel":"038341440","addr":"花蓮縣花蓮市明禮路71之5號","business_week":"OOOOOOOOOOOOXXOOOOOOO"},
 {"lng":"121.524214","lat":"25.096174","name":"榮清耳鼻喉科診所","id":"3501154420","tel":"0228316878","addr":"台北市士林區文林路483號一樓","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"遇國定假日早上看診"},
 {"lng":"121.523988","lat":"25.094687","name":"小禾馨士林小兒專科診所","id":"3501154528","tel":"0228827333","addr":"台北市士林區中正路289-1號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.509998","lat":"25.083221","name":"慈田耳鼻喉科診所","id":"3501151901","tel":"0228123411","addr":"台北市士林區延平北路5段185號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
