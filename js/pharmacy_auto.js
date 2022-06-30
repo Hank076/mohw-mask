@@ -2343,6 +2343,7 @@ locations = [
 {"lng":"121.5171","lat":"24.99931","name":"永正健康人生藥局","id":"5931033621","tel":"0229467351","addr":"新北市永和區中正路191、193號1樓、197號2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩9點開賣"},
 {"lng":"121.5175","lat":"24.99805","name":"敦品民治藥局","id":"5931033649","tel":"0229494150","addr":"新北市永和區民治街81號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩下午2點-4點半現場購買"},
 {"lng":"121.515","lat":"25.00699","name":"九州藥局","id":"5931033676","tel":"0229226879","addr":"新北市永和區自由街5號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"憑處方箋可領｛輝瑞Paxlovid抗新冠病毒藥｝實名制快篩 發售中"},
+{"lng":"121.5175","lat":"25.01202","name":"台化藥局","id":"5931033774","tel":"0222318585","addr":"新北市永和區勵行街119號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5053","lat":"25.00917","name":"明慧藥師藥局","id":"5931033792","tel":"0229297118","addr":"新北市永和區仁愛路295號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上11:30營業"},
 {"lng":"121.5189","lat":"25.00749","name":"欣安大藥局","id":"5931033863","tel":"0222326685","addr":"新北市永和區福和路221號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑pm13:30發號碼牌暨銷售，售完為止。"},
 {"lng":"121.5114","lat":"25.00686","name":"康杏安藥局","id":"5931033890","tel":"0229298968","addr":"新北市永和區保平路99號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"庫存有剩餘時，不分時段全日販售"},
