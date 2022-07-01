@@ -2680,6 +2680,7 @@ locations = [
 {"lng":"121.3709","lat":"24.93626","name":"禾雅藥局","id":"5931092095","tel":"0226718621","addr":"新北市三峽區文化路130號(1樓)","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.3719","lat":"24.93627","name":"立雅藥局","id":"5931092111","tel":"0226712601","addr":"新北市三峽區文化路84號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.3713","lat":"24.93493","name":"進安大藥局","id":"5931092120","tel":"0226711125","addr":"新北市三峽區民生街174號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOXO","memo":"原則下午2點開始販售快篩（實際販售時間，視到貨時間調整）"},
+{"lng":"121.3799","lat":"24.92895","name":"福澤清福藥局","id":"5931092184","tel":"0277136586","addr":"新北市三峽區介壽路1段282號1樓","business_week":"OOOOOOOOOOOOOOXXXXXXX"},
 {"lng":"121.3788","lat":"24.94372","name":"北大藥局","id":"5931092219","tel":"0226738535","addr":"新北市三峽區大義路9號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩隨到隨領 發放規則依政府規定"},
 {"lng":"121.4459","lat":"25.17167","name":"松和大藥局","id":"5931100047","tel":"0226203698","addr":"新北市淡水區英專路92號","business_week":"OOOOOXXOOOOOOXOOOOOOX","memo":"口罩代售:每週一~每週五10:30發放號碼牌"},
 {"lng":"121.444","lat":"25.17006","name":"邱藥局","id":"5931100074","tel":"0226214255","addr":"新北市淡水區中山路27號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
