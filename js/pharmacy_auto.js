@@ -2028,6 +2028,7 @@ locations = [
 {"lng":"120.451","lat":"23.5003","name":"保健藥局","id":"5922012669","tel":"052712959","addr":"嘉義市東區義教里保建街161號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"周一至周五下午1:00起，周六上午8時起。售鑿為止"},
 {"lng":"120.4555","lat":"23.46932","name":"誠泰藥師藥局","id":"5922012712","tel":"052168905","addr":"嘉義市東區安寮里興業東路56號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩8:00開始販售"},
 {"lng":"120.4582","lat":"23.49167","name":"仁藥集藥局","id":"5922012721","tel":"052755533","addr":"嘉義市東區太平里新生路539號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"8:30-11:00收健保卡,14:00發快篩"},
+{"lng":"120.45708","lat":"23.47653","name":"民族弘安藥局","id":"5922012856","tel":"052240101","addr":"嘉義市東區朝陽里民族路165號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"周一至周日快篩早上08:00開始販售快篩，至售完為止."},
 {"lng":"120.4547","lat":"23.49514","name":"德風藥局","id":"5922012874","tel":"052716233","addr":"嘉義市東區仁義里台林街108-4號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOO","memo":"週一至六 上午8:30開賣 周日下午5:30開賣"},
 {"lng":"120.4521","lat":"23.48057","name":"昱安藥局","id":"5922012909","tel":"052252395","addr":"嘉義市東區成仁街180號","business_week":"OOOOOOXOOOOOOXOOOXOXX"},
 {"lng":"120.4663","lat":"23.47719","name":"大明藥局","id":"5922012945","tel":"052760958","addr":"嘉義市東區大雅路二段682號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"5／15（星期日）快篩10：00販售3:30結束"},
