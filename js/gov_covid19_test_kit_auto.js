@@ -158,7 +158,6 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.639219","lat":"24.183395","name":"蘇家龍診所","id":"3503272234","tel":"0427085151","addr":"臺中市西屯區黎明路三段421號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"120.649685","lat":"24.145721","name":"薛凱中診所","id":"3503280558","tel":"0424716898","addr":"臺中市南屯區大墩路383號","business_week":"OOOXOOXOOOOOOXOOOOOOX","memo":"6月3日正常看診"},
 {"lng":"120.649103","lat":"24.136986","name":"邢志宇耳鼻喉科診所","id":"3503280898","tel":"0424735806","addr":"臺中市南屯區南屯路二段252號","business_week":"OOOOOXOOOOOOXOOOOOOXO","memo":"端午連假正常看診，週六固定休診。"},
-{"lng":"120.614683","lat":"24.145167","name":"忠勇診所","id":"3503280914","tel":"0423826625","addr":"臺中市南屯區忠勇路67之3號1、2樓","business_week":"OOOOOOXOOXOOXXOOOOOOX"},
 {"lng":"120.632392","lat":"24.152346","name":"主悅診所","id":"3503280987","tel":"0422540711","addr":"臺中市南屯區干城街269號","business_week":"OOOOOOXXXXXXXXOOOOOXX"},
 {"lng":"120.652894","lat":"24.137138","name":"誠心親子耳鼻喉科診所","id":"3503281591","tel":"0424719001","addr":"臺中市南屯區東興路二段33號2樓","business_week":"OOOOOOXOXOXOOXOOOOOXX","memo":"端午節6／3下午休診、早晚皆有看診、6／4早、午有看診。"},
 {"lng":"120.415953","lat":"23.344826","name":"安聯診所","id":"3505030038","tel":"066852555","addr":"臺南市白河區富民路62號","business_week":"OOOOOOXOOOOOXXXXXXXXX"},
