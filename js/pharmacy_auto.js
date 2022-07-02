@@ -3637,6 +3637,7 @@ locations = [
 {"lng":"120.8264","lat":"24.31205","name":"卓蘭千百岳大藥局","id":"5935071243","tel":"0425895473","addr":"苗栗縣卓蘭鎮中山路82號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上8:30開始領取口罩，直到發放完畢為止。"},
 {"lng":"120.8259","lat":"24.31214","name":"國良藥局","id":"5935071252","tel":"0425899578","addr":"苗栗縣卓蘭鎮中山路111號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天14:00準時販售快篩喔，賣完為止!"},
 {"lng":"120.8254","lat":"24.31074","name":"林大藥局","id":"5935071261","tel":"0425891630","addr":"苗栗縣卓蘭鎮中正路32號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"營業即開始販售快篩。若現場有領藥作業將優先處理，請見諒，謝謝:）"},
+{"lng":"120.869","lat":"24.42165","name":"臺健中西藥局","id":"5935080055","tel":"037990638","addr":"苗栗縣大湖鄉中正路19號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名快篩劑上午販售10:-12:.下午15-20販售.星期日停售!"},
 {"lng":"120.8664","lat":"24.42265","name":"景元藥局","id":"5935081169","tel":"037996465","addr":"苗栗縣大湖鄉中正路97號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"不限時段，售完為止"},
 {"lng":"120.827116","lat":"24.50226","name":"永信藥局","id":"5935090015","tel":"037223597","addr":"苗栗縣公館鄉館中村榮光街16號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日早上8:30開始販售快篩"},
 {"lng":"120.8281","lat":"24.50026","name":"信安藥局","id":"5935091156","tel":"037237849","addr":"苗栗縣公館鄉大同路78號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩試劑販售時間:星期一到星期六下午3點至晚上8點，周日休息不販售!"},
