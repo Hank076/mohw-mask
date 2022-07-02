@@ -1666,6 +1666,7 @@ locations = [
 {"lng":"121.7369","lat":"25.13137","name":"日星藥局","id":"5911050064","tel":"0224222090","addr":"基隆市中山區安一路25號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"十二點開始販賣"},
 {"lng":"121.7405","lat":"25.13788","name":"中山藥局","id":"5911050073","tel":"0224269996","addr":"基隆市中山區中山二路45號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"星期一~五中午12點賣快篩售完為止 星期六下午1點 本週日11點販賣"},
 {"lng":"121.7355","lat":"25.13184","name":"隆泰藥局","id":"5911050153","tel":"0224225889","addr":"基隆市中山區西定路12號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.7405","lat":"25.13786","name":"錦泰藥局","id":"5911050162","tel":"0224228523","addr":"基隆市中山區中山二路43號","business_week":"XXXXXXXXXXXXOOOOOOOXX","memo":"快篩販賣時間星期一至五晚上7點，星期六，星期日下午5點"},
 {"lng":"121.7264","lat":"25.14587","name":"親親藥局","id":"5911051267","tel":"0224378323","addr":"基隆市中山區復興路181號","business_week":"OOOOOOXOOXOOOXOOOOOOX","memo":"星期1~6快篩早上8:30開賣營業時間內庫存售完為止"},
 {"lng":"121.717","lat":"25.14982","name":"大慶大藥局","id":"5911051365","tel":"0224378640","addr":"基隆市中山區中和路168巷3弄20號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.7263","lat":"25.14611","name":"寶慷藥局","id":"5911051392","tel":"0224362338","addr":"基隆市中山區復興路191號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"08:00開始販賣快篩"},
