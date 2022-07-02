@@ -2191,6 +2191,7 @@ locations = [
 {"lng":"121.464","lat":"25.00484","name":"杏文藥局","id":"5931017690","tel":"0229555699","addr":"新北市板橋區實踐路100號(1樓)","business_week":"OOOOOOXOOOOOXXOXOXOXX"},
 {"lng":"121.4628","lat":"25.02936","name":"上嘉藥局","id":"5931017707","tel":"0222582278","addr":"新北市板橋區四維路296號1樓","business_week":"OOOOOXXOOOOOOOOOOOOOO"},
 {"lng":"121.4638","lat":"25.00679","name":"星辰藥局","id":"5931017716","tel":"0289521666","addr":"新北市板橋區實踐路49號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"平日08:30 週日10:00"},
+{"lng":"121.4563","lat":"25.0081","name":"泓泰藥局","id":"5931017752","tel":"0229686559","addr":"新北市板橋區館前西路140號2樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.4651","lat":"25.02555","name":"明翠藥局","id":"5931017789","tel":"0222550201","addr":"新北市板橋區四維路146、148號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"121.4524","lat":"25.01085","name":"利安藥師藥局","id":"5931017805","tel":"0229666951","addr":"新北市板橋區南雅西路2段117號1樓、119號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4698","lat":"25.01181","name":"順儷新板藥局","id":"5931017814","tel":"0229512590","addr":"新北市板橋區漢生東路187號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"5／17快篩早上9點販售"},
