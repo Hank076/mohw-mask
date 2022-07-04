@@ -1619,6 +1619,7 @@ locations = [
 {"lng":"120.3559","lat":"22.56853","name":"大樹小港藥局","id":"5907380424","tel":"078068328","addr":"高雄市小港區康莊路75號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"121.7461","lat":"25.13187","name":"喬寶藥局","id":"5911010015","tel":"0224202827","addr":"基隆市中正區義二路66號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.7499","lat":"25.13684","name":"俊德藥局","id":"5911010097","tel":"0224281398","addr":"基隆市中正區中船路20號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"上午8點開始販售實名制快篩，慢性處方箋9:00~21:00"},
+{"lng":"121.785977","lat":"25.135679","name":"承泰藥局","id":"5911010168","tel":"0224601316","addr":"基隆市中正區新豐街442號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售時間於下午3點開始領取"},
 {"lng":"121.7696","lat":"25.1519","name":"和平大藥局","id":"5911011227","tel":"0224628151","addr":"基隆市中正區中正路750號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.7951","lat":"25.13981","name":"永好藥局","id":"5911011325","tel":"0224697639","addr":"基隆市中正區北寧路315號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"快篩星期一*三*五是單號 二*四雙號 下午14:30販售 星期六星期日休息"},
 {"lng":"121.7879","lat":"25.13621","name":"海大藥局","id":"5911011334","tel":"0224699222","addr":"基隆市中正區新豐街255號1樓","business_week":"OOOOOXOOOOOOXOOOOOOXX","memo":"平日：8：30~12：00，15：00~21：30；星期日：~12：00"},
