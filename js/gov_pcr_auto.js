@@ -54,6 +54,7 @@ gov_pcr_locations = [
 {"lng":"121.2037883","lat":"24.95751014","name":"祐民醫院","id":"1532020215","tel":"034915656","addr":"桃園市中壢區民族路二段180號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"本院無提供急診服務"},
 {"lng":"121.2578603","lat":"24.96448913","name":"中壢長榮醫院","id":"1532021338","tel":"034631230","addr":"桃園市中壢區環中東路150號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"即日起本院急診24小時提供急診服務"},
 {"lng":"121.2250456","lat":"24.95871587","name":"中美醫院","id":"1532021392","tel":"034266222","addr":"桃園市中壢區中美路95號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
+{"lng":"121.2234105","lat":"24.95421439","name":"新國民醫療社團法人新國民醫院","id":"0932020034","tel":"034225180","addr":"桃園市中壢區復興路152號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"請以本院官方網站公告為準(http:\/\/www.skmh.com.tw\/)"},
 {"lng":"121.3510651","lat":"24.81512769","name":"復興區衛生所","id":"2332130017","tel":"033822325","addr":"桃園市復興區澤仁里中正路25號","business_week":"OOOOOXXOOOOOXXXXXXXXX"},
 {"lng":"120.961966","lat":"24.816144","name":"國軍桃園總醫院新竹分院附設民眾診療服務處","id":"0512040014","tel":"035348181#325117","addr":"新竹市北區武陵路3號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"120.965227","lat":"24.798257","name":"國泰醫療財團法人新竹國泰綜合醫院","id":"1112010528","tel":"035278999#7999","addr":"新竹市東區福德里中華路二段六七八號及六七八號之一","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"提供24小時急診服務。"},
