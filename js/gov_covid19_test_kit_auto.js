@@ -466,7 +466,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.295374","lat":"24.930848","name":"郭淵進診所","id":"3532082379","tel":"033732373","addr":"桃園市八德區興豐路650號","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"週一至週五早上07:30開始看診， 假日08:30開始看診， 週六及週日晚上七點後休診"},
 {"lng":"121.299884","lat":"24.961058","name":"介壽診所","id":"3532082673","tel":"033677787","addr":"桃園市八德區介壽路一段865號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.216813","lat":"24.867715","name":"徐耳鼻喉科診所","id":"3532090200","tel":"034899631","addr":"桃園市龍潭區北龍路251號","business_week":"OOOOOOOOOOOOOOOOOOOXX"},
-{"lng":"121.217485","lat":"24.861961","name":"黃啟昌小兒科診所","id":"3532090219","tel":"034798466","addr":"桃園市龍潭區中正路286號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"端午節連假（6／3~6／5）照常看診"},
+{"lng":"121.217485","lat":"24.861961","name":"黃啟昌小兒科診所","id":"3532090219","tel":"034798466","addr":"桃園市龍潭區中正路286號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.217266","lat":"24.862658","name":"龍欣耳鼻喉科診所","id":"3532091654","tel":"034808306","addr":"桃園市龍潭區中正路254號","business_week":"OOOOOOOOOOOOOOOOOOOXX"},
 {"lng":"121.217474","lat":"24.861999","name":"同安親子診所","id":"3532091832","tel":"034707278","addr":"桃園市龍潭區中正路284號","business_week":"OOXOOOOOOXOOXXOOXOOXX"},
 {"lng":"121.202975","lat":"24.953911","name":"文化診所","id":"3532102170","tel":"034951689","addr":"桃園市平鎮區文化街92號1-2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"端午連假全日照常看診"},
