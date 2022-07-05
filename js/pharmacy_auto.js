@@ -2043,6 +2043,7 @@ locations = [
 {"lng":"120.443","lat":"23.46984","name":"信康藥局","id":"5922020563","tel":"052161680","addr":"嘉義市西區翠岱里仁愛路226號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩星期一至星期五早上10:00開賣 星期六下午14:00開賣"},
 {"lng":"120.4409","lat":"23.47535","name":"杏安藥局","id":"5922020581","tel":"052271727","addr":"嘉義市西區書院里民族路786號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.4473","lat":"23.47984","name":"利安藥局","id":"5922020634","tel":"052225756","addr":"嘉義市西區番社里中山路344號1樓","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"營業時間"},
+{"lng":"120.4404","lat":"23.46641","name":"大向藥局","id":"5922020643","tel":"052354605","addr":"嘉義市西區美源里新民路636號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週一~週六販售實名制快篩， 時段隨當日業務量與人力狀況彈性調整，每週日公休"},
 {"lng":"120.4284","lat":"23.48403","name":"四維啄木鳥藥局","id":"5922020652","tel":"052810598","addr":"嘉義市西區德安路160號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩上午8:15"},
 {"lng":"120.4435","lat":"23.47554","name":"大正藥局","id":"5922020661","tel":"052285812","addr":"嘉義市西區書院里民族路702號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上8:00開始販售~售完為止 !"},
 {"lng":"120.4373","lat":"23.46793","name":"興嘉藥局","id":"5922020670","tel":"052841812","addr":"嘉義市西區興業西路370號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"固定週一至週日8:15開放領取口罩，至售完為止"},
