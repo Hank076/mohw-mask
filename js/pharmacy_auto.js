@@ -1726,7 +1726,7 @@ locations = [
 {"lng":"120.9703","lat":"24.79667","name":"康妍藥局","id":"5912013592","tel":"035622476","addr":"新竹市東區西大路126號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"實名制快篩:星期一-星期日早上9:30開始"},
 {"lng":"120.9812","lat":"24.80794","name":"丁丁藥局","id":"5912013609","tel":"036117888","addr":"新竹市東區中華路二段91號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.977","lat":"24.79771","name":"合康連鎖藥局食品店","id":"5912013627","tel":"035621111","addr":"新竹市東區食品路140號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名快篩販售時間：上午09:00"},
-{"lng":"120.979","lat":"24.76774","name":"七二八藥局","id":"5912013654","tel":"035200530","addr":"新竹市東區明湖路1245號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"全日全週服務:防疫家用快篩試劑500元購買及0至6歲兒童免費領用"},
+{"lng":"120.979","lat":"24.76774","name":"七二八藥局","id":"5912013654","tel":"035200530","addr":"新竹市東區明湖路1245號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"全日全週服務:防疫家用快篩試劑 ~不限年齡500元購買及0至6歲兒童免費領用"},
 {"lng":"121.0187","lat":"24.78289","name":"關東藥局","id":"5912013672","tel":"035777077","addr":"新竹市東區光復路1段332、334號1至2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"121.0153","lat":"24.79245","name":"仁春藥局","id":"5912013681","tel":"036686718","addr":"新竹市東區慈濟路252號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.9764","lat":"24.79735","name":"佑全新竹食品藥局","id":"5912013690","tel":"035627307","addr":"新竹市東區食品路170號","business_week":"OOOOOOOOOOOOOOXXXXXXX","memo":"第三輪實名制／0~6歲免費領營業時間內隨到隨換"},
