@@ -571,6 +571,7 @@ locations = [
 {"lng":"121.5007","lat":"25.02336","name":"信昌藥局","id":"5901190177","tel":"0223054898","addr":"臺北市萬華區長泰街36號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"快篩實名制販售時間:週一~週六9:00~20:00售完為止"},
 {"lng":"121.5025","lat":"25.03995","name":"生活大藥局","id":"5901190220","tel":"0223618609","addr":"臺北市萬華區貴陽街2段124號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.4933","lat":"25.03396","name":"民鈺藥局","id":"5901190284","tel":"0223084270","addr":"臺北市萬華區環河南路2段139號1樓","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"星期一到五營業時間為早上9點到晚上10點. 星期六日早上9點到下午5點。實名快篩依庫存量調整時間販售"},
+{"lng":"121.5016","lat":"25.02279","name":"皇祥藥局","id":"5901190426","tel":"0223375676","addr":"臺北市萬華區萬青街165號1樓","business_week":"OOOOOOXOOOOOXXOOOOOOX","memo":"端午節休息星期日休息"},
 {"lng":"121.5016","lat":"25.03654","name":"日昇藥局","id":"5901190515","tel":"0223062975","addr":"臺北市萬華區廣州街124號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩隨到隨賣"},
 {"lng":"121.5003","lat":"25.02495","name":"聯慶大藥局","id":"5901190668","tel":"0223039850","addr":"臺北市萬華區萬大路306號1樓","business_week":"OOOOOOXXXXXXXXXXXXXXX"},
 {"lng":"121.5052","lat":"25.02581","name":"信義藥局","id":"5901190686","tel":"0223074599","addr":"臺北市萬華區青年路28號","business_week":"OOOOOOXXXXXXXXOOOOOXX","memo":"12點領（快篩） 視排隊狀況發號碼牌"},
