@@ -3099,7 +3099,7 @@ locations = [
 {"lng":"121.2558","lat":"24.93335","name":"大賀藥局","id":"5932024162","tel":"034375977","addr":"桃園市中壢區龍東路399號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩領取號碼牌時間:周一 ~ 周日 上午11:30 相關資訊請臉書搜尋  中壢大賀藥局"},
 {"lng":"121.2239","lat":"25.01755","name":"青園藥局","id":"5932024171","tel":"032876386","addr":"桃園市中壢區領航南路4段198號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"營業時間上午0830至晚上2100"},
 {"lng":"121.2047","lat":"24.95836","name":"小瓢蟲藥局","id":"5932024180","tel":"034020967","addr":"桃園市中壢區正大街25號1樓","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"營業時間：上午0830-1200，下午1400-1730，晚上1800-2130，週六晚上休息，周日下午晚上休息"},
-{"lng":"121.2233","lat":"24.95944","name":"千和藥局","id":"5932024199","tel":"034518884","addr":"桃園市中壢區中美路1段49號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.2233","lat":"24.95944","name":"千和藥局","id":"5932024199","tel":"034518884","addr":"桃園市中壢區中美路1段49號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.2291","lat":"24.96265","name":"杏一中壢天晟藥局","id":"5932024206","tel":"034554517","addr":"桃園市中壢區延平路173號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩營業時間內均可購買"},
 {"lng":"121.2502","lat":"24.9284","name":"幸運星藥師藥局","id":"5932024215","tel":"034563356","addr":"桃園市中壢區龍東路44號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"0-6歲兒童&快篩實名制08:30開始依量販售，售完為止"},
 {"lng":"121.2455","lat":"24.94672","name":"樂心藥局","id":"5932024242","tel":"034655667","addr":"桃園市中壢區中山東路2段536號1樓","business_week":"OOOOOOOOOOOOOOOOOOOXX"},
