@@ -2399,6 +2399,7 @@ locations = [
 {"lng":"121.4833","lat":"24.99555","name":"良安藥局","id":"5931043921","tel":"0222225798","addr":"新北市中和區連城路477巷1號1樓","business_week":"XXXXXXXOOOOOXXOOOOOXX","memo":"週六日不開店，實名制快篩"},
 {"lng":"121.5044","lat":"24.99207","name":"三德和藥局","id":"5931043930","tel":"0222471028","addr":"新北市中和區吉興里南山路289號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5038","lat":"24.99671","name":"詠邑藥局","id":"5931043976","tel":"0222445630","addr":"新北市中和區南華路43號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"121.5122","lat":"24.98581","name":"幸福連鎖藥局","id":"5931044017","tel":"0229410771","addr":"新北市中和區忠孝街122號1樓","business_week":"XXXXXXXOOOOOOXOOOOOOX"},
 {"lng":"121.4696","lat":"25.00398","name":"宥元藥局","id":"5931044044","tel":"0289535473","addr":"新北市中和區德光路62號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週一至周六10:30-22:00發放快篩"},
 {"lng":"121.5109","lat":"24.98843","name":"康富力藥局","id":"5931044133","tel":"0229429896","addr":"新北市中和區仁愛街32號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩代售時間：周一至周五9:30、週六14:00"},
 {"lng":"121.5173","lat":"24.99277","name":"康廷安藥局","id":"5931044204","tel":"0286683599","addr":"新北市中和區大勇街16號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩14:50~14:55發號碼牌.15:00開始販售"},
