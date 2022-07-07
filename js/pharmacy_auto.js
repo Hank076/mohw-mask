@@ -2320,6 +2320,7 @@ locations = [
 {"lng":"121.5106","lat":"25.01331","name":"康宏安藥局","id":"5931033087","tel":"0229288118","addr":"新北市永和區保福路2段78號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5158","lat":"25.01017","name":"皇家藥師藥局","id":"5931033103","tel":"0289216867","addr":"新北市永和區中正路720號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.5143","lat":"25.00787","name":"緣來藥師藥局","id":"5931033176","tel":"0229211798","addr":"新北市永和區福和路250、252號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
+{"lng":"121.5152","lat":"25.01007","name":"廣惠藥局","id":"5931033194","tel":"0229290675","addr":"新北市永和區中正路649號2樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5102","lat":"25.00608","name":"級立健保藥局","id":"5931033201","tel":"0229299995","addr":"新北市永和區保平路139號1樓","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"週一~週六販售，週日不銷售"},
 {"lng":"121.5071","lat":"25.00706","name":"御生藥局","id":"5931033345","tel":"0229235658","addr":"新北市永和區中山路1段279號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"販賣快篩試劑時間  週一~週五  早上九點"},
 {"lng":"121.5075","lat":"25.01393","name":"保安藥局","id":"5931033363","tel":"0229277623","addr":"新北市永和區保安路212號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩販售時間 09:00-12:00，15:00-18:00，19:00-21:30"},
