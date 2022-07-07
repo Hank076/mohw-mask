@@ -34,7 +34,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.21653","lat":"24.864041","name":"桃園市龍潭區衛生所","id":"2332090018","tel":"034792033","addr":"桃園市龍潭區中正路210號","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"口罩販售時間:平日12-14點，假日9-11點。"},
 {"lng":"121.217776","lat":"24.945929","name":"桃園市平鎮區衛生所","id":"2332100019","tel":"034576624","addr":"桃園市平鎮區新富里振興路1號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"口罩販賣時段:自08\/01開始:週一至週五中午12點-下午1點(售完為止);週六及週日停售口罩"},
 {"lng":"121.083751","lat":"25.027823","name":"桃園市觀音區衛生所","id":"2332120011","tel":"034732031","addr":"桃園市觀音區觀新路58號","business_week":"OOOOOXXOXXXXXXXXXXXXX"},
-{"lng":"121.13928","lat":"24.717562","name":"新竹縣橫山鄉衛生所","id":"2333070010","tel":"035932004","addr":"新竹縣橫山鄉新興街141巷10號","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"實名制快篩試劑販賣：週一至週六12：30~13：30"},
+{"lng":"121.13928","lat":"24.717562","name":"新竹縣橫山鄉衛生所","id":"2333070010","tel":"035932004","addr":"新竹縣橫山鄉新興街141巷10號","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"實名制快篩試劑販賣：週一至週五12：30~13：30"},
 {"lng":"120.994859","lat":"24.766908","name":"新竹縣寶山鄉衛生所","id":"2333100013","tel":"035203054","addr":"新竹縣寶山鄉雙園路二段273號","business_week":"XOXOXXXOXXXXXXXXXXXXX","memo":"快篩試劑於星期一~星期六8:30-9:30販售"},
 {"lng":"121.202274","lat":"24.70562","name":"新竹縣尖石鄉衛生所","id":"2333130011","tel":"035841011","addr":"新竹縣尖石鄉嘉樂村2鄰61號","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"無急診"},
 {"lng":"120.824894","lat":"24.565957","name":"苗栗縣苗栗市衛生所","id":"2335010012","tel":"037277129","addr":"苗栗縣苗栗市建民街28號","business_week":"OOOOOXXOOXXXXXXXXXXXX"},
