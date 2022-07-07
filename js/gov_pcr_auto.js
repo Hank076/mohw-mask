@@ -30,6 +30,7 @@ gov_pcr_locations = [
 {"lng":"121.4487698","lat":"24.97632289","name":"新北市立土城醫院（委託長庚醫療財團法人興建經營）","id":"1131130018","tel":"0222630588","addr":"新北市土城區金城路2段6號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"24小時急診服務"},
 {"lng":"121.4985288","lat":"25.00190762","name":"怡和醫院","id":"1531041390","tel":"0222450009","addr":"新北市中和區連城路49號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.4488352","lat":"24.9911882","name":"恩樺醫院","id":"1531131157","tel":"0222639955","addr":"新北市土城區中央路一段7之18號","business_week":"OXXOXXXOXXOXXXOXXOXXX"},
+{"lng":"121.4602426","lat":"25.00199138","name":"板橋中興醫院","id":"1531010279","tel":"0229590707","addr":"新北市板橋區忠孝路15號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"本院提供24小時急診服務"},
 {"lng":"121.754451","lat":"24.748723","name":"宜蘭仁愛醫療財團法人宜蘭仁愛醫院","id":"1134010022","tel":"039321888","addr":"宜蘭縣宜蘭市中山路二段260號","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"24小時提供急診服務"},
 {"lng":"121.754029","lat":"24.757853","name":"國立陽明大學附設醫院","id":"0434010518","tel":"039325192","addr":"宜蘭縣宜蘭市校舍路169號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"急診24小時全天服務。"},
 {"lng":"121.687824","lat":"24.721919","name":"臺北榮民總醫院員山分院","id":"0634070018","tel":"039222141","addr":"宜蘭縣員山鄉榮光路386號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"員山院區提供24小時急診服務"},
