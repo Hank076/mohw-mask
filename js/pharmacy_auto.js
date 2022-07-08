@@ -3411,6 +3411,7 @@ locations = [
 {"lng":"121.0095","lat":"24.82142","name":"禾坊藥局","id":"5933053023","tel":"035588797","addr":"新竹縣竹北市科大一路85號","business_week":"OOOOOOOOOOOOOOOOOOOXO","memo":"快篩販賣時段：每日早上09:00，售完為止"},
 {"lng":"121.0054","lat":"24.83222","name":"竹北啄木鳥藥局","id":"5933053158","tel":"035539420","addr":"新竹縣竹北市博愛街183號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"中午12:30開始販售實名制快篩"},
 {"lng":"121.0195","lat":"24.8157","name":"育禾藥局","id":"5933053167","tel":"036683255","addr":"新竹縣竹北市莊敬南路186號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"第二輪快篩及兒童免費快篩於診所營業時間內發放，感謝您的配合！周三及周日「沒有」發放快篩！"},
+{"lng":"121.0112","lat":"24.81944","name":"金慧藥局","id":"5933053265","tel":"035586687","addr":"新竹縣竹北市科大二街185號一樓","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"121.0026","lat":"24.84005","name":"艾美藥局","id":"5933053283","tel":"035557760","addr":"新竹縣竹北市中正西路82號1樓","business_week":"OOOOOOOOOOOOXOOOOOOXO","memo":"快篩試劑／口罩代售時段：星期一至星期日08:00-21:00（12-15時休息）"},
 {"lng":"121.0239","lat":"24.81934","name":"成功藥局","id":"5933053292","tel":"035509117","addr":"新竹縣竹北市成功三路69號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"121.028","lat":"24.8174","name":"幼幼健保藥局","id":"5933053336","tel":"035507762","addr":"新竹縣竹北市中興里嘉興路202號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩8:30~22:00"},
