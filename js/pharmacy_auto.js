@@ -2741,6 +2741,7 @@ locations = [
 {"lng":"121.8066","lat":"25.10814","name":"瑞光藥局","id":"5931121386","tel":"0224972070","addr":"新北市瑞芳區明燈路3段70號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"121.8055","lat":"25.10824","name":"長興堂藥局","id":"5931121411","tel":"0224972050","addr":"新北市瑞芳區明燈路3段69號1樓","business_week":"OOOOOOOOOOOOXXOOOOOXX"},
 {"lng":"121.8057","lat":"25.10812","name":"瑞芳藥局","id":"5931121466","tel":"0224966588","addr":"新北市瑞芳區明燈路3段59之1及59之2號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
+{"lng":"121.4463","lat":"24.98538","name":"博惠藥局","id":"5931130152","tel":"0222618337","addr":"新北市土城區中央路1段249巷20號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"14:00開始販售政府快篩，不發號碼牌"},
 {"lng":"121.4546","lat":"24.99356","name":"瑞益藥局","id":"5931130205","tel":"0289668598","addr":"新北市土城區廣明街63巷4號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"每天早上8:30開始賣快篩"},
 {"lng":"121.4626","lat":"24.98825","name":"崇愛藥局","id":"5931130214","tel":"0222665506","addr":"新北市土城區永豐路17號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4391","lat":"24.96977","name":"久達藥局","id":"5931130223","tel":"0222696982","addr":"新北市土城區中央路3段47號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"一至六早上8點營業開賣快篩"},
