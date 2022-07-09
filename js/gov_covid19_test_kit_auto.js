@@ -496,7 +496,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.998821","lat":"24.599463","name":"福安診所","id":"3535111126","tel":"037823666","addr":"苗栗縣南庄鄉東村中正路48號","business_week":"OOOOOOXOOOOOXXOOXOOXX"},
 {"lng":"120.714842","lat":"24.250142","name":"許慶芳耳鼻喉科診所","id":"3536010986","tel":"0425292857","addr":"臺中市豐原區中山路506號","business_week":"OOOOOXOOOOOOXOOOOOOXO","memo":"111／06／03上午、下午、晚上皆有開診，111／06／04全天休診，111／06／05上午、下午、晚上皆有開診"},
 {"lng":"120.715006","lat":"24.249019","name":"吳志修耳鼻喉科診所","id":"3536011465","tel":"0425120295","addr":"臺中市豐原區中山路347號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"6／3， 6／4 早.午.晚.均有看診"},
-{"lng":"120.719519","lat":"24.253601","name":"林大丕小兒科診所","id":"3536012579","tel":"0425282345","addr":"臺中市豐原區三民路130號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"6／3日週五端午節，早上、中午、晚上正常看診。"},
+{"lng":"120.719519","lat":"24.253601","name":"林大丕小兒科診所","id":"3536012579","tel":"0425282345","addr":"臺中市豐原區三民路130號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.829571","lat":"24.254346","name":"維恩耳鼻喉科診所","id":"3536020339","tel":"0425885413","addr":"臺中市東勢區豐勢路372號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"6／3為國定假日下午休診.門診為早上.晚上"},
 {"lng":"120.829215","lat":"24.255316","name":"長頸鹿小兒科診所","id":"3536021452","tel":"0425773481","addr":"臺中市東勢區豐勢路418號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"2\/26 及 2\/28 上午\/下午\/晚上開診"},
 {"lng":"120.619424","lat":"24.347256","name":"力倫診所","id":"3536031832","tel":"0426805889","addr":"臺中市大甲區蔣公路246號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
