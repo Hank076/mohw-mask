@@ -2792,7 +2792,7 @@ locations = [
 {"lng":"121.4593","lat":"24.98285","name":"家泰藥局","id":"5931133653","tel":"0222749490","addr":"新北市土城區青雲路181號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4471","lat":"24.98333","name":"升立藥局","id":"5931133671","tel":"0222605158","addr":"新北市土城區明德路2段195號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"政府快篩及0~6歲免費快篩早上9點開始販售及領取，售完為止，請自備零錢500。 如有變動會再公告"},
 {"lng":"121.4554","lat":"24.982","name":"土城金城藥局","id":"5931133680","tel":"0222631616","addr":"新北市土城區裕民路280號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
-{"lng":"121.4796","lat":"25.08611","name":"華信藥局","id":"5931140096","tel":"0222898116","addr":"新北市蘆洲區民族路154號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩每天早上8:30販售，週日停售"},
+{"lng":"121.4796","lat":"25.08611","name":"華信藥局","id":"5931140096","tel":"0222898116","addr":"新北市蘆洲區民族路154號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩每天早上9:00販售，週日停售"},
 {"lng":"121.4733","lat":"25.0819","name":"大政藥局","id":"5931140121","tel":"0222811126","addr":"新北市蘆洲區中山二路75號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩上午8點開始販售"},
 {"lng":"121.469","lat":"25.08979","name":"欣泰藥局","id":"5931140130","tel":"0222810177","addr":"新北市蘆洲區民族路407號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩配送不穩定 到貨後盡快開賣  星期日休息"},
 {"lng":"121.4687","lat":"25.07655","name":"全民藥局","id":"5931140158","tel":"0222837168","addr":"新北市蘆洲區中山一路201、203號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
