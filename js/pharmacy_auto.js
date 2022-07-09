@@ -278,6 +278,7 @@ locations = [
 {"lng":"121.5612","lat":"25.08125","name":"禾康藥局","id":"5901103647","tel":"0226562156","addr":"臺北市中山區植福路296號(實際營業地址:1層)","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"國定假日不執行調劑業務"},
 {"lng":"121.5406","lat":"25.05889","name":"大樹龍江藥局","id":"5901103656","tel":"0225035666","addr":"臺北市中山區龍江路242號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"121.5304","lat":"25.0597","name":"安悅藥局","id":"5901103665","tel":"0225419879","addr":"臺北市中山區吉林路189號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售時間:早上11點~售完為止，不發號碼牌僅現場排隊（每周日不販售）"},
+{"lng":"121.5488","lat":"25.08253","name":"康廷藥局","id":"5901103674","tel":"0225335890","addr":"臺北市中山區北安路611號(實際營業地址:1層)","business_week":"XOXXXOOOOOOOOOOOOOOOO"},
 {"lng":"121.5408","lat":"25.05477","name":"東東藥局","id":"5901103683","tel":"0225031730","addr":"臺北市中山區長春路257之2號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"快篩發放時間:星期一至六 .15點開始銷售至16點前結束"},
 {"lng":"121.5303","lat":"25.05619","name":"誠果中西藥局","id":"5901103692","tel":"0225238563","addr":"臺北市中山區吉林路101號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"因為當日才收到快篩 本周發送時間不確定 麻煩現場來加line群組關注會提前告知"},
 {"lng":"121.5305","lat":"25.06587","name":"盛康藥局","id":"5901103727","tel":"0225969580","addr":"臺北市中山區吉林路399號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"國定假日仍執行調劑業務"},
