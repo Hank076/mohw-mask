@@ -485,6 +485,7 @@ locations = [
 {"lng":"121.579","lat":"25.03794","name":"德康大藥局","id":"5901172240","tel":"0227272502","addr":"臺北市信義區松山路541巷21號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"麥問緊來買！ 防疫必備B群、維生素C、維生素D3、錠熱賣中！還有唾液快篩喔！"},
 {"lng":"121.5789","lat":"25.03793","name":"皇佳大藥局","id":"5901172268","tel":"0227269868","addr":"臺北市信義區松山路541巷19號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"0-6歲兒童實名制免費快篩都有現貨 ：）"},
 {"lng":"121.5847","lat":"25.03841","name":"麗中藥局","id":"5901172544","tel":"0227594416","addr":"臺北市信義區福德街217號","business_week":"OOOOOOOOOOOOOOOOOOOXX"},
+{"lng":"121.5859","lat":"25.03874","name":"文興藥局","id":"5901172580","tel":"0227590989","addr":"臺北市信義區福德街245號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"今日5／18 早上11:00後   隨到隨買  每人可攜2-3卡"},
 {"lng":"121.5874","lat":"25.03931","name":"康杏藥局","id":"5901172651","tel":"0227591510","addr":"臺北市信義區福德街306號1樓","business_week":"OOOOOOOOOOOOOOOOOOOXO"},
 {"lng":"121.5635","lat":"25.02745","name":"綠杏大藥局","id":"5901172697","tel":"0227582378","addr":"臺北市信義區吳興街241號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"實名制快篩正常販售中"},
 {"lng":"121.5754","lat":"25.04507","name":"鴻濟藥局","id":"5901172704","tel":"0227645331","addr":"臺北市信義區永吉路326巷2號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售時間:周一至周五: 15:00開始。週六.周日:視實際到貨情形請見門口公告"},
