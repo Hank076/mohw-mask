@@ -3885,6 +3885,7 @@ locations = [
 {"lng":"120.5861","lat":"23.86559","name":"仁春藥局","id":"5937070191","tel":"048742409","addr":"彰化縣田中鎮員集路二段453、455號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"5月21日起上午9點開始販售快篩劑售完為止"},
 {"lng":"120.582102","lat":"23.860919","name":"大眾藥局","id":"5937071296","tel":"048749723","addr":"彰化縣田中鎮斗中路一段142號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"每日早上7點半開始販售（星期日休息）"},
 {"lng":"120.587359","lat":"23.863727","name":"祥品藥局","id":"5937071330","tel":"048762311","addr":"彰化縣田中鎮北路里福安路308號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩9點發號碼牌，持號碼牌和健保卡領口罩"},
+{"lng":"120.5865","lat":"23.86272","name":"正益藥局","id":"5937071385","tel":"048761001","addr":"彰化縣田中鎮北路里新福路53巷13號1樓","business_week":"OOOOOXOOOOOOXXOOOOOXX","memo":"星期一~五  8點開始販售快篩（星期日只有早上）"},
 {"lng":"120.5864","lat":"23.85628","name":"田中啄木鳥藥局","id":"5937071401","tel":"048746468","addr":"彰化縣田中鎮南路里員集路2段266號","business_week":"OOOOOXXOOOOOXXOOOOOXX"},
 {"lng":"120.586","lat":"23.86264","name":"大安藥局","id":"5937071447","tel":"048752201","addr":"彰化縣田中鎮新福路57號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"早上8點販售至晚間9點。中午12:00~14:30休息。"},
 {"lng":"120.587172","lat":"23.871379","name":"萬禾藥局","id":"5937071456","tel":"048742242","addr":"彰化縣田中鎮員集路3段277號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週一至週六08:50營業，中午1小時用餐 20:00停止營業， 週日公休。"},
