@@ -1201,7 +1201,7 @@ locations = [
 {"lng":"120.252248","lat":"22.954611","name":"安麗兒藥局仁德店","id":"5905270121","tel":"062498619","addr":"臺南市仁德區新田里中正路二段445號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制上午9點開始販售，售完為止"},
 {"lng":"120.251819","lat":"22.951391","name":"佳德藥局","id":"5905270158","tel":"062796767","addr":"臺南市仁德區德糖路470號1樓","business_week":"OOOOOOXOOOXOXXOOOXOXX","memo":"口罩發放時間:禮拜一至禮拜六8:30發號碼牌 9:00領取口罩，禮拜四和六只到中午12:00"},
 {"lng":"120.253913","lat":"22.968081","name":"成吉藥局仁義店","id":"5905270194","tel":"062497307","addr":"臺南市仁德區仁義路42-1號1樓","business_week":"OOOOOOXOOOOOOOOOOOOXO","memo":"因篩時間送貨不固定 所以販售時間也不固定"},
-{"lng":"120.2788","lat":"22.95239","name":"獅甲藥局","id":"5905280047","tel":"063388387","addr":"臺南市歸仁區六甲里六甲路203號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩實名制，早上7點35分，開始販售"},
+{"lng":"120.2788","lat":"22.95239","name":"獅甲藥局","id":"5905280047","tel":"063388387","addr":"臺南市歸仁區六甲里六甲路203號","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"快篩實名制，早上7點55分，開始販售"},
 {"lng":"120.2888","lat":"22.96721","name":"元康保健藥局","id":"5905280092","tel":"062309055","addr":"臺南市歸仁區中山路二段229號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期一至六下午1點開始至售完.星期日不販售"},
 {"lng":"120.2875","lat":"22.96765","name":"大樹青青藥局","id":"5905280109","tel":"062300301","addr":"臺南市歸仁區中山路三段12號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"120.295979","lat":"22.967603","name":"悅橙歸仁藥局","id":"5905280136","tel":"062396660","addr":"臺南市歸仁區大通路43號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"實名制Covid-19快篩15:00開始現場販售至售完"},
