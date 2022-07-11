@@ -438,6 +438,7 @@ locations = [
 {"lng":"121.4997","lat":"25.14097","name":"上頤藥局","id":"5901162306","tel":"0228981230","addr":"臺北市北投區中和街327號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售時間:星期一~六 下午2點開賣，星期日停售"},
 {"lng":"121.5155","lat":"25.11074","name":"長宜藥局","id":"5901162477","tel":"0228216605","addr":"臺北市北投區自強街112號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩試劑發放時間:14:00~售完為止，會依政府配送狀況調整"},
 {"lng":"121.5033","lat":"25.13566","name":"大家藥局","id":"5901162806","tel":"0228959000","addr":"臺北市北投區光明路182號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩早上9點開賣 售完為止 沒有號碼牌 現場排隊"},
+{"lng":"121.5184","lat":"25.11874","name":"維康藥局","id":"5901162833","tel":"0228206343","addr":"臺北市北投區石牌路2段191.193號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩發放時間為每日下午3點排隊，現場購賣"},
 {"lng":"121.5017","lat":"25.13044","name":"杏嘉藥局","id":"5901162879","tel":"0228942585","addr":"臺北市北投區清江路68號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩發放時間早上9:30-晚上8:00，售完為止"},
 {"lng":"121.5176","lat":"25.11244","name":"小豬藥局","id":"5901163107","tel":"0228217099","addr":"臺北市北投區東陽街403號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"星期六.星期日不販售"},
 {"lng":"121.5183","lat":"25.11868","name":"石牌健康人生藥局","id":"5901163152","tel":"0228225169","addr":"臺北市北投區石牌路2段187號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"政府快篩每日14點開賣（星期一到星期日）請自行排隊"},
