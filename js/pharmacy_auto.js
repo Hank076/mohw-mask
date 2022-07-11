@@ -3880,6 +3880,7 @@ locations = [
 {"lng":"120.3696","lat":"23.90134","name":"永全藥局","id":"5937081390","tel":"048958878","addr":"彰化縣二林鎮二溪路一段18號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"週一到六上午8點半開賣，不抽號碼；週日休息；"},
 {"lng":"120.372","lat":"23.89925","name":"二林福倫藥局","id":"5937081434","tel":"048956818","addr":"彰化縣二林鎮豐田里斗苑路4段669、671號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上0830開始，賣完為止"},
 {"lng":"120.3684","lat":"23.90094","name":"育民健保藥局","id":"5937081461","tel":"048953956","addr":"彰化縣二林鎮東和里新生路72號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.3646","lat":"23.89936","name":"尚禾藥局","id":"5937081470","tel":"048963810","addr":"彰化縣二林鎮西平里中山路230號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"固定周一至周六"},
 {"lng":"120.3691","lat":"23.9036","name":"二林順順藥局","id":"5937081489","tel":"048951351","addr":"彰化縣二林鎮仁愛路451號","business_week":"OOOOOOOOOOOOOOOOOOOXX"},
 {"lng":"120.3677","lat":"23.90106","name":"新杏林藥局","id":"5937081498","tel":"048953863","addr":"彰化縣二林鎮東和里斗苑路5段260號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"5／18起，營業時間有庫存量皆可購買，售完為止。6／5店休"},
 {"lng":"120.3643","lat":"23.90212","name":"加佳藥局","id":"5937081514","tel":"048963080","addr":"彰化縣二林鎮東和里仁愛路678號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"快篩販賣時間週一至週五早上08:30-11:45 下午2:45-5:20 晚上6:30-8:45。週六下午晚上休息，周日全日休息!!"},
