@@ -754,6 +754,7 @@ locations = [
 {"lng":"120.3319","lat":"22.62043","name":"惠春藥局","id":"5902085184","tel":"077611358","addr":"高雄市苓雅區武慶三路96號","business_week":"OOOOOOXXXXXXXXOOOOOXX","memo":"「藥局販售口罩時間，依藥局門口公告時間為主(售完為止)」"},
 {"lng":"120.3079","lat":"22.62172","name":"幸福藥師藥局","id":"5902085308","tel":"075368701","addr":"高雄市苓雅區青年一路167-3號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"1: 自111／5／1起：快篩販售時間為14:00開始。2: 販售方式依現場公告為主，售完為止。"},
 {"lng":"120.3276","lat":"22.63125","name":"意祥藥局","id":"5902085344","tel":"077224835","addr":"高雄市苓雅區武廟路142之1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"藥局販售口罩時間，依藥局門口公告時間為主（售完為止）"},
+{"lng":"120.3205","lat":"22.62331","name":"加和藥局","id":"5902085371","tel":"077219332","addr":"高雄市苓雅區和平一路143之7號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩每日10點販售，勿再來電詢問。星期天不販售。"},
 {"lng":"120.3166","lat":"22.61777","name":"全國大藥局","id":"5902090032","tel":"073346525","addr":"高雄市前鎮區三多二路403號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制10點開始..賣完為止"},
 {"lng":"120.3341","lat":"22.60289","name":"久億藥局","id":"5902090087","tel":"077619333","addr":"高雄市前鎮區保泰路351號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.3374","lat":"22.60991","name":"意文藥局","id":"5902090121","tel":"077226570","addr":"高雄市前鎮區瑞華里武營路183號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"每天8點營業 立即販賣"},
