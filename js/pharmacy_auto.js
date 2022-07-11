@@ -3642,6 +3642,7 @@ locations = [
 {"lng":"120.5596","lat":"24.2365","name":"濟生一藥局","id":"5936050248","tel":"0426626826","addr":"臺中市沙鹿區沙田路146號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制與兒童免費試劑 營業時間開始  *醫院處方 牙科 備藥齊全 全年無休*"},
 {"lng":"120.5612","lat":"24.24291","name":"沙鹿福倫藥局","id":"5936050364","tel":"0426657718","addr":"臺中市沙鹿區中山路435號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩早上8 點開賣。 賣完為止。謝謝。"},
 {"lng":"120.5603","lat":"24.23822","name":"康裕藥局","id":"5936051389","tel":"0426633758","addr":"臺中市沙鹿區中山路280號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間8:30-21:30.隨到隨買."},
+{"lng":"120.56","lat":"24.23702","name":"日新藥局","id":"5936051432","tel":"0426633100","addr":"臺中市沙鹿區日新街117號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"*每日下午3:00開始販售*固定周一到周六"},
 {"lng":"120.5602","lat":"24.23833","name":"永富藥局","id":"5936051441","tel":"0426625339","addr":"臺中市沙鹿區中山路286號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"*每日9:00開始販賣實名制快篩試劑"},
 {"lng":"120.5607","lat":"24.24053","name":"佑安藥局","id":"5936051478","tel":"0426632798","addr":"臺中市沙鹿區中山路346號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"每日早上9點販售，每週日公休."},
 {"lng":"120.543","lat":"24.26099","name":"南昌藥局","id":"5936060137","tel":"0426565073","addr":"臺中市梧棲區中央路二段465號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"防疫口罩 快篩販售時間：每日上午 7:30 即到即領快篩、7:30 販售口罩"},
