@@ -1542,6 +1542,7 @@ locations = [
 {"lng":"120.3089","lat":"22.63241","name":"康園藥局","id":"5907330148","tel":"072372069","addr":"高雄市新興區六合一路53-12號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制領取限下午15:30~20:00，現場排隊"},
 {"lng":"120.3085","lat":"22.63312","name":"新興復興藥局","id":"5907330200","tel":"072352550","addr":"高雄市新興區復興一路76號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"120.3015","lat":"22.63155","name":"美麗島台安藥局","id":"5907330219","tel":"072365490","addr":"高雄市新興區中山一路115號地下2樓(轉換層)","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"位於美麗島捷運站內，往西子灣方向地下二樓。每天早上10:00販售 。"},
+{"lng":"120.3016","lat":"22.62066","name":"台灣社區照護藥局","id":"5907340019","tel":"072211350","addr":"高雄市前金區中山二路533號7樓之1","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"★實名制快篩代售時間：當日12－14點★慢箋免費領藥：週一至週五10－18點★防疫酒精供貨★歡迎慢箋用藥諮詢"},
 {"lng":"120.2951","lat":"22.63314","name":"銘益藥局","id":"5907340046","tel":"072853107","addr":"高雄市前金區七賢二路208、210號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.288","lat":"22.63082","name":"捷康藥妝藥局","id":"5907340091","tel":"072166099","addr":"高雄市前金區七賢二路396號一樓","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"120.3257","lat":"22.61678","name":"英祥藥局","id":"5907350113","tel":"077522786","addr":"高雄市苓雅區英祥街19號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
