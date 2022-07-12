@@ -427,6 +427,7 @@ locations = [
 {"lng":"121.5081","lat":"25.12612","name":"九福藥局","id":"5901160428","tel":"0228953009","addr":"臺北市北投區公館路236號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"★週日店休未營業. 快篩下午1點發號碼牌"},
 {"lng":"121.5193","lat":"25.11219","name":"弘安藥局","id":"5901160517","tel":"0228206390","addr":"臺北市北投區懷德街33號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"周一到週六 AM9:30-PM9:00，快篩隨到隨買"},
 {"lng":"121.5066","lat":"25.11817","name":"黎明藥局","id":"5901160544","tel":"0228223795","addr":"臺北市北投區尊賢街253-1號","business_week":"OOOOOOXXXXXXXXOOOOOOX","memo":"營業時間星期1-6早上900至1230 下午1600至2100每日 星期日休息"},
+{"lng":"121.5199","lat":"25.11231","name":"名山藥局","id":"5901160562","tel":"0228226101","addr":"臺北市北投區東陽街475號1樓","business_week":"OOOOOOXOOXOOOXOOXOOXX","memo":"快篩試劑早上08:30販賣"},
 {"lng":"121.5015","lat":"25.13156","name":"明華藥局","id":"5901160704","tel":"0228971056","addr":"臺北市北投區清江路8號(實際使用:1樓)","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"實名制快篩上午9:00現場販售"},
 {"lng":"121.5196","lat":"25.1094","name":"美康藥局","id":"5901160802","tel":"0228281176","addr":"臺北市北投區明德路90號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"營業時間:10:30~22:00；13:30開始販售快篩"},
 {"lng":"121.5004","lat":"25.14047","name":"良興藥局","id":"5901161890","tel":"0228933360","addr":"臺北市北投區中和街286號","business_week":"XXXXXXXXXXXXXXOOOOOOX","memo":"18:30 開始營業至凌晨 12:30"},
