@@ -2757,6 +2757,7 @@ locations = [
 {"lng":"121.4554","lat":"24.982","name":"土城金城藥局","id":"5931133680","tel":"0222631616","addr":"新北市土城區裕民路280號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"121.4796","lat":"25.08611","name":"華信藥局","id":"5931140096","tel":"0222898116","addr":"新北市蘆洲區民族路154號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩每天早上9:00販售，週日停售"},
 {"lng":"121.4733","lat":"25.0819","name":"大政藥局","id":"5931140121","tel":"0222811126","addr":"新北市蘆洲區中山二路75號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩上午8點開始販售"},
+{"lng":"121.469","lat":"25.08979","name":"欣泰藥局","id":"5931140130","tel":"0222810177","addr":"新北市蘆洲區民族路407號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩配送不穩定 到貨後盡快開賣  星期日休息"},
 {"lng":"121.4687","lat":"25.07655","name":"全民藥局","id":"5931140158","tel":"0222837168","addr":"新北市蘆洲區中山一路201、203號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.4713","lat":"25.08237","name":"天士藥局","id":"5931140229","tel":"0222818227","addr":"新北市蘆洲區中正路36號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"目前快篩政府配送不穩定  收到貨後將會盡快開賣"},
 {"lng":"121.4596","lat":"25.09055","name":"謚安中西藥局","id":"5931140238","tel":"0222836375","addr":"新北市蘆洲區永平街6號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
