@@ -489,7 +489,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.821572","lat":"24.559566","name":"詹求孚診所","id":"3535010553","tel":"037320722","addr":"苗栗縣苗栗市中正路468號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"6／3，6／4 照常應診6／5全日休診"},
 {"lng":"120.824523","lat":"24.568276","name":"吳昆展小兒科診所","id":"3535012173","tel":"037265532","addr":"苗栗縣苗栗市中正路71號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.65262","lat":"24.444302","name":"良宜診所","id":"3535021396","tel":"037860937","addr":"苗栗縣苑裡鎮建國路106號","business_week":"OOOOOOOOOXOOOXOOXOOOX","memo":"門診時間:上午7:30-12:00；下午14:30-18:00；晚上19:00-21:00。星期三及星期日下午、晚上休診。"},
-{"lng":"120.879324","lat":"24.691393","name":"宏安診所","id":"3535041638","tel":"037466958;037","addr":"苗栗縣竹南鎮光復路265號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"6／3早午  6／4 早 正常門診"},
+{"lng":"120.879324","lat":"24.691393","name":"宏安診所","id":"3535041638","tel":"037466958;037","addr":"苗栗縣竹南鎮光復路265號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"9／9 6／10 正常門診"},
 {"lng":"120.907466","lat":"24.685683","name":"祥安診所","id":"3535050146","tel":"037664486","addr":"苗栗縣頭份市中華路928號","business_week":"OXXOXOXXXXXXOXXOOXXXX","memo":"星期五下午約診。7／9，7／16，7／23，7／30下午支援醫師看診。"},
 {"lng":"120.791123","lat":"24.613779","name":"後龍診所","id":"3535061434","tel":"037773088","addr":"苗栗縣後龍鎮中山路123號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"120.828067","lat":"24.500302","name":"祥恩診所","id":"3535091165","tel":"037220118","addr":"苗栗縣公館鄉大同路80號","business_week":"OXOXOOXOXOXXXXXOOOXXX","memo":"111／6／3早上門診、111／6／4早上門診、111／6／5休診"},
