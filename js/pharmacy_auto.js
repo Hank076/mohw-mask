@@ -4134,6 +4134,7 @@ locations = [
 {"lng":"120.303","lat":"23.5735","name":"德豐藥局","id":"5939061930","tel":"057835338","addr":"雲林縣北港鎮公園路12號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"平日中午十二點到兩點休息，下午六點到六點半休息，週日全天休息"},
 {"lng":"120.2986","lat":"23.57559","name":"大樹北港藥局","id":"5939061949","tel":"057830783","addr":"雲林縣北港鎮華勝路99號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"120.5608","lat":"23.64772","name":"廣醫藥局","id":"5939070162","tel":"055829703","addr":"雲林縣古坑鄉西平村中山路219號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
+{"lng":"120.5203","lat":"23.6351","name":"慈生藥局","id":"5939071276","tel":"055828222","addr":"雲林縣古坑鄉麻園村平和22號","business_week":"XXXXXXOXXOOXOOXOOOOOX","memo":"7／1-8／21休息.8／24開始-週三.四.六.日下午3-5點販售實名制快篩"},
 {"lng":"120.5619","lat":"23.64612","name":"振明藥局","id":"5939071285","tel":"055821229","addr":"雲林縣古坑鄉中山路170號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"120.562","lat":"23.64552","name":"禾安藥局","id":"5939071310","tel":"055828318","addr":"雲林縣古坑鄉朝陽村中山路136-1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩代售時間每日上午8:00發號碼販售，售完為止"},
 {"lng":"120.5675","lat":"23.68493","name":"光明藥局","id":"5939071329","tel":"055263736","addr":"雲林縣古坑鄉東和村文化路139-9號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"快篩試劑販賣時間：9點（六、日9點販賣）"},
