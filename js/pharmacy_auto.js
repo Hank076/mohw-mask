@@ -4288,6 +4288,7 @@ locations = [
 {"lng":"120.3101","lat":"23.3035","name":"鴻達藥局","id":"5941010309","tel":"066358837","addr":"臺南市新營區民生里復興路124號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩試劑08:00開始販售，售完為止"},
 {"lng":"120.31637","lat":"23.30654","name":"美兆藥局","id":"5941010381","tel":"066371188","addr":"臺南市新營區中正路53之4號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩於早上8點開始販售~"},
 {"lng":"120.3126","lat":"23.30584","name":"麗暉藥師藥局","id":"5941011575","tel":"066333479","addr":"臺南市新營區三仙里民權路51號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"第二輪6／6開放購買實名制快篩，目前為早上10點後販售"},
+{"lng":"120.3162","lat":"23.31681","name":"兆豐藥局","id":"5941011708","tel":"066352205","addr":"臺南市新營區忠政里中正路57之16號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩販售時間：星期一~六08:00至售完為止"},
 {"lng":"120.3125","lat":"23.30658","name":"新日康藥局","id":"5941011851","tel":"066332833","addr":"臺南市新營區三仙里民權路63之3號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"120.2679","lat":"23.31999","name":"惠生藥局","id":"5941020038","tel":"066522279","addr":"臺南市鹽水區中正路31號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩營業即開始販售，售完為止。7-21:00"},
 {"lng":"120.2661","lat":"23.32082","name":"民生藥局","id":"5941020056","tel":"066521071","addr":"臺南市鹽水區中境里三福路51號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制家用快篩早上8:00開始販售!"},
