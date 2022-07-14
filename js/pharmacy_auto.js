@@ -139,6 +139,7 @@ locations = [
 {"lng":"121.5408","lat":"25.02866","name":"赫慶藥局","id":"5901020732","tel":"0227063497","addr":"臺北市大安區瑞安街208巷11弄5號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩代售時間：星期一至六上午9點開始，不發號碼牌，星期日停售"},
 {"lng":"121.531585","lat":"25.025568","name":"吉成藥局","id":"5901020787","tel":"0223636475","addr":"臺北市大安區泰順街7號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日下午三點發放號碼牌，同時間開始販賣實名制快篩，四點結束，週日無發放"},
 {"lng":"121.5292","lat":"25.02256","name":"順天堂藥局","id":"5901020858","tel":"0223627149","addr":"臺北市大安區龍泉街96號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"營業時間:周一至周六9:30~22:00 禮拜日公休"},
+{"lng":"121.5472","lat":"25.04385","name":"辰安藥局","id":"5901020901","tel":"0227119536","addr":"臺北市大安區大安路1段31巷28號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上9:40分開始販賣快篩，賣完為止"},
 {"lng":"121.5531","lat":"25.03997","name":"永誠藥局","id":"5901021248","tel":"0227520273","addr":"臺北市大安區忠孝東路4段216巷25之1號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"上午9:30發放（不發號碼牌）"},
 {"lng":"121.5543","lat":"25.02174","name":"建如藥局","id":"5901021382","tel":"0227331456","addr":"臺北市大安區和平東路3段228巷11號1F","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"9:00開門營業後.開始作業領取快篩 星期日休息"},
 {"lng":"121.5539","lat":"25.03024","name":"生百藥局","id":"5901021408","tel":"0227371011","addr":"臺北市大安區臨江街124號","business_week":"XXXXXXXXXXXXXXOOOOOOX"},
