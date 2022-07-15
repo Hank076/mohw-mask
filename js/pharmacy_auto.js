@@ -193,6 +193,7 @@ locations = [
 {"lng":"121.5099","lat":"25.05581","name":"三銘大藥局","id":"5901090127","tel":"0225583392","addr":"臺北市大同區迪化街1段80號","business_week":"OOOOOOXOOOOOOXXXXXXXX"},
 {"lng":"121.5144","lat":"25.07452","name":"柯藥局","id":"5901090154","tel":"0225948515","addr":"臺北市大同區重慶北路3段335巷6號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"存已零如何歸零"},
 {"lng":"121.5191","lat":"25.05356","name":"時春藥局","id":"5901090181","tel":"0225597918","addr":"臺北市大同區赤峰街4號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"上午9點發號碼牌"},
+{"lng":"121.5115","lat":"25.07068","name":"裕仁藥局","id":"5901090216","tel":"0225910064","addr":"臺北市大同區迪化街2段270號-1","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.515","lat":"25.05485","name":"建祥藥局","id":"5901090243","tel":"0225556476","addr":"臺北市大同區寧夏路17號、17-1號","business_week":"OOOOOOXOOOOOOXXXXXXXX","memo":"10：00~18：00"},
 {"lng":"121.511","lat":"25.06806","name":"正利民藥局","id":"5901090289","tel":"0225924842","addr":"臺北市大同區延平北路3段105號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日營業時間皆可領快篩劑，每日下午2:00~4:00休息."},
 {"lng":"121.5146","lat":"25.07303","name":"泰元藥局","id":"5901090323","tel":"0225914592","addr":"臺北市大同區哈密街91號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
