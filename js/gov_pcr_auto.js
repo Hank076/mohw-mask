@@ -317,7 +317,7 @@ gov_pcr_locations = [
 {"lng":"120.329623","lat":"22.726123","name":"建霖診所","id":"3507310342","tel":"073523006","addr":"高雄市楠梓區鳳楠路248號1樓","business_week":"OOOOOOOOOOOOXXOOOOOOO"},
 {"lng":"120.298018","lat":"22.71554","name":"季建華耳鼻喉科診所","id":"3507310351","tel":"073663331","addr":"高雄市楠梓區加昌路618號1樓","business_week":"OOOOOOXOOOOOXXOOOOOOX"},
 {"lng":"120.3013484","lat":"22.72199139","name":"日月光半導體製造股份有限公司附設員工醫務室","id":"3402040512","tel":"073617131#10003","addr":"高雄市楠梓區經五路123號","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"每週三看診至下午2點"},
-{"lng":"120.348331","lat":"22.6128","name":"唯均耳鼻喉科診所","id":"3542011935","tel":"077638199","addr":"高雄市鳳山區海洋2路139號","business_week":"OOOOOOXOOOOOOXOOOOOOO"},
+{"lng":"120.348331","lat":"22.6128","name":"唯均耳鼻喉科診所","id":"3542011935","tel":"077638199","addr":"高雄市鳳山區海洋2路139號","business_week":"OOOOOOXOOOOOXXOOOOOXO"},
 {"lng":"120.458326","lat":"22.469742","name":"侯友益耳鼻喉科診所","id":"3543031646","tel":"088337001","addr":"屏東縣東港鎮光復路一段311號","business_week":"XOOOOOXXXXXXXXOOOOOOX"},
 {"lng":"120.5036206","lat":"22.68724362","name":"華正診所","id":"3543011779","tel":"087378806","addr":"屏東縣屏東市華正路6號","business_week":"OOOOOOXOOOOXXXOOOOOXX"},
 {"lng":"121.608309","lat":"23.982284","name":"嘉光耳鼻喉科診所","id":"3545011124","tel":"038341440","addr":"花蓮縣花蓮市明禮路71之5號","business_week":"OOOOOOOOOOOOXXOOOOOOO"},
