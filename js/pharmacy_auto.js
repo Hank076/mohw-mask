@@ -4006,6 +4006,7 @@ locations = [
 {"lng":"120.6834","lat":"23.75608","name":"早安藥局","id":"5938041729","tel":"0492651032","addr":"南投縣竹山鎮雲林路41號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩試劑早上10點開始販售"},
 {"lng":"120.696","lat":"23.76179","name":"集山啄木鳥藥局","id":"5938041756","tel":"0492659287","addr":"南投縣竹山鎮集山路3段405號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑販售時間無限制"},
 {"lng":"120.6863","lat":"23.75949","name":"維淇藥師藥局","id":"5938041809","tel":"0492653689","addr":"南投縣竹山鎮集山路三段816-1號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"早上8：30~晚上21：00，星期六下午晚上及星期日休息"},
+{"lng":"120.6836","lat":"23.75612","name":"博愛藥局","id":"5938041845","tel":"0492642748","addr":"南投縣竹山鎮雲林路35號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"0830AM開始販售，售完為止"},
 {"lng":"120.6858","lat":"23.75999","name":"優適藥局","id":"5938041872","tel":"0492630355","addr":"南投縣竹山鎮大明路149-5號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"販售快篩10:00開始~售完為止 ＜周日公休＞"},
 {"lng":"120.6834","lat":"23.75737","name":"明仁藥局","id":"5938041881","tel":"0492659650","addr":"南投縣竹山鎮集山路三段948-2號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"防疫口罩販售時間：每日上午9時至12時"},
 {"lng":"120.6798","lat":"23.759","name":"大明藥局","id":"5938041916","tel":"0492652500","addr":"南投縣竹山鎮大明路482號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
