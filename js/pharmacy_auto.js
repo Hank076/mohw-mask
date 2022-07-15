@@ -2166,6 +2166,7 @@ locations = [
 {"lng":"121.4774","lat":"25.01819","name":"大楓藥師藥局","id":"5931018124","tel":"0229560576","addr":"新北市板橋區懷仁街84號(1樓)","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.4792","lat":"25.01387","name":"綠洲藥局","id":"5931018133","tel":"0229580170","addr":"新北市板橋區三民路2段197號(1樓)","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"每日下午三點開始販售實名制快篩，請攜帶健保卡與500元，一人一卡限購一份，如須購買兩份請結帳後重新排隊。"},
 {"lng":"121.4608","lat":"24.99602","name":"重慶藥局","id":"5931018142","tel":"0229565586","addr":"新北市板橋區國慶路127號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
+{"lng":"121.4819","lat":"25.06065","name":"建宏藥局","id":"5931020017","tel":"0229714533","addr":"新北市三重區名源街16號","business_week":"OOOOOOXOOOOOOXOOOOOOO","memo":"星期一至日 營業時間早上8點-中午12點、下午2點-晚上9點30分（星期日偶會休息）"},
 {"lng":"121.4916","lat":"25.08358","name":"唯安藥局","id":"5931020044","tel":"0229875750","addr":"新北市三重區五華街130號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4822","lat":"25.06757","name":"上豪藥局","id":"5931020133","tel":"0229820399","addr":"新北市三重區中正北路220號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期天公休"},
 {"lng":"121.4932","lat":"25.06668","name":"優達藥局","id":"5931020320","tel":"0229803986","addr":"新北市三重區大智街108號1F","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
