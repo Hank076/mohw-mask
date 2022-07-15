@@ -4227,6 +4227,7 @@ locations = [
 {"lng":"120.4012","lat":"23.43059","name":"嘉泰健保藥局","id":"5940121358","tel":"052681028","addr":"嘉義縣水上鄉水頭村中興路307號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"08:00~售罄"},
 {"lng":"120.4292","lat":"23.45","name":"水上弘安藥局","id":"5940121376","tel":"052858000","addr":"嘉義縣水上鄉寬士村崎子頭1號附125","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"08:00-22:00營業 快篩實名制早上8點開始販售"},
 {"lng":"120.4601","lat":"23.45266","name":"康寧藥局","id":"5940130035","tel":"052391380","addr":"嘉義縣中埔鄉中山路5段919號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"販售口罩時間   08:00~售完"},
+{"lng":"120.529152","lat":"23.441674","name":"祥安藥局","id":"5940130071","tel":"052534897","addr":"嘉義縣中埔鄉隆興村10鄰6號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"早上開門即開始販售口罩"},
 {"lng":"120.5236","lat":"23.4242","name":"華大藥局","id":"5940130080","tel":"052531223","addr":"嘉義縣中埔鄉中埔村中正路35號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"本藥局即日起星期日都      不  賣  快  篩"},
 {"lng":"120.4942","lat":"23.44596","name":"榮芳藥局","id":"5940130106","tel":"052397405","addr":"嘉義縣中埔鄉金蘭村頂山門28之2號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.5237","lat":"23.42433","name":"顏藥局","id":"5940130142","tel":"052536459","addr":"嘉義縣中埔鄉中埔村中正路44號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"星期一至星期六早上8:00開始販售快篩試劑，售完為止"},
