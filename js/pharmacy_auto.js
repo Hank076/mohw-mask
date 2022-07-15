@@ -886,6 +886,7 @@ locations = [
 {"lng":"120.6987","lat":"24.06244","name":"峰正藥局","id":"5903180142","tel":"0423303353","addr":"臺中市霧峰區中正路830號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"120.7019","lat":"24.14817","name":"藥源藥局","id":"5903190022","tel":"0423955108","addr":"臺中市太平區中山路4段220號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"營業時間9：00~21：30，星期日公休"},
 {"lng":"120.7297","lat":"24.15021","name":"八醫健保藥局","id":"5903190077","tel":"0423935050","addr":"臺中市太平區中山路2段357號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"公發篩檢試劑時間0830開始，售完為止(1人1次限購1份)"},
+{"lng":"120.7157","lat":"24.14758","name":"劍橋藥局","id":"5903190139","tel":"0422776619","addr":"臺中市太平區宜昌路552號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"星期一到星期日"},
 {"lng":"120.7253","lat":"24.14984","name":"亞洲藥師連鎖大藥局","id":"5903190148","tel":"0423921681","addr":"臺中市太平區中山路2段458號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩，每天14:30開賣，請自備500元"},
 {"lng":"120.7212","lat":"24.12003","name":"春長藥局","id":"5903190157","tel":"0422799286","addr":"臺中市太平區太平路147號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩代售時間:早上9點，現場排隊"},
 {"lng":"120.7164","lat":"24.14525","name":"太平中大藥局","id":"5903190184","tel":"0422787846","addr":"臺中市太平區宜欣二路44號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩販售時間，早上8：40。營業時間：早上9點晚上9點，星期日休息。"},
