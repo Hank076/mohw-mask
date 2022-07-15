@@ -346,6 +346,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.444685","lat":"25.044412","name":"寶祥診所","id":"3531066273","tel":"0229960303","addr":"新北市新莊區中平路53號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"1\/31、2\/6、2\/13、2\/20、2\/27、4\/5、6\/3、9\/10僅上午看診"},
 {"lng":"121.458185","lat":"25.049427","name":"家貞診所","id":"3531066415","tel":"0229942300","addr":"新北市新莊區福壽街67號","business_week":"OXXXXXXXXOXOXXXOXXXXO","memo":"228連假正常營業"},
 {"lng":"121.457171","lat":"25.049347","name":"新和耳鼻喉科診所","id":"3531066942","tel":"0229938636","addr":"新北市新莊區幸福路69號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
+{"lng":"121.428079","lat":"25.018767","name":"鉅儒診所","id":"3531066951","tel":"02 2205 7193","addr":"新北市新莊區西盛街180號1樓","business_week":"OOOOOOXOOOOOXXOOOOXXX"},
 {"lng":"121.426036","lat":"24.993127","name":"幼安聯合診所","id":"3531070544","tel":"0226817700","addr":"新北市樹林區鎮前街26號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"2／26早上開診.下午開診.晚上開診2／27休診2／28早上下午晚上開診6／3早上下午晚上看診.6／4早上下午晚上看診"},
 {"lng":"121.418076","lat":"24.988346","name":"念生耳鼻喉科診所","id":"3531070722","tel":"0226751099","addr":"新北市樹林區文化街45號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.422718","lat":"24.992419","name":"何廷裕小兒科診所","id":"3531072137","tel":"0226756789","addr":"新北市樹林區日新街34號","business_week":"OXOXOOXOOOOOOXOOXOXXX"},
