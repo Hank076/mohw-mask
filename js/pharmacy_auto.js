@@ -1123,7 +1123,7 @@ locations = [
 {"lng":"120.7308","lat":"24.17096","name":"均福藥局","id":"5903291159","tel":"0424391169","addr":"臺中市北屯區軍福十三路100號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩實名制規則:晚上七點依現場排隊順序發號碼牌 （周日公休不販售）"},
 {"lng":"120.7188","lat":"24.17102","name":"日初藥局","id":"5903291168","tel":"0424363150","addr":"臺中市北屯區軍功路一段482-3號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩販售：周一~周日10點起開始販售"},
 {"lng":"120.677","lat":"24.177","name":"大連何藥局","id":"5903291177","tel":"0422930895","addr":"臺中市北屯區山西路二段274號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
-{"lng":"120.6941","lat":"24.16607","name":"好心情藥局","id":"5903291202","tel":"0422335663","addr":"臺中市北屯區昌平路一段17之3號","business_week":"OOOOOXOOOOOOOOOOOOOOX","memo":"W1~W6快篩販售時間  9:30 ~22:00 .另有唾液快篩販售，血氧機到貨"},
+{"lng":"120.6941","lat":"24.16607","name":"好心情藥局","id":"5903291202","tel":"0422335663","addr":"臺中市北屯區昌平路一段17之3號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"W1~W6快篩販售時間  9:30 ~22:00 .另有唾液快篩販售，血氧機到貨"},
 {"lng":"120.7131","lat":"24.18216","name":"愛樂芬兒童藥局","id":"5903291211","tel":"0424363660","addr":"臺中市北屯區松竹路一段929號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"每日上午9時開始販售"},
 {"lng":"120.682","lat":"24.19324","name":"佑全台中四平藥局","id":"5903291220","tel":"0424212792","addr":"臺中市北屯區四平路360號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.686","lat":"24.1765","name":"潔西卡大藥局","id":"5903291248","tel":"0422416879","addr":"臺中市北屯區崇德路二段314號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
