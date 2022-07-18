@@ -147,7 +147,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.575149","lat":"24.268899","name":"清水區向陽耳鼻喉科診所","id":"3503040063","tel":"0426228595","addr":"臺中市清水區中山路243-2號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"6／3-6／4端午連續假期正常看診，6／5週日休診"},
 {"lng":"120.702291","lat":"24.193261","name":"博文耳鼻喉科診所","id":"3503090072","tel":"0425320707","addr":"臺中市潭子區中山路1段99號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.641248","lat":"24.108509","name":"德昌小兒科診所","id":"3503150019","tel":"0423372686","addr":"臺中市烏日區中山路一段335號","business_week":"OOOOXOOOOOOXOOOOOOXOX","memo":"1\/1-1\/2整日正常看診"},
-{"lng":"120.699121","lat":"24.069355","name":"陳炎山家庭醫學科診所","id":"3503180053","tel":"0423391100","addr":"臺中市霧峰區中正路1110號","business_week":"OOXOOOXOOOOOXXOOOOOXX"},
+{"lng":"120.699121","lat":"24.069355","name":"陳炎山家庭醫學科診所","id":"3503180053","tel":"0423391100","addr":"臺中市霧峰區中正路1110號","business_week":"OOXOOOXOOOOOXXOOOOOXX","memo":"7／2（午晚） 7／10（上午）4／17（午晚）看診，7／24-8／7休診"},
 {"lng":"120.694164","lat":"24.149657","name":"華幼診所","id":"3503230110","tel":"0423600099","addr":"臺中市東區進化路211號","business_week":"OXOOOOOOXOOOOXOXOOOOO"},
 {"lng":"120.6661832","lat":"24.1686604","name":"家昌耳鼻喉科診所","id":"3503260163","tel":"0422993888","addr":"臺中市北區陜西路62號1樓","business_week":"OOOOOXOOOOOOXOOOOOOXO"},
 {"lng":"120.683998","lat":"24.166855","name":"展弘耳鼻喉科診所","id":"3503260592","tel":"0422307388","addr":"臺中市北區漢口路四段322號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
