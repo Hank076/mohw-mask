@@ -4635,7 +4635,7 @@ locations = [
 {"lng":"121.4515","lat":"23.31496","name":"伯安健康藥局","id":"5946080552","tel":"089832519","addr":"臺東縣長濱鄉長濱村10鄰長濱路105號","business_week":"OOOOOOXOOOOOXXXXXXXXX"},
 {"lng":"121.136","lat":"22.91115","name":"平安藥局","id":"5946091135","tel":"089550688","addr":"臺東縣鹿野鄉中華路二段5號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"星期一到星期五.08:00AM開始販售快篩，售完為止，周六周日店休.沒有營業服務，謝謝您"},
 {"lng":"121.2187","lat":"23.12315","name":"伯安藥局","id":"5946101118","tel":"089863585","addr":"臺東縣池上鄉新生路116號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早0800-1200，午1400-1800，晚1800-2000"},
-{"lng":"121.2158","lat":"23.12238","name":"開心藥局","id":"5946101127","tel":"089861151","addr":"臺東縣池上鄉中山路136號","business_week":"OOOOOOXOOOOOOXOOOOXXX","memo":"快篩實名制週一至週六上午9點30分開始販售，不發號碼牌，國定連假日另公告"},
+{"lng":"121.2158","lat":"23.12238","name":"開心藥局","id":"5946101127","tel":"089861151","addr":"臺東縣池上鄉中山路136號","business_week":"OOOOOOXOOOOOOXOOOOXXX","memo":"快篩實名制週一至週六營業時間均販售，不發號碼牌，國定連假日另公告"},
 {"lng":"118.3202","lat":"24.43313","name":"大賀藥局","id":"5990010515","tel":"082327678","addr":"金門縣金城鎮北門里民生路3號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"中午12點開始販售實名制快篩"},
 {"lng":"118.3163","lat":"24.43355","name":"康總藥局","id":"5990010524","tel":"082316053","addr":"金門縣金城鎮西門里莒光路156號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑販售時段：每日早上08:30分開始販售，售完為止。"},
 {"lng":"118.3183","lat":"24.43167","name":"金志忠藥局","id":"5990010533","tel":"082325813","addr":"金門縣金城鎮東門里莒光路11號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制 8:00開始販賣"},
