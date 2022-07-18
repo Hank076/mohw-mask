@@ -2568,6 +2568,7 @@ locations = [
 {"lng":"121.3711","lat":"24.93607","name":"全球藥師藥局","id":"5931091374","tel":"0226748128","addr":"新北市三峽區文化路95號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.3755","lat":"24.9362","name":"盛加藥局","id":"5931091481","tel":"0226739797","addr":"新北市三峽區民生街49號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"政府快篩平日下午1:50發號碼牌，下午2:00準時販售，假日視政府配量（販售時間相同）"},
 {"lng":"121.3685","lat":"24.93606","name":"三峽文化藥局","id":"5931091605","tel":"0226710825","addr":"新北市三峽區文化路212-2號","business_week":"OOOOOOXOXOOOOXOOOOOXX","memo":"12:00~14:00 17:00~18:00 休息時間"},
+{"lng":"121.374181","lat":"24.932653","name":"兆康藥局","id":"5931091623","tel":"0226717875","addr":"新北市三峽區中華路22號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩早上9:00開始發放號碼牌"},
 {"lng":"121.3699","lat":"24.93598","name":"祥祐藥局","id":"5931091696","tel":"0226738080","addr":"新北市三峽區文化路125號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩下午2點開始販售"},
 {"lng":"121.3734","lat":"24.93084","name":"誠祐藥局","id":"5931091712","tel":"0226746211","addr":"新北市三峽區光明路22號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.3727","lat":"24.9378","name":"誠美藥局","id":"5931091810","tel":"0226718131","addr":"新北市三峽區復興路106號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"星期1~6早上9點現場排隊購買口罩，4\/4~4\/5不販售防疫口罩"},
