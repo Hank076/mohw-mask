@@ -2935,6 +2935,7 @@ locations = [
 {"lng":"121.255308","lat":"24.977188","name":"內壢成章藥局","id":"5932023567","tel":"034524123","addr":"桃園市中壢區忠孝路198號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"121.252169","lat":"24.929287","name":"樂謙藥師藥局","id":"5932023647","tel":"034662775","addr":"桃園市中壢區龍東路134號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩 下午2點後開始販售"},
 {"lng":"121.2331","lat":"24.95448","name":"思琁藥師藥局","id":"5932023656","tel":"034162189","addr":"桃園市中壢區中北路二段430號","business_week":"OOOOOXXOOOOOXOOOOOOXO","memo":"週一~週五早上10:30發快篩..週六公休..週日看到貨狀況再另行公告"},
+{"lng":"121.2275","lat":"24.95668","name":"生源藥局","id":"5932023665","tel":"034221606","addr":"桃園市中壢區中光路71號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩販賣時段：08:3020:30"},
 {"lng":"121.2321","lat":"24.95431","name":"祥合藥局","id":"5932023683","tel":"032841880","addr":"桃園市中壢區中北路二段431號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販賣時段:如果有空星期一到日9-21點， 原則上本店家保有隨時更改發放時間之權利"},
 {"lng":"121.2504","lat":"24.98381","name":"鈞育藥局","id":"5932023718","tel":"034622031","addr":"桃園市中壢區吉林路127號","business_week":"XXXXXXXOOOOOXXXXXXXXX","memo":"販賣時段：W1至W5：13:00至售完，W六日不販售"},
 {"lng":"121.1798","lat":"24.98888","name":"大崙大藥局","id":"5932023727","tel":"034983597","addr":"桃園市中壢區內厝里中正路4段113號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上9點販賣快篩.有發號碼牌請勿離開"},
