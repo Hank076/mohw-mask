@@ -224,6 +224,7 @@ locations = [
 {"lng":"121.5488","lat":"25.08273","name":"大直藥局","id":"5901101205","tel":"0225320522","addr":"臺北市中山區北安路617號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5233","lat":"25.05136","name":"美日藥局","id":"5901101250","tel":"0225631662","addr":"臺北市中山區天津街66號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩於營業日下午4點開始發號碼牌"},
 {"lng":"121.5401","lat":"25.06607","name":"文德藥局","id":"5901101321","tel":"0225181178","addr":"臺北市中山區龍江路356巷19號1樓","business_week":"XXXXXXXOOOOOOXOOOOOOX"},
+{"lng":"121.5483","lat":"25.08192","name":"永直藥局","id":"5901101509","tel":"0285098059","addr":"臺北市中山區北安路595巷2弄6號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"（現場販售）周一至周六下午2點到晚上8點，周日不販售"},
 {"lng":"121.5317","lat":"25.05473","name":"展佑藥局","id":"5901101536","tel":"0225232803","addr":"臺北市中山區長春路146-1號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"0-6歲幼童，可持健保卡，免費領取快篩試劑，不分單雙號，隨到隨刷"},
 {"lng":"121.5391","lat":"25.05845","name":"蓁榛健康生活藥局","id":"5901101607","tel":"0225099333","addr":"臺北市中山區合江街100-2號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"實名制快篩每日（周一至周日）早上11:00開始販售"},
 {"lng":"121.5251","lat":"25.05142","name":"祥泰藥局","id":"5901101652","tel":"0225313097","addr":"臺北市中山區林森北路136號","business_week":"XXXXXXXOOOOOOXOOOOOOX"},
