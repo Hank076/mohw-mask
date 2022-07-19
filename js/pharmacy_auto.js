@@ -3656,7 +3656,7 @@ locations = [
 {"lng":"120.5399","lat":"24.07555","name":"康橋藥局","id":"5937013150","tel":"047278288","addr":"彰化縣彰化市民族路429號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.5483","lat":"24.09616","name":"彰化啄木鳥藥局","id":"5937013196","tel":"047330661","addr":"彰化縣彰化市茄南里金馬路2段27號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.545","lat":"24.07148","name":"維康藥局","id":"5937013221","tel":"047279446","addr":"彰化縣彰化市光南里博愛街131、133號","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"星期一至六14:00 -16:00販售 現場排隊"},
-{"lng":"120.5452","lat":"24.0858","name":"全成藥局","id":"5937013230","tel":"047263018","addr":"彰化縣彰化市民生里三民路320號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制下午4點至晚上9點。售完截止。"},
+{"lng":"120.5452","lat":"24.0858","name":"全成藥局","id":"5937013230","tel":"047263018","addr":"彰化縣彰化市民生里三民路320號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.5385","lat":"24.08752","name":"大仁藥局","id":"5937013285","tel":"047282678","addr":"彰化縣彰化市忠孝里辭修路80號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"7月份3.10.17.24.31休診 2.16.30晚上休診9.23下午晚上休診"},
 {"lng":"120.5361","lat":"24.073","name":"彰安藥局","id":"5937013338","tel":"047281095","addr":"彰化縣彰化市彰安里曉陽路235號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩自9:00開始；現場排隊"},
 {"lng":"120.5322","lat":"24.07063","name":"康禾藥局","id":"5937013347","tel":"047624077","addr":"彰化縣彰化市崙平里建和街52號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"快篩試劑週一到週五早上9點到下午6點售完為止"},
