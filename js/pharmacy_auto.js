@@ -2934,6 +2934,7 @@ locations = [
 {"lng":"121.2218","lat":"24.96005","name":"星康生活藥局","id":"5932022257","tel":"034252869","addr":"桃園市中壢區中美路二段94號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩9:00開賣"},
 {"lng":"121.2569","lat":"24.96642","name":"宜美大藥局","id":"5932022346","tel":"034637687","addr":"桃園市中壢區莊敬路716號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.2325","lat":"24.968","name":"新家福藥局","id":"5932022355","tel":"034621658","addr":"桃園市中壢區福州二街419號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售時間: 15:30開始至售完為止"},
+{"lng":"121.2256","lat":"24.95717","name":"家佳聯合藥局","id":"5932022524","tel":"034273960","addr":"桃園市中壢區中光路14號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"121.2163","lat":"24.95532","name":"中壢中正藥局","id":"5932022631","tel":"034014100","addr":"桃園市中壢區中正路363、365號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"121.2281","lat":"24.94748","name":"博士藥師藥局","id":"5932022640","tel":"034280557","addr":"桃園市中壢區健行路220號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"營業時間:8:00-12:00； 14:30-21:30  （快篩實名制14:30-17:30）"},
 {"lng":"121.2573","lat":"24.96796","name":"佳敬藥局","id":"5932022766","tel":"032713595","addr":"桃園市中壢區莊敬路160號","business_week":"OOOOXXXOOOOXXXOOOOXXX","memo":"快篩試劑如有配送禮拜一至禮拜五下午2點販售，禮拜六早上八點半"},
