@@ -1381,7 +1381,7 @@ locations = [
 {"lng":"120.3496","lat":"22.73189","name":"新高橋藥局大社店","id":"5907090121","tel":"073520061","addr":"高雄市大社區中山路277號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上9:50發號碼牌 10:00開始販售"},
 {"lng":"120.3503","lat":"22.73145","name":"大樹大社藥局","id":"5907090167","tel":"073531682","addr":"高雄市大社區中山路308號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"120.3361","lat":"22.65556","name":"本館藥局","id":"5907100088","tel":"073707655","addr":"高雄市鳥松區大華里本館路190號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間每日09:00-22:00  實名制快篩販賣時間15:00-20:00"},
-{"lng":"120.3125","lat":"22.75441","name":"和德藥局橋頭店","id":"5907110048","tel":"076113580","addr":"高雄市橋頭區橋南路116-1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"成人快篩全日開賣   售完為止"},
+{"lng":"120.3125","lat":"22.75441","name":"和德藥局橋頭店","id":"5907110048","tel":"076113580","addr":"高雄市橋頭區橋南路116-1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"成人快篩全日開賣  兒童快篩已售完"},
 {"lng":"120.3062","lat":"22.75491","name":"安麗兒藥局橋頭店","id":"5907110066","tel":"076111209","addr":"高雄市橋頭區隆豐路148號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"上午10點開始販售快篩~售完為止"},
 {"lng":"120.3099","lat":"22.74901","name":"昱佳藥局","id":"5907110084","tel":"076110302","addr":"高雄市橋頭區仕豐南路66號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩試劑售時間:早上7:30開始發售（售完為止）"},
 {"lng":"120.3105","lat":"22.7563","name":"民權藥局","id":"5907110146","tel":"076113632","addr":"高雄市橋頭區橋頭里28鄰成功路227號1樓-229號1樓","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"5／3起每日快篩販售時間為下午1:30-3:30"},
