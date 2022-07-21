@@ -4497,6 +4497,7 @@ locations = [
 {"lng":"120.4595","lat":"22.5396","name":"郁達藥局","id":"5943171163","tel":"088681258","addr":"屏東縣新園鄉仙吉村仙吉路二十七之二號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"販賣口罩時間上午8點起售完為止。"},
 {"lng":"120.5102","lat":"22.5132","name":"佳恩藥局","id":"5943181089","tel":"088635908","addr":"屏東縣崁頂鄉興農路48號","business_week":"OOOOOXXOOXOOXOXXXXXXX","memo":"早上8點開始販售快篩 星期日下午3點開始販賣快篩"},
 {"lng":"120.518","lat":"22.43356","name":"陽昇藥局","id":"5943190033","tel":"088751347","addr":"屏東縣林邊鄉林邊村忠孝路31-2號","business_week":"XXXXXXXXXXXXXXXXXXXXO","memo":"送貨早上７點到下午９點"},
+{"lng":"120.5168","lat":"22.4385","name":"永清堂藥局","id":"5943190042","tel":"088755138","addr":"屏東縣林邊鄉永樂村榮農路5巷7-3號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期日 08:00 開始販賣，售完為止"},
 {"lng":"120.5164","lat":"22.43328","name":"壽泰健康藥局","id":"5943190088","tel":"088752366","addr":"屏東縣林邊鄉仁和村中山路191號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.517889","lat":"22.434655","name":"和成健康藥局","id":"5943191101","tel":"088752028","addr":"屏東縣林邊鄉中林路一二三號","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"實名制快篩販售時間：依當天貨運到貨時間而定"},
 {"lng":"120.5066","lat":"22.48972","name":"源明藥局","id":"5943200052","tel":"088642276","addr":"屏東縣南州鄉三民路148號","business_week":"XXXXXXOXXXXXXOXXXXXXO","memo":"早上9點快篩販售時間，售完為止，週日休"},
