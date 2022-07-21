@@ -173,7 +173,7 @@ locations = [
 {"lng":"121.5283","lat":"25.02568","name":"太醫藥局","id":"5901024892","tel":"0223685125","addr":"臺北市大安區師大路12號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"快篩發放時間:周一至周五13:30，無發放號碼牌"},
 {"lng":"121.5531","lat":"25.04025","name":"康祥藥局","id":"5901024918","tel":"0227817891","addr":"臺北市大安區忠孝東路4段216巷21號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"星期天11:00-19:00"},
 {"lng":"121.5447","lat":"25.02495","name":"威康藥局","id":"5901024945","tel":"0227061149","addr":"臺北市大安區和平東路2段297號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
-{"lng":"121.551169","lat":"25.030888","name":"佑全大安敦南藥局","id":"5901024954","tel":"0223257579","addr":"臺北市大安區敦化南路2段63巷46號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上10點販賣實名制快篩"},
+{"lng":"121.551169","lat":"25.030888","name":"佑全大安敦南藥局","id":"5901024954","tel":"0223257579","addr":"臺北市大安區敦化南路2段63巷46號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5513","lat":"25.02299","name":"專品六張犁藥局","id":"5901024981","tel":"0287322226","addr":"臺北市大安區基隆路2段217號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"兒童免費領取快篩於下午3點開始發放"},
 {"lng":"121.539578","lat":"25.028648","name":"早安藥局","id":"5901025004","tel":"0227002209","addr":"臺北市大安區建國南路2段151巷42號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩早上9點發號碼牌留卡下午2點領取"},
 {"lng":"121.5267","lat":"25.02295","name":"頤品中西藥局","id":"5901025013","tel":"0223685656","addr":"臺北市大安區浦城街24之2號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
