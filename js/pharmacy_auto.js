@@ -2230,6 +2230,7 @@ locations = [
 {"lng":"121.5145","lat":"25.00853","name":"永達大藥局","id":"5931030264","tel":"0229213326","addr":"新北市永和區大新街2號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5231","lat":"25.00789","name":"聖英藥局","id":"5931030317","tel":"0229293613","addr":"新北市永和區福和路55-1號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5269","lat":"25.00171","name":"成功藥局","id":"5931030531","tel":"0229293622","addr":"新北市永和區成功路1段133號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
+{"lng":"121.5159","lat":"24.9957","name":"易安堂藥局","id":"5931030540","tel":"0229431932","addr":"新北市永和區民光街22巷2號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.521","lat":"25.00893","name":"仲景藥局","id":"5931030568","tel":"0289281687","addr":"新北市永和區竹林路213巷1號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩早上10點即開賣，現場刷健保卡不發號碼牌；營業時間9:30-10:30"},
 {"lng":"121.5201","lat":"24.99963","name":"德和便利藥局","id":"5931032099","tel":"0289431417","addr":"新北市永和區得和路194號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間為9：00~22：00（下午1點~3點休息）實名制快篩9:00販售"},
 {"lng":"121.5251","lat":"24.99943","name":"宸安藥局","id":"5931032133","tel":"0222328274","addr":"新北市永和區得和路385號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"星期一至六 實名制快篩  隨時可買； 星期日公休"},
