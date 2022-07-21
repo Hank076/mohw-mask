@@ -2101,6 +2101,7 @@ locations = [
 {"lng":"121.4589","lat":"24.99216","name":"軒源藥局","id":"5931017369","tel":"0229583995","addr":"新北市板橋區信義路169號(1樓)","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"實名制快篩周一至周六早上8:30開始過卡發放，周日休息"},
 {"lng":"121.4746","lat":"25.01727","name":"華安藥局","id":"5931017387","tel":"0229581608","addr":"新北市板橋區永豐街32號(1樓)","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩平日下午兩點／週六一點 現場開賣 無號碼牌"},
 {"lng":"121.4654","lat":"25.02499","name":"美康四維藥局","id":"5931017396","tel":"0222506616","addr":"新北市板橋區四維路122號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天提供78份快篩 星期一.三.五單號 二.四.六雙號 星期日不限"},
+{"lng":"121.4595","lat":"25.00689","name":"光澤醫美藥局","id":"5931017403","tel":"0229551215","addr":"新北市板橋區四川路1段21號(1樓)","business_week":"OXOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.474","lat":"25.0101","name":"順儷長安藥局","id":"5931017449","tel":"0229509615","addr":"新北市板橋區長安街138巷1弄52號(1樓)","business_week":"OOOOOOOXXXXXXXXXXXXXX","memo":"每天早上9點開賣請自備500元"},
 {"lng":"121.4573","lat":"24.99744","name":"佑全板橋四川藥局","id":"5931017494","tel":"0229559598","addr":"新北市板橋區四川路1段471號1樓","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"快篩販售時間：周一到周五1500開始，週六日公休，現場排隊"},
 {"lng":"121.4608","lat":"25.00206","name":"埔全藥局","id":"5931017529","tel":"0229567309","addr":"新北市板橋區忠孝路33號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名快篩 可以加line詢問"},
