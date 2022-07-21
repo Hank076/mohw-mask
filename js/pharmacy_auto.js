@@ -2066,6 +2066,7 @@ locations = [
 {"lng":"121.4556","lat":"25.01197","name":"常仁藥局","id":"5931014822","tel":"0229674999","addr":"新北市板橋區中正路1巷4號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.4618","lat":"25.02023","name":"詠濟藥局","id":"5931014831","tel":"0222536951","addr":"新北市板橋區幸福路23號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"121.4568","lat":"25.0077","name":"皇慶藥局","id":"5931015187","tel":"0229655351","addr":"新北市板橋區館前西路161、163號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名防疫快篩號碼牌發放時間自15:00"},
+{"lng":"121.4584","lat":"25.01799","name":"杏澤藥局","id":"5931015329","tel":"0229657959","addr":"新北市板橋區國光路55號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"口罩發放時間:星期一到星期六每天早上10;00-12;00"},
 {"lng":"121.4439","lat":"25.01262","name":"僑中藥師藥局","id":"5931015605","tel":"0229692547","addr":"新北市板橋區僑中1街102巷5弄15號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4467","lat":"25.00246","name":"正康健保藥局","id":"5931015687","tel":"0222756681","addr":"新北市板橋區大觀路2段65號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"下午13:30依現場順序開始販售快篩，快篩配送絮亂庫存不準!!"},
 {"lng":"121.4787","lat":"25.0275","name":"新進發大藥局","id":"5931015721","tel":"0222593926","addr":"新北市板橋區大同街24號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩上午10點開門即賣，排隊不發號碼"},
