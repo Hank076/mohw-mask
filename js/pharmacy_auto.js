@@ -425,6 +425,7 @@ locations = [
 {"lng":"121.5017","lat":"25.13044","name":"杏嘉藥局","id":"5901162879","tel":"0228942585","addr":"臺北市北投區清江路68號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩發放時間早上9:30-晚上8:00，售完為止"},
 {"lng":"121.5176","lat":"25.11244","name":"小豬藥局","id":"5901163107","tel":"0228217099","addr":"臺北市北投區東陽街403號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"星期六.星期日不販售"},
 {"lng":"121.5183","lat":"25.11868","name":"石牌健康人生藥局","id":"5901163152","tel":"0228225169","addr":"臺北市北投區石牌路2段187號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"政府快篩每日14點開賣（星期一到星期日）請自行排隊"},
+{"lng":"121.5012","lat":"25.13015","name":"鴻恩藥局","id":"5901163214","tel":"0228926410","addr":"臺北市北投區中央南路1段129號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩試劑代售時間自08:30 ，現場排隊"},
 {"lng":"121.4671","lat":"25.12074","name":"關渡松藥局","id":"5901163250","tel":"0228584824","addr":"臺北市北投區知行路247號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"（更新囉!!）每天下午2點開賣    郵局可配送時間：週一至週五正常配送週六13：00-17：00配送周日店休。"},
 {"lng":"121.520766","lat":"25.110468","name":"佳祈健保藥局","id":"5901163269","tel":"0228232535","addr":"臺北市北投區明德路144號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.508706","lat":"25.115209","name":"天禧大藥局","id":"5901163296","tel":"0228213558","addr":"臺北市北投區實踐街35號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩下午1:30現場販售"},
