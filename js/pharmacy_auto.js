@@ -3305,7 +3305,7 @@ locations = [
 {"lng":"121.7561","lat":"24.7514","name":"栢心藥局","id":"5934011958","tel":"039357277","addr":"宜蘭縣宜蘭市宜興路1段111號","business_week":"OOOOOOXOOOXOOXOOOOOXX","memo":"快篩早上8:00開賣"},
 {"lng":"121.755453","lat":"24.750235","name":"惠登藥師藥局","id":"5934011985","tel":"039333718","addr":"宜蘭縣宜蘭市復興路28號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期一~六，早上7:45販售實名制快篩。星期日休息。"},
 {"lng":"121.7523","lat":"24.75369","name":"欣悅藥局","id":"5934012008","tel":"039321002","addr":"宜蘭縣宜蘭市中山路2段303號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"周日休息，快篩營業時間皆可購買"},
-{"lng":"121.763","lat":"24.75158","name":"大榮藥師藥局","id":"5934012017","tel":"039387928","addr":"宜蘭縣宜蘭市校舍路23號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩周一至周六早上9:00開始販售（如遇特殊狀況會另行公告販售時間）"},
+{"lng":"121.763","lat":"24.75158","name":"大榮藥師藥局","id":"5934012017","tel":"039387928","addr":"宜蘭縣宜蘭市校舍路23號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩周一至周六早上9:00開始販售"},
 {"lng":"121.7431","lat":"24.74978","name":"博安藥局","id":"5934012026","tel":"039320866","addr":"宜蘭縣宜蘭市民族路418號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩販售時間:早上0900-1200，下午1400-2100。"},
 {"lng":"121.7531","lat":"24.75641","name":"鴻馨藥師健保藥局","id":"5934012062","tel":"039333408","addr":"宜蘭縣宜蘭市康樂路139號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"08:00-20:30實名制快篩&0-6歲免費快篩，皆可以領。週六18:00打烊，周日公休。感謝配合!"},
 {"lng":"121.75","lat":"24.74894","name":"仁俊藥局","id":"5934012133","tel":"039327778","addr":"宜蘭縣宜蘭市神農路1段87之1號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"實名制快篩試劑營業時間內都可購售"},
