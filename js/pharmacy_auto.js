@@ -280,6 +280,7 @@ locations = [
 {"lng":"121.6125","lat":"25.0697","name":"明湖藥局","id":"5901110393","tel":"0226313515","addr":"臺北市內湖區東湖路7巷27號1F","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，早上九點半販售。"},
 {"lng":"121.5909","lat":"25.06738","name":"宏光藥局","id":"5901110624","tel":"0227919068","addr":"臺北市內湖區成功路2段221號1樓","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"快篩實名制 及  0-6歲免費快篩（隨到隨領）"},
 {"lng":"121.6158","lat":"25.06785","name":"安康藥局","id":"5901111890","tel":"0226327675","addr":"臺北市內湖區安康路482號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.6129","lat":"25.07133","name":"盧狄聯合藥局","id":"5901112100","tel":"0226308897","addr":"臺北市內湖區康寧路3段189巷57號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"營業時間09:00~22:00 週六上半天 **快篩實名制販售依門口及藥師fb公告**"},
 {"lng":"121.6062","lat":"25.07203","name":"康信藥局","id":"5901112351","tel":"0226342088","addr":"臺北市內湖區民權東路6段296巷29號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.6189","lat":"25.07015","name":"康健藥局","id":"5901112593","tel":"0226305825","addr":"臺北市內湖區康樂街80號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5774","lat":"25.07964","name":"匯安藥局","id":"5901112600","tel":"0226579255","addr":"臺北市內湖區內湖路1段703之1號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"星期一到六上午9:00販售快篩"},
