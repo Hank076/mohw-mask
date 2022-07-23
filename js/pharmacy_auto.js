@@ -380,6 +380,7 @@ locations = [
 {"lng":"121.5288","lat":"25.11156","name":"家安健保藥局","id":"5901153610","tel":"0228322182","addr":"臺北市士林區德行東路109巷119號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"兒童政府免費快篩，成人實名制快篩目前尚有庫存，營業時間內皆可領取。"},
 {"lng":"121.5103","lat":"25.08299","name":"康佑藥局","id":"5901153665","tel":"0228119981","addr":"臺北市士林區延平北路5段176號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"實名制快篩9點開始"},
 {"lng":"121.5215","lat":"25.0885","name":"愛佳藥局","id":"5901153674","tel":"0228811199","addr":"臺北市士林區承德路4段222之1號","business_week":"OOOOOOOOOOOOXOOOOOOXX"},
+{"lng":"121.5099","lat":"25.08034","name":"安奕藥局","id":"5901153683","tel":"0228133289","addr":"臺北市士林區葫蘆街30巷12號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週日休。"},
 {"lng":"121.5329","lat":"25.10938","name":"全予藥局","id":"5901153709","tel":"0228386955","addr":"臺北市士林區德行東路221號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩販售時間為周一至周六上午11點， 周日公休"},
 {"lng":"121.522","lat":"25.0846","name":"前港盛康藥局","id":"5901153727","tel":"0228831079","addr":"臺北市士林區前港街28號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"實名制快篩，早上9:00開始販售"},
 {"lng":"121.5257","lat":"25.09037","name":"太和堂中西藥局","id":"5901153825","tel":"0228814122","addr":"臺北市士林區大東路74號(實際使用:1樓)","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"上午8:30現場領號碼牌。週日公休"},
