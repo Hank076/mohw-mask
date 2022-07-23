@@ -4429,6 +4429,7 @@ locations = [
 {"lng":"119.5846","lat":"23.56228","name":"東文藥局","id":"5944011433","tel":"069221433","addr":"澎湖縣馬公市東文里文山路66號","business_week":"OOOOOXOOOOOXXXOOOOOXX","memo":"快篩販售:週一~週五下午3:30 週六休息"},
 {"lng":"119.5708","lat":"23.57457","name":"永日春六號藥局","id":"5944011451","tel":"069270750","addr":"澎湖縣馬公市光榮里文光路110號1樓","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"快篩實名制，週一至週日，每天早上07:45開始販售，售完為止。"},
 {"lng":"119.6603","lat":"23.5844","name":"全民藥局","id":"5944020558","tel":"069920403","addr":"澎湖縣湖西鄉湖西村150-3號","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"週一至週五早上08:00開始販售快篩試劑，售完為止 ； 中午12:00-13:30休息"},
+{"lng":"119.509385","lat":"23.601222","name":"金福藥局","id":"5944040014","tel":"069984048","addr":"澎湖縣西嶼鄉池東村43之2號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"121.6067","lat":"23.98027","name":"德生藥局","id":"5945010038","tel":"038322676","addr":"花蓮縣花蓮市中山路329號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩:每日上午9點開始"},
 {"lng":"121.6066","lat":"23.97397","name":"邱藥局","id":"5945010047","tel":"038324573","addr":"花蓮縣花蓮市忠孝街48號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩：週一至週六 上午9點至晚上8點 *週日無販售"},
 {"lng":"121.6019","lat":"23.98627","name":"健安藥局","id":"5945010056","tel":"038323031","addr":"花蓮縣花蓮市中山路537號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩領取時間不限  上班時間am8；30-pm9；00 周日 休"},
