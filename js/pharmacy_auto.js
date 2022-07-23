@@ -585,6 +585,7 @@ locations = [
 {"lng":"121.5621","lat":"24.98901","name":"皇興藥師藥局","id":"5901202216","tel":"0229365553","addr":"臺北市文山區木柵路2段121號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"121.5383","lat":"25.00203","name":"宇康藥局","id":"5901202396","tel":"0229307066","addr":"臺北市文山區羅斯福路5段218巷7號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5395","lat":"25.00115","name":"杏隆藥局","id":"5901202627","tel":"0229313151","addr":"臺北市文山區羅斯福路5段261號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
+{"lng":"121.5588","lat":"24.99312","name":"永源大藥局","id":"5901202645","tel":"0222396166","addr":"臺北市文山區興隆路3段302號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5384","lat":"25.00322","name":"康宜庭萬隆藥局","id":"5901202654","tel":"0229348662","addr":"臺北市文山區羅斯福路5段202號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"自費快篩不限購   實名制快篩14:00開賣 一人一張健保卡（7歲以下例外）"},
 {"lng":"121.5697","lat":"24.98683","name":"振大藥局","id":"5901202681","tel":"0229393385","addr":"臺北市文山區永安街22巷16號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.566","lat":"24.98292","name":"躍獅奕新藥局","id":"5901202752","tel":"0222340378","addr":"臺北市文山區木新路2段275號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
