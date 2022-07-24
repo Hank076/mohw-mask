@@ -1549,6 +1549,7 @@ locations = [
 {"lng":"121.751692","lat":"25.09843","name":"欣華藥局","id":"5911030026","tel":"0224576741","addr":"基隆市暖暖區源遠路197號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"10"},
 {"lng":"121.7543","lat":"25.09882","name":"陸記藥局","id":"5911030035","tel":"0224576712","addr":"基隆市暖暖區源遠路241號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"每日早上9:30開始販售快篩試劑"},
 {"lng":"121.7357","lat":"25.09953","name":"杏福藥局","id":"5911030053","tel":"0224572427","addr":"基隆市暖暖區暖暖街178號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.7367","lat":"25.10013","name":"東方藥局","id":"5911031096","tel":"0224574171","addr":"基隆市暖暖區暖暖街153號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"上午8時30分販售"},
 {"lng":"121.7357","lat":"25.10036","name":"柏林藥局","id":"5911031158","tel":"0224592277","addr":"基隆市暖暖區暖暖街246巷167號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上8.40銷售快篩實名制"},
 {"lng":"121.7574","lat":"25.09941","name":"碇內東亞藥師藥局","id":"5911031238","tel":"0224590033","addr":"基隆市暖暖區源遠路319號1樓","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"周一至周六下午三點發放快篩試劑"},
 {"lng":"121.7365","lat":"25.09258","name":"福安藥局","id":"5911031283","tel":"0224588550","addr":"基隆市暖暖區暖暖街552號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"週日公休"},
