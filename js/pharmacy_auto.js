@@ -4131,7 +4131,7 @@ locations = [
 {"lng":"120.1794","lat":"23.16106","name":"新生藥局","id":"5941050063","tel":"067224563","addr":"臺南市佳里區新生路80號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩時段:早上9:00~晚上8:00全時段。星期日公休"},
 {"lng":"120.175507","lat":"23.159977","name":"普羅藥局","id":"5941050090","tel":"067232252","addr":"臺南市佳里區新生路303號","business_week":"OOOOOOXOOOOOOXXXXXXXX","memo":"快篩販售時間:周一至周六 8:00~18:00 售完為止"},
 {"lng":"120.174461","lat":"23.163265","name":"百興藥局","id":"5941050107","tel":"067222735","addr":"臺南市佳里區安西里文化路259號","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"禮拜一~六 08:0021:00（快篩試劑每日販售時間:早上8:30分，星期日休息）       開始~售完"},
-{"lng":"120.1771","lat":"23.16297","name":"賀康藥局","id":"5941051417","tel":"067221447","addr":"臺南市佳里區文化路207號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"快篩販售時間 13:00~售完"},
+{"lng":"120.1771","lat":"23.16297","name":"賀康藥局","id":"5941051417","tel":"067221447","addr":"臺南市佳里區文化路207號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩販售時間 13:00~售完"},
 {"lng":"120.1768","lat":"23.16277","name":"佳佳藥局","id":"5941051453","tel":"067227639","addr":"臺南市佳里區中山路386號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"禮拜一~六08:00-12;00 14:30-21:00   星期日08:00-10:00"},
 {"lng":"120.1767","lat":"23.15936","name":"雅倫藥局","id":"5941051499","tel":"067229488","addr":"臺南市佳里區建南街165號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"禮拜一~六 8:00售完"},
 {"lng":"120.170962","lat":"23.168867","name":"黃藥師藥局","id":"5941051542","tel":"067217033","addr":"臺南市佳里區忠孝路293號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩試劑自9點開始.售完為止."},
