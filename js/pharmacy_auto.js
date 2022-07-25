@@ -4336,6 +4336,7 @@ locations = [
 {"lng":"120.489382","lat":"22.58786","name":"萬丹藥局","id":"5943050105","tel":"087762889","addr":"屏東縣萬丹鄉萬安村和平西路5號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上8:30開始販售快篩"},
 {"lng":"120.4723","lat":"22.62141","name":"黃藥師藥局","id":"5943051175","tel":"087075529","addr":"屏東縣萬丹鄉社中村社皮路三段428.430號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"08:00~22:00快篩銷售"},
 {"lng":"120.4896","lat":"22.58637","name":"進德藥局","id":"5943051326","tel":"087772046","addr":"屏東縣萬丹鄉萬安村萬丹路1段158號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制每日AM0800~PM0930，視庫存及人力調整，其他依現場公告為主。"},
+{"lng":"120.4898","lat":"22.58748","name":"杏林婦嬰藥局","id":"5943051399","tel":"087777791","addr":"屏東縣萬丹鄉萬安村萬丹路一段155號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.4892","lat":"22.57943","name":"好藥多藥局","id":"5943051415","tel":"087770055","addr":"屏東縣萬丹鄉水泉村萬新路1388號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"2\/11-2\/29，營業時間8:00為口罩販賣時間，售完為止"},
 {"lng":"120.5333","lat":"22.68979","name":"臺灣人藥師藥局","id":"5943060058","tel":"087625315","addr":"屏東縣長治鄉崙上村崑崙路188-10號","business_week":"OOOOOOXOOOOOOOOOOOOOX"},
 {"lng":"120.5117","lat":"22.66511","name":"瑞安藥局","id":"5943061091","tel":"087237236","addr":"屏東縣長治鄉瑞源路11號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"營業日08;00開始.12點到2點休息"},
