@@ -4026,6 +4026,7 @@ locations = [
 {"lng":"120.4341","lat":"23.44735","name":"李藥局","id":"5940120039","tel":"052355389","addr":"嘉義縣水上鄉民生村忠孝街111號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"每天下午1:00開始販售.周日休息"},
 {"lng":"120.3991","lat":"23.42995","name":"瑞和堂藥局","id":"5940120048","tel":"052682518","addr":"嘉義縣水上鄉水頭村正義路77號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩販售時間：07:15~售完，星期日公休"},
 {"lng":"120.362","lat":"23.41007","name":"德安藥局","id":"5940120137","tel":"052688835","addr":"嘉義縣水上鄉南和村後寮26之6號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩 8:00開始，售完為止"},
+{"lng":"120.4006","lat":"23.43044","name":"大嘉藥局","id":"5940120191","tel":"052689031","addr":"嘉義縣水上鄉正義路1巷16號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"08:00~售罄"},
 {"lng":"120.4379","lat":"23.42084","name":"楊藥局","id":"5940121205","tel":"052890687","addr":"嘉義縣水上鄉忠和村68之5號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制販售時間更改為每日早上八點，依現場排隊。"},
 {"lng":"120.399506","lat":"23.430251","name":"宏益藥局","id":"5940121303","tel":"052601714","addr":"嘉義縣水上鄉正義路51號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售時間: 禮拜一~禮拜日上午8:00~12:00   下午15:00~18:00  晚上18:30~20:30    售完為止"},
 {"lng":"120.4003","lat":"23.4311","name":"照安藥局","id":"5940121349","tel":"052687897","addr":"嘉義縣水上鄉水頭村中興路408號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"領快篩時間:早上8:00~售馨"},
