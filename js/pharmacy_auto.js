@@ -336,6 +336,7 @@ locations = [
 {"lng":"121.5322","lat":"25.11764","name":"杏城藥局","id":"5901150235","tel":"0228725144","addr":"臺北市士林區天母東路24號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"週一至週五下午2:00 週六上午10:00販售實名制快篩試劑 週日公休 每人限一卡"},
 {"lng":"121.5214","lat":"25.09605","name":"佳赫藥局","id":"5901150244","tel":"0228367202","addr":"臺北市士林區文昌路62號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩早上8:30開始販售"},
 {"lng":"121.542","lat":"25.13749","name":"文祥藥局","id":"5901150253","tel":"0228623487","addr":"臺北市士林區光華路26巷2弄2號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"周一至周日早上8點30分開始售實名制快篩"},
+{"lng":"121.5296","lat":"25.10804","name":"建芳藥局","id":"5901150271","tel":"0228357172","addr":"臺北市士林區德行東路148號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.526","lat":"25.08898","name":"士林三安藥局","id":"5901150342","tel":"0228812631","addr":"臺北市士林區大南路11號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5236","lat":"25.09549","name":"博惠藥局","id":"5901150397","tel":"0228320379","addr":"臺北市士林區華榮街16號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"實名制快篩 ，週一至週日"},
 {"lng":"121.5101","lat":"25.08251","name":"太安藥局","id":"5901150468","tel":"0228111468","addr":"臺北市士林區延平北路5段157號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
