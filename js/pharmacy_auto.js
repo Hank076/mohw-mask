@@ -2907,6 +2907,7 @@ locations = [
 {"lng":"121.2573","lat":"24.96345","name":"佳佑藥局","id":"593202A931","tel":"034356190","addr":"桃園市中壢區環中東路二四一號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩販賣時段：09:00以後發號碼牌，售完為止"},
 {"lng":"121.2255","lat":"24.95742","name":"幸福藥局","id":"593202B054","tel":"034223092","addr":"桃園市中壢區中光路3號","business_week":"OXXOXOOOOXOOOXOOXOOXX","memo":"口罩販賣時段：六日一三8:30~售完為止 \/二五14:30~售完為止\/四10:00~售完為止"},
 {"lng":"121.227","lat":"24.95071","name":"美十藥局","id":"593202B214","tel":"032840520","addr":"桃園市中壢區健行路七九號一樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
+{"lng":"121.2255","lat":"24.95122","name":"慧康藥局","id":"593202B296","tel":"032840064","addr":"桃園市中壢區中北路二段101號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售時間：13:30"},
 {"lng":"121.2277","lat":"24.95526","name":"健康生活藥局","id":"593202B349","tel":"034272729","addr":"桃園市中壢區中山路二五號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩8:30"},
 {"lng":"121.166994","lat":"24.95824","name":"永豐藥局","id":"593202B394","tel":"034205339","addr":"桃園市中壢區民族路五段四六O號","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"快篩販賣時段：隨到隨賣，售完為止! 6／30以前0~6歲免費，另有販賣血氧機"},
 {"lng":"121.2611","lat":"24.96974","name":"佳音健保藥局","id":"593202B401","tel":"034516813","addr":"桃園市中壢區興仁路一段144號2樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩販賣時段："},
