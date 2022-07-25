@@ -3895,6 +3895,7 @@ locations = [
 {"lng":"120.388","lat":"23.6739","name":"健康藥局","id":"5939050044","tel":"056622889","addr":"雲林縣土庫鎮順天里中正路11號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"代售口罩時間早上七點三十五分開始，現場排隊，售完為止"},
 {"lng":"120.3901","lat":"23.67548","name":"土庫台丞藥局","id":"5939051185","tel":"056626677","addr":"雲林縣土庫鎮中正路112號","business_week":"XXXXXXXOOOOOOXOOOOOOX","memo":"實名制快篩販售時間下午14:30 ~售完為止"},
 {"lng":"120.3543","lat":"23.706","name":"友杏健康健保藥局","id":"5939051194","tel":"056651758","addr":"雲林縣土庫鎮北平里民權路14號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"週一~週六 貨到開始販售，售完為止."},
+{"lng":"120.357","lat":"23.70561","name":"祥安藥局","id":"5939051229","tel":"056656610","addr":"雲林縣土庫鎮東平里馬光路38-1號","business_week":"OOOOOOXOOOOOXXOXOXOXX"},
 {"lng":"120.3578","lat":"23.70522","name":"祐安藥局","id":"5939051247","tel":"056655938","addr":"雲林縣土庫鎮馬光路39-1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩試劑每日到貨時間不固定，依到貨時間滾動式販售（售完為止）"},
 {"lng":"120.3012","lat":"23.57199","name":"慶輝藥局","id":"5939060111","tel":"057835078","addr":"雲林縣北港鎮華勝里大同路232號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"0~6歲健保卡免費領取快篩試劑1盒，僅1次。   庫存充足，不用等，馬上辦。服務時間：早上8:30起至晚上9:00。"},
 {"lng":"120.3027","lat":"23.56495","name":"民生藥局","id":"5939060120","tel":"057822476","addr":"雲林縣北港鎮民生路70號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"上午8:30-晚上9:30，週末請先電話洽詢"},
