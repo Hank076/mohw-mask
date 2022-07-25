@@ -3525,6 +3525,7 @@ locations = [
 {"lng":"120.5427","lat":"24.07324","name":"正忠藥局","id":"5937010426","tel":"047244669","addr":"彰化縣彰化市福安里福鎮街16號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"周一~周六09:00~21:00販售快篩.售完為止."},
 {"lng":"120.5377","lat":"24.08868","name":"杏全藥局","id":"5937010462","tel":"047240547","addr":"彰化縣彰化市忠權里彰美路一段185號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩：每日販售"},
 {"lng":"120.5512","lat":"24.07501","name":"范藥局","id":"5937010533","tel":"047271540","addr":"彰化縣彰化市東興里公園路1段292號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日賣快篩劑時間恢復8點開賣"},
+{"lng":"120.5374","lat":"24.08608","name":"榮源藥局","id":"5937010613","tel":"047229432","addr":"彰化縣彰化市忠權里辭修路128巷9號","business_week":"OOOOOOOOOOOOOOXXXXXXX","memo":"快篩實名制每日早上9:00開賣"},
 {"lng":"120.540561","lat":"24.079998","name":"日榮堂藥局","id":"5937010819","tel":"047222396","addr":"彰化縣彰化市光華里和平路50號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日15:30開始販售"},
 {"lng":"120.5425","lat":"24.06841","name":"尚豪藥局","id":"5937010917","tel":"047113332","addr":"彰化縣彰化市大埔路695號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"周一到周六早上八點到晚上十點販售"},
 {"lng":"120.5455","lat":"24.09625","name":"全杏藥局","id":"5937010999","tel":"047363366","addr":"彰化縣彰化市茄苳路一段299號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期一至五早上7點半，星期六早上9點，星期日休息"},
