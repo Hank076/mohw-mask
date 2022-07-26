@@ -596,6 +596,7 @@ locations = [
 {"lng":"121.559535","lat":"24.981532","name":"富康活力睦新藥局","id":"5901203400","tel":"0229393666","addr":"臺北市文山區木新路3段216號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.559","lat":"24.99779","name":"康宜庭興隆藥局","id":"5901203419","tel":"0222304866","addr":"臺北市文山區興隆路3段200號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.541346","lat":"24.990929","name":"康宜庭景文藥局","id":"5901203428","tel":"0229302801","addr":"臺北市文山區景文街97號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間為08:30-22:30；14:00開始販售快篩實名制，謝謝您的配合"},
+{"lng":"121.545","lat":"24.99524","name":"景華盛康藥局","id":"5901203446","tel":"0229310188","addr":"臺北市文山區景華街69號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售時間:下午3點開賣，現場發送號碼牌"},
 {"lng":"121.5562","lat":"25.00024","name":"全球萬芳藥局","id":"5901203455","tel":"0289352147","addr":"臺北市文山區興隆路3段63號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間9:00~22:00"},
 {"lng":"121.5675","lat":"24.98344","name":"大愛幸福藥局","id":"5901203464","tel":"0229379977","addr":"臺北市文山區木新路2段221號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.576","lat":"24.98811","name":"晴天藥局","id":"5901203473","tel":"0229363131","addr":"臺北市文山區萬壽路15號(1樓)","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"實名制快篩全天販售! 祝福身心愉快、有如晴天、疫情早日退散!"},
