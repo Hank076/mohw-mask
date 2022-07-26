@@ -3430,6 +3430,7 @@ locations = [
 {"lng":"120.9103","lat":"24.68682","name":"惠祐藥局","id":"5935051867","tel":"037668933","addr":"苗栗縣頭份市中正路165號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"防疫快篩販賣時段：9:00起（周日中午起休息）"},
 {"lng":"120.907","lat":"24.68785","name":"仁方藥局","id":"5935051929","tel":"037687238","addr":"苗栗縣頭份市自強路150巷2-5號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"正常營業AM08:00-PM10:00"},
 {"lng":"120.9065","lat":"24.68438","name":"吉品藥局","id":"5935051938","tel":"037676898","addr":"苗栗縣頭份市中正路9號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩07:00起發放，發完為止。如有更動不另行通知"},
+{"lng":"120.9032","lat":"24.69653","name":"森品藥局","id":"5935051947","tel":"037672378","addr":"苗栗縣頭份市建國路2段150、152、156號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間：9:00-22:30"},
 {"lng":"120.9046","lat":"24.69693","name":"頭份瑞士藥局","id":"5935051965","tel":"037683841","addr":"苗栗縣頭份市建國路二段100號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩開賣時間Facebook都會公佈"},
 {"lng":"120.8995","lat":"24.69356","name":"日康藥局","id":"5935051983","tel":"037660061","addr":"苗栗縣頭份市中央路402號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩全天候供應，可於營業時間內至藥局領用及購買"},
 {"lng":"120.9099","lat":"24.69584","name":"懷恩中西藥局","id":"5935052006","tel":"037683981","addr":"苗栗縣頭份市建國路128號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間:10:00-22:00"},
