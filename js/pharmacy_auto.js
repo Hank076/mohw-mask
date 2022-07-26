@@ -135,6 +135,7 @@ locations = [
 {"lng":"121.5539","lat":"25.03024","name":"生百藥局","id":"5901021408","tel":"0227371011","addr":"臺北市大安區臨江街124號","business_week":"XXXXXXXXXXXXXXOOOOOOX"},
 {"lng":"121.5412","lat":"25.04135","name":"生光藥局","id":"5901022601","tel":"0227780862","addr":"臺北市大安區忠孝東路3段248巷2號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"下午兩點開始販售（周日及端午連假國定假日公休）"},
 {"lng":"121.5294","lat":"25.03315","name":"世中欣藥局","id":"5901023073","tel":"0223938947","addr":"臺北市大安區永康街2巷8號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"健保快篩：周一至周五， 早上10點開始販售。週六下午2點販售。週日停售.。"},
+{"lng":"121.552","lat":"25.03103","name":"大愛健康藥局","id":"5901023215","tel":"0227092156","addr":"臺北市大安區敦化南路2段63巷65號","business_week":"OOOOOOXOOOOOOXOOOOOOO"},
 {"lng":"121.529","lat":"25.03225","name":"麗樺藥師藥局","id":"5901023304","tel":"0223952628","addr":"臺北市大安區麗水街3號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5519","lat":"25.03433","name":"安和藥局","id":"5901023313","tel":"0227092349","addr":"臺北市大安區安和路1段102巷3號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"平日下午三點開始販賣賣完 78份結束"},
 {"lng":"121.5561","lat":"25.03708","name":"佑安藥局","id":"5901023331","tel":"0227069339","addr":"臺北市大安區延吉街233巷9號","business_week":"XXXXXXXOOOOOOXOXXXOXX","memo":"營業時間為下午兩點開始，週六不賣快篩"},
