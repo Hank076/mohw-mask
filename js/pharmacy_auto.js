@@ -2407,6 +2407,7 @@ locations = [
 {"lng":"121.435","lat":"25.03254","name":"建昌藥局","id":"5931068599","tel":"0229015422","addr":"新北市新莊區福營里中正路557號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩:週一至週日中午12:00過後開始販售，隨時都可以來，售完為止。"},
 {"lng":"121.4283","lat":"25.02717","name":"瑞豐大藥局","id":"5931068624","tel":"0222049932","addr":"新北市新莊區建福里後港一路105號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩每日9:00開始銷售，售完為止!星期日暫停銷售"},
 {"lng":"121.4281","lat":"25.01901","name":"庭安藥局","id":"5931068722","tel":"0222080528","addr":"新北市新莊區民有里西盛街172號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上9:30開始販售實名制快篩.賣完為止週日公休"},
+{"lng":"121.426","lat":"25.02259","name":"森活藥局","id":"5931068759","tel":"0222027927","addr":"新北市新莊區民安路220-1號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"實名快篩15點開賣"},
 {"lng":"121.4251","lat":"25.02392","name":"東京大藥局","id":"5931068819","tel":"0222063806","addr":"新北市新莊區民安路176號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩代售時間為9:30開始現場排隊販售"},
 {"lng":"121.4267","lat":"25.02666","name":"大愛藥師藥局","id":"5931068866","tel":"0222042119","addr":"新北市新莊區後港一路69號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩代售時間自早上10點 現場排隊"},
 {"lng":"121.4188","lat":"25.02498","name":"旭生藥局","id":"5931068875","tel":"0229021289","addr":"新北市新莊區裕民街42號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，販售時間 上午8點20 開始  。"},
