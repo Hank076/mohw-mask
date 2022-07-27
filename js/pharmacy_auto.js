@@ -2232,6 +2232,7 @@ locations = [
 {"lng":"121.5112","lat":"24.98368","name":"博健藥局","id":"5931040680","tel":"0229402107","addr":"新北市中和區忠孝街37巷4號","business_week":"OOOOOOXOOOOOOOOOOOOOO"},
 {"lng":"121.4918","lat":"24.99076","name":"梓芳大藥局","id":"5931040724","tel":"0222405025","addr":"新北市中和區圓通路278號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"營業即開始販賣實名制快篩與口罩（中童、小童、幼幼）。"},
 {"lng":"121.50652","lat":"24.985075","name":"日發藥局","id":"5931040733","tel":"0229424926","addr":"新北市中和區興南路2段52-4號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"每天下午3點飯售實名制快篩（無發放號碼牌）"},
+{"lng":"121.5216","lat":"24.99394","name":"千大藥局","id":"5931040840","tel":"0229441567","addr":"新北市中和區立人街13號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.4836","lat":"24.99644","name":"裕壬藥局","id":"5931041061","tel":"0232349358","addr":"新北市中和區新生街206、208號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩採滾動式調整領"},
 {"lng":"121.4948","lat":"24.99268","name":"祥田藥局","id":"5931041070","tel":"0222452293","addr":"新北市中和區圓通路236號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩，08:00開始販售，星期日休息"},
 {"lng":"121.5021","lat":"24.99737","name":"慈光藥局","id":"5931042282","tel":"0222407700","addr":"新北市中和區南山路117號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩早上9:00販賣，週日休息。"},
