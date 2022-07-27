@@ -181,6 +181,7 @@ locations = [
 {"lng":"121.544293","lat":"25.037497","name":"博醫仁愛藥局","id":"5901025059","tel":"0227019107","addr":"臺北市大安區仁愛路4段8巷2號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間 早上08:00~晚上22:00"},
 {"lng":"121.5527","lat":"25.03488","name":"鎮安中西安和藥局","id":"5901025068","tel":"0227015201","addr":"臺北市大安區安和路1段123號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑於每日9點開賣"},
 {"lng":"121.5513","lat":"25.03002","name":"敦南春天藥局","id":"5901025077","tel":"0227553266","addr":"臺北市大安區敦化南路2段81巷63號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩待售時間:週一至週日15:00現場排隊購買，售完為止。（物流配送不及則例外，以門市公告為主）"},
+{"lng":"121.5101","lat":"25.05832","name":"慈仁藥局","id":"5901090074","tel":"0225572733","addr":"臺北市大同區歸綏街261號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"平日營業至晚上6點，星期六營業至下午2點，星期日公休"},
 {"lng":"121.5099","lat":"25.05581","name":"三銘大藥局","id":"5901090127","tel":"0225583392","addr":"臺北市大同區迪化街1段80號","business_week":"OOOOOOXOOOOOOXXXXXXXX"},
 {"lng":"121.5144","lat":"25.07452","name":"柯藥局","id":"5901090154","tel":"0225948515","addr":"臺北市大同區重慶北路3段335巷6號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"存已零如何歸零"},
 {"lng":"121.5191","lat":"25.05356","name":"時春藥局","id":"5901090181","tel":"0225597918","addr":"臺北市大同區赤峰街4號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"上午9點發號碼牌"},
