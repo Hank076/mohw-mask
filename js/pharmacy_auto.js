@@ -2089,6 +2089,7 @@ locations = [
 {"lng":"","lat":"","name":"重慶藥局","id":"5931018142","tel":"0229565586","addr":"新北市板橋區國慶路127號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"121.4819","lat":"25.06065","name":"建宏藥局","id":"5931020017","tel":"0229714533","addr":"新北市三重區名源街16號","business_week":"OOOOOOXOOOOOOXOOOOOOO","memo":"星期一至日 營業時間早上8點-中午12點、下午2點-晚上9點30分（星期日偶會休息）"},
 {"lng":"121.4916","lat":"25.08358","name":"唯安藥局","id":"5931020044","tel":"0229875750","addr":"新北市三重區五華街130號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.4822","lat":"25.06757","name":"上豪藥局","id":"5931020133","tel":"0229820399","addr":"新北市三重區中正北路220號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期天公休"},
 {"lng":"121.4932","lat":"25.06668","name":"優達藥局","id":"5931020320","tel":"0229803986","addr":"新北市三重區大智街108號1F","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4855","lat":"25.05893","name":"新迪化中西藥局","id":"5931020400","tel":"0229884755","addr":"新北市三重區三陽路27號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制中午12點開始販售，發號碼牌"},
 {"lng":"121.4964","lat":"25.07193","name":"久泰藥局","id":"5931020428","tel":"0229735880","addr":"新北市三重區仁愛街36號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
