@@ -876,6 +876,7 @@ locations = [
 {"lng":"120.7124","lat":"24.15916","name":"太平瑞昌藥局","id":"5903190728","tel":"0423956319","addr":"臺中市太平區新興路28號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"快篩早上09:30 開賣 12:00停止販售"},
 {"lng":"120.7044","lat":"24.14856","name":"精武丁丁藥局","id":"5903190737","tel":"0423957235","addr":"臺中市太平區中山路四段132-1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"周一周日於早上09：00開始販售實名制快篩試劑！丁丁藥局關心您！"},
 {"lng":"120.7012","lat":"24.09623","name":"仁化藥局","id":"5903200096","tel":"0424915902","addr":"臺中市大里區仁化路540號","business_week":"OOOOOXOOOOOOXOOOOOOXO","memo":"W6 休息"},
+{"lng":"120.7032","lat":"24.09071","name":"弘佑藥局","id":"5903200121","tel":"0424911234","addr":"臺中市大里區成功路515號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩試劑早上九點開始販售，無號碼牌。星期天公休"},
 {"lng":"120.6901","lat":"24.10769","name":"祥佑健保特約藥局","id":"5903200149","tel":"0424866398","addr":"臺中市大里區中興路2段406號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"政府快篩代售時間:周一~周六早上08:30開始販售.現場排隊.售完為止（週日店休）"},
 {"lng":"120.7036","lat":"24.1078","name":"聖康藥局","id":"5903200176","tel":"0422700625","addr":"臺中市大里區立仁路79號1樓","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"星期一到六 早上9點營業 星期日下午2點營業"},
 {"lng":"120.7044","lat":"24.09467","name":"博德藥局","id":"5903200194","tel":"0424968642","addr":"臺中市大里區成功2路104號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
