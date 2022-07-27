@@ -4420,7 +4420,7 @@ locations = [
 {"lng":"120.5168","lat":"22.4385","name":"永清堂藥局","id":"5943190042","tel":"088755138","addr":"屏東縣林邊鄉永樂村榮農路5巷7-3號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期日 08:00 開始販賣，售完為止"},
 {"lng":"120.5164","lat":"22.43328","name":"壽泰健康藥局","id":"5943190088","tel":"088752366","addr":"屏東縣林邊鄉仁和村中山路191號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.5179","lat":"22.43465","name":"和成健康藥局","id":"5943191101","tel":"088752028","addr":"屏東縣林邊鄉中林路一二三號","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"實名制快篩販售時間：依當天貨運到貨時間而定"},
-{"lng":"120.5099","lat":"22.48998","name":"萬隆發藥局","id":"5943200016","tel":"088642176","addr":"屏東縣南州鄉仁里村三民路39號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業日07:00-12:00販賣，星期日停賣"},
+{"lng":"120.5099","lat":"22.48998","name":"萬隆發藥局","id":"5943200016","tel":"088642176","addr":"屏東縣南州鄉仁里村三民路39號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業日07:00開始販賣，星期日停賣"},
 {"lng":"120.5066","lat":"22.48972","name":"源明藥局","id":"5943200052","tel":"088642276","addr":"屏東縣南州鄉三民路148號","business_week":"XXXXXXOXXXXXXOXXXXXXO","memo":"早上9點快篩販售時間，售完為止，週日休"},
 {"lng":"120.5068","lat":"22.48985","name":"南州健人藥師藥局","id":"5943201095","tel":"088646828","addr":"屏東縣南州鄉三民路149號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"販售快篩試紙:周一至周六下午2:00~4:00，週日不販售快篩試紙"},
 {"lng":"120.3818","lat":"22.35203","name":"明德藥局","id":"5943221051","tel":"088611278","addr":"屏東縣琉球鄉本福村中山路151號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"10:00-12:00 販賣實名制快篩    並依現場狀況滾動式調整  週日停售"},
