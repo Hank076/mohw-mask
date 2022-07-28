@@ -1879,6 +1879,7 @@ locations = [
 {"lng":"120.205008","lat":"22.989131","name":"羽田藥局","id":"5921080010","tel":"062214066","addr":"臺南市中西區府前路一段214號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一至週六09:00起依序販售實名制快篩，售完為止。周日停止販售。"},
 {"lng":"120.458","lat":"23.48361","name":"普羅藥局","id":"5922010147","tel":"052754836","addr":"嘉義市東區民權路114號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"平日08:00至21:00.週六18:00止.週日休息 ."},
 {"lng":"120.4553","lat":"23.48162","name":"秉榮藥局","id":"5922010263","tel":"052224320","addr":"嘉義市東區東仁里中山路189號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"周一至周日販售實名制快篩"},
+{"lng":"120.4502","lat":"23.47683","name":"上安中西藥局","id":"5922010281","tel":"052231005","addr":"嘉義市東區府路里延平街238號之1","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩試劑:營業日營業時間全時段開賣"},
 {"lng":"120.4502","lat":"23.47683","name":"壽生堂藥局","id":"5922010361","tel":"052225058","addr":"嘉義市東區府路里延平街280號","business_week":"OOOOOOOXOXOXOOOOOOOOO","memo":"周一至周日上午09:00起，至20:00或售鑿為止。"},
 {"lng":"120.4553","lat":"23.4643","name":"信輝藥局","id":"5922010405","tel":"052252415","addr":"嘉義市東區安寮里吳鳳南路353號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上08:00開始販售~售完為止"},
 {"lng":"120.4517","lat":"23.48096","name":"穎川保健藥局","id":"5922010441","tel":"052223609","addr":"嘉義市東區仁武里中山路204號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"固定周一到周日07:00開始快篩賣"},
