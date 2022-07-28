@@ -1144,7 +1144,7 @@ locations = [
 {"lng":"120.286128","lat":"22.967527","name":"歸仁丁丁藥局","id":"5905280163","tel":"062300767","addr":"臺南市歸仁區中山路三段73號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩星期一~日15:00開始販售，如有異動可關注丁丁藥局歸仁店FB（憑號碼牌購買）"},
 {"lng":"120.2257","lat":"23.01581","name":"信仁藥局","id":"5905310157","tel":"062337755","addr":"臺南市永康區中華西街149號","business_week":"OOOOOOXOOOOOOXOOOOOOO","memo":"實名制快篩販售時間 : 9:30起至售完為止"},
 {"lng":"120.2369","lat":"23.04132","name":"鹽行健保藥局","id":"5905310184","tel":"062435112","addr":"臺南市永康區中正南路861號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
-{"lng":"120.2356","lat":"23.01609","name":"睿禾藥局","id":"5905310237","tel":"063023868","addr":"臺南市永康區東橋一路13號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名快篩週日公休。"},
+{"lng":"120.2356","lat":"23.01609","name":"睿禾藥局","id":"5905310237","tel":"063023868","addr":"臺南市永康區東橋一路13號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名快篩，中午-＞2點休息。週日公休。"},
 {"lng":"120.236741","lat":"23.012662","name":"誠康藥局","id":"5905310273","tel":"063022005","addr":"臺南市永康區中山東路113號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩領取條件:＜一＞尚未領過這期快篩＜二＞  104-09-02後（0-6歲）兒童可免費領取"},
 {"lng":"120.258171","lat":"23.005534","name":"俐欣藥局","id":"5905310291","tel":"062050777","addr":"臺南市永康區大仁街206號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.24503","lat":"23.015137","name":"美德生醫藥局","id":"5905310326","tel":"062030463","addr":"臺南市永康區復國一路496號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售時間：星期一~星期日 10:30~至售完"},
