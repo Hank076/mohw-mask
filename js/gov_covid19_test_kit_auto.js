@@ -291,7 +291,6 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.496547","lat":"25.06624","name":"益安診所","id":"3531025861","tel":"0289828775","addr":"新北市三重區正義北路152號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"1\/30、1\/31、2\/6、2\/13、2\/20、2\/27、4\/5、6\/3、9\/10僅上午看診"},
 {"lng":"121.493291","lat":"25.081921","name":"宏生診所","id":"3531025889","tel":"0229819948","addr":"新北市三重區五華街72號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.495659","lat":"25.069716","name":"介壽耳鼻喉科診所","id":"3531025987","tel":"0229810089","addr":"新北市三重區正義北路255號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
-{"lng":"121.496981","lat":"25.065788","name":"正興診所","id":"3531026206","tel":"0229861235","addr":"新北市三重區正義北路113號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"1\/31、2\/27(僅骨科)、4\/5、6\/3、9\/10僅上午看診復健"},
 {"lng":"121.476844","lat":"25.069638","name":"大有診所","id":"3531026233","tel":"0229834567","addr":"新北市三重區中正北路374號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"2\/11上午看診2\/12-2\/15春節期間休診"},
 {"lng":"121.494617","lat":"25.071697","name":"華貞診所","id":"3531026288","tel":"0229716626","addr":"新北市三重區三和路三段80號","business_week":"OOOOOOXOXXXXXXOOOOOXX","memo":"1\/30、1\/31、2\/6、2\/13、2\/20、4\/5、6\/3、9\/10僅上午看診"},
 {"lng":"121.489155","lat":"25.086228","name":"皇嘉耳鼻喉科診所","id":"3531026420","tel":"0228579666","addr":"新北市三重區五華街247號","business_week":"OOOOOOOOOOOOXOOOOOOXX"},
