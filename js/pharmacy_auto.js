@@ -1244,6 +1244,7 @@ locations = [
 {"lng":"120.356212","lat":"22.619682","name":"長青連鎖藥局大士店","id":"5907011406","tel":"077104618","addr":"高雄市鳳山區五甲一路139號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.2938","lat":"22.79663","name":"柏康藥局","id":"5907020021","tel":"076241688","addr":"高雄市岡山區壽天路22號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.291471","lat":"22.792491","name":"鑫德昌藥局","id":"5907020030","tel":"076233338","addr":"高雄市岡山區溪東路38號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩 兒童免費快篩 販售時間 14:30-16:00"},
+{"lng":"120.4933","lat":"22.882","name":"旗美藥局","id":"5907030072","tel":"076629839","addr":"高雄市旗山區東平里延平二路41號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩劑購買時間為下午14:00~20:00，星期日店休無配送快篩，請至鄰近藥局購買"},
 {"lng":"120.48199","lat":"22.88873","name":"睛好活力藥局","id":"5907030090","tel":"076625119","addr":"高雄市旗山區湄洲里中山路127號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.4828","lat":"22.87904","name":"旗山啄木鳥藥局","id":"5907030134","tel":"076625728","addr":"高雄市旗山區中華路1050號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，早上10:30開始販售（若當天配送延誤，時間另行公布"},
 {"lng":"120.4841","lat":"22.88027","name":"旗山藥局","id":"5907030152","tel":"076621158","addr":"高雄市旗山區中華路23號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
