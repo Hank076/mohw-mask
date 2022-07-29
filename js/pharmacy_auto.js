@@ -279,6 +279,7 @@ locations = [
 {"lng":"121.5785","lat":"25.07925","name":"至康藥局","id":"5901111934","tel":"0226580022","addr":"臺北市內湖區內湖路1段737巷19弄1號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"上午9:30開始販售，售完為止"},
 {"lng":"121.5599","lat":"25.08544","name":"文新藥局","id":"5901112011","tel":"0287978865","addr":"臺北市內湖區文湖街7-5號1樓","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"快篩販售時間: 5／23起，到貨即賣，賣完為止！"},
 {"lng":"121.6062","lat":"25.07203","name":"康信藥局","id":"5901112351","tel":"0226342088","addr":"臺北市內湖區民權東路6段296巷29號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"121.6189","lat":"25.07015","name":"康健藥局","id":"5901112593","tel":"0226305825","addr":"臺北市內湖區康樂街80號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5774","lat":"25.07964","name":"匯安藥局","id":"5901112600","tel":"0226579255","addr":"臺北市內湖區內湖路1段703之1號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"星期一到六上午9:00販售快篩"},
 {"lng":"121.617002","lat":"25.069879","name":"富康東湖藥局","id":"5901112682","tel":"0226323222","addr":"臺北市內湖區東湖路119巷49弄16號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"視快篩實際到貨時間販售；LINE社群搜尋「富康藥局東湖店」會有第一線消息"},
 {"lng":"121.5841","lat":"25.0787","name":"樂康藥妝藥局","id":"5901112780","tel":"0226562110","addr":"臺北市內湖區文德路117號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
