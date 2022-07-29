@@ -1670,6 +1670,7 @@ locations = [
 {"lng":"120.6157","lat":"24.15096","name":"德安藥局","id":"5917070659","tel":"0423894920","addr":"臺中市南屯區文山里忠勇路115-6號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩實名制：週一至週六，下午1點販賣 （限量78份）"},
 {"lng":"120.6119","lat":"24.13555","name":"康得美專業藥局","id":"5917070677","tel":"0423801185","addr":"臺中市南屯區忠勇路12之26號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩周一至周六下午1點開賣  周日公休"},
 {"lng":"120.644","lat":"24.13718","name":"大愛藥局","id":"5917071727","tel":"0424733646","addr":"臺中市南屯區向心南路962.964號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售14:00開始"},
+{"lng":"120.6382","lat":"24.14047","name":"吉運藥局","id":"5917071781","tel":"0423834755","addr":"臺中市南屯區南屯里黎明路1段1135號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"固定周一到周六，早上8:00賣實名制快篩。不發號碼牌"},
 {"lng":"120.6524","lat":"24.15336","name":"乾生大藥局","id":"5917071996","tel":"0423281277","addr":"臺中市南屯區大業路95號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"09:00"},
 {"lng":"120.65154","lat":"24.153553","name":"政豐大愛藥局","id":"5917072242","tel":"0423274726","addr":"臺中市南屯區大業路145、147號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.6493","lat":"24.13696","name":"五六藥局","id":"5917072251","tel":"0424757156","addr":"臺中市南屯區南屯路2段240號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩週一至週六10 ~ 12:30，14:30起售完為止.（不發號碼牌）"},
