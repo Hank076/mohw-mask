@@ -2158,6 +2158,7 @@ locations = [
 {"lng":"121.4865","lat":"24.99805","name":"富康活力遠東藥局","id":"5931045461","tel":"0282262299","addr":"新北市中和區建八路10之1號1樓","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"因屬園區大樓，販售時間請依LINE社群公告"},
 {"lng":"121.5136","lat":"24.98825","name":"好意藥局","id":"5931045498","tel":"0289416598","addr":"新北市中和區景新街467巷3號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"週日無販售快篩試劑"},
 {"lng":"121.5054","lat":"24.98444","name":"富康活力華興藥局","id":"5931045541","tel":"0229450988","addr":"新北市中和區興南路2段92號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.5386","lat":"24.95636","name":"仁淵藥局","id":"5931050033","tel":"0229128204","addr":"新北市新店區北宜路1段77號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩每日早上9點開始販售 . 謝謝大家"},
 {"lng":"121.5412","lat":"24.981","name":"再生藥局","id":"5931050131","tel":"0229113781","addr":"新北市新店區北新路3段65巷9號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"5／7之後上午9點半販售實名制快篩試劑 請自備500元"},
 {"lng":"121.5432","lat":"24.97978","name":"耀生中西藥局","id":"5931050211","tel":"0229118598","addr":"新北市新店區文化路21巷6號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上9點開賣快篩"},
 {"lng":"121.5159","lat":"24.96594","name":"瑞欣藥局","id":"5931050364","tel":"0222112723","addr":"新北市新店區吉安街33號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩現場直接開始販售無發號碼牌，售完為止 （星期日無販售）週一到週六營業"},
