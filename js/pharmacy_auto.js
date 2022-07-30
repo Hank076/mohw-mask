@@ -1552,6 +1552,7 @@ locations = [
 {"lng":"120.6638","lat":"24.12988","name":"富永藥局","id":"5917030388","tel":"0423714681","addr":"臺中市西區三民西路161號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"健保卡…免排隊！9-21"},
 {"lng":"120.6661","lat":"24.14688","name":"林西藥局","id":"5917030520","tel":"0423014023","addr":"臺中市西區向上路一段46-1號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"每日早上9點開始依序當場領實名制家用快篩，售完為止。"},
 {"lng":"120.6701","lat":"24.13522","name":"永昇藥局","id":"5917030600","tel":"0423717280","addr":"臺中市西區東昇里朝陽街45號","business_week":"OOOOOOXXXXXXXXXXXXXOX","memo":"九時開賣快篩   周日休息"},
+{"lng":"120.6735","lat":"24.14025","name":"華隆藥局","id":"5917030646","tel":"0422243785","addr":"臺中市西區樂群街6之2號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"上午09:30開始販售快篩試劑，售完為止"},
 {"lng":"120.6601","lat":"24.14874","name":"元泉藥局","id":"5917030726","tel":"0423015503","addr":"臺中市西區公益里中美街257號","business_week":"OOOOOOOOXOOOOXOOOOOOO","memo":"固定週一至週六早上8:30開始販售口罩.售完為止"},
 {"lng":"120.6561","lat":"24.1465","name":"向上中西藥局","id":"5917030842","tel":"0424756688","addr":"臺中市西區向上路一段359號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"周一~周六早上8:30開賣實名制快篩"},
 {"lng":"120.6541","lat":"24.14654","name":"振聲藥局","id":"5917030860","tel":"0424721100","addr":"臺中市西區公正里向上路1段447號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"週一至週六早上9:00開始販售口罩，售完為止"},
