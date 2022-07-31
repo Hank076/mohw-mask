@@ -2590,6 +2590,7 @@ locations = [
 {"lng":"121.288594","lat":"24.8808","name":"大溪藥局","id":"5932031881","tel":"033873873","addr":"桃園市大溪區康莊路160號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"121.291926","lat":"24.882086","name":"福生藥局","id":"5932031890","tel":"033873533","addr":"桃園市大溪區民權東路103號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上八點開始發放快篩試劑"},
 {"lng":"121.2911","lat":"24.87917","name":"福澤大溪藥局","id":"5932031907","tel":"033884886","addr":"桃園市大溪區復興路105號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販賣時段早上8:00~中午12:00發號碼牌，下午3:00~10:00領取"},
+{"lng":"121.1736","lat":"24.9586","name":"龍泰藥局","id":"5932040246","tel":"034901525","addr":"桃園市楊梅區民族路五段147巷2號","business_week":"OOOOOOOOOOOOXXOOOOOXX","memo":"快篩販售時間:早上7:30直接領快篩售完為止"},
 {"lng":"121.1848","lat":"24.91776","name":"中美藥局","id":"5932040255","tel":"034822483","addr":"桃園市楊梅區埔心里中興路77號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"隨到隨領"},
 {"lng":"121.145242","lat":"24.907596","name":"弘大藥局","id":"5932040308","tel":"034751858","addr":"桃園市楊梅區大華街十三號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩 早上8 開始販售 ，禮拜天無販售實名制快篩。"},
 {"lng":"121.18201","lat":"24.917134","name":"佳禾藥局","id":"5932042080","tel":"034827805","addr":"桃園市楊梅區永美路333號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
