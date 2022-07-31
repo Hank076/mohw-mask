@@ -1235,6 +1235,7 @@ locations = [
 {"lng":"120.309846","lat":"22.679552","name":"得孚社區藥局","id":"5907300882","tel":"073410121","addr":"高雄市左營區重立路533號1樓","business_week":"OOXXOOXOOOOOXXXXOXXXX","memo":"營業日上午09:30-11:30為販賣快篩時間.三四下午2:30-400販售"},
 {"lng":"120.308915","lat":"22.662235","name":"明自丁丁藥局","id":"5907300908","tel":"075568902","addr":"高雄市左營區自由二路152號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.320128","lat":"22.687681","name":"高鐵藥局","id":"5907300926","tel":"073452797","addr":"高雄市左營區華夏路1322.1326號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
+{"lng":"120.2972","lat":"22.67167","name":"左營藥局","id":"5907300944","tel":"075501017","addr":"高雄市左營區華夏路325號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"120.295351","lat":"22.689212","name":"翔生藥局","id":"5907300953","tel":"075827329","addr":"高雄市左營區左營大路514號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制早上9點開賣"},
 {"lng":"120.2896","lat":"22.6806","name":"健勝藥局","id":"5907300971","tel":"075811169","addr":"高雄市左營區勝利路127-1號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"正常情況於每日上午九點開始販售"},
 {"lng":"120.2877","lat":"22.6813","name":"大路藥局","id":"5907300980","tel":"075851001","addr":"高雄市左營區左營大路55-2號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
