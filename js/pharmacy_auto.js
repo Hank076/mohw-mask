@@ -700,6 +700,7 @@ locations = [
 {"lng":"120.6233","lat":"24.35089","name":"民和藥局","id":"5903030165","tel":"0426871212","addr":"臺中市大甲區德興路68號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩販售時間：早上8點到中午12點。周日公休。"},
 {"lng":"120.6264","lat":"24.34676","name":"志明藥局","id":"5903030183","tel":"0426876221","addr":"臺中市大甲區民生路21號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.633843","lat":"24.344696","name":"大甲合和藥局","id":"5903030192","tel":"0426802310","addr":"臺中市大甲區甲后路5段269號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
+{"lng":"120.6224","lat":"24.34447","name":"世芳中西藥局","id":"5903030209","tel":"0426861906","addr":"臺中市大甲區光明路128之3號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"不分單雙號皆可購買。104／09／02（含）後出生免費領取1份（5劑）。"},
 {"lng":"120.575281","lat":"24.278793","name":"得康藥局","id":"5903040036","tel":"0426260622","addr":"臺中市清水區高美路117號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"上午08:00開始販售"},
 {"lng":"120.571771","lat":"24.276048","name":"碧綠谷藥局","id":"5903040072","tel":"0426281151","addr":"臺中市清水區中華路525號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"09:30發放快篩.星期日休息.癌症諮詢.慢箋領藥.長照特約.更年期.糖尿病.戒菸諮詢.孕期保健.小兒營養"},
 {"lng":"120.5601","lat":"24.26694","name":"清雲藥局","id":"5903040090","tel":"0426264893","addr":"臺中市清水區南社路355之1號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩代售: 週一至週五8:00，週六9:00開始，週日公休。"},
