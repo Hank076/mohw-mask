@@ -407,6 +407,7 @@ locations = [
 {"lng":"121.5792","lat":"25.03741","name":"上禾藥師藥局","id":"5901173283","tel":"0227592686","addr":"臺北市信義區林口街27號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5764","lat":"25.04336","name":"馨馨藥局","id":"5901173390","tel":"0227491208","addr":"臺北市信義區虎林街82巷19號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5695","lat":"25.02381","name":"康怡健保藥局","id":"5901173407","tel":"0227206193","addr":"臺北市信義區吳興街467巷2弄12號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩早上9點開賣，賣完為止"},
+{"lng":"121.5689","lat":"25.04324","name":"新興健保藥局","id":"5901173587","tel":"0227494892","addr":"臺北市信義區永吉路30巷113號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑庫存有時，直接販售。"},
 {"lng":"121.5767","lat":"25.03896","name":"松德盛康藥局","id":"5901173603","tel":"0287891622","addr":"臺北市信義區松德路40號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩禮拜一~六早上9:00開賣，禮拜日無配送"},
 {"lng":"121.5577","lat":"25.03384","name":"專品光復藥局","id":"5901173710","tel":"0227586682","addr":"臺北市信義區光復南路467之1號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"禮拜一到六下午三點販售口罩"},
 {"lng":"121.5767","lat":"25.03959","name":"尚頤中西藥局","id":"5901173738","tel":"0227253818","addr":"臺北市信義區虎林街145號","business_week":"OOOOOXXOOOOOOXOOOOOOX"},
