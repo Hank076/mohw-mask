@@ -402,6 +402,7 @@ locations = [
 {"lng":"121.5859","lat":"25.03874","name":"文興藥局","id":"5901172580","tel":"0227590989","addr":"臺北市信義區福德街245號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"今日5／18 早上11:00後   隨到隨買  每人可攜2-3卡"},
 {"lng":"121.5874","lat":"25.03931","name":"康杏藥局","id":"5901172651","tel":"0227591510","addr":"臺北市信義區福德街306號1樓","business_week":"OOOOOOOOOOOOOOOOOOOXO"},
 {"lng":"121.5635","lat":"25.02745","name":"綠杏大藥局","id":"5901172697","tel":"0227582378","addr":"臺北市信義區吳興街241號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"實名制快篩正常販售中"},
+{"lng":"121.5754","lat":"25.04507","name":"鴻濟藥局","id":"5901172704","tel":"0227645331","addr":"臺北市信義區永吉路326巷2號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售時間:周一至周五: 15:00開始。週六.周日:視實際到貨情形請見門口公告"},
 {"lng":"121.5621","lat":"25.0296","name":"信桉藥局","id":"5901172740","tel":"0287860005","addr":"臺北市信義區莊敬路236號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩販售 W1-5 9:00-20:00，W6 9:00-15:00"},
 {"lng":"121.5685","lat":"25.04266","name":"安心藥局","id":"5901172820","tel":"0227474992","addr":"臺北市信義區永吉路30巷148弄4之1號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"快篩代售時間14:00起現場排隊"},
 {"lng":"121.5543","lat":"25.02294","name":"九州藥局","id":"5901172839","tel":"0287323331","addr":"臺北市信義區和平東路3段239號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
