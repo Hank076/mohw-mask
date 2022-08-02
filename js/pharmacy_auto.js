@@ -1,6 +1,9 @@
 locations = [
 {"lng":"121.7095","lat":"24.93592","name":"新北市坪林區衛生所","id":"2331200010","tel":"0226656272","addr":"新北市坪林區坪林街104號","business_week":"OOOOOXXOOXXOXXXXXXXXX","memo":"防疫口罩販售服務時間，星期一至五09:00-12:00 。(倘若遇政府規定補班日，仍會提供販售口罩服務)"},
 {"lng":"121.566","lat":"25.29016","name":"新北市石門區衛生所","id":"2331220012","tel":"0226381007","addr":"新北市石門區中山路28-1號","business_week":"OOOOOXXOOOOOXXXXXXXXX"},
+{"lng":"121.7365","lat":"25.02469","name":"新北市平溪區衛生所","id":"2331240014","tel":"0224951015","addr":"新北市平溪區公園街17號1樓","business_week":"OOOOOXXXOXXOXXXXXXXXX","memo":"快篩試劑販售時間:週一至週五上午9:00至12:00 。視訊門診時間:週一至週五上午11:00至12:00 。"},
+{"lng":"121.548","lat":"24.87197","name":"新北市烏來區衛生所","id":"2331290014","tel":"0226617200","addr":"新北市烏來區新烏路5段109號","business_week":"OOOOOXXOOOOOXXXXXXXXX"},
+{"lng":"120.9949","lat":"24.76691","name":"新竹縣寶山鄉衛生所","id":"2333100013","tel":"035292106","addr":"新竹縣寶山鄉雙溪村7鄰雙園路二段273號","business_week":"OOXOXXXXXXXXXXXXXXXXX","memo":"快篩試劑於星期一~星期六8:30-9:30販售"},
 {"lng":"121.0555","lat":"24.70055","name":"新竹縣北埔鄉衛生所","id":"2333110019","tel":"035801677","addr":"新竹縣北埔鄉北埔街90號","business_week":"OOXOXXXXXOXXXXXXXXXXX"},
 {"lng":"121.2023","lat":"24.70562","name":"新竹縣尖石鄉衛生所","id":"2333130011","tel":"035842356","addr":"新竹縣尖石鄉嘉樂村2鄰61號","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"無急診"},
 {"lng":"121.1194","lat":"24.63184","name":"新竹縣五峰鄉衛生所","id":"2333140017","tel":"035851005","addr":"新竹縣五峰鄉大隘村六鄰99號","business_week":"OOOOOOOOOOOOOOXXXXOOO"},
