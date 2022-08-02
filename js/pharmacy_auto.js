@@ -3037,6 +3037,7 @@ locations = [
 {"lng":"120.5663","lat":"23.95163","name":"裕良大藥局","id":"5937050395","tel":"048360388","addr":"彰化縣員林市莒光路3號","business_week":"XXXXXXXOOOOOOXXXXXXXX","memo":"全年無休"},
 {"lng":"120.5773","lat":"23.95592","name":"高藥局","id":"5937050411","tel":"048327808","addr":"彰化縣員林市東和里員水路二段505號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩實名制 ，每日早上8點開始販售，售完為止"},
 {"lng":"120.5743","lat":"23.95493","name":"添霖大藥局","id":"5937051598","tel":"048319765","addr":"彰化縣員林市民生里中正路270號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日早上7:00開始販售，不發放號碼牌，售完為止。（全年無休）"},
+{"lng":"120.5747","lat":"23.95417","name":"員林健康藥局","id":"5937051703","tel":"048396798","addr":"彰化縣員林市中正路224號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"6月3日6月4日有營業"},
 {"lng":"120.571138","lat":"23.963914","name":"員林福倫藥局","id":"5937051712","tel":"048371218","addr":"彰化縣員林市和平里中山路2段141號","business_week":"OOOOOOOOOOOOOOXXXXXXX","memo":"每日早上8:00販售 .售完為止"},
 {"lng":"120.5778","lat":"23.95633","name":"青田藥局","id":"5937051730","tel":"048347776","addr":"彰化縣員林市林森路一二七號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"早上8:30開始販售現場購買無預約"},
 {"lng":"120.5753","lat":"23.96302","name":"愛康生活保健中西藥局","id":"5937051794","tel":"048328826","addr":"彰化縣員林市靜修東路34號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"星期一到星期日-早上9:00開始販售政府快篩，售完為止。（全年無休）"},
