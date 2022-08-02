@@ -2030,6 +2030,7 @@ locations = [
 {"lng":"121.458766","lat":"25.049853","name":"幸寧藥局","id":"5931067412","tel":"0229971150","addr":"新北市新莊區福壽街84巷12號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩上午8點半開賣.中午12點至3點休息"},
 {"lng":"121.446232","lat":"25.033953","name":"豐年藥局","id":"5931067565","tel":"0222071182","addr":"新北市新莊區中正路377巷16號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.426201","lat":"25.022557","name":"三大藥局","id":"5931068160","tel":"0222030503","addr":"新北市新莊區建安里民安路197號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.4261","lat":"25.0147","name":"健安藥局","id":"5931068464","tel":"0222043765","addr":"新北市新莊區光和里民安西路209號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.4282","lat":"25.01706","name":"凱盛藥局","id":"5931068508","tel":"0222024914","addr":"新北市新莊區光榮里西盛街199號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.435","lat":"25.03254","name":"建昌藥局","id":"5931068599","tel":"0229015422","addr":"新北市新莊區福營里中正路557號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩:週一至週日中午12:00過後開始販售，隨時都可以來，售完為止。"},
 {"lng":"121.4281","lat":"25.01901","name":"庭安藥局","id":"5931068722","tel":"0222080528","addr":"新北市新莊區民有里西盛街172號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上9:30開始販售實名制快篩.賣完為止週日公休"},
