@@ -3118,6 +3118,7 @@ locations = [
 {"lng":"120.4634","lat":"24.00005","name":"福氣藥局","id":"5937161124","tel":"048657735","addr":"彰化縣埔鹽鄉好修村中正路229號1樓","business_week":"OOOOOXXOOOOOXXOOXOOXX","memo":"星期日公休."},
 {"lng":"120.4225","lat":"23.98887","name":"石埤藥局","id":"5937161133","tel":"048655146","addr":"彰化縣埔鹽鄉石埤村番金路80之16號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一至週日早上08:00開始販賣快篩.售完為止。"},
 {"lng":"120.5574","lat":"23.95515","name":"淑惠藥局","id":"5937170034","tel":"048297798","addr":"彰化縣埔心鄉亙北村員鹿路一段244號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期一~星期六16:00-18:00(2小時販售快篩試劑)，星期日：休"},
+{"lng":"120.5501","lat":"23.95193","name":"普生藥師藥局","id":"5937170098","tel":"048294449","addr":"彰化縣埔心鄉東門村中正路1段14號","business_week":"OOOOOOXOOOOOXXOOOOOXO"},
 {"lng":"120.541662","lat":"23.952882","name":"安麗兒藥局埔心店","id":"5937171157","tel":"048295129","addr":"彰化縣埔心鄉義民村員鹿路2段434號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"12;50發放號碼牌，13:00開始販售"},
 {"lng":"120.547","lat":"23.92143","name":"生春大藥局","id":"5937180030","tel":"048220929","addr":"彰化縣永靖鄉東門路233號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週一至週六早上7點50分開始營業 週日公休"},
 {"lng":"120.5618","lat":"23.91485","name":"詹藥局","id":"5937180138","tel":"048225691","addr":"彰化縣永靖鄉浮圳村浮圳路433號","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"8:00-20:00  快篩劑預約與現領方便上班族. 週日有售   （12-14:00午休）"},
