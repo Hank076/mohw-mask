@@ -389,6 +389,7 @@ locations = [
 {"lng":"121.4997","lat":"25.13132","name":"陳藥師藥局","id":"5901163581","tel":"0228921971","addr":"臺北市北投區光明路2巷13-2號(實際使用:1樓)","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.5128","lat":"25.1131","name":"心樂藥局","id":"5901163634","tel":"0228210261","addr":"臺北市北投區致遠一路2段105號1樓","business_week":"OOOXOOXOOOXOXXXXXXXXX","memo":"您好。發放快篩時間:周一二三五六早上8:30-12:00，周一二三五 下午4:00-7:00，周日及國定假日休息"},
 {"lng":"121.5128","lat":"25.1173","name":"致遠盛康藥局","id":"5901163643","tel":"0228263580","addr":"臺北市北投區致遠二路141號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.5153","lat":"25.11429","name":"康賢藥局","id":"5901163652","tel":"0228219295","addr":"臺北市北投區西安街1段359號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"週一至週六下午1:00起販售快篩，週日及國定假日公休。"},
 {"lng":"121.5854","lat":"25.04033","name":"良美藥局","id":"5901170022","tel":"0227593659","addr":"臺北市信義區福德街268巷37號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5696","lat":"25.02425","name":"必欣藥局","id":"5901170059","tel":"0227225060","addr":"臺北市信義區松仁路264號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售時間：星期一至星期日午13：30開始"},
 {"lng":"121.5643","lat":"25.02656","name":"福華藥局","id":"5901170139","tel":"0227208527","addr":"臺北市信義區吳興街281巷3號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"下午1:00配合政府發售快篩試劑"},
