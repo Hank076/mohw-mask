@@ -2811,6 +2811,7 @@ locations = [
 {"lng":"120.6797","lat":"24.48905","name":"吉泰藥局","id":"5935030108","tel":"037758595","addr":"苗栗縣通霄鎮通西里和平路29號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩領取時間:每周1，3，4，5，6早上9:點開始售完為止；禮拜2下午2點開始售完為止!"},
 {"lng":"120.6803","lat":"24.48809","name":"維康藥局","id":"5935030153","tel":"037750000","addr":"苗栗縣通霄鎮信義路104號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.6804","lat":"24.48877","name":"立安藥局","id":"5935030171","tel":"037760100","addr":"苗栗縣通霄鎮信義路107號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩實名制 週一到週五上午07:30 假日上午8:00  開始販售  售完為止"},
+{"lng":"120.678","lat":"24.48903","name":"通霄藥局","id":"5935030180","tel":"037755155","addr":"苗栗縣通霄鎮中山路131號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"120.6775","lat":"24.48765","name":"佑全通霄中山藥局","id":"5935030199","tel":"037750958","addr":"苗栗縣通霄鎮通西里中山路75號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"慢籤牙科籤領藥全年無休！"},
 {"lng":"120.880041","lat":"24.687137","name":"快樂藥局","id":"5935040033","tel":"037474158","addr":"苗栗縣竹南鎮照南里中山路178號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩早上8點開始販賣，售完為止!"},
 {"lng":"120.879475","lat":"24.686573","name":"和安藥局","id":"5935040257","tel":"037472332","addr":"苗栗縣竹南鎮竹南里博愛街15號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"快篩販售時段:上午8:00起至售完為止（周六到中午／日無）"},
