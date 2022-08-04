@@ -1902,6 +1902,7 @@ locations = [
 {"lng":"121.5206","lat":"25.00009","name":"正銨藥局","id":"5931034208","tel":"0229288100","addr":"新北市永和區得和路247-1號(1樓)","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5026","lat":"25.00337","name":"大榮藥局","id":"5931040019","tel":"0222497965","addr":"新北市中和區中山路2段127號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩早上9:30現場排隊販售"},
 {"lng":"121.474","lat":"25.00236","name":"瑞發藥局","id":"5931040055","tel":"0222235319","addr":"新北市中和區民享街56-1號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"口罩代售時間自08:00;號碼牌發放時間自08:00"},
+{"lng":"121.4986","lat":"25.00219","name":"中和光田藥局","id":"5931040082","tel":"0222459602","addr":"新北市中和區連城路28號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩**領藥時間無代售服務（請先寄卡或晚上9點後來領）"},
 {"lng":"121.5082","lat":"24.98392","name":"華新藥局","id":"5931040215","tel":"0229448345","addr":"新北市中和區華新街73號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4687","lat":"25.00163","name":"欣祥藥局","id":"5931040224","tel":"0229646442","addr":"新北市中和區民德路74-1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日早上9點，販售快篩。若有異動以現場公告為主 ."},
 {"lng":"121.4724","lat":"25.00173","name":"天立藥局","id":"5931040242","tel":"0229578831","addr":"新北市中和區莒光路122號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
