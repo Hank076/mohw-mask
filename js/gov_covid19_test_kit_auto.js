@@ -119,7 +119,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.307227","lat":"22.661249","name":"楊宜璋耳鼻喉科診所","id":"3502030723","tel":"075591007","addr":"高雄市左營區明誠二路362號","business_week":"OOOOOOXXXXXXXXOOOOOOX"},
 {"lng":"120.286816","lat":"22.669658","name":"沈嘉充診所","id":"3502030750","tel":"075851778","addr":"高雄市左營區中華一路5號","business_week":"OOOOOOXOOOOOOXOOOOOOO","memo":"6／3晚開診.6／4早.午.晚開診.6／5晚開診"},
 {"lng":"120.30224","lat":"22.677824","name":"華夏診所","id":"3502032325","tel":"073453961","addr":"高雄市左營區華夏路708號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"2\/28上午門診.下午晚上休診.3\/1照常看診"},
-{"lng":"120.315601","lat":"22.685597","name":"福山診所","id":"3502033297","tel":"073482323","addr":"高雄市左營區重愛路218號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"4\/3 星期日只有上午診.其他均正常門診"},
+{"lng":"120.315601","lat":"22.685597","name":"福山診所","id":"3502033297","tel":"073482323","addr":"高雄市左營區重愛路218號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.307306","lat":"22.666858","name":"富誠診所","id":"3502033420","tel":"075560925","addr":"高雄市左營區富國路355號1樓","business_week":"OOOOOXOOOOOOXOOOOOOXO"},
 {"lng":"120.303945","lat":"22.726113","name":"陳顯明診所","id":"3502040667","tel":"073648127","addr":"高雄市楠梓區德賢路265號","business_week":"OOOOOOXOOOOOXXOOOOXXX"},
 {"lng":"120.28898","lat":"22.715042","name":"康東原診所","id":"3502040685","tel":"073610115","addr":"高雄市楠梓區右昌街376號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"06／03 全日門診"},
