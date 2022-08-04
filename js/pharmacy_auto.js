@@ -3273,6 +3273,7 @@ locations = [
 {"lng":"120.385","lat":"23.79536","name":"成恩藥局","id":"5939111239","tel":"055989955","addr":"雲林縣二崙鄉油車村文化路236號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"covid快篩代售時間以現場公告為主"},
 {"lng":"120.3546","lat":"23.75895","name":"崇愛藥局","id":"5939120032","tel":"056962769","addr":"雲林縣崙背鄉信義路88號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"全年無休 （本藥局有販售實名制快篩）"},
 {"lng":"120.3571","lat":"23.76011","name":"韓藥局","id":"5939120050","tel":"056962462","addr":"雲林縣崙背鄉中山路163號","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"每日早上8：00依序販售實名制快篩"},
+{"lng":"120.3514","lat":"23.76036","name":"慈恩藥局","id":"5939120069","tel":"056964122","addr":"雲林縣崙背鄉南陽村永昌路62號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩:0800-1200;1400-2100(販完為止)"},
 {"lng":"120.3531","lat":"23.76169","name":"莊藥局","id":"5939121137","tel":"056960510","addr":"雲林縣崙背鄉民權路180號","business_week":"OOOOOOOOOXOOOXXXXXXXX","memo":"口罩:1200-1400"},
 {"lng":"120.378","lat":"23.75106","name":"元美藥局","id":"5939121173","tel":"056962496","addr":"雲林縣崙背鄉港尾村61-2號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"上午10:00開始代售快篩 ; 上午08:00開放健保卡排序"},
 {"lng":"120.3585","lat":"23.75958","name":"詠大藥局","id":"5939121208","tel":"056967990","addr":"雲林縣崙背鄉南陽村中山路109-2號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
