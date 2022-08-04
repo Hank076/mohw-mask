@@ -2861,6 +2861,7 @@ locations = [
 {"lng":"120.790758","lat":"24.612984","name":"千江大藥局","id":"5935061434","tel":"037037728208","addr":"苗栗縣後龍鎮忠孝路59號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.7931","lat":"24.6127","name":"後龍藥局","id":"5935061452","tel":"037723660","addr":"苗栗縣後龍鎮中山路209號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"120.8297","lat":"24.30834","name":"健安藥局","id":"5935071172","tel":"0425899617","addr":"苗栗縣卓蘭鎮上新里上新七之11號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"每日開門開賣快篩試劑售完為止星期日晚上休息"},
+{"lng":"120.83","lat":"24.30719","name":"萊恩藥局","id":"5935071216","tel":"0425899369","addr":"苗栗縣卓蘭鎮上新里上新7之1號","business_week":"OOOOOXXOOXOXXXOOXOXXX","memo":"快篩販賣時段：開門就賣"},
 {"lng":"120.8264","lat":"24.31205","name":"卓蘭千百岳大藥局","id":"5935071243","tel":"0425895473","addr":"苗栗縣卓蘭鎮中山路82號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑健保卡購買份／500元及6歲以下健保卡領取快篩試劑。"},
 {"lng":"120.8254","lat":"24.31074","name":"林大藥局","id":"5935071261","tel":"0425891630","addr":"苗栗縣卓蘭鎮中正路32號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"營業即開始販售快篩。若現場有領藥作業將優先處理，請見諒，謝謝:）"},
 {"lng":"120.869","lat":"24.42165","name":"臺健中西藥局","id":"5935080055","tel":"037990638","addr":"苗栗縣大湖鄉中正路19號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名快篩劑上午販售10:-12:.下午15-20販售.星期日停售!"},
