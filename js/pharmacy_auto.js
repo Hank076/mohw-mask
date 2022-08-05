@@ -1,7 +1,7 @@
 locations = [
 {"lng":"119.9492","lat":"26.16084","name":"連江縣立醫院","id":"0291010010","tel":"083623995","addr":"連江縣南竿鄉復興村217號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"固定周一至周六上午8:30-9:30快篩試劑販售."},
 {"lng":"121.7095","lat":"24.93592","name":"新北市坪林區衛生所","id":"2331200010","tel":"0226656272","addr":"新北市坪林區坪林街104號","business_week":"OOOOOXXOOXXOXXXXXXXXX","memo":"防疫口罩販售服務時間，星期一至五09:00-12:00 。(倘若遇政府規定補班日，仍會提供販售口罩服務)"},
-{"lng":"121.566","lat":"25.29016","name":"新北市石門區衛生所","id":"2331220012","tel":"0226381007","addr":"新北市石門區中山路28-1號","business_week":"OOOOOXXOOOOXXXXXXXXXX"},
+{"lng":"121.566","lat":"25.29016","name":"新北市石門區衛生所","id":"2331220012","tel":"0226381007","addr":"新北市石門區中山路28-1號","business_week":"OOOOOXXOOOOOXXXXXXXXX"},
 {"lng":"121.737185","lat":"25.024681","name":"新北市平溪區衛生所","id":"2331240014","tel":"0224951015","addr":"新北市平溪區公園街17號1樓","business_week":"OOOOOXXXOXXOXXXXXXXXX","memo":"快篩試劑販售時間:週一至週五上午9:00至12:00 。視訊門診時間:週一至週五上午11:00至12:00 。"},
 {"lng":"121.927504","lat":"25.055024","name":"新北市貢寮區衛生所","id":"2331260016","tel":"0224901431","addr":"新北市貢寮區仁愛路128號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑販售時間為周一至周五早上9點開始販售，每日販售一箱，數量有限售完為止。"},
 {"lng":"121.548","lat":"24.87197","name":"新北市烏來區衛生所","id":"2331290014","tel":"0226617200","addr":"新北市烏來區新烏路5段109號","business_week":"OOOOOXXOOOOOXXXXXXXXX"},
@@ -789,7 +789,7 @@ locations = [
 {"lng":"120.708074","lat":"24.14425","name":"十甲東亞藥師大藥局","id":"5903230218","tel":"0422118879","addr":"臺中市東區十甲路410號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.7104","lat":"24.14464","name":"東區小林健保藥局","id":"5903230227","tel":"0422135148","addr":"臺中市東區十甲路485號1樓","business_week":"OOOOOOXOOOOOXOXXXXXXX"},
 {"lng":"120.6881","lat":"24.13635","name":"佳境藥局","id":"5903230236","tel":"0422211395","addr":"臺中市東區大智路1-1號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"營業時間：09:30-22:00"},
-{"lng":"120.6615","lat":"24.13783","name":"嶸曜藥局","id":"5903240090","tel":"0423782478","addr":"臺中市西區美村路1段592號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週一至週六11:30至21:30販賣實名制快篩（預約制），售完為止"},
+{"lng":"120.6615","lat":"24.13783","name":"嶸曜藥局","id":"5903240090","tel":"0423782478","addr":"臺中市西區美村路1段592號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週一至週六11:30至21:30販賣實名制快篩，售完為止"},
 {"lng":"120.6758","lat":"24.13714","name":"利民藥局","id":"5903240143","tel":"0422292931","addr":"臺中市西區四維街23號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"平日營業時間10-20，周六10-15，周日休。實名制快篩營業時間販售至售完或營業結束。"},
 {"lng":"120.6601","lat":"24.14977","name":"陽光藥局","id":"5903240152","tel":"0423020711","addr":"臺中市西區中美街305號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"有血氧機。"},
 {"lng":"120.67","lat":"24.14767","name":"鑫祐藥局","id":"5903240198","tel":"0423027778","addr":"臺中市西區民權路302-5號","business_week":"OOOOOOOOOOOOOOOOOOOXX"},
