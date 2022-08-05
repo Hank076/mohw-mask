@@ -1585,6 +1585,7 @@ locations = [
 {"lng":"120.1881","lat":"22.97514","name":"海山藥局","id":"5921021851","tel":"062617788","addr":"臺南市南區新興路400號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"實名制快篩代售:AM10:00~PM1:00**星期六日無代售**"},
 {"lng":"120.1954","lat":"22.98933","name":"三芳藥局","id":"5921030092","tel":"062203084","addr":"臺南市中西區元安里大勇街5號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"週一至週六09:00~12:00  14:30~17:00執業，快篩賣完為止。"},
 {"lng":"120.1924","lat":"22.9999","name":"雅里藥局","id":"5921030118","tel":"062200881","addr":"臺南市中西區民族路三段285號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售:周一至周日 上午08:30~售完  請加LINE諮詢@neo1819x"},
+{"lng":"120.1942","lat":"22.9898","name":"星宗藥局","id":"5921030289","tel":"062223453","addr":"臺南市中西區新安里大勇街37號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"11:00開始販售"},
 {"lng":"120.1776","lat":"23.00011","name":"銘豐藥局","id":"5921030298","tel":"062592517","addr":"臺南市中西區西賢一街45號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"星期一-日09:00-22:00.快篩實名制每日發放"},
 {"lng":"120.199159","lat":"22.994875","name":"西門藥局","id":"5921032185","tel":"062211222","addr":"臺南市中西區西門路2段209號","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"星期一-五09:30-售完"},
 {"lng":"120.2101","lat":"23.00693","name":"信心藥局","id":"5921040169","tel":"062822209","addr":"臺南市北區延平里公園路546號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"9:00-20:00 . 週六9:00-12:00.  周日休息"},
