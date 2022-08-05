@@ -1,5 +1,6 @@
 locations = [
 {"lng":"119.9492","lat":"26.16084","name":"連江縣立醫院","id":"0291010010","tel":"083623995","addr":"連江縣南竿鄉復興村217號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"固定周一至周六上午8:30-9:30快篩試劑販售."},
+{"lng":"121.7095","lat":"24.93592","name":"新北市坪林區衛生所","id":"2331200010","tel":"0226656272","addr":"新北市坪林區坪林街104號","business_week":"OOOOOXXOOXXOXXXXXXXXX","memo":"防疫口罩販售服務時間，星期一至五09:00-12:00 。(倘若遇政府規定補班日，仍會提供販售口罩服務)"},
 {"lng":"121.566","lat":"25.29016","name":"新北市石門區衛生所","id":"2331220012","tel":"0226381007","addr":"新北市石門區中山路28-1號","business_week":"OOOOOXXOOOOXXXXXXXXXX"},
 {"lng":"121.7365","lat":"25.02469","name":"新北市平溪區衛生所","id":"2331240014","tel":"0224951015","addr":"新北市平溪區公園街17號1樓","business_week":"OOOOOXXXOXXOXXXXXXXXX","memo":"快篩試劑販售時間:週一至週五上午9:00至12:00 。視訊門診時間:週一至週五上午11:00至12:00 。"},
 {"lng":"121.9095","lat":"25.02258","name":"新北市貢寮區衛生所","id":"2331260016","tel":"0224901431","addr":"新北市貢寮區仁愛路128號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑販售時間為周一至周五早上9點開始販售，每日販售一箱，數量有限售完為止。"},
@@ -1966,6 +1967,7 @@ locations = [
 {"lng":"121.5417","lat":"24.98174","name":"世明藥局","id":"5931050417","tel":"0229122139","addr":"新北市新店區北新路3段120號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩實名制販售時間：下午13:00~14:00"},
 {"lng":"121.5403","lat":"24.97854","name":"活元藥局","id":"5931050444","tel":"0229125526","addr":"新北市新店區民族路49號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩代售時間平日早上10:00開始   星期日休息"},
 {"lng":"121.515","lat":"24.96385","name":"信龍大藥局","id":"5931051558","tel":"0222115533","addr":"新北市新店區安康路2段56號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩15:00發放號碼牌，並同步販售，每人限持1卡購買1份，請備妥零鈔"},
+{"lng":"121.5401","lat":"24.97361","name":"昇旺藥局","id":"5931051601","tel":"0286659233","addr":"新北市新店區建國路10-1號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5125","lat":"24.96129","name":"家得福藥局","id":"5931051790","tel":"0222118346","addr":"新北市新店區安康路2段123號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.5428","lat":"24.97285","name":"康宜庭北新藥局","id":"5931051816","tel":"0289147015","addr":"新北市新店區北新路2段43號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩代售時間為下午2點， 現場排隊"},
 {"lng":"121.5426","lat":"24.98306","name":"康裕藥局","id":"5931051852","tel":"0229135479","addr":"新北市新店區民權路8號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
