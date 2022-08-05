@@ -2711,6 +2711,7 @@ locations = [
 {"lng":"121.755064","lat":"24.757165","name":"富康新民藥局","id":"5934012044","tel":"039366060","addr":"宜蘭縣宜蘭市新民路113號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.75","lat":"24.74894","name":"仁俊藥局","id":"5934012133","tel":"039327778","addr":"宜蘭縣宜蘭市神農路1段87之1號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"實名制快篩試劑營業時間內都可購售"},
 {"lng":"121.757","lat":"24.75614","name":"宜蘭和睦藥局","id":"5934012179","tel":"039313622","addr":"宜蘭縣宜蘭市大新里和睦路47號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販賣／0-6歲免費發放時間: 每天（週一~週日）9:00-20:00，售完為止"},
+{"lng":"121.7554","lat":"24.7449","name":"佳音藥局","id":"5934012197","tel":"039362869","addr":"宜蘭縣宜蘭市中山路2段59號1樓","business_week":"OOOOOOXOXOXOXXOOOOOOX","memo":"快篩試劑，星期一到六早上07:30開賣，售完為止"},
 {"lng":"121.7532","lat":"24.75886","name":"康泰藥局","id":"5934012222","tel":"039358715","addr":"宜蘭縣宜蘭市聖後街177號","business_week":"OOOOOOXXXXXXXXOOOOOXX","memo":"週一至週六快篩8：30販售"},
 {"lng":"121.7643","lat":"24.75315","name":"東成藥局","id":"5934012240","tel":"039380353","addr":"宜蘭縣宜蘭市東港路2段306號1樓","business_week":"OXOOOOOOXOOOOOOXOOOOO","memo":"實名制快篩，營業皆有販售"},
 {"lng":"121.7524","lat":"24.75577","name":"健康藥局","id":"5934012286","tel":"039315088","addr":"宜蘭縣宜蘭市光復路149號1樓、2樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"平日7:40開始販售快篩試劑，假日8:10開始販售"},
