@@ -2563,6 +2563,7 @@ locations = [
 {"lng":"121.298","lat":"25.044","name":"佑昌藥局","id":"5932077378","tel":"033120760","addr":"桃園市龜山區民生北路一段534號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩發放時間 14:00"},
 {"lng":"121.3317","lat":"24.9889","name":"穩好保健藥局","id":"5932077403","tel":"033500088","addr":"桃園市龜山區中興路137號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販賣時段：0900"},
 {"lng":"121.363464","lat":"25.058604","name":"長庚藥局","id":"5932077430","tel":"033181679","addr":"桃園市龜山區文化三路81巷28號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩發放時間下午 2:50~4:00"},
+{"lng":"121.3325","lat":"24.99625","name":"泰麟大藥局","id":"5932077529","tel":"032133728","addr":"桃園市龜山區自強西路238號1樓","business_week":"XXXXXXXOOOOOOOOOOOOOO"},
 {"lng":"121.339","lat":"24.99539","name":"全球萬壽藥局","id":"5932077556","tel":"033591247","addr":"桃園市龜山區萬壽路2段927號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間:9:00-22:00"},
 {"lng":"121.3352","lat":"24.9917","name":"新資生中興大藥局","id":"5932077609","tel":"033596959","addr":"桃園市龜山區中興路350號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑販售10:00-21:00"},
 {"lng":"121.338778","lat":"24.994149","name":"大山藥局","id":"5932077618","tel":"033191057","addr":"桃園市龜山區中興路1段18、22、24號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
