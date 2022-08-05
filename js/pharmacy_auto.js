@@ -1698,6 +1698,7 @@ locations = [
 {"lng":"121.455","lat":"25.01515","name":"華傳綜合大藥局","id":"5931010477","tel":"0229670029","addr":"新北市板橋區大智街40號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4604","lat":"24.99965","name":"人民藥局","id":"5931010646","tel":"0289533956","addr":"新北市板橋區仁愛路59號","business_week":"OOOOOOOXOXOXOOOOOOOOO","memo":"每日早上九點開始販售。."},
 {"lng":"121.4569","lat":"25.00965","name":"一誠藥局","id":"5931010708","tel":"0229673956","addr":"新北市板橋區府中路62號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"第二輪快篩下午1：30開始販售"},
+{"lng":"121.4679","lat":"25.00668","name":"賜您康大藥局","id":"5931010726","tel":"0229513166","addr":"新北市板橋區國泰街50號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩配發時間，每天早上:10:00以後至售完為止"},
 {"lng":"121.479977","lat":"25.023263","name":"大福藥局","id":"5931010842","tel":"0229610311","addr":"新北市板橋區三民路1段31巷15號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每週一至周六13:30開始販售實名制快篩試劑，週日無販售"},
 {"lng":"121.4797","lat":"25.0125","name":"俊昌藥局","id":"5931010888","tel":"0229642498","addr":"新北市板橋區三民路2段245巷12號","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"AM:9:30開始販售8／14休息一天"},
 {"lng":"121.4253","lat":"24.98921","name":"祥聖藥局","id":"5931011009","tel":"0226835677","addr":"新北市板橋區溪崑二街112巷35弄1號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"6／1起 早上9:00~10:00販售快篩。現場排隊購買，不發號碼牌。"},
