@@ -1990,6 +1990,7 @@ locations = [
 {"lng":"121.5412","lat":"24.9826","name":"康宜庭大坪林藥局","id":"5931052091","tel":"0289116029","addr":"新北市新店區北新路3段127號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩09:00~21:30，請備妥零鈔"},
 {"lng":"121.5404","lat":"24.9759","name":"椿萱藥局","id":"5931052135","tel":"0229188311","addr":"新北市新店區建國路69號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.5348","lat":"24.97257","name":"三民藥局","id":"5931052215","tel":"0289146301","addr":"新北市新店區三民路78號1樓-1","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"每1~2個月會有一次周休2 日"},
+{"lng":"121.5443","lat":"24.97085","name":"昇育健康藥局","id":"5931052251","tel":"0286679631","addr":"新北市新店區中正路76巷18號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"因人力問題 每日開始販售時間調整為 早上 8:30"},
 {"lng":"121.537228","lat":"24.974491","name":"欣康藥局","id":"5931052313","tel":"0289113166","addr":"新北市新店區中正路293號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑，下午一點發號碼牌同步販售"},
 {"lng":"121.5418","lat":"24.97854","name":"正安藥局","id":"5931052368","tel":"0229115809","addr":"新北市新店區明德路50號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"快篩早上8:30開賣，不發號碼牌，不找零，自備500元"},
 {"lng":"121.537","lat":"24.98281","name":"佑成藥局","id":"5931052608","tel":"0286673537","addr":"新北市新店區民權路101號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期一至五發快篩"},
