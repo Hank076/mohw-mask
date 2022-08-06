@@ -2666,6 +2666,7 @@ locations = [
 {"lng":"121.140021","lat":"25.044832","name":"福星藥局","id":"5932124372","tel":"034389138","addr":"桃園市觀音區大觀路二段213號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售時間10:00~21:00（或售完為止）。營業時間：週一至週日9:30~21:30。如有特殊休假日將另行公告。"},
 {"lng":"121.119","lat":"25.05221","name":"日昇藥局","id":"5932124381","tel":"034834212","addr":"桃園市觀音區成功路一段781號","business_week":"OOOOOXXOOOOOOOOOOOOOO"},
 {"lng":"121.1359","lat":"25.01399","name":"合春藥局","id":"5932124390","tel":"034982300","addr":"桃園市觀音區新生路46號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩每日早上8點開始販售"},
+{"lng":"121.3514","lat":"24.81463","name":"德怡藥局","id":"5932130049","tel":"033821686","addr":"桃園市復興區澤仁里忠孝路34號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"快篩販售時間：週一至週五 下午16:00發號碼牌16:10發售 每日售完為止星期六下午13:00發號碼牌 13:10開始販售 週日休息停售"},
 {"lng":"121.1778","lat":"24.79152","name":"明德藥局","id":"5933010064","tel":"035874335","addr":"新竹縣關西鎮中山路18號","business_week":"OOOOOOOOOOOOXXOOOOOXX"},
 {"lng":"121.1307","lat":"24.81263","name":"仁泰藥局","id":"5933010082","tel":"035868391","addr":"新竹縣關西鎮石光里6鄰268號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"121.1761","lat":"24.79111","name":"進安藥局","id":"5933010091","tel":"035872153","addr":"新竹縣關西鎮正義路15號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"12:00-14:00休息(配合醫療院所)。"},
