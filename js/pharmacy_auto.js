@@ -487,7 +487,7 @@ locations = [
 {"lng":"121.5625","lat":"24.98906","name":"日信專業藥局","id":"5901200534","tel":"0286618322","addr":"臺北市文山區木柵路2段139號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"周一~周六早上8:30開始販售實名制快篩"},
 {"lng":"121.5613","lat":"24.98514","name":"康宜庭生活藥局","id":"5901201568","tel":"0229385363","addr":"臺北市文山區興隆路4段64號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名快篩14:00開賣 現場排隊，如有前天未販售，則早上8:30販售"},
 {"lng":"121.547","lat":"24.99952","name":"舒博威藥局","id":"5901201826","tel":"0229306805","addr":"臺北市文山區興隆路2段95巷3號","business_week":"OOOOOOXXXXXXXXOOOOOOX","memo":"早上8:30開始販售"},
-{"lng":"121.5585","lat":"24.98132","name":"巧康藥局","id":"5901201835","tel":"0229372061","addr":"臺北市文山區木新路3段262、264號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"指揮中心公告6／6起每日快篩販售量以117盒為原則"},
+{"lng":"121.5585","lat":"24.98132","name":"巧康藥局","id":"5901201835","tel":"0229372061","addr":"臺北市文山區木新路3段262、264號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"指揮中心公告7月1日起，實施第三輪家用抗原快篩試劑實名制販售"},
 {"lng":"121.5621","lat":"24.98901","name":"皇興藥師藥局","id":"5901202216","tel":"0229365553","addr":"臺北市文山區木柵路2段121號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"121.5383","lat":"25.00203","name":"宇康藥局","id":"5901202396","tel":"0229307066","addr":"臺北市文山區羅斯福路5段218巷7號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5395","lat":"25.00115","name":"杏隆藥局","id":"5901202627","tel":"0229313151","addr":"臺北市文山區羅斯福路5段261號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
