@@ -2526,6 +2526,7 @@ locations = [
 {"lng":"121.2168","lat":"24.86538","name":"康是美藥局龍潭店","id":"5932099936","tel":"034991093","addr":"桃園市龍潭區中正路180、182號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.2174","lat":"24.8681","name":"龍潭北龍藥局","id":"5932099963","tel":"034893123","addr":"桃園市龍潭區北龍路275號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"121.2172","lat":"24.86388","name":"全球龍正藥局","id":"5932099972","tel":"034899639","addr":"桃園市龍潭區中正路231號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間:9:00-22:00"},
+{"lng":"121.2452","lat":"24.92473","name":"德聯藥師藥局","id":"5932100185","tel":"034603613","addr":"桃園市平鎮區龍南路31號","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"快篩 隨到隨買"},
 {"lng":"121.2052","lat":"24.94629","name":"世新藥局","id":"5932100354","tel":"034941234","addr":"桃園市平鎮區廣泰路75之2號","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"實名制快篩周一至周五13:30販售"},
 {"lng":"121.2112","lat":"24.89777","name":"北區藥師藥局","id":"5932100381","tel":"034693629","addr":"桃園市平鎮區中豐路山頂段297號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩配送時間不穩定 若能10:00前送達 預計早上10:00開賣"},
 {"lng":"121.2065","lat":"24.91457","name":"安心藥局","id":"5932100603","tel":"034398799","addr":"桃園市平鎮區上海路188號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
