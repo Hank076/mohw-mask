@@ -901,6 +901,7 @@ locations = [
 {"lng":"120.677","lat":"24.177","name":"大連何藥局","id":"5903291177","tel":"0422930895","addr":"臺中市北屯區山西路二段274號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.6941","lat":"24.16607","name":"好心情藥局","id":"5903291202","tel":"0422335663","addr":"臺中市北屯區昌平路一段17之3號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"W1~W6快篩販售時間  9:30 ~22:00 .另有唾液快篩販售，血氧機到貨"},
 {"lng":"120.7131","lat":"24.18216","name":"愛樂芬兒童藥局","id":"5903291211","tel":"0424363660","addr":"臺中市北屯區松竹路一段929號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"每日上午9時開始販售"},
+{"lng":"120.686","lat":"24.1765","name":"潔西卡大藥局","id":"5903291248","tel":"0422416879","addr":"臺中市北屯區崇德路二段314號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.6941","lat":"24.17221","name":"佑全台中興安藥局","id":"5903291266","tel":"0422490355","addr":"臺中市北屯區興安路一段253號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.7229","lat":"24.17591","name":"康是美藥局東山店","id":"5903291275","tel":"0424364571","addr":"臺中市北屯區東山路一段320號1樓、和福路258號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.312","lat":"23.30989","name":"橘子藥局","id":"5905010036","tel":"066351881","addr":"臺南市新營區民權路118之2號","business_week":"OOOOOOOOOOOOXXOOOOOXX","memo":"週一至週五10:00-19:00（13:00-14:00中午休息）；週六.週日10:00-12:00（配合實名制快篩販售；但8／6，8／7公休2天）"},
