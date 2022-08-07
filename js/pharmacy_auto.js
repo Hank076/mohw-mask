@@ -2693,6 +2693,7 @@ locations = [
 {"lng":"121.6515","lat":"24.66588","name":"三星健保藥局","id":"5934100030","tel":"039895816","addr":"宜蘭縣三星鄉三星路5段51號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"快篩試劑禮拜一到六早上10點開始購買，現場排隊，售完為止"},
 {"lng":"121.8039","lat":"24.46602","name":"進昌健保藥局","id":"5934120014","tel":"039981011","addr":"宜蘭縣南澳鄉蘇花路2段383號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩試劑領取， 早上08:30開始， 售完為止.  謝謝"},
 {"lng":"120.8165","lat":"24.55566","name":"永佳藥局","id":"5935010017","tel":"037331860","addr":"苗栗縣苗栗市玉苗里光復路156號","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"快篩試劑販售時間早上9點開始"},
+{"lng":"120.8273","lat":"24.57283","name":"正欣藥局","id":"5935010222","tel":"037264502","addr":"苗栗縣苗栗市清華里褔星街60號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"早上7點開始販賣快篩試劑"},
 {"lng":"120.821","lat":"24.55742","name":"佳禾藥局","id":"5935011738","tel":"037373041","addr":"苗栗縣苗栗市青苗里建台街7號","business_week":"OOOXOOOOOXXOXXOOXXOXX","memo":"快篩試劑7:30開始販賣，販賣時段：營業時間至售完為止"},
 {"lng":"120.8201","lat":"24.55826","name":"芳鄰國際連鎖藥局","id":"5935011783","tel":"037330580","addr":"苗栗縣苗栗市中山路567號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販賣時段：08:30開始販售快篩，售完為止"},
 {"lng":"120.8186","lat":"24.5606","name":"廷安藥局","id":"5935011925","tel":"037356839","addr":"苗栗縣苗栗市府前路133號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩販賣時段:每日8點30-售完-星期日公休"},
