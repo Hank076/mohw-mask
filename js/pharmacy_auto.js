@@ -1247,6 +1247,7 @@ locations = [
 {"lng":"121.7951","lat":"25.13981","name":"永好藥局","id":"5911011325","tel":"0224697639","addr":"基隆市中正區北寧路315號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"快篩星期一*三*五是單號 二*四雙號 下午14:30販售 星期六星期日休息"},
 {"lng":"121.7962","lat":"25.13991","name":"文裕藥局","id":"5911011450","tel":"0224691239","addr":"基隆市中正區八斗街10號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期一至星期六早上8:10開始販售，星期日時間於臉書公布"},
 {"lng":"121.7859","lat":"25.13568","name":"維元社區藥局","id":"5911011469","tel":"0224601388","addr":"基隆市中正區新豐街448號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
+{"lng":"121.7885","lat":"25.13594","name":"天康新豐藥局","id":"5911011478","tel":"0224695168","addr":"基隆市中正區新豐街251巷4弄9號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.7963","lat":"25.13946","name":"源昌藥局","id":"5911011496","tel":"0224691686","addr":"基隆市中正區北寧路384號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.7958","lat":"25.13944","name":"八斗子東亞藥局","id":"5911011512","tel":"0224698829","addr":"基隆市中正區北寧路378號","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"中午12點鐘開賣實名制快篩，售完為止"},
 {"lng":"121.7605","lat":"25.14233","name":"禎宸藥局","id":"5911011521","tel":"0224620366","addr":"基隆市中正區中正路175號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
