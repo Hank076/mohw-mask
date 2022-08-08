@@ -1815,6 +1815,7 @@ locations = [
 {"lng":"121.5216","lat":"24.99394","name":"千大藥局","id":"5931040840","tel":"0229441567","addr":"新北市中和區立人街13號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.4836","lat":"24.99644","name":"裕壬藥局","id":"5931041061","tel":"0232349358","addr":"新北市中和區新生街206、208號1樓","business_week":"OOOOOXOOOOOOXXOOOOOXX","memo":"快篩每日早上10點至12點"},
 {"lng":"121.494815","lat":"24.992678","name":"祥田藥局","id":"5931041070","tel":"0222452293","addr":"新北市中和區圓通路236號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩，08:00開始販售，星期日休息"},
+{"lng":"121.5021","lat":"24.99737","name":"慈光藥局","id":"5931042282","tel":"0222407700","addr":"新北市中和區南山路117號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上9:00營業，週日休息。"},
 {"lng":"121.511","lat":"24.99652","name":"璟福藥局","id":"5931042326","tel":"0229408669","addr":"新北市中和區安平路76號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上8點半開始賣快篩"},
 {"lng":"121.5048","lat":"25.00389","name":"真成大藥局","id":"5931042371","tel":"0222447008","addr":"新北市中和區光華街38號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"121.4822","lat":"24.99557","name":"正陽藥師藥局","id":"5931042853","tel":"0282287336","addr":"新北市中和區連城路354號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"周一至周六早上9:00開始販售實名制快篩試劑，售完為止"},
