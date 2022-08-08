@@ -2456,7 +2456,7 @@ locations = [
 {"lng":"121.3003","lat":"24.96305","name":"杏一八德介壽藥局","id":"5932084677","tel":"033665542","addr":"桃園市八德區介壽路一段771號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"假日及國定假日不賣快篩.平日9-17 開始賣"},
 {"lng":"121.2971","lat":"24.95494","name":"康馥藥局","id":"5932084695","tel":"033749620","addr":"桃園市八德區金和路53號1樓","business_week":"OOOOOXXOOOOOXOOOOOOXO","memo":"口罩販賣時段：15:00 ， 週日14:30開始營業；星期六公休。"},
 {"lng":"121.295","lat":"24.92466","name":"元冠大藥局","id":"5932084739","tel":"033657868","addr":"桃園市八德區豐德路17號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"固定販售時間 早上8:00 發號碼牌 發完為止 感謝您"},
-{"lng":"121.2992","lat":"24.95842","name":"井三原健保藥局","id":"5932084748","tel":"032184078","addr":"桃園市八德區介壽路1段956號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩週一至週六早上8:30販售，週日不販售，實際庫存依現場為主"},
+{"lng":"121.2992","lat":"24.95842","name":"井三原健保藥局","id":"5932084748","tel":"032184078","addr":"桃園市八德區介壽路1段956號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩週一至週六販售，週日不販售，實際庫存依現場為主"},
 {"lng":"121.2981","lat":"24.95894","name":"康是美藥局廣福店","id":"5932084757","tel":"033610841","addr":"桃園市八德區廣福路30號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.2954","lat":"24.93085","name":"安平藥局","id":"5932084775","tel":"033732071","addr":"桃園市八德區興豐路652號1樓","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"快篩販售時間17點（週一停售）"},
 {"lng":"121.328","lat":"24.97036","name":"美康健保藥局","id":"5932084793","tel":"033613624","addr":"桃園市八德區桃鶯路91號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
