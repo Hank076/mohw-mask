@@ -2511,6 +2511,7 @@ locations = [
 {"lng":"121.1358","lat":"25.01381","name":"廣福藥局","id":"5932120114","tel":"034984488","addr":"桃園市觀音區新坡里新生路41號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩上午8點開始販售"},
 {"lng":"121.0812","lat":"25.03472","name":"東尼藥局","id":"5932120141","tel":"034734567","addr":"桃園市觀音區觀音里中正路220號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.143314","lat":"25.047958","name":"立明藥局","id":"5932123008","tel":"034838292","addr":"桃園市觀音區草漯里大觀路二段33-1號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"下午兩點開始販售快篩"},
+{"lng":"121.1382","lat":"25.01172","name":"松樹藥師藥局","id":"5932124096","tel":"034988995","addr":"桃園市觀音區中山路二段777號","business_week":"OOOOOOXOOOOOOXOOOOOOO","memo":"快篩販售時間：營業時間即販售"},
 {"lng":"121.0822","lat":"25.03671","name":"弘宗藥局","id":"5932124265","tel":"034735659","addr":"桃園市觀音區中山路15號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"口罩販賣時段："},
 {"lng":"121.0806","lat":"25.03511","name":"甘泉藥局","id":"5932124345","tel":"034738659","addr":"桃園市觀音區中正路242號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.119","lat":"25.05221","name":"日昇藥局","id":"5932124381","tel":"034834212","addr":"桃園市觀音區成功路一段781號","business_week":"OOOOOXXOOOOOOOOOOOOOO"},
