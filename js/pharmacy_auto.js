@@ -2320,6 +2320,7 @@ locations = [
 {"lng":"121.232","lat":"24.96789","name":"新資生福州大藥局","id":"5932024260","tel":"033606180","addr":"桃園市中壢區福州二街409號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.2404","lat":"24.95171","name":"中壢環東藥局","id":"5932024279","tel":"034562345","addr":"桃園市中壢區中山東路2段193號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"121.263","lat":"24.96665","name":"鈞康藥局","id":"5932024304","tel":"032850505","addr":"桃園市中壢區興仁路2段91號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩發放早上10點起"},
+{"lng":"121.222","lat":"24.95587","name":"劉藥局","id":"5932025007","tel":"034223338","addr":"桃園市中壢區中平路169號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"因每日快篩配貨時間不定，收到立即開賣。可加入藥局Line獲取資訊，敬請見諒!"},
 {"lng":"121.2203","lat":"25.00709","name":"千福藥局","id":"5932028311","tel":"034533789","addr":"桃園市中壢區高鐵站前西路二段87號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"實名制快篩販售時段-上午九時至售完為止"},
 {"lng":"121.2544","lat":"24.93062","name":"田倉藥局","id":"5932028348","tel":"034379331","addr":"桃園市中壢區龍東路二五八號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上9點至晚上9點"},
 {"lng":"121.2257","lat":"24.9633","name":"福泰藥師藥局","id":"5932028375","tel":"034224130","addr":"桃園市中壢區慈惠三街112號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時段：09:00-22:00.."},
