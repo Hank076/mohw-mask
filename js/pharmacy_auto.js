@@ -2062,7 +2062,7 @@ locations = [
 {"lng":"121.4245","lat":"25.02524","name":"薇妮藥妝藥局","id":"593106A637","tel":"0282010817","addr":"新北市新莊區民安路99號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"無"},
 {"lng":"121.4167","lat":"25.02677","name":"薇妮雙鳳藥局","id":"593106A646","tel":"0229076993","addr":"新北市新莊區雙鳳路21號1樓","business_week":"OOOOOOOXXXXXXXXXXXXXX","memo":"實名制快篩每日早上9:00現場排隊購買，無發號碼牌"},
 {"lng":"121.455","lat":"25.04836","name":"宏福藥局","id":"593106A708","tel":"0229985225","addr":"新北市新莊區自信街55號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販賣時段:上午7:00起至售完為止"},
-{"lng":"121.4533","lat":"25.04943","name":"永明藥局","id":"593106A744","tel":"0289920019","addr":"新北市新莊區幸福路598號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"8／7 和 8／21 公休"},
+{"lng":"121.4533","lat":"25.04943","name":"永明藥局","id":"593106A744","tel":"0289920019","addr":"新北市新莊區幸福路598號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"8／7 和 8／21 公休"},
 {"lng":"121.4519","lat":"25.03765","name":"新佑康健保藥局","id":"593106A771","tel":"0229947490","addr":"新北市新莊區中華路1段35號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4445","lat":"25.05148","name":"家禾藥局","id":"593106A824","tel":"0229972121","addr":"新北市新莊區立信五街6號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"若有配送會在12:00及18:00固定販售各39份，不提前販售，沒有發放號碼牌，請耐心等待。人手不足若無法接電話請見諒。"},
 {"lng":"121.41956","lat":"25.026255","name":"欣國藥局","id":"593106A833","tel":"0229080958","addr":"新北市新莊區富國路57號1樓、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天快篩劑發號碼牌AM09:30販賣AM09:00售完為止"},
