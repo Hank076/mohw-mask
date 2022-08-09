@@ -3199,6 +3199,7 @@ locations = [
 {"lng":"120.9643","lat":"23.96946","name":"幸福藥局","id":"5938021781","tel":"0492999800","addr":"南投縣埔里鎮中正路548號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩營業時間內（8:30-21:30）皆可來店購買"},
 {"lng":"120.9669","lat":"23.96458","name":"好安心藥局","id":"5938021914","tel":"0492990377","addr":"南投縣埔里鎮中山路二段327號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售時間: 8:30起~售完為止"},
 {"lng":"120.9637","lat":"23.96682","name":"宜康健保藥局","id":"5938021969","tel":"0492904170","addr":"南投縣埔里鎮南昌街261號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"固定早上8:30開始販賣防疫口罩售完為止"},
+{"lng":"120.9645","lat":"23.96633","name":"禾安康藥局","id":"5938022000","tel":"0492900219","addr":"南投縣埔里鎮南昌街219號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"營業日早上8點開始代售快篩，每日18:30結束販售或售完為止。周日固定公休。"},
 {"lng":"120.9662","lat":"23.96385","name":"埔里福倫健保藥局","id":"5938022117","tel":"0492999118","addr":"南投縣埔里鎮中山路二段367號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.963","lat":"23.97257","name":"誠光藥局","id":"5938022153","tel":"0492987721","addr":"南投縣埔里鎮中正路599號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期1-6發放實名制快篩，時間依快篩到貨時間調整，星期日公休。"},
 {"lng":"120.9942","lat":"23.93519","name":"博今藥局","id":"5938022171","tel":"0492926689","addr":"南投縣埔里鎮東潤路20號","business_week":"OOOOOOOOOOOOOXXXXXXXX"},
