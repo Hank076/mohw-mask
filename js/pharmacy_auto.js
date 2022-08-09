@@ -2785,6 +2785,7 @@ locations = [
 {"lng":"121.7501","lat":"24.74834","name":"文化藥師藥局","id":"5934010193","tel":"039332415","addr":"宜蘭縣宜蘭市復興路1段131號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"下午3:00~3:30"},
 {"lng":"121.7623","lat":"24.75944","name":"中一藥局","id":"5934010228","tel":"039385962","addr":"宜蘭縣宜蘭市慈安路41-3號","business_week":"OOOOOOXXXXXXXXOOOOOOX","memo":"星期一至星期六上午9:00開始販售快篩.售完為止"},
 {"lng":"121.7533","lat":"24.76081","name":"中興藥局","id":"5934011403","tel":"039369769","addr":"宜蘭縣宜蘭市中山路3段209號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上8.30分販售實名制快篩.有分單.雙號.1次限1卡.（可代領）"},
+{"lng":"121.7551","lat":"24.75716","name":"宜生藥局","id":"5934011529","tel":"039327893","addr":"宜蘭縣宜蘭市新民路111號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"周一至周六 上午8點至上午 9點 （或售完為止）"},
 {"lng":"121.7532","lat":"24.75975","name":"興南藥局","id":"5934011636","tel":"039310984","addr":"宜蘭縣宜蘭市中山路3段178號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"上午7:30開賣，賣完為止"},
 {"lng":"121.763","lat":"24.75158","name":"大榮藥師藥局","id":"5934012017","tel":"039387928","addr":"宜蘭縣宜蘭市校舍路23號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩周一至周六早上9:00開始販售"},
 {"lng":"121.755064","lat":"24.757165","name":"富康新民藥局","id":"5934012044","tel":"039366060","addr":"宜蘭縣宜蘭市新民路113號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
