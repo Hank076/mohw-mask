@@ -3323,6 +3323,7 @@ locations = [
 {"lng":"120.5397","lat":"23.7153","name":"永兆藥局","id":"5939012606","tel":"055378257","addr":"雲林縣斗六市北平路166號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.5402","lat":"23.71281","name":"佑全斗六慶生藥局","id":"5939012615","tel":"055372736","addr":"雲林縣斗六市慶生路26號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩-早上九點~晚上九點。"},
 {"lng":"120.4776","lat":"23.67544","name":"惠生大藥局","id":"5939020082","tel":"055972478","addr":"雲林縣斗南鎮中天里文元街50號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天下午2點開始販售，售完為止。"},
+{"lng":"120.4783","lat":"23.67655","name":"全安藥局","id":"5939020091","tel":"055965255","addr":"雲林縣斗南鎮中天里中正路123號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"9點開始販售快篩 售完為止"},
 {"lng":"120.4778","lat":"23.67535","name":"仁安堂藥局","id":"5939020171","tel":"055952020","addr":"雲林縣斗南鎮南昌里文元街43號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"服務時間 : 周一至周六AM8:00-PM10:00 \/ 周日AM8:00-PM6:00"},
 {"lng":"120.4761","lat":"23.67559","name":"菩提大藥局","id":"5939020224","tel":"055951539","addr":"雲林縣斗南鎮延平路二段412號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"政府快篩 早上8 點開始販售！"},
 {"lng":"120.4801","lat":"23.67372","name":"玲津藥局","id":"5939021294","tel":"055972889","addr":"雲林縣斗南鎮中山路17之2號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"周一至周六.上午8-12 14:30-18 週日9-11"},
