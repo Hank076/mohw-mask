@@ -1977,6 +1977,7 @@ locations = [
 {"lng":"121.5403","lat":"24.97854","name":"活元藥局","id":"5931050444","tel":"0229125526","addr":"新北市新店區民族路49號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩代售時間平日早上10:00開始   星期日休息"},
 {"lng":"121.539117","lat":"24.978853","name":"益生大藥局","id":"5931051585","tel":"0229177961","addr":"新北市新店區建國路132號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日12點左右排隊取口罩，沒有號碼牌"},
 {"lng":"121.5401","lat":"24.97361","name":"昇旺藥局","id":"5931051601","tel":"0286659233","addr":"新北市新店區建國路10-1號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.5125","lat":"24.96129","name":"家得福藥局","id":"5931051790","tel":"0222118346","addr":"新北市新店區安康路2段123號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.5428","lat":"24.97285","name":"康宜庭北新藥局","id":"5931051816","tel":"0289147015","addr":"新北市新店區北新路2段43號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩代售時間為下午2點， 現場排隊"},
 {"lng":"121.5426","lat":"24.98306","name":"康裕藥局","id":"5931051852","tel":"0229135479","addr":"新北市新店區民權路8號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5301","lat":"24.97382","name":"中央大藥局","id":"5931051950","tel":"0282187135","addr":"新北市新店區中央路208-1號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日12:00-21；00發快篩 不另發號碼牌"},
