@@ -69,6 +69,7 @@ locations = [
 {"lng":"118.2395","lat":"24.43519","name":"金門縣烈嶼鄉衛生所","id":"2390050032","tel":"082362078","addr":"金門縣烈嶼鄉西口村西方6-5號","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"門診時間:周一至周五上午8點至12點"},
 {"lng":"119.9991","lat":"26.22617","name":"連江縣北竿鄉衛生所","id":"2391020010","tel":"083655592","addr":"連江縣北竿鄉塘岐村281-6號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"新冠快篩試劑販售於週一至周六每日上午08:30-12:00開放購買。"},
 {"lng":"121.5552","lat":"25.05214","name":"榮星藥局","id":"5901010076","tel":"0227124696","addr":"臺北市松山區南京東路4段133巷5弄1號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
+{"lng":"121.5582","lat":"25.0527","name":"明一藥局","id":"5901010094","tel":"0227691654","addr":"臺北市松山區南京東路5段59巷28弄25號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"AM10: ~~PM9:00"},
 {"lng":"121.5473","lat":"25.04914","name":"傑安藥局","id":"5901010165","tel":"0227524155","addr":"臺北市松山區八德路2段437巷7弄8號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"9:30開始發號碼牌"},
 {"lng":"121.5466","lat":"25.05948","name":"仁弘藥局","id":"5901010174","tel":"0227136764","addr":"臺北市松山區民生東路3段113巷25弄6號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上9點開始發放快篩."},
 {"lng":"121.5615","lat":"25.05827","name":"益華藥局","id":"5901010192","tel":"0227624898","addr":"臺北市松山區民生東路5段138巷6號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
