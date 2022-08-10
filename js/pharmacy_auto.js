@@ -3472,6 +3472,7 @@ locations = [
 {"lng":"120.2527","lat":"23.74947","name":"麥津藥局","id":"5939131482","tel":"056932258","addr":"雲林縣麥寮鄉中山路313、315號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"120.2556","lat":"23.67723","name":"豐安藥局","id":"5939140034","tel":"056991672","addr":"雲林縣東勢鄉東北村康安路76號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"早上8:00~11:30， 下午14:30~17:30， 晚上18:30~20:00"},
 {"lng":"120.2519","lat":"23.6761","name":"東新藥局","id":"5939141139","tel":"056998959","addr":"雲林縣東勢鄉東勢西路55號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"週一至五8-12 14-18點.週六 8-12點"},
+{"lng":"120.2553","lat":"23.67587","name":"安康藥局","id":"5939141219","tel":"056993866","addr":"雲林縣東勢鄉東南村康安路18號","business_week":"OOOOOOXOXOXOXXOXOXOXX","memo":"星期一、三、五為8:00-19:00，星期二、四、六為8:00-12:00"},
 {"lng":"120.3081","lat":"23.69338","name":"博順藥局","id":"5939150012","tel":"056971048","addr":"雲林縣褒忠鄉中正路325之3號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑早上8點半始販售至售完"},
 {"lng":"120.305822","lat":"23.692576","name":"召安大藥局","id":"5939150067","tel":"056976066","addr":"雲林縣褒忠鄉中勝村中正路450號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩發放每日下午約1:30"},
 {"lng":"120.3109","lat":"23.69352","name":"三民藥局","id":"5939151135","tel":"056975515","addr":"雲林縣褒忠鄉三民路15號","business_week":"OOOXOOOOXOXOXXXXXXXXX","memo":"快篩試劑販賣時間:-08:00至售完"},
