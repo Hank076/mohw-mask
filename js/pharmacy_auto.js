@@ -1212,6 +1212,7 @@ locations = [
 {"lng":"120.2942","lat":"22.66724","name":"文昇藥局","id":"5907290354","tel":"075525314","addr":"高雄市鼓山區慶豐街125號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.3161","lat":"22.68547","name":"重愛藥局","id":"5907300024","tel":"073501870","addr":"高雄市左營區文自路930號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午2:30開始販售口罩"},
 {"lng":"120.3121","lat":"22.68463","name":"神農健保藥局","id":"5907300088","tel":"073418228","addr":"高雄市左營區重和路117號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期一到六每天14點購買快篩，星期天公休"},
+{"lng":"120.3156","lat":"22.68562","name":"金元藥局","id":"5907300168","tel":"073458378","addr":"高雄市左營區重愛路220號","business_week":"OOOOOOXOOOXOXXOOOXOXX","memo":"快篩試劑如前一天到貨，隔天上午7點30分發號碼牌即開始販售，星期四，六營業時間至中午12點，可打電話詢問"},
 {"lng":"120.2881","lat":"22.67178","name":"勁好健保藥局","id":"5907300211","tel":"075855767","addr":"高雄市左營區果峰街12巷26號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.305214","lat":"22.675005","name":"左野藥局","id":"5907300239","tel":"073486883","addr":"高雄市左營區崇德路222號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日9時開始營業．實名制快篩販售時間10:00-22:00，售完為止!"},
 {"lng":"120.312615","lat":"22.673871","name":"士凱藥局","id":"5907300319","tel":"073430257","addr":"高雄市左營區孟子路178號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"快篩實名制，每天9:00開始販售，售完為止。"},
