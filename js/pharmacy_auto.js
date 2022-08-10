@@ -3421,6 +3421,7 @@ locations = [
 {"lng":"120.4387","lat":"23.71498","name":"林森啄木鳥藥局","id":"5939032715","tel":"056320417","addr":"雲林縣虎尾鎮明正東路8號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售時間：早上9點~售完為止。周末（六、日）無販售"},
 {"lng":"120.4605","lat":"23.80032","name":"一元藥局","id":"5939040164","tel":"055879987","addr":"雲林縣西螺鎮福興路175號","business_week":"OOOOOOXOOOOOOXOOXOOOX","memo":"販賣快篩試劑時間14:00~售完為止"},
 {"lng":"120.4396","lat":"23.78882","name":"福安藥局","id":"5939040253","tel":"055871281","addr":"雲林縣西螺鎮福田里社口路83號","business_week":"OOOOOOOOOOOOOOOOXOOOX","memo":"早上七點開始代賣實名制快篩"},
+{"lng":"120.4628","lat":"23.80013","name":"仁祥藥局","id":"5939041465","tel":"055882111","addr":"雲林縣西螺鎮中和里中山路46號","business_week":"OOOOOOOOOOOOOOOOXOOOO","memo":"口罩販售時間自早上8點起至售完為止"},
 {"lng":"120.4594","lat":"23.80118","name":"一生藥局","id":"5939041732","tel":"055862222","addr":"雲林縣西螺鎮延平路234號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.4575","lat":"23.7991","name":"瑞大藥局","id":"5939041778","tel":"055873287","addr":"雲林縣西螺鎮平和路77-1號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.4612","lat":"23.79675","name":"西螺藥局","id":"5939041849","tel":"055872112","addr":"雲林縣西螺鎮光復西路123、125號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
