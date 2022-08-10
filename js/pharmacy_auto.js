@@ -1111,6 +1111,7 @@ locations = [
 {"lng":"120.1806","lat":"23.05119","name":"廣道藥局","id":"5905370260","tel":"062568383","addr":"臺南市安南區溪心里海佃路三段218號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上7點至晚上九點，星期日公休"},
 {"lng":"120.2185","lat":"23.06181","name":"大樹安南藥局","id":"5905370304","tel":"063563370","addr":"臺南市安南區安和路四段557號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"120.1967","lat":"23.04319","name":"鳳凰平光中西藥局","id":"5905370322","tel":"062565635","addr":"臺南市安南區鳳凰里安中路一段700巷27號1樓","business_week":"OOOOOOXXXXXXXXOOOOOOX","memo":"快篩平日AM8:30開店起販售 周日不營業 7／17-19放假"},
+{"lng":"120.1741","lat":"23.05183","name":"普得中西藥局","id":"5905370402","tel":"062450082","addr":"臺南市安南區淵東里本原街三段255號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩發放"},
 {"lng":"120.215121","lat":"23.027304","name":"宜康安和藥局","id":"5905370448","tel":"062521250","addr":"臺南市安南區安和路一段68號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩:11:00~22:00販售"},
 {"lng":"120.2036","lat":"23.04256","name":"大樹北安藥局","id":"5905370466","tel":"062553633","addr":"臺南市安南區北安路三段158號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"","lat":"","name":"安中台安藥局","id":"5905370484","tel":"062470015","addr":"臺南市安南區北安路2段363之24號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天9：0022:00販賣"},
