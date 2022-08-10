@@ -2416,6 +2416,7 @@ locations = [
 {"lng":"121.2939","lat":"24.99093","name":"家福聯合藥局","id":"5932011370","tel":"032289492","addr":"桃園市桃園區中山路623號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"0503人數已滿，1點發快篩"},
 {"lng":"121.3032","lat":"25.00685","name":"文安藥局","id":"5932011503","tel":"033558999","addr":"桃園市桃園區中正路699號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩領取時間:週一至週日每日早上07:00~21:00售完為止"},
 {"lng":"121.3073","lat":"24.99558","name":"三芳藥局","id":"5932011576","tel":"033390986","addr":"桃園市桃園區民族路232號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩早上開店即可發放  中午12 :00-13:00休息  晚上發到21:30"},
+{"lng":"121.3156","lat":"24.99722","name":"郁祥藥局","id":"5932011610","tel":"033335495","addr":"桃園市桃園區成功里春日路216號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.317","lat":"24.9968","name":"明光藥局","id":"5932011638","tel":"033380427","addr":"桃園市桃園區中山東路117之1號","business_week":"OOOOOOOOOOOOOOXXXXXXX","memo":"口罩販賣時段：0900-1200--1400-1800"},
 {"lng":"121.3158","lat":"24.99265","name":"正安藥局","id":"5932011692","tel":"033329461","addr":"桃園市桃園區東山里安東街58號","business_week":"OOOOOOOOOOOOXXOOOOOXX","memo":"營業時間 09:00~21:30"},
 {"lng":"121.2986","lat":"25.00181","name":"永祥大藥局","id":"5932011870","tel":"033337161","addr":"桃園市桃園區永安路528號","business_week":"OOOOOOXOOOOOOXOOXOXXX","memo":"口罩販賣時段：週一至週六早上9點"},
