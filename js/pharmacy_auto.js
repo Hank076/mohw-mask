@@ -3435,6 +3435,7 @@ locations = [
 {"lng":"120.4761","lat":"23.67559","name":"菩提大藥局","id":"5939020224","tel":"055951539","addr":"雲林縣斗南鎮延平路二段412號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"政府快篩 早上8 點開始販售！"},
 {"lng":"120.4801","lat":"23.67372","name":"玲津藥局","id":"5939021294","tel":"055972889","addr":"雲林縣斗南鎮中山路17之2號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"周一至周六.上午8-12 14:30-18 週日9-11"},
 {"lng":"120.4805","lat":"23.67356","name":"杏元藥局","id":"5939021445","tel":"055963998","addr":"雲林縣斗南鎮東仁里13鄰中山路6號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日早上8點30分開始，售完為止，現場排隊"},
+{"lng":"120.48","lat":"23.67483","name":"安瑞藥局","id":"5939021463","tel":"055972099","addr":"雲林縣斗南鎮新興街94號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"因物流配送時間不一定，原則上9:00販售"},
 {"lng":"120.478","lat":"23.67642","name":"庚辛藥局","id":"5939021490","tel":"055953776","addr":"雲林縣斗南鎮中正路139-1號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週一~週六早上8:30開始販售，售完為止。週日早上8:30~中午12:00販售，週日中午過後公休。"},
 {"lng":"120.4771","lat":"23.68043","name":"感恩藥局","id":"5939021534","tel":"055955216","addr":"雲林縣斗南鎮中山路223號","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"早上08:00開始販售，會視當天情況調整!!"},
 {"lng":"120.4786","lat":"23.67841","name":"惠宏藥局","id":"5939021543","tel":"055953727","addr":"雲林縣斗南鎮延平路2段264號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"0-6歲免費快篩下午2點販售"},
