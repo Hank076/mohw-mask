@@ -2273,6 +2273,7 @@ locations = [
 {"lng":"121.6335","lat":"25.06447","name":"汐芷藥局","id":"5931112136","tel":"0226924087","addr":"新北市汐止區福德一路255號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日8:30現場發放....疫情期間勿恐慌.自費快篩請親臨親洽"},
 {"lng":"121.6537","lat":"25.06284","name":"安泰藥局","id":"5931112234","tel":"0226488486","addr":"新北市汐止區連興街114號1樓","business_week":"OOOOOXOOOOOOXOOOOOOXO","memo":"實名制快篩每天下午5點開始作業，現場排隊"},
 {"lng":"121.6657","lat":"25.07096","name":"躍獅尚揚藥局","id":"5931112341","tel":"0286483158","addr":"新北市汐止區忠孝東路399號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"早上9點10分開始快篩實名制販售，現場排隊，星期天沒有販售實名制快篩"},
+{"lng":"121.6464","lat":"25.08835","name":"汐止立欣藥局","id":"5931112369","tel":"0226464546","addr":"新北市汐止區汐萬路二段249號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"121.6459","lat":"25.0896","name":"翔云大藥局","id":"5931112378","tel":"0226463119","addr":"新北市汐止區祥雲街2號ㄧ1、1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.632","lat":"25.06494","name":"汐興藥局","id":"5931112510","tel":"0226927733","addr":"新北市汐止區中興路113號1樓、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.6564","lat":"25.06456","name":"健成藥局","id":"5931112645","tel":"0226428989","addr":"新北市汐止區新興路20號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
