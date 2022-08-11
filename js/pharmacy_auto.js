@@ -1793,6 +1793,7 @@ locations = [
 {"lng":"121.4741","lat":"25.02314","name":"大峰藥局","id":"5931014224","tel":"0222510338","addr":"新北市板橋區莒光路168號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"AM8:00起發放防疫口罩"},
 {"lng":"121.4597","lat":"24.99145","name":"萬泰藥局","id":"5931014420","tel":"0289645570","addr":"新北市板橋區信義路221之1號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.4294","lat":"24.98582","name":"旭全藥局","id":"5931014439","tel":"0226860526","addr":"新北市板橋區金門街331號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"星期1~6上午9:30~10:30 星期天上午9:30~下午5:00"},
+{"lng":"121.457","lat":"25.01739","name":"友虹藥師藥局","id":"5931014537","tel":"0229691181","addr":"新北市板橋區國光路16號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上十點開始販賣到十二點"},
 {"lng":"121.4654","lat":"25.02296","name":"廣益藥局","id":"5931014555","tel":"0222545726","addr":"新北市板橋區自由路21號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午4點15開始賣快篩"},
 {"lng":"121.4556","lat":"25.01197","name":"常仁藥局","id":"5931014822","tel":"0229674999","addr":"新北市板橋區中正路1巷4號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.4618","lat":"25.02023","name":"詠濟藥局","id":"5931014831","tel":"0222536951","addr":"新北市板橋區幸福路23號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
