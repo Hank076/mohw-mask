@@ -482,7 +482,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.769659","lat":"24.818508","name":"岳成診所","id":"3534051292","tel":"039876586","addr":"宜蘭縣礁溪鄉中山路1段120號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"6／3端午節節只有上午看診"},
 {"lng":"121.794291","lat":"24.631391","name":"徐診所","id":"3534080104","tel":"039590923","addr":"宜蘭縣冬山鄉照安路33巷32號","business_week":"OOOOOXOOOOOOOXOOOOOXX","memo":"週一至週五下午3:10開始；週六下午5:00-8:00周六晚休診，6／3、6／4、6／5端午節正常門診開診"},
 {"lng":"121.797583","lat":"24.685609","name":"吉祥診所","id":"3534091189","tel":"039604853","addr":"宜蘭縣五結鄉五結中路二段23-1號","business_week":"OOOOOOXOOOXOXXOOXXOXX","memo":"晚上時段為17:00-19:00"},
-{"lng":"120.821572","lat":"24.559566","name":"詹求孚診所","id":"3535010553","tel":"037320722","addr":"苗栗縣苗栗市中正路468號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"6／3，6／4 照常應診6／5全日休診"},
+{"lng":"120.821572","lat":"24.559566","name":"詹求孚診所","id":"3535010553","tel":"037320722","addr":"苗栗縣苗栗市中正路468號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"9／9，9／10 照常應診，9／11休診"},
 {"lng":"120.824523","lat":"24.568276","name":"吳昆展小兒科診所","id":"3535012173","tel":"037265532","addr":"苗栗縣苗栗市中正路71號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.65262","lat":"24.444302","name":"良宜診所","id":"3535021396","tel":"037860937","addr":"苗栗縣苑裡鎮建國路106號","business_week":"OOOOOOOOOXOOOXOOXOOOX","memo":"門診時間:上午7:30-12:00；下午14:30-18:00；晚上19:00-21:00。星期三及星期日下午、晚上休診。"},
 {"lng":"120.879324","lat":"24.691393","name":"宏安診所","id":"3535041638","tel":"037466958;037","addr":"苗栗縣竹南鎮光復路265號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"9／9 6／10 正常門診"},
