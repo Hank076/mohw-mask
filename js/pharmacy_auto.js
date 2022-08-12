@@ -2311,6 +2311,7 @@ locations = [
 {"lng":"121.4407","lat":"24.97312","name":"健業藥局","id":"5931132807","tel":"0222704798","addr":"新北市土城區中央路2段223-10號","business_week":"OXOXOOOOXOXOOOOOOOOXX"},
 {"lng":"121.4566","lat":"24.98829","name":"大康藥局","id":"5931132816","tel":"0222738004","addr":"新北市土城區學府路1段72號2樓","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"實名制快篩早上8點開始販售"},
 {"lng":"121.4539","lat":"24.98661","name":"佳霖藥局","id":"5931132852","tel":"0222641425","addr":"新北市土城區學府路1段170號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
+{"lng":"121.458","lat":"24.98854","name":"學府松藥局","id":"5931133019","tel":"0282628665","addr":"新北市土城區學府路一段38號1、2樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"實名制快篩:每日14:30-15:30販售.兒童0-6歲每日15:30-16:30兌換.國定假日例假日公休。"},
 {"lng":"121.459939","lat":"24.978538","name":"大業藥局","id":"5931133046","tel":"0222626791","addr":"新北市土城區青仁路41號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩:每日早上11:30開始販售"},
 {"lng":"121.4429","lat":"24.98091","name":"城康藥局","id":"5931133064","tel":"0222628171","addr":"新北市土城區中央路2段2號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4672","lat":"24.98333","name":"三豐藥局","id":"5931133108","tel":"0222733766","addr":"新北市土城區永豐路135巷8號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
