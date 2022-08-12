@@ -3218,7 +3218,7 @@ locations = [
 {"lng":"120.4936","lat":"23.95386","name":"凱侖藥局","id":"5937061567","tel":"048812278","addr":"彰化縣溪湖鎮西溪里員鹿路2段臨1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"依政府配送時間販售，今日早上9:30販售"},
 {"lng":"120.480182","lat":"23.961857","name":"樺霖保健藥局","id":"5937061601","tel":"048613668","addr":"彰化縣溪湖鎮光平里彰水路3段376號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售時間：8.00-售完為止"},
 {"lng":"120.4801","lat":"23.95867","name":"志成藥局","id":"5937061638","tel":"048853528","addr":"彰化縣溪湖鎮平和里彰水路3段243號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"目前營業時間皆有販售快篩實名制"},
-{"lng":"120.483","lat":"23.96594","name":"溪湖華恩保健藥局","id":"5937061674","tel":"048817575","addr":"彰化縣溪湖鎮青雅路39號","business_week":"OOOOOOOOOOOOXXXXXXXXX","memo":"實名制快篩，平日下午3:00及周六早上9:00販售。"},
+{"lng":"120.483","lat":"23.96594","name":"溪湖華恩保健藥局","id":"5937061674","tel":"048817575","addr":"彰化縣溪湖鎮青雅路39號","business_week":"OOOOOOOOOOOOXXXXXXXXX","memo":"實名制快篩販售中。"},
 {"lng":"120.4722","lat":"23.96187","name":"一心藥局","id":"5937061692","tel":"048851376","addr":"彰化縣溪湖鎮大公路193號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"每天早上9:30開始販售實名制快篩"},
 {"lng":"120.4833","lat":"23.95861","name":"東環藥局","id":"5937061718","tel":"048820001","addr":"彰化縣溪湖鎮湖東街81巷70-3、70-4、70-5號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"120.4771","lat":"23.96099","name":"溪湖藥局","id":"5937061727","tel":"048818617","addr":"彰化縣溪湖鎮西環路365、371號1樓","business_week":"XXXXXXXOOOOOOOOOOOOOO","memo":"售完為止   請攜帶健保卡"},
