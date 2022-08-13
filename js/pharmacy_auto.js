@@ -2781,6 +2781,7 @@ locations = [
 {"lng":"121.2104","lat":"24.91523","name":"瑞瑄社區大藥局","id":"593210A103","tel":"034396205","addr":"桃園市平鎮區中豐路南勢二段162號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.2091","lat":"24.95658","name":"美樂蒂藥局","id":"593210A238","tel":"034023131","addr":"桃園市平鎮區民族路二三七號二樓","business_week":"OXOXOOOOOOOOOOOOOOOXX"},
 {"lng":"121.1069","lat":"24.97346","name":"新屋藥局","id":"5932111240","tel":"034971008","addr":"桃園市新屋區中華路294號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售時間: 早上8:00 ， 售完為止"},
+{"lng":"121.0994","lat":"24.97071","name":"佑展藥局","id":"5932111277","tel":"034972008","addr":"桃園市新屋區三民路518號1樓","business_week":"OOXOXOXOOOOOXXOOOOOXX"},
 {"lng":"121.1053","lat":"24.97287","name":"新中藥局","id":"5932111286","tel":"034971232","addr":"桃園市新屋區中山路324、326號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"121.1672","lat":"24.99356","name":"新惠安藥局","id":"5932120105","tel":"034981650","addr":"桃園市觀音區崙坪里忠愛路一段33號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩販賣時段：07:30至售完為止)"},
 {"lng":"121.1358","lat":"25.01381","name":"廣福藥局","id":"5932120114","tel":"034984488","addr":"桃園市觀音區新坡里新生路41號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩上午8點開始販售"},
