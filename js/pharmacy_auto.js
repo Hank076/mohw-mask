@@ -1252,6 +1252,7 @@ locations = [
 {"lng":"120.3038","lat":"22.65841","name":"新高橋藥局博正店","id":"5907300784","tel":"075509810","addr":"高雄市左營區忠言路180號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午2:30開始販售口罩"},
 {"lng":"120.3211","lat":"22.68636","name":"元大藥師健保藥局","id":"5907300800","tel":"073507531","addr":"高雄市左營區榮德街327號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.3068","lat":"22.66075","name":"志全藥局","id":"5907300819","tel":"075568217","addr":"高雄市左營區富國路168號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"藥局販售口罩時間，依藥局門口公告時間為主(售完為止)"},
+{"lng":"120.3098","lat":"22.67955","name":"得孚社區藥局","id":"5907300882","tel":"073410121","addr":"高雄市左營區重立路533號1樓","business_week":"OOXXOOXOOOOOXXXXOXXXX","memo":"營業日上午09:30-11:30為販賣快篩時間.三四下午2:30-400販售"},
 {"lng":"120.3089","lat":"22.66223","name":"明自丁丁藥局","id":"5907300908","tel":"075568902","addr":"高雄市左營區自由二路152號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.320128","lat":"22.687681","name":"高鐵藥局","id":"5907300926","tel":"073452797","addr":"高雄市左營區華夏路1322.1326號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"120.2953","lat":"22.68921","name":"翔生藥局","id":"5907300953","tel":"075827329","addr":"高雄市左營區左營大路514號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制早上9點開賣"},
