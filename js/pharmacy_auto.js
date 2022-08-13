@@ -3112,6 +3112,7 @@ locations = [
 {"lng":"120.68887","lat":"24.10649","name":"華信藥局","id":"593620B316","tel":"0424872992","addr":"臺中市大里區益民路2段12號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.8885","lat":"24.17379","name":"八醫健保藥局和平店","id":"5936211063","tel":"0425941037","addr":"臺中市和平區東關路3段135號","business_week":"OOOOOOXOOOOOOXXXXXXXX","memo":"販售時間於營業時間內每星期一~星期五早上8:00-18:30 每星期六早上9:00-17:00"},
 {"lng":"120.5321","lat":"24.07338","name":"三立大藥局","id":"5937010140","tel":"047635422","addr":"彰化縣彰化市中華西路111號","business_week":"XXXXXXXOOOOOOOOOOOOOO","memo":"周一至週日下午四點半開始排隊　並依續販售　售完截止.."},
+{"lng":"120.5425","lat":"24.08556","name":"彰化明德藥局","id":"5937010159","tel":"047299085","addr":"彰化縣彰化市興北里三民路209號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"正常調劑時間8:30~22:00(調劑時間皆有賣口罩)"},
 {"lng":"120.5427","lat":"24.07324","name":"正忠藥局","id":"5937010426","tel":"047244669","addr":"彰化縣彰化市福安里福鎮街16號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"周一~周六09:00~21:00販售快篩.售完為止."},
 {"lng":"120.5377","lat":"24.08868","name":"杏全藥局","id":"5937010462","tel":"047240547","addr":"彰化縣彰化市忠權里彰美路一段185號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩：每日販售"},
 {"lng":"120.551219","lat":"24.07501","name":"范藥局","id":"5937010533","tel":"047271540","addr":"彰化縣彰化市東興里公園路1段292號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日賣快篩劑時間恢復8點開賣"},
