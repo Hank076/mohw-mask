@@ -3434,6 +3434,7 @@ locations = [
 {"lng":"120.1767","lat":"23.15936","name":"雅倫藥局","id":"5941051499","tel":"067229488","addr":"臺南市佳里區建南街165號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"禮拜一~六 8:00售完"},
 {"lng":"120.171","lat":"23.16887","name":"黃藥師藥局","id":"5941051542","tel":"067217033","addr":"臺南市佳里區忠孝路293號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩試劑自9點開始.售完為止."},
 {"lng":"120.177926","lat":"23.163246","name":"永星藥局","id":"5941051579","tel":"067234300","addr":"臺南市佳里區文化路176號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩13；00"},
+{"lng":"120.3508","lat":"23.06795","name":"炳騰藥局","id":"5941060050","tel":"065911687","addr":"臺南市新化區那拔里290號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"週一~週六上午7:00~11:00 下午3:00~6:00 售快篩"},
 {"lng":"120.3063","lat":"23.03475","name":"杏安藥局","id":"5941061173","tel":"065801081","addr":"臺南市新化區武安里信義路320號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"周一至週六早上8點開始"},
 {"lng":"120.3048","lat":"23.03582","name":"千福藥局","id":"5941061306","tel":"065905862","addr":"臺南市新化區中山路424號1樓","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"口罩販售時間：星期一~五 8:00~12:00\/15:00~19:00 星期六08:00~12:00"},
 {"lng":"120.3052","lat":"23.13329","name":"資生大藥局","id":"5941070029","tel":"065837659","addr":"臺南市善化區光文里中山路37號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一到週日上午7:40開始販售。"},
