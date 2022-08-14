@@ -2981,6 +2981,7 @@ locations = [
 {"lng":"120.6271","lat":"24.35031","name":"上慧藥局","id":"5936030479","tel":"0426873515","addr":"臺中市大甲區順天路342號","business_week":"OOOOOOXOOOXOOXOXOOOXX","memo":"星期一至星期六 早上8:30開始販賣防疫口罩"},
 {"lng":"120.5742","lat":"24.26938","name":"持田健保藥局","id":"5936040021","tel":"0426229133","addr":"臺中市清水區鰲峰路24號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週一至週六早上8:30準時開始販售. 售完為止."},
 {"lng":"120.5766","lat":"24.26985","name":"清水藥局","id":"5936041249","tel":"0426221425","addr":"臺中市清水區文昌街29號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩早上8:00開始販售（7／3星期日公休）"},
+{"lng":"120.5608","lat":"24.23651","name":"大原藥局","id":"5936050060","tel":"0426626572","addr":"臺中市沙鹿區洛泉里四平街142號","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"早上8:00販賣實名制快篩"},
 {"lng":"120.5592","lat":"24.23637","name":"信輝藥局","id":"5936050239","tel":"0426622135","addr":"臺中市沙鹿區美仁里沙田路141號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日8:00開始販售快篩。"},
 {"lng":"120.5596","lat":"24.2365","name":"濟生一藥局","id":"5936050248","tel":"0426626826","addr":"臺中市沙鹿區沙田路146號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制與兒童免費試劑 營業時間開始  *醫院處方 牙科 備藥齊全 全年無休*"},
 {"lng":"120.5612","lat":"24.24291","name":"沙鹿福倫藥局","id":"5936050364","tel":"0426657718","addr":"臺中市沙鹿區中山路435號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩早上8 點開賣。 賣完為止。謝謝。"},
