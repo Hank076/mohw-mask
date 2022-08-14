@@ -3544,7 +3544,7 @@ locations = [
 {"lng":"120.558841","lat":"23.583087","name":"科有藥局","id":"5940150073","tel":"052621106","addr":"嘉義縣梅山鄉北興街12號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"10:00~售罄"},
 {"lng":"120.537168","lat":"23.47262","name":"博勝藥局","id":"5940161030","tel":"052591127","addr":"嘉義縣番路鄉下坑村下坑53號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"固定周一至周日07:30開始營業"},
 {"lng":"120.3112","lat":"23.30327","name":"新崇安藥局新營店","id":"5941010096","tel":"066333302","addr":"臺南市新營區延平里復興路91號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
-{"lng":"120.3166","lat":"23.31499","name":"安立藥局","id":"5941010185","tel":"066321689","addr":"臺南市新營區王公里中正路98號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩8／6開始賣，有異動會再公告於（臉書）新營安立藥局（週日公休）"},
+{"lng":"120.3166","lat":"23.31499","name":"安立藥局","id":"5941010185","tel":"066321689","addr":"臺南市新營區王公里中正路98號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩8／16會再到貨，有異動會公告（臉書）新營安立藥局（週日公休）"},
 {"lng":"120.3101","lat":"23.3035","name":"鴻達藥局","id":"5941010309","tel":"066358837","addr":"臺南市新營區民生里復興路124號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩試劑08:00開始販售，售完為止"},
 {"lng":"120.31637","lat":"23.30654","name":"美兆藥局","id":"5941010381","tel":"066371188","addr":"臺南市新營區中正路53之4號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩於早上8點開始販售~"},
 {"lng":"120.312571","lat":"23.30584","name":"麗暉藥師藥局","id":"5941011575","tel":"066333479","addr":"臺南市新營區三仙里民權路51號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"第二輪6／6開放購買實名制快篩，目前為早上10點後販售"},
