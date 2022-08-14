@@ -224,6 +224,7 @@ locations = [
 {"lng":"121.5482","lat":"25.08073","name":"大直永安藥局","id":"5901103405","tel":"0225332125","addr":"臺北市中山區北安路567之2號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"0-6歲幼童免費快篩及健保實名制快篩，上班時間都可購買"},
 {"lng":"121.5465","lat":"25.0794","name":"元宏藥局","id":"5901103414","tel":"0225339728","addr":"臺北市中山區北安路458巷41弄49號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑於營業時間08:00-12:00，14:30-21:30皆販售。"},
 {"lng":"121.5248","lat":"25.06483","name":"農安藥局","id":"5901103423","tel":"0225959293","addr":"臺北市中山區農安街18之1號","business_week":"XXXXXXXOOOOOOOOOOOOOO"},
+{"lng":"121.5321","lat":"25.06039","name":"錦州春天生活藥局","id":"5901103487","tel":"0225213586","addr":"臺北市中山區錦州街213號、213號2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩15:00販賣 每天78盒"},
 {"lng":"121.5358","lat":"25.06477","name":"農安盛康藥局","id":"5901103530","tel":"0225038205","addr":"臺北市中山區農安街267號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5323","lat":"25.05495","name":"佳頤中西藥局","id":"5901103558","tel":"0225641479","addr":"臺北市中山區長春路147之1號","business_week":"OOOOOXXOOOOOOOOOOOOOO","memo":"實名制快篩販售時間為下午1點起，售完為止，其他販售細節以店內公告為主"},
 {"lng":"121.5409","lat":"25.06532","name":"禾全藥局","id":"5901103585","tel":"0225165721","addr":"臺北市中山區龍江路332號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩發放時間：1400、19:00  ；現場排隊"},
