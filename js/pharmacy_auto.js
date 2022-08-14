@@ -1618,6 +1618,7 @@ locations = [
 {"lng":"120.1927","lat":"22.9659","name":"日大中西藥局","id":"5921020425","tel":"062612817","addr":"臺南市南區永興一街32號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日08:00~21:30"},
 {"lng":"120.212327","lat":"22.967554","name":"市安藥師藥局","id":"5921020489","tel":"062882627","addr":"臺南市南區國民路142號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販賣~上午9 點開始販售"},
 {"lng":"120.1879","lat":"22.98173","name":"佑佑藥局","id":"5921021566","tel":"062912603","addr":"臺南市南區金華里健康路二段349號2F","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩販售時間及營業時間"},
+{"lng":"120.2135","lat":"22.97705","name":"大愛藥局","id":"5921021584","tel":"062137587","addr":"臺南市南區大同路2段182號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"星期一~日 09:00售完 （全年無休）"},
 {"lng":"120.212254","lat":"22.980223","name":"為仁藥師藥局","id":"5921021708","tel":"062139376","addr":"臺南市南區大同路二段106號","business_week":"OOOOOOOXXXXXOXOOOOOXX","memo":"實名制快篩試劑販售及免費兒童試劑發放於每日上午8:05開始"},
 {"lng":"120.1881","lat":"22.97514","name":"海山藥局","id":"5921021851","tel":"062617788","addr":"臺南市南區新興路400號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"實名制快篩代售:AM10:00~PM1:00**星期六日無代售**"},
 {"lng":"120.1954","lat":"22.98933","name":"三芳藥局","id":"5921030092","tel":"062203084","addr":"臺南市中西區元安里大勇街5號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"週一至週六09:00~12:00  14:30~17:00執業，快篩賣完為止。"},
