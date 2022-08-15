@@ -6,6 +6,8 @@ locations = [
 {"lng":"121.548","lat":"24.87197","name":"新北市烏來區衛生所","id":"2331290014","tel":"0226617200","addr":"新北市烏來區新烏路5段109號","business_week":"OOOOOXXOOOOOXXXXXXXXX"},
 {"lng":"121.1393","lat":"24.71756","name":"新竹縣橫山鄉衛生所","id":"2333070010","tel":"035932004","addr":"新竹縣橫山鄉大肚村3鄰新興街141巷10號","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"實名制快篩試劑販賣：週一至週五12：30~13：30"},
 {"lng":"120.9949","lat":"24.76691","name":"新竹縣寶山鄉衛生所","id":"2333100013","tel":"035292106","addr":"新竹縣寶山鄉雙溪村7鄰雙園路二段273號","business_week":"OOXOXXXXXXXXXXXXXXXXX","memo":"快篩試劑於星期一~星期六8:30-9:30販售"},
+{"lng":"121.0555","lat":"24.70055","name":"新竹縣北埔鄉衛生所","id":"2333110019","tel":"035801677","addr":"新竹縣北埔鄉北埔街90號","business_week":"OOXOXXXXXOXXXXXXXXXXX"},
+{"lng":"121.0214","lat":"24.68842","name":"新竹縣峨眉鄉衛生所","id":"2333120015","tel":"035800314","addr":"新竹縣峨眉鄉峨眉村峨眉街2鄰5號","business_week":"XOXOOXXOXXXXXXXXXXXXX","memo":"本所8月5日（五）下午眼科門診，周三下午為中醫門診，上班日快篩試劑販賣為中午12至13時，周六.周日及國定假日停賣"},
 {"lng":"121.2023","lat":"24.70562","name":"新竹縣尖石鄉衛生所","id":"2333130011","tel":"035842356","addr":"新竹縣尖石鄉嘉樂村2鄰61號","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"無急診"},
 {"lng":"121.1194","lat":"24.63184","name":"新竹縣五峰鄉衛生所","id":"2333140017","tel":"035851005","addr":"新竹縣五峰鄉大隘村六鄰99號","business_week":"OOOOOOOOOOOOOOXXXXOOO"},
 {"lng":"120.999979","lat":"24.597334","name":"苗栗縣南庄鄉衛生所","id":"2335110017","tel":"037822024","addr":"苗栗縣南庄鄉東村大同路17號","business_week":"OOXOOXXOOXOOXXXXXXXXX","memo":"快篩試劑販賣時段:週一至週五上午8:00~下午5:00"},
