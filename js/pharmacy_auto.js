@@ -790,6 +790,7 @@ locations = [
 {"lng":"120.7092","lat":"24.14785","name":"翔新藥局","id":"5903230085","tel":"0422131269","addr":"臺中市東區東英17街167-3號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩全日販售!!! 星期日公休，（W1-W6 中午12:15-14:30休）"},
 {"lng":"120.7009","lat":"24.13481","name":"平祐健保藥局","id":"5903230094","tel":"0422113898","addr":"臺中市東區旱溪東路1段297號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"早上九點開始販售!週日公休!"},
 {"lng":"120.706324","lat":"24.136928","name":"樂業小林健保藥局","id":"5903230156","tel":"0422139123","addr":"臺中市東區樂業路443號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"120.7051","lat":"24.138","name":"恒生藥局","id":"5903230183","tel":"0422135179","addr":"臺中市東區樂業路395號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩11點開賣，中午1~3點暫停發放。周日公休 相關資訊請查閱FB。另有提供領慢箋服務及保健食品，任何疑問請洽藥師。"},
 {"lng":"120.7097","lat":"24.14406","name":"康是美藥局東英店","id":"5903230192","tel":"0422139034","addr":"臺中市東區十甲路450號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩於每日下午3點開賣"},
 {"lng":"120.6893","lat":"24.14543","name":"東京藥師藥局","id":"5903230209","tel":"0422132278","addr":"臺中市東區復興路五段149號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.708074","lat":"24.14425","name":"十甲東亞藥師大藥局","id":"5903230218","tel":"0422118879","addr":"臺中市東區十甲路410號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
