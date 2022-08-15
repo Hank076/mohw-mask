@@ -3172,7 +3172,7 @@ locations = [
 {"lng":"120.494454","lat":"24.026149","name":"效生藥局","id":"5937120052","tel":"047683931","addr":"彰化縣秀水鄉民生街908號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上7:00開始發號碼牌"},
 {"lng":"120.4977","lat":"24.03204","name":"伸豐藥局","id":"5937121184","tel":"047697482","addr":"彰化縣秀水鄉福安村彰水路二段663號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上8:30販售，售完為止"},
 {"lng":"120.4917","lat":"24.02402","name":"福慧藥局","id":"5937121237","tel":"047689180","addr":"彰化縣秀水鄉彰水路2段203號","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"1.早上8;45開始營業，早上9:00開始販售口罩 2.每日中午12:00-15:00休息"},
-{"lng":"120.5035","lat":"24.03531","name":"健全藥局","id":"5937121246","tel":"047686649","addr":"彰化縣秀水鄉安東村中山路282-1號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"周一到周日下午2點開始販賣快篩"},
+{"lng":"120.5035","lat":"24.03531","name":"健全藥局","id":"5937121246","tel":"047686649","addr":"彰化縣秀水鄉安東村中山路282-1號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"120.4973","lat":"24.03104","name":"秀水福倫藥局","id":"5937121291","tel":"047699618","addr":"彰化縣秀水鄉彰水路2段570號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.5009","lat":"24.03537","name":"丁丁藥局秀水店","id":"5937121308","tel":"047686200","addr":"彰化縣秀水鄉彰水路一段22號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一~週日於上午9點開始販售實名制快篩試劑!丁丁藥局關心您!"},
 {"lng":"120.4943","lat":"24.02791","name":"彰水藥局","id":"5937121317","tel":"047685880","addr":"彰化縣秀水鄉彰水路二段425、427、429號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
