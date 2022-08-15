@@ -1196,6 +1196,7 @@ locations = [
 {"lng":"120.2874","lat":"22.69707","name":"森森藥師藥局","id":"5907300417","tel":"075853600","addr":"高雄市左營區緯六路215號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"快篩販售（W1~W5） 8~19點；（W6） 8:30~12點，售完為止"},
 {"lng":"120.3073","lat":"22.66307","name":"躍獅祐恩藥局","id":"5907300506","tel":"075508706","addr":"高雄市左營區明華一路132號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"不用排隊，隨到隨買~AM9:30-PM22:00"},
 {"lng":"120.3022","lat":"22.6778","name":"詮裕藥局","id":"5907300515","tel":"073453942","addr":"高雄市左營區華夏路706號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期一到星期六早上8點銷售到售完為止.星期日---無"},
+{"lng":"120.3204","lat":"22.68777","name":"明禾藥局","id":"5907300588","tel":"073493734","addr":"高雄市左營區華夏路1732號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩販賣時間早上10點開始"},
 {"lng":"120.311746","lat":"22.664187","name":"新高橋藥局河堤店","id":"5907300613","tel":"075582806","addr":"高雄市左營區裕誠路144號1樓及地下1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午1:30開始販售口罩至下午5:30"},
 {"lng":"120.3112","lat":"22.67415","name":"大樹孟子藥局","id":"5907300631","tel":"073461772","addr":"高雄市左營區孟子路226、228號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"120.3216","lat":"22.6809","name":"維康藥局高榮店","id":"5907300659","tel":"073494540","addr":"高雄市左營區榮總路163號、165號","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"平常日0900-1700假日1000-1800"},
