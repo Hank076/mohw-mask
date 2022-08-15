@@ -567,7 +567,7 @@ locations = [
 {"lng":"120.337","lat":"22.73691","name":"富翔藥局","id":"5902040050","tel":"073516365","addr":"高雄市楠梓區常德路307號","business_week":"OOOOOOXOOOOOOXOOOOOOO","memo":"快篩實名制販售中，售完為止。"},
 {"lng":"120.3262","lat":"22.72532","name":"世詠藥局","id":"5902040087","tel":"073539869","addr":"高雄市楠梓區楠都東街138號","business_week":"OOOOOXXOOOOOOOOOOOOOO","memo":"快篩周一~周五早上9:00-21:0周六日下午15:00-21:30，售完為止"},
 {"lng":"120.3247","lat":"22.72731","name":"丁丁楠梓藥局","id":"5902040112","tel":"073533743","addr":"高雄市楠梓區建楠路130、132、134號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一~週日於早上09:00開始販售實名制快篩試劑!丁丁藥局楠梓店（楠梓火車站前）關心您!"},
-{"lng":"120.33","lat":"22.72873","name":"東初藥局","id":"5902040185","tel":"073511261","addr":"高雄市楠梓區楠梓路32號","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"7／1進入第三輪，任何健保卡（已取消單雙號限制）都可再次購買（可代購）"},
+{"lng":"120.33","lat":"22.72873","name":"東初藥局","id":"5902040185","tel":"073511261","addr":"高雄市楠梓區楠梓路32號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"8／15進入第四輪，任何健保卡（已取消單雙號限制）都可再次購買2盒（可代購）"},
 {"lng":"120.3287","lat":"22.72659","name":"益民藥局","id":"5902040210","tel":"073522161","addr":"高雄市楠梓區建楠路47號","business_week":"OOOOOXOOOOOOXOOOOOOOO","memo":"開門時間10:00"},
 {"lng":"120.3068","lat":"22.72694","name":"進昇藥局","id":"5902040229","tel":"073652334","addr":"高雄市楠梓區德賢路202號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩每日上午10點販售，售完為止"},
 {"lng":"120.2939","lat":"22.70717","name":"順明藥局","id":"5902040498","tel":"073615574","addr":"高雄市楠梓區和光街65號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩試劑 09:00開始販售。"},
