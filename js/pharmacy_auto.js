@@ -1827,6 +1827,7 @@ locations = [
 {"lng":"121.4479","lat":"24.9984","name":"盛生藥局","id":"5931017663","tel":"0289697299","addr":"新北市板橋區合宜路99號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"政府快篩下午1:50發放號碼牌.下午2:00準時銷售..假日視政府配量（銷售時間相同）"},
 {"lng":"121.4552","lat":"25.01954","name":"浣熊藥局","id":"5931017681","tel":"0229650355","addr":"新北市板橋區中正路301號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩每日晚上9點開始販賣，不發放號碼牌直接販售"},
 {"lng":"121.464","lat":"25.00484","name":"杏文藥局","id":"5931017690","tel":"0229555699","addr":"新北市板橋區實踐路100號(1樓)","business_week":"OOOOOOXOOOOOXXOXOXOXX"},
+{"lng":"121.4628","lat":"25.02936","name":"上嘉藥局","id":"5931017707","tel":"0222582278","addr":"新北市板橋區四維路296號1樓","business_week":"OOOOOXXOOOOOOOOOOOOOO"},
 {"lng":"121.4563","lat":"25.0081","name":"泓泰藥局","id":"5931017752","tel":"0229686559","addr":"新北市板橋區館前西路140號2樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.4822","lat":"25.01476","name":"光環藥局","id":"5931017770","tel":"0289520920","addr":"新北市板橋區中山路2段389號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.462391","lat":"25.030246","name":"明翠藥局","id":"5931017789","tel":"0222550201","addr":"新北市板橋區四維路146、148號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
