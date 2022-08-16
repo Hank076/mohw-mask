@@ -570,6 +570,7 @@ locations = [
 {"lng":"120.2869","lat":"22.6703","name":"杏光藥局","id":"5902032530","tel":"075837060","addr":"高雄市左營區果峰街47巷1號1樓","business_week":"OOOOOOOXXXXXXXOOOOOOX","memo":"營業時間:上午 9 :00~13:00 ／ 晚上 17:00~21:00"},
 {"lng":"120.306759","lat":"22.659096","name":"健智美藥局","id":"5902032647","tel":"075580888","addr":"高雄市左營區富國路98號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上08:40開賣，自備零錢，售完止。"},
 {"lng":"120.305351","lat":"22.660672","name":"辰暘藥局","id":"5902032674","tel":"075588545","addr":"高雄市左營區富民路120號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.3301","lat":"22.72966","name":"成吉藥局","id":"5902040014","tel":"073513339","addr":"高雄市楠梓區楠梓東街74號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"6／1起營業時間開始販賣實名制快篩，售完為止!!!星期日店休"},
 {"lng":"120.3286","lat":"22.73026","name":"橘井藥局","id":"5902040041","tel":"073511869","addr":"高雄市楠梓區楠梓路129號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩劑開賣時間：周一至週六每天上午8:00販售，售完為止。*** 周日店休，不販售***"},
 {"lng":"120.337","lat":"22.73691","name":"富翔藥局","id":"5902040050","tel":"073516365","addr":"高雄市楠梓區常德路307號","business_week":"OOOOOOXOOOOOOXOOOOOOO","memo":"快篩實名制販售中，售完為止。"},
 {"lng":"120.3262","lat":"22.72532","name":"世詠藥局","id":"5902040087","tel":"073539869","addr":"高雄市楠梓區楠都東街138號","business_week":"OOOOOXXOOOOOOOOOOOOOO","memo":"快篩周一~周五早上9:00-21:0周六日下午15:00-21:30，售完為止"},
