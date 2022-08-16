@@ -226,7 +226,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.654302","lat":"24.164942","name":"林鴻任耳鼻喉科診所","id":"3517064286","tel":"0423111518","addr":"臺中市西屯區青海路一段116號","business_week":"OOXOOXOOOXOOXXOOOOOXX","memo":"星期日早上門診: 08:30 ~ 12:00"},
 {"lng":"120.635124","lat":"24.15311","name":"張家強診所","id":"3517070515","tel":"0422591683","addr":"臺中市南屯區黎明路二段490號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"7:30-12:00，15:00-18:00，18:00-21:30 2\/27，2\/28，3\/1照常看診"},
 {"lng":"120.637752","lat":"24.139341","name":"親子診所","id":"3517070533","tel":"0423862626","addr":"臺中市南屯區黎明路一段1091號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
-{"lng":"120.652835","lat":"24.138047","name":"蘇德慶診所","id":"3517070757","tel":"0424717572","addr":"臺中市南屯區東興路二段57號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
+{"lng":"120.652835","lat":"24.138047","name":"蘇德慶診所","id":"3517070757","tel":"0424717572","addr":"臺中市南屯區東興路二段57號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"中秋連假照常門診"},
 {"lng":"120.653195","lat":"24.137032","name":"林耳鼻喉科診所","id":"3517071914","tel":"0424751525","addr":"臺中市南屯區東興路2段50號","business_week":"OOOOOXOOOXXOXXOOOOOXO","memo":"國定假日休診，6／3.4休診.6／5早上門診"},
 {"lng":"120.66592","lat":"24.181868","name":"張廣智耳鼻喉科診所","id":"3517081938","tel":"0422924703","addr":"臺中市北屯區中清路二段531號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.700119","lat":"24.178538","name":"優幼診所","id":"3517083914","tel":"0422493636","addr":"臺中市北屯區北屯路435-16號","business_week":"OOOOXOOXXXXXOOOOOOXOO"},
