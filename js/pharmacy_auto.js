@@ -1216,6 +1216,7 @@ locations = [
 {"lng":"120.2845","lat":"22.65177","name":"金好藥局","id":"5907290327","tel":"075869556","addr":"高雄市鼓山區青海路418號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"120.2877","lat":"22.65167","name":"丁丁藥局","id":"5907290336","tel":"073854991","addr":"高雄市鼓山區美術東二路7號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.294","lat":"22.66065","name":"新高橋藥局裕明店","id":"5907290345","tel":"075224680","addr":"高雄市鼓山區裕誠路1668號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.2942","lat":"22.66724","name":"文昇藥局","id":"5907290354","tel":"075525314","addr":"高雄市鼓山區慶豐街125號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.3161","lat":"22.68547","name":"重愛藥局","id":"5907300024","tel":"073501870","addr":"高雄市左營區文自路930號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午2:30開始販售口罩"},
 {"lng":"120.3121","lat":"22.68463","name":"神農健保藥局","id":"5907300088","tel":"073418228","addr":"高雄市左營區重和路117號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期一到六每天14點購買快篩，星期天公休"},
 {"lng":"120.3156","lat":"22.68562","name":"金元藥局","id":"5907300168","tel":"073458378","addr":"高雄市左營區重愛路220號","business_week":"OOOOOOXOOOXOXXOOOXOXX","memo":"快篩試劑如前一天到貨，隔天上午7點30分發號碼牌即開始販售，星期四，六營業時間至中午12點，可打電話詢問"},
