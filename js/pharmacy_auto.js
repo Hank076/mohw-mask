@@ -876,7 +876,7 @@ locations = [
 {"lng":"120.6726","lat":"24.16703","name":"台中大樹藥局","id":"5903261008","tel":"0422981113","addr":"臺中市北區漢口路三段261號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"120.6753","lat":"24.16558","name":"多倫多藥局","id":"5903261017","tel":"0422980210","addr":"臺中市北區太原路二段11號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.6469","lat":"24.17368","name":"青育藥師藥局","id":"5903270061","tel":"0427068798","addr":"臺中市西屯區河南路2段362號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"郵差送達後，開始販售實名制快篩（可參考快篩地圖）"},
-{"lng":"120.6559","lat":"24.16046","name":"信心藥局","id":"5903270089","tel":"0423163430","addr":"臺中市西屯區四川路190號","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"每天早上08:00開始販售快篩試劑."},
+{"lng":"120.6559","lat":"24.16046","name":"信心藥局","id":"5903270089","tel":"0423163430","addr":"臺中市西屯區四川路190號","business_week":"OOOOOOOOOOOOOOOOOOOXX"},
 {"lng":"120.6418","lat":"24.17795","name":"大心藥局","id":"5903270230","tel":"0424528355","addr":"臺中市西屯區西屯路2段295-19號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩，早上9:00開始販售（售完為止），星期日固定公休"},
 {"lng":"120.6242","lat":"24.18563","name":"宥承藥局","id":"5903270301","tel":"0424626559","addr":"臺中市西屯區西屯路3段148-16號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"星期一到星期六， 開始快篩"},
 {"lng":"120.6573","lat":"24.16838","name":"甘肅安德藥局","id":"5903270347","tel":"0423165935","addr":"臺中市西屯區甘肅路202-3號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"周一至五早上8:00，週六至周日早上9:00開始販售快篩，售完為止"},
