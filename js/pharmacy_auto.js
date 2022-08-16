@@ -537,6 +537,7 @@ locations = [
 {"lng":"121.5388","lat":"25.00197","name":"逸全生活藥局","id":"5901203188","tel":"0229326185","addr":"臺北市文山區羅斯福路5段222號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5549","lat":"25.00062","name":"躍獅新芳藥局","id":"5901203204","tel":"0229308172","addr":"臺北市文山區興隆路3段16號(實際營業地址:1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5583","lat":"25.00031","name":"綠杏萬芳藥局","id":"5901203213","tel":"0229349516","addr":"臺北市文山區興隆路3段111號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"營業時間內皆有販售實名制快篩"},
+{"lng":"121.5695","lat":"24.98756","name":"躍獅木柵藥局","id":"5901203268","tel":"0286617752","addr":"臺北市文山區指南路1段28號","business_week":"OOOOOOOOOOOOOOXXXXXXX","memo":"營業時間:0900-1800"},
 {"lng":"121.5742","lat":"24.98784","name":"專品政大藥局","id":"5901203295","tel":"0222343010","addr":"臺北市文山區指南路2段8號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5396","lat":"24.99978","name":"躍獅景新藥局","id":"5901203393","tel":"0229356221","addr":"臺北市文山區羅斯福路6段30號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.559535","lat":"24.981532","name":"富康活力睦新藥局","id":"5901203400","tel":"0229393666","addr":"臺北市文山區木新路3段216號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
