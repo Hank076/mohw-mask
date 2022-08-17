@@ -357,6 +357,7 @@ locations = [
 {"lng":"121.5155","lat":"25.11192","name":"天蓮藥局","id":"5901160053","tel":"0228211824","addr":"臺北市北投區石牌路1段166巷115號","business_week":"OOOOOOOOOOOOXOOOOOOXX"},
 {"lng":"121.5153","lat":"25.11086","name":"丸三大藥局","id":"5901160062","tel":"0228230637","addr":"臺北市北投區自強街105號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5206","lat":"25.11086","name":"進春藥局","id":"5901160099","tel":"0228216938","addr":"臺北市北投區明德路151號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"無休 上午九點開始販售，現場排隊。（依現場公告為主）"},
+{"lng":"121.517","lat":"25.11604","name":"德昇藥局","id":"5901160142","tel":"0228217565","addr":"臺北市北投區裕民二路20號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週一至週六下午2:30分 實名制快篩現場發售 若前一天未售完，則早上仍繼續發售  不刷卡不開統編  請自備500元"},
 {"lng":"121.4668","lat":"25.11935","name":"新祥藥局","id":"5901160222","tel":"0228582551","addr":"臺北市北投區知行路208號-1","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩下午1:30分發放號碼牌，隨後依照號碼牌發售，周日休息"},
 {"lng":"121.4692","lat":"25.12843","name":"昌源藥局","id":"5901160286","tel":"0228928695","addr":"臺北市北投區中央北路4段485號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"周日公休"},
 {"lng":"121.4672","lat":"25.12134","name":"世全藥局","id":"5901160400","tel":"0228585378","addr":"臺北市北投區知行路273號","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"早0000-0100，午0000-0000晚17:30-2400"},
