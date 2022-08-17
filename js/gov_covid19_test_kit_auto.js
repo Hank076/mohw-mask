@@ -423,7 +423,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.689323","lat":"25.177399","name":"享悅診所","id":"3531281172","tel":"0224928190","addr":"新北市萬里區瑪鋉路34號","business_week":"OOOOOXXOOOOOXXOOOOOXX"},
 {"lng":"121.294167","lat":"24.990919","name":"柯福順耳鼻喉科診所","id":"3532012804","tel":"032201122","addr":"桃園市桃園區中山路613號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"9／9全天開診；9／10晚上休診"},
 {"lng":"121.304908","lat":"25.004038","name":"鴻林耳鼻喉科診所","id":"3532012966","tel":"033377088","addr":"桃園市桃園區中正路567號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
-{"lng":"121.309381","lat":"25.014804","name":"楊文彬耳鼻喉科診所","id":"3532014273","tel":"033150628","addr":"桃園市桃園區春日路850號","business_week":"OOOOOOOXXXXXXXOOOOOXX","memo":"防疫期間， 平日下午診改為17:00-21:00"},
+{"lng":"121.309381","lat":"25.014804","name":"楊文彬耳鼻喉科診所","id":"3532014273","tel":"033150628","addr":"桃園市桃園區春日路850號","business_week":"OOOOOOOXXXXXXXOOOOOXX","memo":"防疫期間， 平日下午診改為17:00-21:00 中秋連假僅上午看診"},
 {"lng":"121.30559","lat":"25.00353","name":"偉勝耳鼻喉科診所","id":"3532014308","tel":"033473858","addr":"桃園市桃園區中正路558號","business_week":"OOOOOOOOOOOOOOOOOOOXX"},
 {"lng":"121.290395","lat":"24.990915","name":"吳鎮宇親子耳鼻喉科診所","id":"3532014399","tel":"033787876","addr":"桃園市桃園區中山路824號1樓、826號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.314808","lat":"24.9843","name":"曹景雄小兒科診所","id":"3532014675","tel":"032183141","addr":"桃園市桃園區延平路113號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
