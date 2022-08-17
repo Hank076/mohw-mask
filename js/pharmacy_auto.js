@@ -223,6 +223,7 @@ locations = [
 {"lng":"121.5321","lat":"25.06039","name":"錦州春天生活藥局","id":"5901103487","tel":"0225213586","addr":"臺北市中山區錦州街213號、213號2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩15:00販賣 每天78盒"},
 {"lng":"121.5358","lat":"25.06477","name":"農安盛康藥局","id":"5901103530","tel":"0225038205","addr":"臺北市中山區農安街267號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5323","lat":"25.05495","name":"佳頤中西藥局","id":"5901103558","tel":"0225641479","addr":"臺北市中山區長春路147之1號","business_week":"OOOOOXXOOOOOOOOOOOOOO","memo":"實名制快篩販售時間為下午1點起，售完為止，其他販售細節以店內公告為主"},
+{"lng":"121.5346","lat":"25.06457","name":"康銓藥局","id":"5901103576","tel":"0225039393","addr":"臺北市中山區農安街174號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上9點販售。"},
 {"lng":"121.5256","lat":"25.05588","name":"十二願藥局","id":"5901103629","tel":"0225311223","addr":"臺北市中山區林森北路309號","business_week":"XXXXXXXOOOOOOOOOOOOOO","memo":"快篩晚上8點開始發放.營業時間下午1點至凌晨3點"},
 {"lng":"121.5612","lat":"25.08125","name":"禾康藥局","id":"5901103647","tel":"0226562156","addr":"臺北市中山區植福路296號(實際營業地址:1層)","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"國定假日不執行調劑業務"},
 {"lng":"121.530356","lat":"25.059704","name":"安悅藥局","id":"5901103665","tel":"0225419879","addr":"臺北市中山區吉林路189號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售時間:早上11點~售完為止，不發號碼牌僅現場排隊（每周日不販售）"},
