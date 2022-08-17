@@ -541,7 +541,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.340159","lat":"23.963563","name":"振源診所","id":"3537230035","tel":"048933786","addr":"彰化縣芳苑鄉民生村建成路44號","business_week":"OOOOOOXOOOOOXXXXXXXXX"},
 {"lng":"120.681077","lat":"23.911529","name":"詹建盛診所","id":"3538010555","tel":"0492243055","addr":"南投縣南投市南陽路475號","business_week":"OOOOOOXXXXXXXXOOOOOXX"},
 {"lng":"120.687481","lat":"23.90483","name":"陳加偉耳鼻喉科診所","id":"3538011810","tel":"0492200679","addr":"南投縣南投市復興路109號","business_week":"OOOOOOXOOOOOXXXXXXXXX"},
-{"lng":"120.687527","lat":"23.90859","name":"幼安小兒科診所","id":"3538012086","tel":"0492206706","addr":"南投縣南投市民族路243號","business_week":"OOOOXOOOOOOXOOOOOOXOO","memo":"6／3端午節當日為診所固定休診日， 6／4（六）與6／5（日）皆正常看診"},
+{"lng":"120.687527","lat":"23.90859","name":"幼安小兒科診所","id":"3538012086","tel":"0492206706","addr":"南投縣南投市民族路243號","business_week":"OOOOXOOOOOOXOOOOOOXOO","memo":"中秋連假， 9／9（五）為固定休診日， 9／10（六）， 9／11（日）正常看診"},
 {"lng":"120.690844","lat":"23.909966","name":"黃子卿小兒科診所","id":"3538012095","tel":"0492200623","addr":"南投縣南投市民族路123號1、2樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.968566","lat":"23.966472","name":"安麗小兒科內科診所","id":"3538022331","tel":"0492991030","addr":"南投縣埔里鎮中山路二段262號","business_week":"OOOOOOXOOXOXOXOOXOOXX","memo":"6月4日-5日休診2天， 6月25-26日休診2天"},
 {"lng":"120.964449","lat":"23.966339","name":"陳宏麟診所","id":"3538022537","tel":"0492900303","addr":"南投縣埔里鎮南昌街221號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"6／2下午門診 ，6／4早上門診，6／3全天休診"},
