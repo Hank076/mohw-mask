@@ -2493,6 +2493,7 @@ locations = [
 {"lng":"121.205667","lat":"25.003458","name":"全球青埔藥局","id":"5932024019","tel":"032873147","addr":"桃園市中壢區高鐵南路2段227號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間:9:00-22:00"},
 {"lng":"121.2292","lat":"24.9627","name":"天晟社區藥局","id":"5932024028","tel":"034629292","addr":"桃園市中壢區延平路153號1樓","business_week":"OOOOOOOOOOOOXXOOOOOXX"},
 {"lng":"121.2263","lat":"24.9616","name":"福安藥局","id":"5932024055","tel":"034266000","addr":"桃園市中壢區元化路232號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.2368","lat":"24.95614","name":"佳愷藥局","id":"5932024108","tel":"034664735","addr":"桃園市中壢區中北路47號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"視配貨狀況禮拜三、禮拜五、禮拜六販售。若未到貨則無法開賣"},
 {"lng":"121.2649","lat":"24.96438","name":"民生藥師藥局","id":"5932024126","tel":"033555008","addr":"桃園市中壢區興仁路2段289號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"不收零錢請不要拿10元5元1元來購買"},
 {"lng":"121.2036","lat":"24.95743","name":"中民社區藥局","id":"5932024153","tel":"034922642","addr":"桃園市中壢區民族路2段182號","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"週六週日及國定假日不營業"},
 {"lng":"121.2558","lat":"24.93335","name":"大賀藥局","id":"5932024162","tel":"034375977","addr":"桃園市中壢區龍東路399號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩領取號碼牌時間:周一 ~ 周日 上午11:30 相關資訊請臉書搜尋  中壢大賀藥局"},
