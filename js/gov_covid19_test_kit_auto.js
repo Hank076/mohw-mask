@@ -214,7 +214,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.655309","lat":"24.139897","name":"曾憲彰耳鼻喉科診所","id":"3517034224","tel":"0423786066","addr":"臺中市西區五權西路一段275號","business_week":"OOOOOXOOOOOOXOOOOOOXX"},
 {"lng":"120.653684","lat":"24.155224","name":"佳慶診所","id":"3517034368","tel":"0423208989","addr":"臺中市西區東興路三段272之1號","business_week":"OOOOOOXXXXXXXXOOOOOXX"},
 {"lng":"120.68436","lat":"24.131094","name":"陳鉉煒小兒科診所","id":"3517040839","tel":"0422861566","addr":"臺中市南區臺中路156號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"端午連假看診時間 111／06／03~111／06／04 正常看診"},
-{"lng":"120.666978","lat":"24.117615","name":"林忠立診所","id":"3517041934","tel":"0422619948","addr":"臺中市南區美村南路58號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"120.666978","lat":"24.117615","name":"林忠立診所","id":"3517041934","tel":"0422619948","addr":"臺中市南區美村南路58號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"9月10日中秋晚上休診，其餘時段正常看診。"},
 {"lng":"120.689942","lat":"24.15762","name":"祥祐診所","id":"3517051967","tel":"0422315688","addr":"臺中市北區三民路三段348號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"9／9、 9／10 上午門診 下午休息  視訊門診 LINE ID @383mfubd"},
 {"lng":"120.682408","lat":"24.167185","name":"謝佳璋小兒科診所","id":"3517054002","tel":"0422355918","addr":"臺中市北區漢口路四段357號號","business_week":"OOOXOOOOOOXOOXOOOXOXO","memo":"W4全，W6晚，W7午，小年夜至初四，中秋.端午午晚，休診"},
 {"lng":"120.668225","lat":"24.162336","name":"秀慧診所","id":"3517054066","tel":"0422031830","addr":"臺中市北區忠太東路58-12號","business_week":"OOOOOXXOOOOOXXXXXXXXO","memo":"上午9:00至12:00， 下午4:00至7:30， 晚上6:30至9:00"},
