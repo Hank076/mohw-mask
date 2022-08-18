@@ -1062,6 +1062,7 @@ locations = [
 {"lng":"120.2198","lat":"22.97762","name":"崇明台安藥局","id":"5905320948","tel":"062900350","addr":"臺南市東區崇明路304號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩早上8點開始販售"},
 {"lng":"120.2438","lat":"22.98249","name":"安納藥局","id":"5905320966","tel":"063313316","addr":"臺南市東區裕文路235號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"不分單雙號囉!不用排隊囉!!"},
 {"lng":"120.2277","lat":"22.97181","name":"萬錠藥局","id":"5905320975","tel":"062679299","addr":"臺南市東區崇成里崇德路619號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"開放第2輪過卡囉！實名制快篩上午9點營業販售至22:59分止。"},
+{"lng":"120.193","lat":"22.98142","name":"聖安健保藥局","id":"5905330024","tel":"062916898","addr":"臺南市南區健康路二段173號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"週日店休!"},
 {"lng":"120.1879","lat":"22.98205","name":"進祥藥局","id":"5905330113","tel":"062630571","addr":"臺南市南區文南里健康路2段342-1號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週一到週六，早上9:00開始販售快篩，售完為止。"},
 {"lng":"120.1807","lat":"22.93114","name":"勝一藥局","id":"5905330159","tel":"062626168","addr":"臺南市南區省躬里灣裡路90號1樓","business_week":"OOOOOXOOOOOOXOOOOOOXO"},
 {"lng":"120.1824","lat":"22.92566","name":"合樂藥局","id":"5905330220","tel":"062625016","addr":"臺南市南區灣裡路309號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"備有自費快篩（唾液、鼻腔）、血氧機、酒精"},
