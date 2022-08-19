@@ -955,6 +955,7 @@ locations = [
 {"lng":"120.6477","lat":"24.13447","name":"全順藥局","id":"5903280763","tel":"0424730983","addr":"臺中市南屯區永春東路339號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"實名快篩販賣時間:平日8~21點  ／ 周六8~12點"},
 {"lng":"120.6528","lat":"24.1437","name":"美十樂藥局","id":"5903280781","tel":"0424710219","addr":"臺中市南屯區東興路二段279號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.6261","lat":"24.11478","name":"統一藥局","id":"5903280790","tel":"0424701966","addr":"臺中市南屯區黎明路一段119號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"實名制口罩販售時間為早上8:00~10:00售完為止! (週日售完關門休息。)"},
+{"lng":"120.6486","lat":"24.14659","name":"大樹南屯藥局","id":"5903280807","tel":"0424758887","addr":"臺中市南屯區向上路一段643號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"120.6528","lat":"24.13835","name":"大育藥局","id":"5903280816","tel":"0424755656","addr":"臺中市南屯區東興路二段71號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩每日固定上午08點開始販售  售完為止"},
 {"lng":"120.613992","lat":"24.143757","name":"佑全台中忠勇藥局","id":"5903280898","tel":"0423803282","addr":"臺中市南屯區忠勇路51-8號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"不發號碼牌售完為止"},
 {"lng":"120.6258","lat":"24.11362","name":"豐樹藥局","id":"5903280914","tel":"0424792098","addr":"臺中市南屯區黎明路一段63號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上8:30-21:00  直接購買，請自備零金."},
