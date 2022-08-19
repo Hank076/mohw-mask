@@ -1045,6 +1045,7 @@ locations = [
 {"lng":"120.1563","lat":"23.19908","name":"晉昇藥師藥局","id":"5905180051","tel":"067943667","addr":"臺南市將軍區西甲里4鄰西華67之21號1樓","business_week":"OOOOOXXOOOOOOOOOOOOXX"},
 {"lng":"120.2916","lat":"23.07223","name":"大樹新市藥局","id":"5905200085","tel":"065892552","addr":"臺南市新市區中正路49、51號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"120.3176","lat":"23.08945","name":"大華藥局","id":"5905200094","tel":"065997119","addr":"臺南市新市區大社里大社708號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩販售時間：每日上午8-12時、下午2-9時。隨到隨領 ！！ ※ 週日不販售。週日不販售。"},
+{"lng":"120.233","lat":"23.09041","name":"愛心藥師藥局","id":"5905210027","tel":"065935104","addr":"臺南市安定區港南里港口147號","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"春節營業時間請電洽或依現場公告"},
 {"lng":"120.2244","lat":"22.91814","name":"仁德市安藥師藥局","id":"5905270041","tel":"062661933","addr":"臺南市仁德區中正西路25號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販賣：早上9點開始販售"},
 {"lng":"120.252","lat":"22.96969","name":"昱欣藥局","id":"5905270112","tel":"062798970","addr":"臺南市仁德區中清路180號1樓","business_week":"OOOOOOXOOOOOOXOXOXOXX"},
 {"lng":"120.2523","lat":"22.95461","name":"安麗兒藥局仁德店","id":"5905270121","tel":"062498619","addr":"臺南市仁德區新田里中正路二段445號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制上午9點開始販售，售完為止"},
