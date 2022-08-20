@@ -1937,6 +1937,7 @@ locations = [
 {"lng":"121.4836","lat":"25.06302","name":"德榮藥局","id":"5931024631","tel":"0229717291","addr":"新北市三重區中華路91號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"政府快篩販售時間星期一至星期六早上10:00至晚上10:00現場販售 星期日中午12:00~下午2:00..謝謝"},
 {"lng":"121.4924","lat":"25.08295","name":"仁華藥局","id":"5931024695","tel":"0229806161","addr":"新北市三重區五華街73-1號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4836","lat":"25.0631","name":"中華健保藥局","id":"5931024784","tel":"0229813155","addr":"新北市三重區中華路95號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天下午3點半開始販賣實名制快篩"},
+{"lng":"121.4863","lat":"25.08731","name":"捷元健保藥局","id":"5931024873","tel":"0282877107","addr":"新北市三重區三賢街185號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩9:00開賣 每周日公休不販售"},
 {"lng":"121.483","lat":"25.07699","name":"力行德榮藥局","id":"5931024908","tel":"0222867170","addr":"新北市三重區力行路2段170號1樓","business_week":"OOOOOXXOOOOOOOOOOOOOO","memo":"星期一到星期五早上08:30.星期六.日中午12:10."},
 {"lng":"121.499863","lat":"25.068228","name":"康希藥局","id":"5931024944","tel":"0289728298","addr":"新北市三重區三和路2段83號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日下午2點依序販賣政府快篩試劑 不發號碼牌"},
 {"lng":"121.4906","lat":"25.06894","name":"欽勝藥局","id":"5931024971","tel":"0229857389","addr":"新北市三重區重陽路4段6號2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"販售快篩需現場排隊，無預約無號碼牌"},
