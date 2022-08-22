@@ -672,6 +672,7 @@ locations = [
 {"lng":"120.712872","lat":"24.304686","name":"得安藥局","id":"5903070025","tel":"0425585333","addr":"臺中市后里區四村路78號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩販賣時間11:00~21:00 （18:00~19:00休息時間）"},
 {"lng":"120.7134","lat":"24.30512","name":"后里宏安藥局","id":"5903070052","tel":"0425581036","addr":"臺中市后里區福音路28號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩每天早上8-30販售下午2-30至晚上9-30，週日休息。"},
 {"lng":"120.7113","lat":"24.30469","name":"豪銘藥局","id":"5903070061","tel":"0425562991","addr":"臺中市后里區公安路68號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
+{"lng":"120.7063","lat":"24.31155","name":"后里瑞士藥師藥局","id":"5903070089","tel":"0425566999","addr":"臺中市后里區甲后路二段579號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.723987","lat":"24.309078","name":"祐恩藥局","id":"5903070098","tel":"0425587518","addr":"臺中市后里區甲后路一段478號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"9／9全日正常門診。9／10早上，下午正常門診，晚上休診。"},
 {"lng":"120.7164","lat":"24.30682","name":"后里藥局","id":"5903070105","tel":"0425590119","addr":"臺中市后里區文明路133號1樓","business_week":"OOOOOOOOOOOOXXOOOOOOX"},
 {"lng":"120.727","lat":"24.30906","name":"甲后藥局","id":"5903070141","tel":"0425585273","addr":"臺中市后里區甲后路一段253號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
