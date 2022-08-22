@@ -2025,6 +2025,7 @@ locations = [
 {"lng":"121.426295","lat":"25.023981","name":"建安藥局","id":"593106A931","tel":"0222051969","addr":"新北市新莊區建安街117號、119號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"121.410749","lat":"25.021065","name":"丹鳳藥局","id":"593106A977","tel":"0229065755","addr":"新北市新莊區中正路745、747號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"121.4446","lat":"25.05226","name":"美德心藥局","id":"593106A995","tel":"0229989025","addr":"新北市新莊區中平路367號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"固定每日8:00開始，販售快篩實名制，星期日也有賣。"},
+{"lng":"121.4577","lat":"25.04953","name":"樂福藥局","id":"593106B027","tel":"0229923388","addr":"新北市新莊區幸福路48號1樓、幸福路64巷2弄16號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午三點半開始購買快篩實名制"},
 {"lng":"121.4553","lat":"25.04549","name":"家嘉藥局","id":"593106B036","tel":"0289926488","addr":"新北市新莊區自立街103號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"今天號碼牌都已發放完畢"},
 {"lng":"121.4273","lat":"25.02037","name":"平安藥局","id":"593106B081","tel":"0222082368","addr":"新北市新莊區民安西路60號2樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.455369","lat":"25.04829","name":"依都勇藥局","id":"593106B090","tel":"0229901516","addr":"新北市新莊區自信街63號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
