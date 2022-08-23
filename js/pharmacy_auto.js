@@ -2697,6 +2697,7 @@ locations = [
 {"lng":"121.1851","lat":"24.91655","name":"家安藥局","id":"5932043345","tel":"034811626","addr":"桃園市楊梅區中興路132號","business_week":"OOOOOOXOOOXXXXOOXOXXX"},
 {"lng":"121.174","lat":"24.92149","name":"樂健烘焙藥局","id":"5932043363","tel":"034965428","addr":"桃園市楊梅區青山一街135號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.1851","lat":"24.91729","name":"京元藥局","id":"5932043372","tel":"034829624","addr":"桃園市楊梅區中興路105號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
+{"lng":"121.1729","lat":"24.90958","name":"楊梅丁丁藥局","id":"5932043381","tel":"034815486","addr":"桃園市楊梅區中山北路2段227號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.1806","lat":"24.90875","name":"元森藥局","id":"5932043390","tel":"034311058","addr":"桃園市楊梅區瑞溪路2段125號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.178617","lat":"24.909873","name":"躍獅祥筠藥局","id":"5932043425","tel":"034817458","addr":"桃園市楊梅區萬大路135號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.2936","lat":"25.04814","name":"南欣藥師藥局","id":"5932050019","tel":"033227038","addr":"桃園市蘆竹區錦中里南崁路205號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時段：週一至週日早上8點"},
