@@ -501,6 +501,7 @@ locations = [
 {"lng":"121.5017","lat":"25.02944","name":"柏祥藥局","id":"5901193169","tel":"0223018272","addr":"臺北市萬華區西藏路141號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"1快篩服務時間自營業起到售完截止。2販售詳情請見門口公告。3周日公休不販售。"},
 {"lng":"121.5042","lat":"25.0255","name":"青年宏越藥局","id":"5901193196","tel":"0223011037","addr":"臺北市萬華區青年路44號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩六日不販售，禮拜一~五下午2:30-3:30，現場排隊"},
 {"lng":"121.5064","lat":"25.02708","name":"正盛藥局","id":"5901193221","tel":"0223050386","addr":"臺北市萬華區中華路2段434-1號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"【自費快篩+血氧機到貨!!】1.目前人潮【少】:【全天候隨到隨買】"},
+{"lng":"121.492","lat":"25.03259","name":"啟仁藥局","id":"5901193230","tel":"0223362771","addr":"臺北市萬華區環河南路2段177號","business_week":"OOOOOOXOOOOOOOOOOOOOX","memo":"快篩發完為止"},
 {"lng":"121.4985","lat":"25.03892","name":"光華藥局","id":"5901193249","tel":"0223613609","addr":"臺北市萬華區華西街19-5號","business_week":"XXXXXXXOOOOOOXOOOOOOX","memo":"周一至六上午11時營業即配合政府快篩試劑到貨發放，週日公休"},
 {"lng":"121.4981","lat":"25.02096","name":"富安藥局","id":"5901193301","tel":"0223377878","addr":"臺北市萬華區萬大路426號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"有販售快篩實名制，0900-2100"},
 {"lng":"121.4935","lat":"25.02698","name":"和德藥局","id":"5901193310","tel":"0223331522","addr":"臺北市萬華區西園路2段292號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
