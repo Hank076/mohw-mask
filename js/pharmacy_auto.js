@@ -156,6 +156,7 @@ locations = [
 {"lng":"121.5511","lat":"25.01834","name":"仁華藥局","id":"5901024696","tel":"0227336762","addr":"臺北市大安區臥龍街155號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩實名制 :上午09:00開始，不發號碼牌"},
 {"lng":"121.544","lat":"25.02832","name":"麗泰藥局","id":"5901024721","tel":"0227079595","addr":"臺北市大安區復興南路2段151巷4號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天到貨時間不定，到貨後即公告開賣"},
 {"lng":"121.5346","lat":"25.04008","name":"昶青藥局","id":"5901024838","tel":"0227515678","addr":"臺北市大安區濟南路3段22之1號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"每天下午13:00販售快篩實名制"},
+{"lng":"121.551","lat":"25.04219","name":"沛林東區生活藥粧藥局","id":"5901024865","tel":"0227763759","addr":"臺北市大安區忠孝東路4段181巷7弄5號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日早上11:00營業，若快篩有到貨，每日發放時間為下午2:00開始"},
 {"lng":"121.5512","lat":"25.03089","name":"佑全大安敦南藥局","id":"5901024954","tel":"0223257579","addr":"臺北市大安區敦化南路2段63巷46號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5396","lat":"25.02865","name":"早安藥局","id":"5901025004","tel":"0227002209","addr":"臺北市大安區建國南路2段151巷42號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩早上9點發號碼牌留卡下午2點領取"},
 {"lng":"121.5267","lat":"25.02295","name":"頤品中西藥局","id":"5901025013","tel":"0223685656","addr":"臺北市大安區浦城街24之2號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
