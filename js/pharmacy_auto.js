@@ -1000,7 +1000,7 @@ locations = [
 {"lng":"120.3146","lat":"23.30286","name":"長壽藥局","id":"5905010072","tel":"066324001","addr":"臺南市新營區中山路219號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售時間：16:00~售完"},
 {"lng":"120.3273","lat":"23.3189","name":"宏泰大藥局","id":"5905010125","tel":"066327801","addr":"臺南市新營區新東里東興8街27號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"營業時間至21:00"},
 {"lng":"120.3041","lat":"23.30767","name":"啄木鳥藥師藥局","id":"5905010143","tel":"066590248","addr":"臺南市新營區新南里民治路242號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"6／7起上午9:30開始販售，售完為止"},
-{"lng":"120.30734","lat":"23.311118","name":"躍獅新營藥局","id":"5905010296","tel":"066564325","addr":"臺南市新營區民生路168號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午4點開始發放實名制快篩 （週日不發放）發完為止；請關注FB_躍獅藥局新營店_訊息或是line群組即時更新資訊"},
+{"lng":"120.30734","lat":"23.311118","name":"躍獅新營藥局","id":"5905010296","tel":"066564325","addr":"臺南市新營區民生路168號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"請關注FB_躍獅藥局新營店_訊息或是line群組即時更新資訊"},
 {"lng":"120.3056","lat":"23.30074","name":"新進啄木鳥藥局","id":"5905010330","tel":"066565303","addr":"臺南市新營區新進路2段254號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩每日10:00開始販售.售完為止"},
 {"lng":"120.271","lat":"23.32228","name":"大樹鹽水藥局","id":"5905020023","tel":"066520432","addr":"臺南市鹽水區朝琴路126-3號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"120.4153","lat":"23.35018","name":"美恩健保藥局","id":"5905030010","tel":"066858865","addr":"臺南市白河區永安里中山路81號1樓","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"快篩販售時間:週一至週六早上7:30至售完為止，週日早上公休，下午1點販售"},
