@@ -1040,7 +1040,7 @@ locations = [
 {"lng":"120.3178","lat":"23.1929","name":"振安藥局","id":"5905140011","tel":"065791810","addr":"臺南市官田區隆田里中山路一段60號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.3186","lat":"23.1927","name":"安安藥局隆田店","id":"5905140039","tel":"065795705","addr":"臺南市官田區中山路一段15號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"全日口罩販賣"},
 {"lng":"120.2019","lat":"23.12005","name":"長榮藥局","id":"5905160013","tel":"067952617","addr":"臺南市西港區新興街12巷14號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩，早上十點開始販售"},
-{"lng":"120.1416","lat":"23.14288","name":"博士藥師專業藥局","id":"5905170019","tel":"067874226","addr":"臺南市七股區大埕里357號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
+{"lng":"120.1416","lat":"23.14288","name":"博士藥師專業藥局","id":"5905170019","tel":"067874226","addr":"臺南市七股區大埕里357號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"8／27下午休"},
 {"lng":"120.1493","lat":"23.1482","name":"建昌藥局","id":"5905170037","tel":"067873777","addr":"臺南市七股區大寮里1之11號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"【快篩販售時間】週一週五08:15~19:00、週六08:15~11:00。"},
 {"lng":"120.1605","lat":"23.2013","name":"建昌藥局漚汪店","id":"5905180042","tel":"067941889","addr":"臺南市將軍區忠興里1-6號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"120.1563","lat":"23.19908","name":"晉昇藥師藥局","id":"5905180051","tel":"067943667","addr":"臺南市將軍區西甲里4鄰西華67之21號1樓","business_week":"OOOOOXXOOOOOOOOOOOOXX"},
