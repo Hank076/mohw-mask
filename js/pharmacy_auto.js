@@ -2277,6 +2277,7 @@ locations = [
 {"lng":"121.4518","lat":"25.05182","name":"來福中西健保藥局","id":"593106B116","tel":"0229961615","addr":"新北市新莊區中港路512號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.4412","lat":"25.03785","name":"美康頭前藥局","id":"593106B189","tel":"0285219638","addr":"新北市新莊區化成路373之5號1樓","business_week":"OOOOOXXOOOOOXXOOOOOXX"},
 {"lng":"121.4175","lat":"25.02544","name":"藥師佛藥局","id":"593106B205","tel":"0229016625","addr":"新北市新莊區中正路881之4號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"隨時都能來賣快篩！"},
+{"lng":"121.4447","lat":"25.04507","name":"微笑埔銓藥局","id":"593106B214","tel":"0229901680","addr":"新北市新莊區中平路77號(1樓、2樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4557","lat":"25.04537","name":"新康健保藥局","id":"593106B232","tel":"0229962558","addr":"新北市新莊區自立街172號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"可直接來購買"},
 {"lng":"121.4546","lat":"25.04041","name":"善美藥局","id":"593106B241","tel":"0229960979","addr":"新北市新莊區公園路89號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.444672","lat":"25.050992","name":"盛弘藥局","id":"593106B287","tel":"0222763336","addr":"新北市新莊區中平路295號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"政府快篩於平日下午13:50發放號碼牌，下午14:00準時販售，假日視政府配量（販售時間相同）"},
