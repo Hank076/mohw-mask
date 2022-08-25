@@ -629,6 +629,7 @@ locations = [
 {"lng":"120.3332","lat":"22.64339","name":"善全藥局","id":"5902054689","tel":"073960269","addr":"高雄市三民區義華路391號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"開始營業即販售，售完為止，其它看休息公告."},
 {"lng":"120.3197","lat":"22.66521","name":"勝發藥局","id":"5902054858","tel":"073474780","addr":"高雄市三民區金鼎路350號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"營業日08:00為販賣快篩試劑時間.售完為止"},
 {"lng":"120.3018","lat":"22.6439","name":"岱安藥局","id":"5902056718","tel":"073219946","addr":"高雄市三民區熱河二街23號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"下午1點~5點開始販售實名制快篩（日公休）"},
+{"lng":"120.3191","lat":"22.66421","name":"大家藥局","id":"5902056754","tel":"073107632","addr":"高雄市三民區鼎中路229號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"實名制快篩販售時間 星期一 ~ 六 上午  08:30-12:00"},
 {"lng":"120.3207","lat":"22.66513","name":"長慶藥局","id":"5902056807","tel":"073105835","addr":"高雄市三民區金鼎路310號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上10:00開始販售快篩"},
 {"lng":"120.2985","lat":"22.64282","name":"民安藥局","id":"5902057126","tel":"073121381","addr":"高雄市三民區嫩江街70號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"販賣快篩09:00~12:00_16:00~18:00_19:00~21:00（售完為止）"},
 {"lng":"120.332263","lat":"22.645286","name":"欣仁惠藥局","id":"5902057144","tel":"073837833","addr":"高雄市三民區大昌二路248號","business_week":"OOOOOOOOOOOOOXOOOOOOO"},
