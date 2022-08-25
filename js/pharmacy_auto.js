@@ -2541,7 +2541,7 @@ locations = [
 {"lng":"121.3665","lat":"25.06762","name":"喜樂藥師藥局","id":"5931171251","tel":"0226005566","addr":"新北市林口區麗林里公園路15號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩實名制，不發號碼牌，端午節連假，週日休息"},
 {"lng":"121.3841","lat":"25.07552","name":"林口啄木鳥藥局","id":"5931171313","tel":"0226027547","addr":"新北市林口區仁愛路2段80號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.374794","lat":"25.077698","name":"家欣藥師藥局","id":"5931171340","tel":"0226025368","addr":"新北市林口區文化二路1段567號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
-{"lng":"121.3751","lat":"25.07145","name":"康旭藥局","id":"5931171411","tel":"0226007808","addr":"新北市林口區麗園一街6巷9號1樓-3","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
+{"lng":"121.3751","lat":"25.07145","name":"康旭藥局","id":"5931171411","tel":"0226007808","addr":"新北市林口區麗園一街6巷9號1樓-3","business_week":"OOOOOOOOOOOOOOOOOOOXX"},
 {"lng":"121.3902","lat":"25.07894","name":"長康藥局","id":"5931171528","tel":"0226012661","addr":"新北市林口區中山路166號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"周日公休"},
 {"lng":"121.3725","lat":"25.07595","name":"蛋寶寶藥局","id":"5931171644","tel":"0226097371","addr":"新北市林口區民有街158號1樓","business_week":"OOOOOXXXXXXXXXXXXXXXX","memo":"周六不販售快篩"},
 {"lng":"121.37398","lat":"25.076482","name":"欣穎藥局","id":"5931171671","tel":"0226069786","addr":"新北市林口區文化二路1段535號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩:下午3點-5點。只收紙鈔。周日公休"},
