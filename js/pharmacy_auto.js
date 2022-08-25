@@ -3773,6 +3773,7 @@ locations = [
 {"lng":"120.4599","lat":"23.60271","name":"一富藥局","id":"5940030021","tel":"052654357","addr":"嘉義縣大林鎮平林里蘭洲街12號","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"每天早上7；30至晚上至20:30止..星期日早上7:30至10:00...下午4:00-20:30"},
 {"lng":"120.4599","lat":"23.60009","name":"萬有藥局","id":"5940030058","tel":"052654246","addr":"嘉義縣大林鎮平林里民權路36號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"周一周六 08:00-21:30週日 08:00-12:00"},
 {"lng":"120.4566","lat":"23.60291","name":"光佑藥局","id":"5940031340","tel":"052649239","addr":"嘉義縣大林鎮東林里平和街31之3號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"周一至周六0800-2100周日0800-1200"},
+{"lng":"120.4613","lat":"23.60269","name":"家寶藥局","id":"5940031359","tel":"052649000","addr":"嘉義縣大林鎮平林里中興路264號","business_week":"OOOOOOXOOXOOXXOOXOOXX","memo":"08:00~售罄"},
 {"lng":"120.4527","lat":"23.60447","name":"大樹大林藥局","id":"5940031386","tel":"052641800","addr":"嘉義縣大林鎮祥和路192號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"120.4528","lat":"23.60129","name":"信沅中西藥局","id":"5940031402","tel":"052656377","addr":"嘉義縣大林鎮西林里011鄰中正路420號","business_week":"XXXXXXXXXXXXXXOOOOOOO","memo":"每晚7~8販售。如需居家送藥，歡迎電聯。"},
 {"lng":"120.4313","lat":"23.55643","name":"七星藥局","id":"5940040045","tel":"052261977","addr":"嘉義縣民雄鄉東榮村中樂路16號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"周一~周日 08:00-售罄"},
