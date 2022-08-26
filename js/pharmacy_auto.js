@@ -2206,6 +2206,7 @@ locations = [
 {"lng":"121.446025","lat":"25.042835","name":"蘇藥局","id":"5931060619","tel":"0229917818","addr":"新北市新莊區中平路6巷37號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"販售快篩時間  隨時販售"},
 {"lng":"121.427037","lat":"25.02604","name":"錄新藥局","id":"5931060628","tel":"0222051849","addr":"新北市新莊區後港一路76巷10弄1號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4544","lat":"25.04988","name":"王藥局","id":"5931060646","tel":"0229922404","addr":"新北市新莊區昌盛街38號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑.今日正常銷售服務.售完為止."},
+{"lng":"121.4456","lat":"25.03585","name":"勝安藥局","id":"5931060682","tel":"0229963394","addr":"新北市新莊區中正路334巷23號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4449","lat":"25.04181","name":"祥好大藥局","id":"5931060744","tel":"0229939051","addr":"新北市新莊區新泰路331號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4555","lat":"25.0455","name":"禮安藥師藥局","id":"5931060824","tel":"0229942891","addr":"新北市新莊區自立街109號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4262","lat":"25.01296","name":"恩泰藥局","id":"5931067092","tel":"0222038680","addr":"新北市新莊區民安西路265號-1","business_week":"XOOOOOXXOOOOOXXOOOOOX"},
