@@ -2765,6 +2765,7 @@ locations = [
 {"lng":"121.2561","lat":"25.02469","name":"宜家藥局","id":"5932052479","tel":"033236008","addr":"桃園市蘆竹區大竹里大新路103號","business_week":"OOOOOXOOOOOOXOOOOOOXO","memo":"快篩販賣時段：14:30開始（週日休息）"},
 {"lng":"121.2594","lat":"25.02374","name":"竹康藥師藥局","id":"5932052531","tel":"033139657","addr":"桃園市蘆竹區大竹路525號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.290873","lat":"25.046913","name":"南竹健保藥局","id":"5932052540","tel":"033526182","addr":"桃園市蘆竹區南竹路一段76號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售時間:下午2:30-3:00  週日請看門市和fb公告"},
+{"lng":"121.2483","lat":"25.02408","name":"大新長青藥師藥局","id":"5932052559","tel":"033131413","addr":"桃園市蘆竹區大新路467號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩14:00開始販售"},
 {"lng":"121.2594","lat":"25.02377","name":"杏安藥局","id":"5932052700","tel":"033230491","addr":"桃園市蘆竹區大竹路529號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"8點30分販賣快篩"},
 {"lng":"121.2977","lat":"25.05702","name":"知博藥師藥局","id":"5932052737","tel":"032221886","addr":"桃園市蘆竹區營盤里中山路160號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販賣時段：暫定週一至週五16:00-17:00 週六.日不發放.以現場公告時間為主"},
 {"lng":"121.2933","lat":"25.04441","name":"南崁藥師藥局","id":"5932052746","tel":"033126458","addr":"桃園市蘆竹區南榮里忠孝西路3號之1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時段：週一至週日13:00起"},
