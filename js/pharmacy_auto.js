@@ -1639,7 +1639,7 @@ locations = [
 {"lng":"120.2257","lat":"23.00757","name":"華成藥局","id":"5921040409","tel":"062344553","addr":"臺南市北區華興里南園街111號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.1938","lat":"23.0153","name":"嘉洲藥局","id":"5921040436","tel":"062583180","addr":"臺南市北區文元里文賢路240號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩 星期一~六8:30開始販售，星期日9:00"},
 {"lng":"120.1938","lat":"23.0153","name":"眾安藥局","id":"5921040481","tel":"062588339","addr":"臺南市北區文元里文賢路1034號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期一~六，上午10點下午9點.(星期日休假)快篩劑販售上午10點起"},
-{"lng":"120.2146","lat":"23.0167","name":"賀康藥局","id":"5921040678","tel":"062819515","addr":"臺南市北區公園路701號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.2146","lat":"23.0167","name":"賀康藥局","id":"5921040678","tel":"062819515","addr":"臺南市北區公園路701號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"星期日營業時間:早上9點~下午5點"},
 {"lng":"120.2084","lat":"23.00521","name":"芳鄰藥局","id":"5921041924","tel":"062811101","addr":"臺南市北區公園北路152號","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"營業時間早上8點~晚上9點"},
 {"lng":"120.2044","lat":"23.01224","name":"康友藥師藥局","id":"5921041979","tel":"062520666","addr":"臺南市北區和緯路二段243號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩之亂沒在怕！「隨到隨買」免排隊！"},
 {"lng":"120.215893","lat":"23.010023","name":"佳一藥局","id":"5921042038","tel":"062511947","addr":"臺南市北區北門路2段519號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期一至六 上午9點開始販售快篩.至售完為止"},
