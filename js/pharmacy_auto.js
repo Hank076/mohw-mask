@@ -419,6 +419,7 @@ locations = [
 {"lng":"121.5637","lat":"25.02715","name":"北一健康人生藥局","id":"5901173783","tel":"0227583945","addr":"臺北市信義區吳興街255號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午3點開始販售實名制快篩"},
 {"lng":"121.5567","lat":"25.02788","name":"柏愛藥局","id":"5901173872","tel":"0227325472","addr":"臺北市信義區基隆路2段131之9號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"國定連假營業時間為09:30-17:30"},
 {"lng":"121.5577","lat":"25.03682","name":"躍獅光復藥局","id":"5901173934","tel":"0287862307","addr":"臺北市信義區光復南路417之8號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"下午1點開始販售"},
+{"lng":"121.5802","lat":"25.04133","name":"北一忠孝藥局","id":"5901173961","tel":"0223464588","addr":"臺北市信義區忠孝東路5段524巷1弄16號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩一~六販早上10點販售，周日不販售"},
 {"lng":"121.561798","lat":"25.029475","name":"吳興春天藥局","id":"5901174002","tel":"0227585618","addr":"臺北市信義區吳興街137號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午2:40發號碼牌"},
 {"lng":"121.577095","lat":"25.041118","name":"寶春藥局","id":"5901174011","tel":"0227566501","addr":"臺北市信義區虎林街119之19號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5691","lat":"25.02454","name":"日安藥局","id":"5901174039","tel":"0227203775","addr":"臺北市信義區松仁路240巷13號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"販售實名制快篩請自備五百元不找零，每天上午十點半開始販售。"},
