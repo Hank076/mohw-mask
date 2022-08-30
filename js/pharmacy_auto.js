@@ -2135,6 +2135,7 @@ locations = [
 {"lng":"121.5407","lat":"24.98637","name":"正升藥局","id":"5931052653","tel":"0229139493","addr":"新北市新店區順安街61號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5451","lat":"24.9683","name":"維顥藥局","id":"5931052699","tel":"0229171986","addr":"新北市新店區中興路1段279號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5174","lat":"24.9722","name":"陽光健康藥局","id":"5931052715","tel":"0222123919","addr":"新北市新店區安民街214號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.5402","lat":"24.9648","name":"新康藥局","id":"5931052751","tel":"0229178179","addr":"新北市新店區北新路1段195號1樓、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5404","lat":"24.97657","name":"微笑生活藥局","id":"5931052840","tel":"0289113397","addr":"新北市新店區建國路85號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.5431","lat":"24.97563","name":"北一藥師藥局","id":"5931052984","tel":"0289115686","addr":"新北市新店區北新路2段163號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"14:30發完號碼牌即發口罩，勿持號碼牌離開，叫號未到視同放棄"},
 {"lng":"121.509204","lat":"24.959154","name":"康曜藥師藥局","id":"5931053007","tel":"0286669660","addr":"新北市新店區安康路2段204號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"[週一至週五]13:20發號碼牌／13:30開始販售  [例假日無販售]"},
