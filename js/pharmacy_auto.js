@@ -1976,6 +1976,7 @@ locations = [
 {"lng":"121.4791","lat":"25.06821","name":"吉康健保藥局","id":"5931025549","tel":"0289810122","addr":"新北市三重區三民街279號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上9點開始販售"},
 {"lng":"121.4972","lat":"25.06415","name":"大樹三重藥局","id":"5931025610","tel":"0229713188","addr":"新北市三重區正義北路66號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"121.496278","lat":"25.061598","name":"華安生活藥局","id":"5931025638","tel":"0229756534","addr":"新北市三重區重新路2段126號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"國定例假日執行調劑業務"},
+{"lng":"121.4962","lat":"25.0684","name":"幸康藥局","id":"5931025647","tel":"0229816105","addr":"新北市三重區正義北路205號2樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"國定假日，如元旦，端午，中秋不執行調劑業務。"},
 {"lng":"121.4912","lat":"25.05856","name":"煜安健保藥局","id":"5931025656","tel":"0229768128","addr":"新北市三重區光明路23號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"國定假日執行調劑業務"},
 {"lng":"121.4982","lat":"25.07515","name":"恆源藥局","id":"5931025745","tel":"0229765002","addr":"新北市三重區仁興街28巷41號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"國定假日有提供調劑業務"},
 {"lng":"121.4831","lat":"25.08392","name":"芯慈藥局","id":"5931025781","tel":"0228570670","addr":"新北市三重區永安北路2段105號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"國定假日有提供藥劑服務"},
