@@ -2638,7 +2638,7 @@ locations = [
 {"lng":"121.3725","lat":"25.07595","name":"蛋寶寶藥局","id":"5931171644","tel":"0226097371","addr":"新北市林口區民有街158號1樓","business_week":"OOOOOXXXXXXXXXXXXXXXX","memo":"周六不販售快篩"},
 {"lng":"121.37398","lat":"25.076482","name":"欣穎藥局","id":"5931171671","tel":"0226069786","addr":"新北市林口區文化二路1段535號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩:下午3點-5點。只收紙鈔。周日公休"},
 {"lng":"121.379406","lat":"25.082933","name":"一家好藥局","id":"5931171680","tel":"0226028270","addr":"新北市林口區中山路500號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"晚上8點販賣，排隊時間請自行斟酌"},
-{"lng":"121.3695","lat":"25.0713","name":"榮新藥局","id":"5931171706","tel":"0226089789","addr":"新北市林口區忠孝路383號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩發放時間  14:50發放號碼牌下午15:00開賣（直至賣完）"},
+{"lng":"121.3695","lat":"25.0713","name":"榮新藥局","id":"5931171706","tel":"0226089789","addr":"新北市林口區忠孝路383號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.3695","lat":"25.07226","name":"林康藥局","id":"5931171724","tel":"0226088869","addr":"新北市林口區文化二路1段222號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩於下午2點販售，周日公休"},
 {"lng":"121.3894","lat":"25.07908","name":"長欣藥局","id":"5931171733","tel":"0226013171","addr":"新北市林口區中山路188號1樓之3","business_week":"OOOOOOXOOOOOXXXXOXOXX","memo":"快篩開賣時間早上9點10分 周日公休 端午節6／3.6／4營業至中午12點"},
 {"lng":"121.376785","lat":"25.071508","name":"唯恩藥局","id":"5931171742","tel":"0226005805","addr":"新北市林口區麗園一街9巷1號1樓之2","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩發放固定13點，領取號碼牌"},
