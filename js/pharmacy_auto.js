@@ -1514,6 +1514,7 @@ locations = [
 {"lng":"120.3141","lat":"22.60955","name":"聯合藥局","id":"5907360459","tel":"073391535","addr":"高雄市前鎮區一心一路281號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"有貨量就販售.現場排隊販售.不採取號碼牌"},
 {"lng":"120.3357","lat":"22.60598","name":"大樹瑞福藥局","id":"5907360520","tel":"077271170","addr":"高雄市前鎮區瑞隆路170號1樓、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"120.3116","lat":"22.61373","name":"祥安健保藥局","id":"5907360566","tel":"073340393","addr":"高雄市前鎮區復興三路393號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
+{"lng":"120.3117","lat":"22.60649","name":"風鈴藥局","id":"5907360628","tel":"075367833","addr":"高雄市前鎮區管仲路37號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"販售快篩：09:30-11:30 依照配送調整販售時間（周日公休）"},
 {"lng":"120.3261","lat":"22.59924","name":"眾安堂藥局","id":"5907360646","tel":"078219881","addr":"高雄市前鎮區班超路17號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上9:30隨到隨買喔，請看臉書更新資訊，週日休息一日"},
 {"lng":"120.312779","lat":"22.610047","name":"民權丁丁藥局","id":"5907360655","tel":"079650177","addr":"高雄市前鎮區民權二路345號1-3樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制早上9點開始販售"},
 {"lng":"120.3056","lat":"22.60341","name":"忠純藥局","id":"5907360664","tel":"073366886","addr":"高雄市前鎮區中華五路1009號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
