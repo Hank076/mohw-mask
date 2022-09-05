@@ -2264,6 +2264,7 @@ locations = [
 {"lng":"121.5109","lat":"24.98843","name":"康富力藥局","id":"5931044133","tel":"0229429896","addr":"新北市中和區仁愛街32號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩代售時間：周一至周五9:30、週六14:00"},
 {"lng":"121.5173","lat":"24.99277","name":"康廷安藥局","id":"5931044204","tel":"0286683599","addr":"新北市中和區大勇街16號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩14:50~14:55發號碼牌.15:00開始販售"},
 {"lng":"121.4963","lat":"24.9993","name":"冠品藥師藥局","id":"5931044268","tel":"0222452129","addr":"新北市中和區連城路119號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOO"},
+{"lng":"121.4938","lat":"24.9913","name":"維康藥局雙和店","id":"5931044277","tel":"0222431962","addr":"新北市中和區圓通路252號1樓","business_week":"OOOOOOOOOOOOOOXXXXXXX"},
 {"lng":"121.509238","lat":"24.998582","name":"藥聯藥師藥局","id":"5931044375","tel":"0229481198","addr":"新北市中和區宜安路143號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"121.4725","lat":"25.00088","name":"躍獅康銓藥局","id":"5931044393","tel":"0229646452","addr":"新北市中和區莒光路146號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOO","memo":"實名制快篩 每日上午09:10開始販售，週日店休"},
 {"lng":"121.4829","lat":"24.99552","name":"健暉藥局","id":"5931044464","tel":"0222231437","addr":"新北市中和區連城路487號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩不分時段單雙 皆可領取"},
