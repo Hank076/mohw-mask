@@ -1637,6 +1637,7 @@ locations = [
 {"lng":"120.9629","lat":"24.81414","name":"新竹北門藥局","id":"5912042940","tel":"035333234","addr":"新竹市北區中正路360、362號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"120.9743","lat":"24.81586","name":"躍獅光華藥局","id":"5912042959","tel":"035331281","addr":"新竹市北區光華東街36-1號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實際販售時間:AM08:00"},
 {"lng":"120.9619","lat":"24.80676","name":"大樹新竹藥局","id":"5912042968","tel":"035250388","addr":"新竹市北區西大路540、542號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
+{"lng":"120.9384","lat":"24.83976","name":"吉康藥局","id":"5912042977","tel":"035369916","addr":"新竹市北區東大路3段503號1樓","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"現場有貨可隨到隨買。"},
 {"lng":"120.9161","lat":"24.73088","name":"速安藥局","id":"5912050040","tel":"035371557","addr":"新竹市香山區中華路6段676號","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"7：10"},
 {"lng":"120.9058","lat":"24.74397","name":"健安藥局","id":"5912051216","tel":"035370111","addr":"新竹市香山區內湖路六十號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"實名制口罩已結束販售"},
 {"lng":"120.927927","lat":"24.789637","name":"高晟藥師藥局","id":"5912051350","tel":"035306645","addr":"新竹市香山區大庄路59號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午2點銷售快篩"},
