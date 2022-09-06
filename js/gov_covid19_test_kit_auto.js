@@ -122,7 +122,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.307306","lat":"22.666858","name":"富誠診所","id":"3502033420","tel":"075560925","addr":"高雄市左營區富國路355號1樓","business_week":"OOOOOXOOOOOOXOOOOOOXO"},
 {"lng":"120.303945","lat":"22.726113","name":"陳顯明診所","id":"3502040667","tel":"073648127","addr":"高雄市楠梓區德賢路265號","business_week":"OOOOOOXOOOOOXXOOOOXXX","memo":"9／9全天看診，9／10上午看診，下午晚上及9／11全天休診"},
 {"lng":"120.28898","lat":"22.715042","name":"康東原診所","id":"3502040685","tel":"073610115","addr":"高雄市楠梓區右昌街376號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"09／10 上午 下午 開診 晚上 休診"},
-{"lng":"120.298573","lat":"22.724916","name":"長義診所","id":"3502042296","tel":"073640553","addr":"高雄市楠梓區惠民路46號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"上午 8:30-11:50  下午 15:30 - 17:50 晚診 18:30- 20:50"},
+{"lng":"120.298573","lat":"22.724916","name":"長義診所","id":"3502042296","tel":"073640553","addr":"高雄市楠梓區惠民路46號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"9月10日休診 .上午 8:30-11:50  下午 15:30 - 17:50 晚診 18:30- 20:50"},
 {"lng":"120.321659","lat":"22.648641","name":"蕭瑞榮小兒科診所","id":"3502051375","tel":"073867121","addr":"高雄市三民區建工路533號","business_week":"OOOOOOXOOOOXXXOOOOXXX","memo":"6／3上午開診、6／4上午開診、6／5全日休診"},
 {"lng":"120.318738","lat":"22.640239","name":"儲昭仁耳鼻喉科診所","id":"3502052345","tel":"073890470","addr":"高雄市三民區九如一路854號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.320831","lat":"22.642189","name":"范雅修小兒科診所","id":"3502052498","tel":"073876366","addr":"高雄市三民區平等路163號","business_week":"OOOOOXXXXXXXXXOOOOOXO","memo":"中秋假期9／9上午看診，晚上休診，9／11正常看診"},
