@@ -1377,6 +1377,7 @@ locations = [
 {"lng":"120.2979","lat":"22.66507","name":"明倫藥局","id":"5907290023","tel":"075520736","addr":"高雄市鼓山區明倫路150號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.2923","lat":"22.67088","name":"康喜藥局","id":"5907290103","tel":"075550060","addr":"高雄市鼓山區華榮路607號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"營業時間星期一~六9:00~21:00  快篩9:00開始"},
 {"lng":"120.2967","lat":"22.66616","name":"新高橋藥局華榮店","id":"5907290112","tel":"075534727","addr":"高雄市鼓山區華榮路287號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.2788","lat":"22.65541","name":"為安藥局","id":"5907290176","tel":"075212912","addr":"高雄市鼓山區九如四路959號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩實名制販賣時間：星期一至星期六  10:00開始，賣完為止  星期日休息"},
 {"lng":"120.2919","lat":"22.65515","name":"聯合藥師藥局","id":"5907290238","tel":"075500558","addr":"高雄市鼓山區中華一路970號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"平日（一到六）售完為止"},
 {"lng":"120.3011","lat":"22.66097","name":"明誠丁丁藥局","id":"5907290274","tel":"075520120","addr":"高雄市鼓山區明誠三路465號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.2973","lat":"22.66156","name":"鼓山藥局","id":"5907290309","tel":"075520017","addr":"高雄市鼓山區華榮路10號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
