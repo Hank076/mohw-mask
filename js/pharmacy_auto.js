@@ -3880,6 +3880,7 @@ locations = [
 {"lng":"120.3543","lat":"23.706","name":"友杏健康健保藥局","id":"5939051194","tel":"056651758","addr":"雲林縣土庫鎮北平里民權路14號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"週一~週六 貨到開始販售，售完為止."},
 {"lng":"120.357","lat":"23.70561","name":"祥安藥局","id":"5939051229","tel":"056656610","addr":"雲林縣土庫鎮東平里馬光路38-1號","business_week":"OOOOOOXOOOOOXXOXOXOXX"},
 {"lng":"120.3578","lat":"23.70522","name":"祐安藥局","id":"5939051247","tel":"056655938","addr":"雲林縣土庫鎮馬光路39-1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩試劑每日到貨時間不固定，依到貨時間滾動式販售（售完為止）"},
+{"lng":"120.3012","lat":"23.57199","name":"慶輝藥局","id":"5939060111","tel":"057835078","addr":"雲林縣北港鎮華勝里大同路232號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"快篩服務時間：早上8:30起至晚上9:00。"},
 {"lng":"120.3027","lat":"23.56495","name":"民生藥局","id":"5939060120","tel":"057822476","addr":"雲林縣北港鎮民生路70號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"上午8:30-晚上9:30，週末請先電話洽詢"},
 {"lng":"120.3023","lat":"23.57082","name":"家庭藥局","id":"5939060255","tel":"057826739","addr":"雲林縣北港鎮文化路101號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩劑販售時間:早上10:30"},
 {"lng":"120.3028","lat":"23.57434","name":"益安大藥局","id":"5939060317","tel":"057730779","addr":"雲林縣北港鎮華勝里公園路18之2號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"篩劑...每天早上8:00開始販售..賣完為止"},
