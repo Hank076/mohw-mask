@@ -162,6 +162,7 @@ locations = [
 {"lng":"121.528069","lat":"25.02109","name":"博昱師大藥局","id":"5901024516","tel":"0223696966","addr":"臺北市大安區羅斯福路3段189號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售時間為下午14:00"},
 {"lng":"121.5541","lat":"25.03654","name":"國泰維康藥局","id":"5901024525","tel":"0227542185","addr":"臺北市大安區仁愛路4段266巷15弄20號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"星期一到星期日下午3點到5點販賣實名制快篩（不發號碼牌）"},
 {"lng":"121.5312","lat":"25.02338","name":"奇威藥局","id":"5901024543","tel":"0223651110","addr":"臺北市大安區雲和街93號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"121.5452","lat":"25.02514","name":"百岳藥局","id":"5901024669","tel":"0227551037","addr":"臺北市大安區和平東路2段311巷11號","business_week":"OOOOOOXXXXXXXXOOOOOXX","memo":"快篩試劑販售時間:周一至周五10:30~12:00止"},
 {"lng":"121.5529","lat":"25.01998","name":"博昱大藥局","id":"5901024687","tel":"0223776199","addr":"臺北市大安區樂業街148號、150號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩發放時間為周一至周六09-12&18-21"},
 {"lng":"121.5511","lat":"25.01834","name":"仁華藥局","id":"5901024696","tel":"0227336762","addr":"臺北市大安區臥龍街155號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩實名制 :上午09:00開始，不發號碼牌"},
 {"lng":"121.544","lat":"25.02832","name":"麗泰藥局","id":"5901024721","tel":"0227079595","addr":"臺北市大安區復興南路2段151巷4號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天到貨時間不定，到貨後即公告開賣"},
