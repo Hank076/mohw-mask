@@ -635,7 +635,7 @@ locations = [
 {"lng":"120.3023","lat":"22.67845","name":"威林藥局","id":"5902032432","tel":"073414243","addr":"高雄市左營區華夏路721號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"販售快篩:星期一~六早上9:00，（售完為止）"},
 {"lng":"120.2897","lat":"22.67229","name":"健怡藥局","id":"5902032441","tel":"075821891","addr":"高雄市左營區翠峰路40號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"快篩實名制週一~週六早上8:10開始販賣"},
 {"lng":"120.309029","lat":"22.659542","name":"必健藥局","id":"5902032487","tel":"075584259","addr":"高雄市左營區自由二路90號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩 AM 9:00 開始販售."},
-{"lng":"120.2869","lat":"22.6703","name":"杏光藥局","id":"5902032530","tel":"075837060","addr":"高雄市左營區果峰街47巷1號1樓","business_week":"XXXXXXXOOOOOOXOOOOOOX","memo":"營業時間:上午 9 :00~13:00 ／ 晚上 17:00~21:00"},
+{"lng":"120.2869","lat":"22.6703","name":"杏光藥局","id":"5902032530","tel":"075837060","addr":"高雄市左營區果峰街47巷1號1樓","business_week":"OOOOOOXXXXXXXXOOOOOOX","memo":"營業時間:上午 9 :00~13:00 ／ 晚上 17:00~21:00"},
 {"lng":"120.306759","lat":"22.659096","name":"健智美藥局","id":"5902032647","tel":"075580888","addr":"高雄市左營區富國路98號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上08:40開賣，自備零錢，售完止。"},
 {"lng":"120.305351","lat":"22.660672","name":"辰暘藥局","id":"5902032674","tel":"075588545","addr":"高雄市左營區富民路120號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.3301","lat":"22.72966","name":"成吉藥局","id":"5902040014","tel":"073513339","addr":"高雄市楠梓區楠梓東街74號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"6／1起營業時間開始販賣實名制快篩，售完為止!!!星期日店休"},
