@@ -555,7 +555,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.434228","lat":"23.708949","name":"偉哲內小兒科診所","id":"3539030640","tel":"056323409;05","addr":"雲林縣虎尾鎮中山里仁愛路67號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.433819","lat":"23.709848","name":"太安診所","id":"3539030659","tel":"056326650","addr":"雲林縣虎尾鎮公安路178-18號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.436387","lat":"23.712202","name":"虎尾台全診所","id":"3539032331","tel":"056366111","addr":"雲林縣虎尾鎮林森路一段346號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
-{"lng":"120.460577","lat":"23.798473","name":"茂杉診所","id":"3539040146","tel":"055862213","addr":"雲林縣西螺鎮正興里福興路141號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"每天晚上9:00前提供急診服務（周日除外）"},
+{"lng":"120.460577","lat":"23.798473","name":"茂杉診所","id":"3539040146","tel":"055862213","addr":"雲林縣西螺鎮正興里福興路141號","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"每天晚上9:00前提供急診服務（周日除外）"},
 {"lng":"120.459365","lat":"23.797663","name":"長榮診所","id":"3539040217","tel":"055876222","addr":"雲林縣西螺鎮建興路148號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.302993","lat":"23.573502","name":"德豐診所","id":"3539061878","tel":"057835909","addr":"雲林縣北港鎮公園路12號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"農曆除夕看診至17:00，農曆初一休診"},
 {"lng":"120.252374","lat":"23.74704","name":"台全診所","id":"3539131811","tel":"056930099","addr":"雲林縣麥寮鄉新興路16號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"65歲以上減免掛號費，本診所提供視訊診療，Line ID:@343zpzgw"},
