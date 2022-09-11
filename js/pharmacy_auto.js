@@ -1051,6 +1051,7 @@ locations = [
 {"lng":"120.6941","lat":"24.16607","name":"好心情藥局","id":"5903291202","tel":"0422335663","addr":"臺中市北屯區昌平路一段17之3號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"營業時間皆有販售， .另有唾液快篩販售，血氧機到貨"},
 {"lng":"120.7131","lat":"24.18216","name":"愛樂芬兒童藥局","id":"5903291211","tel":"0424363660","addr":"臺中市北屯區松竹路一段929號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"每日上午9時開始販售"},
 {"lng":"","lat":"","name":"佑全台中四平藥局","id":"5903291220","tel":"0424212792","addr":"臺中市北屯區四平路360號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.686","lat":"24.1765","name":"潔西卡大藥局","id":"5903291248","tel":"0422416879","addr":"臺中市北屯區崇德路二段314號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.720584","lat":"24.170176","name":"新一代何藥局","id":"5903291257","tel":"0424364366","addr":"臺中市北屯區環中東路二段266、268號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販賣時間:早上九點開始至晚間十一點止。  （包含0~6歲領用快篩）"},
 {"lng":"120.6941","lat":"24.17221","name":"佑全台中興安藥局","id":"5903291266","tel":"0422490355","addr":"臺中市北屯區興安路一段253號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.7229","lat":"24.17591","name":"康是美藥局東山店","id":"5903291275","tel":"0424364571","addr":"臺中市北屯區東山路一段320號1樓、和福路258號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
