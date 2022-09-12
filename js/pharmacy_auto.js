@@ -1350,6 +1350,7 @@ locations = [
 {"lng":"120.322","lat":"22.65771","name":"聖一健保藥局","id":"5907320375","tel":"073959300","addr":"高雄市三民區鼎山街363號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.3173","lat":"22.6478","name":"東京藥局","id":"5907320428","tel":"073874567","addr":"高雄市三民區建工路685號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售時間: 每日10:00-晚上20:00"},
 {"lng":"120.325311","lat":"22.669284","name":"金鼎大藥局","id":"5907320437","tel":"073473271","addr":"高雄市三民區鼎力路376及378號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"販售時間依到貨時間決定"},
+{"lng":"120.3181","lat":"22.64621","name":"建元健保藥局","id":"5907320464","tel":"073927865","addr":"高雄市三民區興昌街83巷9號","business_week":"OOOOOXXOOOOOXXOOOOOXX"},
 {"lng":"120.3228","lat":"22.64934","name":"康誠藥局","id":"5907320535","tel":"073893889","addr":"高雄市三民區建工路616號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"星期一~星期日早上09：30~11：50。星期一~星期六下午15：30~17：50、晚上19：30~21：20"},
 {"lng":"120.2923","lat":"22.64601","name":"丸之內藥局","id":"5907320580","tel":"073156688","addr":"高雄市三民區十全二路321、323號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.3331","lat":"22.64371","name":"勁康健保藥局","id":"5907320633","tel":"073966716","addr":"高雄市三民區義華路402號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"如為當日配量快篩實名制配貨到即可販售，若前一日就到貨，則早上10點開始"},
