@@ -12,6 +12,7 @@ locations = [
 {"lng":"121.2023","lat":"24.70562","name":"新竹縣尖石鄉衛生所","id":"2333130011","tel":"035842356","addr":"新竹縣尖石鄉嘉樂村2鄰61號","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"9／9-9／11中秋節連假無門診。無急診"},
 {"lng":"121.1194","lat":"24.63184","name":"新竹縣五峰鄉衛生所","id":"2333140017","tel":"035851005","addr":"新竹縣五峰鄉大隘村六鄰99號","business_week":"OOOOOOOOOOOOOOXXXXOOO"},
 {"lng":"120.999979","lat":"24.597334","name":"苗栗縣南庄鄉衛生所","id":"2335110017","tel":"037822024","addr":"苗栗縣南庄鄉東村大同路17號","business_week":"OOXOOXXOOXOOXXXXXXXXX","memo":"快篩試劑販賣時段:週一至週五上午8:00~下午5:00"},
+{"lng":"120.7577","lat":"24.5578","name":"苗栗縣西湖鄉衛生所","id":"2335140015","tel":"037921211","addr":"苗栗縣西湖鄉龍洞村1鄰16號","business_week":"OXOXOXXXXXXXXXXXXXXXX","memo":"本所已無販售口罩"},
 {"lng":"120.8643","lat":"24.63672","name":"苗栗縣造橋鄉衛生所","id":"2335150011","tel":"037542755","addr":"苗栗縣造橋鄉造橋村14鄰8-2號","business_week":"OXXOXXXXXXXXXXXXXXXXX","memo":"實名制快篩試劑販賣時段：周一至周五08:20-12:00；週六、日及國定假日無販售。"},
 {"lng":"120.9566","lat":"24.65284","name":"苗栗縣三灣鄉衛生所","id":"2335160017","tel":"037831140","addr":"苗栗縣三灣鄉三灣村親民路17號","business_week":"XOOXOXXXXXXXXXXXXXXXX","memo":"快篩試劑販售時間：星期一至星期五08：30~15：30；星期六日及國定假日無販售"},
 {"lng":"120.9201","lat":"24.53961","name":"苗栗縣獅潭鄉衛生所","id":"2335170013","tel":"037931309","addr":"苗栗縣獅潭鄉新店村130之6號","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"無"},
