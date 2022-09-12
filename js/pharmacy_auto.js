@@ -227,6 +227,7 @@ locations = [
 {"lng":"121.5346","lat":"25.06457","name":"康銓藥局","id":"5901103576","tel":"0225039393","addr":"臺北市中山區農安街174號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上9點販售。"},
 {"lng":"121.5409","lat":"25.06532","name":"禾全藥局","id":"5901103585","tel":"0225165721","addr":"臺北市中山區龍江路332號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩發放時間：1400、19:00  ；現場排隊"},
 {"lng":"121.5256","lat":"25.05588","name":"十二願藥局","id":"5901103629","tel":"0225311223","addr":"臺北市中山區林森北路309號","business_week":"XXXXXXXOOOOOOOOOOOOOO","memo":"快篩晚上8點開始發放.營業時間下午1點至凌晨3點"},
+{"lng":"121.5612","lat":"25.08125","name":"禾康藥局","id":"5901103647","tel":"0226562156","addr":"臺北市中山區植福路296號(實際營業地址:1層)","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"國定假日不執行調劑業務"},
 {"lng":"121.5406","lat":"25.05889","name":"大樹龍江藥局","id":"5901103656","tel":"0225035666","addr":"臺北市中山區龍江路242號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"121.530356","lat":"25.059704","name":"安悅藥局","id":"5901103665","tel":"0225419879","addr":"臺北市中山區吉林路189號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售時間:早上11點~售完為止，不發號碼牌僅現場排隊（每周日不販售）"},
 {"lng":"121.5488","lat":"25.08253","name":"康廷藥局","id":"5901103674","tel":"0225335890","addr":"臺北市中山區北安路611號(實際營業地址:1層)","business_week":"XOXXXOOOOOOOOOOOOOOXO"},
