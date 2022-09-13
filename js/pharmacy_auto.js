@@ -2781,6 +2781,7 @@ locations = [
 {"lng":"121.2233","lat":"24.95944","name":"千和藥局","id":"5932024199","tel":"034518884","addr":"桃園市中壢區中美路1段49號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.2291","lat":"24.96265","name":"杏一中壢天晟藥局","id":"5932024206","tel":"034554517","addr":"桃園市中壢區延平路173號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"例假日營業時間09:00-22:00"},
 {"lng":"121.2502","lat":"24.9284","name":"幸運星藥師藥局","id":"5932024215","tel":"034563356","addr":"桃園市中壢區龍東路44號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"0-6歲兒童&快篩實名制08:30開始依量販售，售完為止"},
+{"lng":"121.2455","lat":"24.94672","name":"樂心藥局","id":"5932024242","tel":"034655667","addr":"桃園市中壢區中山東路2段536號1樓","business_week":"OOOOOOOOOOOOOOOOOOOXX"},
 {"lng":"121.2404","lat":"24.95171","name":"中壢環東藥局","id":"5932024279","tel":"034562345","addr":"桃園市中壢區中山東路2段193號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"121.241063","lat":"24.953375","name":"新資生弘揚大藥局","id":"5932024297","tel":"033606180","addr":"桃園市中壢區弘揚路64號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.263","lat":"24.96665","name":"鈞康藥局","id":"5932024304","tel":"032850505","addr":"桃園市中壢區興仁路2段91號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
