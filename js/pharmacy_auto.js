@@ -777,6 +777,7 @@ locations = [
 {"lng":"120.7063","lat":"24.31155","name":"后里瑞士藥師藥局","id":"5903070089","tel":"0425566999","addr":"臺中市后里區甲后路二段579號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.7164","lat":"24.30682","name":"后里藥局","id":"5903070105","tel":"0425590119","addr":"臺中市后里區文明路133號1樓","business_week":"OOOOOOOOOOOOXXOOOOOOX"},
 {"lng":"120.711292","lat":"24.304459","name":"內埔瑞士藥師藥局","id":"5903070132","tel":"0425566959","addr":"臺中市后里區中山路37號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"發放口罩以藥局店內公告為主"},
+{"lng":"120.727","lat":"24.30906","name":"甲后藥局","id":"5903070141","tel":"0425585273","addr":"臺中市后里區甲后路一段253號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.7193","lat":"24.30951","name":"佑全后里甲后藥局","id":"5903070169","tel":"0425583116","addr":"臺中市后里區甲后路一段728號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩只收現金無法刷卡。"},
 {"lng":"120.6974","lat":"24.25352","name":"捷達藥局","id":"5903080030","tel":"0425225207","addr":"臺中市神岡區大漢街25號","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"周一到周六上午8:00開始販售，售完為止。"},
 {"lng":"120.704505","lat":"24.261794","name":"灃洲大藥局","id":"5903080094","tel":"0425150169","addr":"臺中市神岡區豐洲路466-3號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期日公休"},
