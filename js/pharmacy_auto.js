@@ -2908,6 +2908,7 @@ locations = [
 {"lng":"121.2112","lat":"24.89777","name":"北區藥師藥局","id":"5932100381","tel":"034693629","addr":"桃園市平鎮區中豐路山頂段297號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩配送時間不穩定 若能10:00前送達 預計早上10:00開賣"},
 {"lng":"121.207154","lat":"24.951364","name":"現代藥局","id":"5932100390","tel":"034922716","addr":"桃園市平鎮區育達路96、98號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上八點購買"},
 {"lng":"121.2065","lat":"24.91457","name":"安心藥局","id":"5932100603","tel":"034398799","addr":"桃園市平鎮區上海路188號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"121.2228","lat":"24.94162","name":"名康藥局","id":"5932100612","tel":"034577559","addr":"桃園市平鎮區金陵路二段72號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"（若政府有配送快篩） 下午兩點開始販售，一人一卡，自備500元．（無發號碼牌）"},
 {"lng":"121.2108","lat":"24.89805","name":"閤家康聯合藥局","id":"5932100685","tel":"034194550","addr":"桃園市平鎮區中豐路山頂段256號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販賣時段:15:00"},
 {"lng":"121.2483","lat":"24.92307","name":"龍南藥局","id":"5932100774","tel":"034609196","addr":"桃園市平鎮區龍南路200號1樓","business_week":"OOOOOOXOXOXOXXOXOOXXX","memo":"快篩試劑販賣時段:上午9:00（售完為止）"},
 {"lng":"121.2048","lat":"24.95706","name":"福澤民族藥局","id":"5932100809","tel":"034014747","addr":"桃園市平鎮區民族路二段139號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"家用快篩販賣時段15:30至售完為止"},
