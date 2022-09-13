@@ -2364,6 +2364,7 @@ locations = [
 {"lng":"121.421303","lat":"24.989283","name":"樹林大樹藥局","id":"5931072431","tel":"0226815488","addr":"新北市樹林區育英街54號1-2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"121.4208","lat":"24.9819","name":"樹林丁丁藥局","id":"5931072468","tel":"0286851518","addr":"新北市樹林區中華路174號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"中秋節當天到18:00"},
 {"lng":"121.4228","lat":"24.99211","name":"鄰康藥局","id":"5931072495","tel":"0226855472","addr":"新北市樹林區日新街39號1樓","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"實名快篩下午2點開始販售"},
+{"lng":"121.4221","lat":"24.99391","name":"世淇健保藥局","id":"5931072520","tel":"0226842255","addr":"新北市樹林區復興路50號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"09:00-22:00"},
 {"lng":"121.4197","lat":"24.97853","name":"樂澄藥局","id":"5931072539","tel":"0286860093","addr":"新北市樹林區國凱街32-3號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩.0-6y免費.65歲以上免費快篩"},
 {"lng":"121.4227","lat":"24.99003","name":"永賀藥局","id":"5931072575","tel":"0226815801","addr":"新北市樹林區中山路1段127號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.3941","lat":"24.97095","name":"佳園藥局","id":"5931072584","tel":"0226685056","addr":"新北市樹林區佳園路1段41巷20號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
