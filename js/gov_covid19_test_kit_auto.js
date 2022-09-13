@@ -246,7 +246,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.178932","lat":"22.993589","name":"吳國堯小兒科診所","id":"3521071520","tel":"062933358","addr":"臺南市安平區文平路438號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.45003","lat":"23.480219","name":"蔡耳鼻喉科診所","id":"3522010254","tel":"052222602","addr":"嘉義市東區中山路270號","business_week":"OOOOOOOOOOOOOXOOOOOOO"},
 {"lng":"120.45134","lat":"23.480499","name":"葉弘貴小兒科診所","id":"3522011028","tel":"052253863","addr":"嘉義市東區中山路253號","business_week":"XXXXXXOXXXXXXOXXOXXOO","memo":"9／10星期六中秋節早上有門診 下午晚上休診"},
-{"lng":"120.45746","lat":"23.4743","name":"許小兒科診所","id":"3522013086","tel":"052280858","addr":"嘉義市東區垂楊路139號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"視訊診療 LINE ID: @351rlems 111.09.09（五）下午休診  09.10（六）中秋節休診"},
+{"lng":"120.45746","lat":"23.4743","name":"許小兒科診所","id":"3522013086","tel":"052280858","addr":"嘉義市東區垂楊路139號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"本院提供視訊診療 LINE ID: @351rlems  國定假日休診"},
 {"lng":"120.45338","lat":"23.47701","name":"林育興耳鼻喉科診所","id":"3522013399","tel":"052288568","addr":"嘉義市東區吳鳳北路133號","business_week":"OOOOOOXOOXXOOXOOXOOXO","memo":"6月3日（五）正常看診、6月4日（六）正常看診、6月5日（日）正常看診"},
 {"lng":"120.45362","lat":"23.47728","name":"大心診所","id":"3522013586","tel":"052279237","addr":"嘉義市東區吳鳳北路116號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"9月9日（五）早上及下午正常看診、9月10日（六）早上正常看診，9月11日（日）全日休診。"},
 {"lng":"120.434929","lat":"23.48751","name":"陳明煌診所","id":"3522021364","tel":"052337036","addr":"嘉義市西區北興街442號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"9／9整天門診，9／10早上門診，下午，晚上休息， 9／11全天休息"},
