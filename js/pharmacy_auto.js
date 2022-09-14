@@ -2436,6 +2436,7 @@ locations = [
 {"lng":"121.4619","lat":"25.12951","name":"憲立藥局","id":"5931102309","tel":"0228092212","addr":"新北市淡水區自強路295號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"快篩星期一至六 早上09:30發放號碼牌 現場等待領取"},
 {"lng":"121.4456","lat":"25.17008","name":"淡大郭藥局","id":"5931102336","tel":"0226229966","addr":"新北市淡水區英專路32號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4479","lat":"25.16929","name":"天康大藥局","id":"5931102354","tel":"0226206523","addr":"新北市淡水區學府路49號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.461186","lat":"25.136227","name":"日揚藥局","id":"5931102372","tel":"0226242059","addr":"新北市淡水區民族路30巷5號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩下午一點現場販售，售完為止。"},
 {"lng":"121.4388","lat":"25.19728","name":"日森人文藥局淡海店","id":"5931102425","tel":"0226221313","addr":"新北市淡水區新市五路3段386號1樓","business_week":"XXXXXOXOOOOOXXOOOOOOX"},
 {"lng":"121.4471","lat":"25.18403","name":"西雅圖聯合藥局","id":"5931102434","tel":"0226200910","addr":"新北市淡水區新市一路3段101巷16弄20號1樓","business_week":"XXXXXOXOOOOOOOOOOOOXX"},
 {"lng":"121.4414","lat":"25.17107","name":"淡水藥局","id":"5931102461","tel":"0286313663","addr":"新北市淡水區中山路127號(1、2樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
