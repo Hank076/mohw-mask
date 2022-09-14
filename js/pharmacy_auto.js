@@ -1907,7 +1907,7 @@ locations = [
 {"lng":"120.4435","lat":"23.47554","name":"大正藥局","id":"5922020661","tel":"052285812","addr":"嘉義市西區書院里民族路702號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上8:00開始販售~售完為止 !"},
 {"lng":"120.4373","lat":"23.46793","name":"興嘉藥局","id":"5922020670","tel":"052841812","addr":"嘉義市西區興業西路370號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"固定週一至週日8:15開放領取口罩，至售完為止"},
 {"lng":"120.427404","lat":"23.472208","name":"齊悅藥局","id":"5922020689","tel":"052843514","addr":"嘉義市西區西平里玉山路145號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期一至星期六，星期日休息，早上九點開賣售完為止"},
-{"lng":"120.4302","lat":"23.46519","name":"安麗藥師藥局","id":"5922020769","tel":"052352395","addr":"嘉義市西區車店里廣州街206號","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"中秋假期連休三天。快篩販售時間上午9點~下午5點，午休到1點半。六、日休息。"},
+{"lng":"120.4302","lat":"23.46519","name":"安麗藥師藥局","id":"5922020769","tel":"052352395","addr":"嘉義市西區車店里廣州街206號","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"快篩販售時間上午9點~下午5點，午休到1點半。六、日休息。"},
 {"lng":"120.4469","lat":"23.48185","name":"佑安藥局","id":"5922020796","tel":"052278298","addr":"嘉義市西區民權路423號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩上午九點開始販售"},
 {"lng":"120.44263","lat":"23.47052","name":"明興藥局","id":"5922020821","tel":"052365938","addr":"嘉義市西區仁愛路247號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"快篩 周一至周六下午2點開賣  週日無"},
 {"lng":"120.4421","lat":"23.48389","name":"大統藥局","id":"5922020858","tel":"052330230","addr":"嘉義市西區慶安里北興街136號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩實名制每日上午8點開始販售"},
