@@ -2778,6 +2778,7 @@ locations = [
 {"lng":"121.2325","lat":"24.968","name":"新家福藥局","id":"5932022355","tel":"034621658","addr":"桃園市中壢區福州二街419號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售時間: 15:30開始至售完為止"},
 {"lng":"121.2163","lat":"24.95532","name":"中壢中正藥局","id":"5932022631","tel":"034014100","addr":"桃園市中壢區中正路363、365號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"121.2281","lat":"24.94748","name":"博士藥師藥局","id":"5932022640","tel":"034280557","addr":"桃園市中壢區健行路220號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"營業時間:8:00-12:00； 14:30-21:30"},
+{"lng":"121.2573","lat":"24.96796","name":"佳敬藥局","id":"5932022766","tel":"032713595","addr":"桃園市中壢區莊敬路160號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"121.247932","lat":"24.97409","name":"得群藥局","id":"5932022971","tel":"034535953","addr":"桃園市中壢區自強六路42號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑販售時間為營業時間內皆可"},
 {"lng":"121.2108","lat":"24.95947","name":"美佑康活力藥局","id":"5932022980","tel":"032810018","addr":"桃園市中壢區五福里中正路627號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.2625","lat":"24.95597","name":"鴻安中西藥局","id":"5932023012","tel":"034520615","addr":"桃園市中壢區新中北路二段191號1樓","business_week":"OOOOOOOXXXXXXXXXXXXXX","memo":"快篩1030開始。週一到周日都有。"},
