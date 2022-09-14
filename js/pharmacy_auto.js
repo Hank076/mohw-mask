@@ -2695,6 +2695,7 @@ locations = [
 {"lng":"121.2782","lat":"24.99294","name":"欣立藥局","id":"5932013409","tel":"033792001","addr":"桃園市桃園區龍安街181-1號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩代售時間：藥局營業時間銷售。中秋節9月10日晚上休息︿︿"},
 {"lng":"121.307584","lat":"24.983947","name":"和康藥局","id":"5932013436","tel":"033672399","addr":"桃園市桃園區三民路三段569號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOO","memo":"9／3.10休."},
 {"lng":"121.303795","lat":"25.005963","name":"新華興藥局","id":"5932013605","tel":"033267777","addr":"桃園市桃園區中正路665號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩早上週一~週六09；00，週日下午1點"},
+{"lng":"121.3118","lat":"24.98294","name":"桃元松藥局","id":"5932013614","tel":"033611066","addr":"桃園市桃園區建華三街42號","business_week":"OOOOOXXOOOOOXXOOOOOXX"},
 {"lng":"121.307648","lat":"24.992623","name":"金安藥局","id":"5932013650","tel":"033398088","addr":"桃園市桃園區南華街148號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.3096","lat":"25.01561","name":"桃園春日藥局","id":"5932013687","tel":"033580101","addr":"桃園市桃園區春日路878號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"121.3049","lat":"25.0041","name":"桃園民光藥局","id":"5932013721","tel":"033364888","addr":"桃園市桃園區中正路569號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
