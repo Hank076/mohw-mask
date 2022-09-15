@@ -2292,6 +2292,7 @@ locations = [
 {"lng":"121.4555","lat":"25.0455","name":"禮安藥師藥局","id":"5931060824","tel":"0229942891","addr":"新北市新莊區自立街109號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4262","lat":"25.01296","name":"恩泰藥局","id":"5931067092","tel":"0222038680","addr":"新北市新莊區民安西路265號-1","business_week":"XOOOOOXXOOOOOXXOOOOOX"},
 {"lng":"121.4552","lat":"25.04131","name":"揚明藥師藥局","id":"5931067109","tel":"0229921473","addr":"新北市新莊區中港路154號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"實名制家用快篩試劑每日9:30開始販賣 星期日停售"},
+{"lng":"121.4518","lat":"25.05187","name":"蒲陽藥局","id":"5931067136","tel":"0229930069","addr":"新北市新莊區中港路514號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"121.4474","lat":"25.04878","name":"鍵豐藥局","id":"5931067216","tel":"0229917452","addr":"新北市新莊區中和街158號1樓","business_week":"OOOOOOXOOOOOOOOOOOOOO"},
 {"lng":"121.446232","lat":"25.033953","name":"豐年藥局","id":"5931067565","tel":"0222071182","addr":"新北市新莊區中正路377巷16號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.424248","lat":"25.021122","name":"蘋果藥局","id":"5931067985","tel":"0222053933","addr":"新北市新莊區八德街105號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑代售時間自10:00開始過卡販售.若排隊人數提前到達.則提前1小時開賣"},
