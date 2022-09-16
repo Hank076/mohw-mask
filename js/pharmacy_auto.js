@@ -2970,6 +2970,7 @@ locations = [
 {"lng":"121.2891","lat":"25.03989","name":"安祐大藥局","id":"5932053001","tel":"032229195","addr":"桃園市蘆竹區忠孝西路192號","business_week":"OOOOOOXOXXXOOXOOOOOXX","memo":"販賣時段：一~五 9:00-21:00 六 9:00-16:00"},
 {"lng":"121.2601","lat":"25.01896","name":"辰安藥局","id":"5932053010","tel":"033136631","addr":"桃園市蘆竹區上興路216號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上8點開始販售實名制快篩"},
 {"lng":"121.265199","lat":"25.019968","name":"桃園大竹藥局","id":"5932053047","tel":"033235959","addr":"桃園市蘆竹區大竹路365號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
+{"lng":"121.2876","lat":"25.04245","name":"民生藥局","id":"5932053065","tel":"033216784","addr":"桃園市蘆竹區南昌路45號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"快篩開賣時間:星期一到六:早上八點開始.直到賣完為止. 星期日沒有賣"},
 {"lng":"121.2888","lat":"25.03924","name":"健力藥局","id":"5932053083","tel":"032221918","addr":"桃園市蘆竹區奉化路136號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩下午三點開賣，週日停賣"},
 {"lng":"121.2862","lat":"25.08615","name":"敏新藥局","id":"5932053092","tel":"033248202","addr":"桃園市蘆竹區海山路14號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩現場排隊購買，早上8:00開始販售，售完為止。星期天無販售"},
 {"lng":"121.1982","lat":"25.06647","name":"銘方大藥局","id":"5932060088","tel":"033865077","addr":"桃園市大園區大園里中華路32號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩試劑販賣時段 : 早上 8:30 起至售完為止"},
