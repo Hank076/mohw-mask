@@ -1712,7 +1712,7 @@ locations = [
 {"lng":"120.6746","lat":"24.17138","name":"匯平藥局","id":"5917051010","tel":"0422975556","addr":"臺中市北區北平路二段82號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"上午8時開始排隊"},
 {"lng":"120.665517","lat":"24.160546","name":"育光中西藥局","id":"5917051056","tel":"0422037520","addr":"臺中市北區健行里梅亭街660號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"9點排隊開始開賣"},
 {"lng":"120.6758","lat":"24.1689","name":"格霖大藥局","id":"5917051449","tel":"0422925076","addr":"臺中市北區山西路二段70號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上10點-晚上9點"},
-{"lng":"120.6688","lat":"24.16696","name":"健業藥局","id":"5917053345","tel":"0422990258","addr":"臺中市北區漢口路3段91號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"固定周一至周六8:30販售快篩，售完為止"},
+{"lng":"120.6688","lat":"24.16696","name":"健業藥局","id":"5917053345","tel":"0422990258","addr":"臺中市北區漢口路3段91號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"負責藥師幫確診者送藥時暫停調劑口服抗病毒藥，若需領取時請先來電。周一至周六營業時間販售快篩，售完為止。"},
 {"lng":"120.6823","lat":"24.15372","name":"學士藥局","id":"5917053514","tel":"0422015008","addr":"臺中市北區學士路13號之1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"固定周一到周日早上9:00開始販賣快篩"},
 {"lng":"120.6658","lat":"24.15956","name":"嘉樂藥局","id":"5917053550","tel":"0423263967","addr":"臺中市北區西屯路一段351-7號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"星期一~五8.30~12.30，14.00~21.30，星期六8.30-12.30"},
 {"lng":"120.6778","lat":"24.15905","name":"博森藥局","id":"5917053649","tel":"0422068589","addr":"臺中市北區健行路493號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"防疫家用快篩固定在週一到週六，下午2:00到下午4:00，以現場排隊方式販售。"},
