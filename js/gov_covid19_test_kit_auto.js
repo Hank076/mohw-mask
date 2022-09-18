@@ -549,7 +549,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.683538","lat":"23.75718","name":"智瑤小兒科診所","id":"3538041443","tel":"0492652288","addr":"南投縣竹山鎮集山路三段879號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"上午0800-1200；下午1400-1730；晚上1800-2100，9月9、10日中秋節正常門診。"},
 {"lng":"120.856534","lat":"24.041278","name":"安鴻診所","id":"3538101382","tel":"0492722778","addr":"南投縣國姓鄉石門村中興路130號","business_week":"XXXXXXOXXXXXOOXXXOXOO","memo":"2月28下午休診，2月29全天休診"},
 {"lng":"120.854941","lat":"23.813642","name":"信望愛診所","id":"3538111566","tel":"0492770000","addr":"南投縣水里鄉民族路362號","business_week":"OOOOOOXOOXOOOXOOOOOXX","memo":"111／09／09上、下午、晚上照常門診 111／09／10上午、下午照常門診，111／10／10上、下午、晚上照常門診，"},
-{"lng":"120.854663","lat":"23.6962","name":"慶安診所","id":"3538121179","tel":"0492791850","addr":"南投縣信義鄉新開巷100號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"9／10（六）中秋節休診"},
+{"lng":"120.854663","lat":"23.6962","name":"慶安診所","id":"3538121179","tel":"0492791850","addr":"南投縣信義鄉新開巷100號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.538533","lat":"23.701644","name":"小幼苗小兒科診所","id":"3539012660","tel":"055362982","addr":"雲林縣斗六市中山路311號","business_week":"OOOOOOXOOOOOOXOOXOOXX","memo":"9／3（週六）下午，9／10（週六）中秋節整天休診"},
 {"lng":"120.476705","lat":"23.675246","name":"宏佑診所","id":"3539021570","tel":"055950456","addr":"雲林縣斗南鎮文元街86號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"120.478489","lat":"23.673196","name":"小熊小兒科診所","id":"3539021598","tel":"055966775","addr":"雲林縣斗南鎮南昌路140號","business_week":"OOOOOOOOOOOOOOOOOOOXO","memo":"3歲以下，65歲以上及特殊條件優待50元，福保及榮民免掛號費"},
