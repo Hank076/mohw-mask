@@ -2844,6 +2844,7 @@ locations = [
 {"lng":"121.3003","lat":"25.05242","name":"九德藥局","id":"5932050215","tel":"033116868","addr":"桃園市蘆竹區中山路69號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時段：中午12點"},
 {"lng":"121.2951","lat":"25.04645","name":"杏洋藥局","id":"5932050224","tel":"033112799","addr":"桃園市蘆竹區南崁路134號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩試劑販賣時段:0900-2200"},
 {"lng":"121.2924","lat":"25.04425","name":"恆安藥局","id":"5932051329","tel":"032120206","addr":"桃園市蘆竹區忠孝西路24號","business_week":"OOOOOXXOOOOOOOOOOOOOO"},
+{"lng":"121.2916","lat":"25.04879","name":"康而美聖安藥師藥局","id":"5932051472","tel":"033228753","addr":"桃園市蘆竹區南山路一段二之一號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上8:00開始販售快篩套組，售完為止。"},
 {"lng":"121.2913","lat":"25.05039","name":"英登藥局","id":"5932052004","tel":"032124606","addr":"桃園市蘆竹區南崁路三四四號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.297583","lat":"25.05671","name":"誠心藥局","id":"5932052013","tel":"032127369","addr":"桃園市蘆竹區中山路一四五號一樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.2885","lat":"25.03943","name":"誼康藥局","id":"5932052068","tel":"033129045","addr":"桃園市蘆竹區奉化路一二六號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"每日實名制快篩販售時間早上九點半開始"},
