@@ -271,6 +271,7 @@ locations = [
 {"lng":"121.5593","lat":"25.07952","name":"永育康暉藥局","id":"5901103754","tel":"0285012227","addr":"臺北市中山區樂群二路210之2號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"快篩試劑8:30開始販售，賣完為止"},
 {"lng":"121.5257","lat":"25.05943","name":"興耀生活藥局","id":"5901103772","tel":"0225818210","addr":"臺北市中山區林森北路405號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"國定假日仍執行調劑業務"},
 {"lng":"121.5408","lat":"25.05862","name":"龍江台安藥局","id":"5901103781","tel":"0225091007","addr":"臺北市中山區龍江路247號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩9:30開始可領取"},
+{"lng":"121.5257","lat":"25.05826","name":"可康藥局","id":"5901103790","tel":"0225361078","addr":"臺北市中山區林森北路373號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制晚上7點開始發放"},
 {"lng":"121.5409","lat":"25.06127","name":"專品龍江藥局","id":"5901103807","tel":"0225178870","addr":"臺北市中山區龍江路311號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"全時段可領取實名制快篩"},
 {"lng":"121.5899","lat":"25.08685","name":"泰成藥局","id":"5901110133","tel":"0227921231","addr":"臺北市內湖區內湖路3段135號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"口罩販售:上午9:00開始發號碼牌，9點同步販售."},
 {"lng":"121.6178","lat":"25.06976","name":"赫得藥局","id":"5901110268","tel":"0226328642","addr":"臺北市內湖區康樂街72巷17弄4號1F","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"每周日公休。快篩試劑於周一至周六，早上8:30開賣（賣完為止）。"},
