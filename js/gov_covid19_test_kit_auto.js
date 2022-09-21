@@ -401,7 +401,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.424919","lat":"25.04388","name":"蔡興龍小兒科診所","id":"3531160258","tel":"0222093645","addr":"新北市泰山區明志路二段422號","business_week":"OOOXOOOOOOXOOXOOOXOOO"},
 {"lng":"121.42944","lat":"25.053101","name":"賴和鴻診所","id":"3531160267","tel":"0229094502","addr":"新北市泰山區明志路二段42號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"國定假日上午門診(下午晚上休診)"},
 {"lng":"121.433508","lat":"25.062438","name":"楓江診所","id":"3531161531","tel":"0222969708","addr":"新北市泰山區楓江路8號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週日不定期看診，需事先電話聯絡"},
-{"lng":"121.429024","lat":"25.052689","name":"泰和診所","id":"3531161568","tel":"0285315320","addr":"新北市泰山區明志路2段62號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"111／09／10 僅上午看診 111／09／09正常門診"},
+{"lng":"121.429024","lat":"25.052689","name":"泰和診所","id":"3531161568","tel":"0285315320","addr":"新北市泰山區明志路2段62號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"111／10／08， 111／10／10 僅上午看診"},
 {"lng":"121.432211","lat":"25.060299","name":"弘森診所","id":"3531161666","tel":"0229090568","addr":"新北市泰山區明志路一段257號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早診：08:00~12:00；午診：14:30~18:00；晚診：18:30~21:30；中秋節休診"},
 {"lng":"121.432992","lat":"25.055254","name":"永旭診所","id":"3531161684","tel":"0222979722","addr":"新北市泰山區仁愛路88號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早診 8:00~12:00， 午診 15:00~18:00， 晚診 18:30~21:30"},
 {"lng":"121.433633","lat":"25.055579","name":"永安診所","id":"3531161773","tel":"0285318184","addr":"新北市泰山區仁愛路112-2號","business_week":"OOOOOOXOOOOOXXOXOOOXX"},
