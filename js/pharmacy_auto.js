@@ -2585,6 +2585,7 @@ locations = [
 {"lng":"121.8658","lat":"25.03728","name":"松南藥局","id":"5931250015","tel":"0224931085","addr":"新北市雙溪區中華路29號","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"實名制快篩上班時間隨到隨買"},
 {"lng":"121.866","lat":"25.03761","name":"信芳藥局","id":"5931250042","tel":"0224931301","addr":"新北市雙溪區中華路50號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"121.6373","lat":"25.22091","name":"仁又堂藥局","id":"5931270026","tel":"0224982468","addr":"新北市金山區信義路17號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.6382","lat":"25.22174","name":"金宏仁藥局","id":"5931270044","tel":"0224982402","addr":"新北市金山區中山路190巷2號","business_week":"OOOOOOOOOOOOXXXXXXXXX"},
 {"lng":"121.6399","lat":"25.21925","name":"躍獅五福藥局","id":"5931271103","tel":"0224081608","addr":"新北市金山區中山路99號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販售時段:早上八點至售完為止"},
 {"lng":"121.6837","lat":"25.18504","name":"萬里藥局","id":"5931280013","tel":"0224922235","addr":"新北市萬里區瑪鍊路90號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.6906","lat":"25.17868","name":"北海岸藥局","id":"5931281074","tel":"0224922022","addr":"新北市萬里區瑪鍊路98號","business_week":"OOOOOOXXXXXXXXOOOOOXX"},
