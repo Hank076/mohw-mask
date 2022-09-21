@@ -349,6 +349,7 @@ locations = [
 {"lng":"121.542","lat":"25.13749","name":"文祥藥局","id":"5901150253","tel":"0228623487","addr":"臺北市士林區光華路26巷2弄2號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"周一至周日早上8點30分開始售實名制快篩"},
 {"lng":"121.5296","lat":"25.10804","name":"建芳藥局","id":"5901150271","tel":"0228357172","addr":"臺北市士林區德行東路148號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.526","lat":"25.08898","name":"士林三安藥局","id":"5901150342","tel":"0228812631","addr":"臺北市士林區大南路11號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.5236","lat":"25.09549","name":"博惠藥局","id":"5901150397","tel":"0228320379","addr":"臺北市士林區華榮街16號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"實名制快篩 ，週一至週日"},
 {"lng":"121.5101","lat":"25.08251","name":"太安藥局","id":"5901150468","tel":"0228111468","addr":"臺北市士林區延平北路5段157號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5302","lat":"25.11219","name":"田倉藥局","id":"5901150548","tel":"0288662188","addr":"臺北市士林區士東路122號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日營業時間即販售，直到售完為止."},
 {"lng":"121.5267","lat":"25.11168","name":"日康藥局","id":"5901150575","tel":"0228358558","addr":"臺北市士林區士東路12號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
