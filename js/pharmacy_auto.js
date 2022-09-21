@@ -4099,6 +4099,7 @@ locations = [
 {"lng":"120.2893","lat":"22.80005","name":"欣康立健保藥局","id":"5942021753","tel":"076246299","addr":"高雄市岡山區公園北路31號1樓","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"上午8:00開始販售實名制快篩"},
 {"lng":"120.4818","lat":"22.88361","name":"天明藥局","id":"5942030092","tel":"076621311","addr":"高雄市旗山區大同路至誠巷15號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業日8:00~發號碼牌 8:30領至下午9:00為販賣口罩時間，售完為止8:00"},
 {"lng":"120.48","lat":"22.8854","name":"良安藥局","id":"5942030181","tel":"076617532","addr":"高雄市旗山區旗南一路53號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.465","lat":"22.83976","name":"吉本藥局","id":"5942030225","tel":"076663226","addr":"高雄市旗山區旗南里中洲路474-1號","business_week":"OOOOOOOOOOOOXXOOOOOXX","memo":"營業日0800~2200，14:00開始發號碼牌14:30起為配售口罩時間.售完為止；周六公休無配售口罩；"},
 {"lng":"120.4832","lat":"22.89004","name":"賽珠藥局","id":"5942030234","tel":"076616068","addr":"高雄市旗山區新山里延平一路496號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"政府實名制快篩，早上7:10開始販售。"},
 {"lng":"120.483803","lat":"22.88333","name":"錦昌藥局","id":"5942031357","tel":"076613129","addr":"高雄市旗山區大同街4號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.4833","lat":"22.88713","name":"辰安藥局","id":"5942031366","tel":"076623545","addr":"高雄市旗山區延平一路545號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"眾安藥局    每日09:00，為販賣快篩試劑時間，售完為止"},
