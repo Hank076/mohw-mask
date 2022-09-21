@@ -117,7 +117,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.290476","lat":"22.686184","name":"長安診所","id":"3502030616","tel":"075821864","addr":"高雄市左營區左營大路253號1樓","business_week":"OOOOOOXXXXXXXXOOOOOXX","memo":"8:30AM-12:30AM，     4:00PM-8:00PM"},
 {"lng":"120.308241","lat":"22.662472","name":"黃昭文診所","id":"3502030643","tel":"075592289","addr":"高雄市左營區自由二路255號","business_week":"OOOOXOXOOOOOXXOOOOOXX","memo":"2／26早開診2／27休診2／28早開診6／3早開診9／9早開診9／10及9／11休診.10／8早診、10／9休診、10／10早診"},
 {"lng":"120.307227","lat":"22.661249","name":"楊宜璋耳鼻喉科診所","id":"3502030723","tel":"075591007","addr":"高雄市左營區明誠二路362號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"9／9上午下午晚上開診，9／10上午下午開診"},
-{"lng":"120.286816","lat":"22.669658","name":"沈嘉充診所","id":"3502030750","tel":"075851778","addr":"高雄市左營區中華一路5號","business_week":"OOOOOOXOOOOOOXOOOOOOO","memo":"9／9早.午.晚開診.9／10晚開診.9／11晚開診"},
+{"lng":"120.286816","lat":"22.669658","name":"沈嘉充診所","id":"3502030750","tel":"075851778","addr":"高雄市左營區中華一路5號","business_week":"OOOOOOXOOOOOOXOOOOOOO","memo":"10／8早.午.晚開診.10／9晚開診.10／10晚開診"},
 {"lng":"120.30224","lat":"22.677824","name":"華夏診所","id":"3502032325","tel":"073453961","addr":"高雄市左營區華夏路708號1樓","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"2\/28上午門診.下午晚上休診.3\/1照常看診"},
 {"lng":"120.315601","lat":"22.685597","name":"福山診所","id":"3502033297","tel":"073482323","addr":"高雄市左營區重愛路218號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"中秋節 9月10日星期六 晚上休診"},
 {"lng":"120.307306","lat":"22.666858","name":"富誠診所","id":"3502033420","tel":"075560925","addr":"高雄市左營區富國路355號1樓","business_week":"OOOOOXOOOOOOXOOOOOOXO"},
