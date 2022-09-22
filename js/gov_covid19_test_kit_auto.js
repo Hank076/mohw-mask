@@ -109,7 +109,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.519082","lat":"25.025915","name":"健康101診所","id":"3501183850","tel":"0223648085","addr":"臺北市中正區牯嶺街97號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"9／9 上午門診"},
 {"lng":"121.521196","lat":"25.029108","name":"悅心診所","id":"3501184393","tel":"0223961008","addr":"臺北市中正區羅斯福路2段7之2號","business_week":"OOOOOOXXXXXXXXOOOOOXX","memo":"9／10休診，週六下午門診暫停"},
 {"lng":"121.491752","lat":"25.032268","name":"盧漢隆耳鼻喉科診所","id":"3501192144","tel":"0223361363","addr":"臺北市萬華區環河南路二段197號","business_week":"OOOOOXOXXXXXXXOOOOOXX"},
-{"lng":"121.494803","lat":"25.025229","name":"快樂兒童診所","id":"3501194424","tel":"0223328610","addr":"臺北市萬華區寶興街121號","business_week":"OOOOOOXOXXOXXXOOXOOXX","memo":"6／4早上看診.9／9早晚診.9／10至9／11整天休診.10／8早診.10／9至10／10休診"},
+{"lng":"121.494803","lat":"25.025229","name":"快樂兒童診所","id":"3501194424","tel":"0223328610","addr":"臺北市萬華區寶興街121號","business_week":"OOOOOOXOXXOXXXOOXOOXX","memo":"10／10周一國慶日休診一天"},
 {"lng":"121.552024","lat":"25.001629","name":"王令時內科診所","id":"3501202912","tel":"0229326912","addr":"臺北市文山區興隆路二段200號","business_week":"XOXXXOXXXXXXXXOOOOOXX","memo":"上午8:30~12:00;晚上17:00~21:00"},
 {"lng":"120.295186","lat":"22.664864","name":"家安診所","id":"3502020316","tel":"075541515","addr":"高雄市鼓山區裕誠路1515號","business_week":"OOOOOOXXXXXXXXOOOOOXX","memo":"9／9  AM 9-12， 9／10 AM 9-12 開診"},
 {"lng":"120.294996","lat":"22.66132","name":"謝加晉診所","id":"3502020423","tel":"075532526","addr":"高雄市鼓山區民利街1號1樓","business_week":"OOOOOOOXXXXXXXOOOOOOX","memo":"6／3早開診6／4早晚開診6／5早開診9／9早午晚開診9／10及9／11早開診.10／8早午晚診、10／9早診、10／10早午晚診"},
