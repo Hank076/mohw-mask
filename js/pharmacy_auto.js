@@ -490,6 +490,7 @@ locations = [
 {"lng":"121.577095","lat":"25.041118","name":"寶春藥局","id":"5901174011","tel":"0227566501","addr":"臺北市信義區虎林街119之19號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5691","lat":"25.02454","name":"日安藥局","id":"5901174039","tel":"0227203775","addr":"臺北市信義區松仁路240巷13號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"販售實名制快篩請自備五百元不找零，每天上午十點半開始販售。"},
 {"lng":"121.5627","lat":"25.02882","name":"愛維喜藥局","id":"5901174066","tel":"0227586989","addr":"臺北市信義區莊敬路278號1樓","business_week":"OOOOOOXOOOOOXXOOOOXXX","memo":"快篩前1日有餘.上班時間，隨到隨買."},
+{"lng":"121.5744","lat":"25.04538","name":"信義盛康藥局","id":"5901174075","tel":"0223460521","addr":"臺北市信義區永吉路286號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5688","lat":"25.0412","name":"市政藥局","id":"5901174084","tel":"0227560050","addr":"臺北市信義區忠孝東路5段169號1樓、171號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"121.5272","lat":"25.04162","name":"崇信藥局","id":"5901180037","tel":"0223417557","addr":"臺北市中正區齊東街88號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"上午8.30開始代售快篩 .售完為止."},
 {"lng":"121.5076","lat":"25.03026","name":"日生大藥局","id":"5901180055","tel":"0223031393","addr":"臺北市中正區汀州路1段53號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩試劑代售服務時間: 快篩試劑 每日上午10點起開賣 售完為止"},
