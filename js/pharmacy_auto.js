@@ -3978,6 +3978,7 @@ locations = [
 {"lng":"120.5505","lat":"23.52135","name":"德勝藥局","id":"5940141298","tel":"052611016","addr":"嘉義縣竹崎鄉中山路184號","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"快篩試劑，週一至週六07:30開賣至售罄。如有狀況，依現場公告為準。"},
 {"lng":"120.489767","lat":"23.512726","name":"東義藥局","id":"5940141305","tel":"052110957","addr":"嘉義縣竹崎鄉獅埜村東義20-18號","business_week":"OOOOOOOOOOOOXXXXXXXXX"},
 {"lng":"120.548097","lat":"23.520551","name":"竹崎啄木鳥藥師藥局","id":"5940141314","tel":"052617786","addr":"嘉義縣竹崎鄉竹崎村中華路92號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"09:00~售罄"},
+{"lng":"120.558841","lat":"23.583087","name":"科有藥局","id":"5940150073","tel":"052621106","addr":"嘉義縣梅山鄉北興街12號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"10:00~售罄"},
 {"lng":"120.556875","lat":"23.584164","name":"橙新藥局","id":"5940151141","tel":"052622277","addr":"嘉義縣梅山鄉中山路285號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩販賣時間為晚上八點半，領完為止。周日休息。"},
 {"lng":"120.537168","lat":"23.47262","name":"博勝藥局","id":"5940161030","tel":"052591127","addr":"嘉義縣番路鄉下坑村下坑53號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"固定周一至周日07:30開始營業"},
 {"lng":"120.3112","lat":"23.30327","name":"新崇安藥局新營店","id":"5941010096","tel":"066333302","addr":"臺南市新營區延平里復興路91號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
