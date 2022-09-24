@@ -592,7 +592,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.35029","lat":"22.641076","name":"陳柏蒼耳鼻喉科診所","id":"3542013984","tel":"077775388","addr":"高雄市鳳山區文衡路480號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"9／9週五 早午 晚 開診  9／10週六 早 午 開診"},
 {"lng":"120.350668","lat":"22.629114","name":"陳重志聯合診所","id":"3542014098","tel":"077427329","addr":"高雄市鳳山區光復路一段139號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"春節期間看診時段請電洽診所"},
 {"lng":"120.357277","lat":"22.628928","name":"新華田內科診所","id":"3542014392","tel":"077999128","addr":"高雄市鳳山區曹公路16之4號","business_week":"OOOOOOXOOOOOOXOXOXOXX","memo":"9／05看診 ，"},
-{"lng":"120.295132","lat":"22.797674","name":"黃耳鼻喉科診所","id":"3542020130","tel":"076230011","addr":"高雄市岡山區岡山路347-1號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"9／9全日開診.9／10下午休診.9／11全日休診"},
+{"lng":"120.295132","lat":"22.797674","name":"黃耳鼻喉科診所","id":"3542020130","tel":"076230011","addr":"高雄市岡山區岡山路347-1號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"10／8上午下午看診晚上休診.10／9全日休診.10／10上午門診下午晚上休診"},
 {"lng":"120.288569","lat":"22.794696","name":"黃子育診所","id":"3542020676","tel":"076270101","addr":"高雄市岡山區前峰路39號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"111.09.10.六（中秋節）下午.晚上.休診 其它時間皆正常."},
 {"lng":"120.298665","lat":"22.793821","name":"吳宗慶診所","id":"3542020738","tel":"076229828","addr":"高雄市岡山區中山北路47號","business_week":"OOOOOOOOOOOOOXOOOOOOO"},
 {"lng":"120.294884","lat":"22.790766","name":"黃仲達診所","id":"3542022303","tel":"076297895","addr":"高雄市岡山區柳橋東路9-2號","business_week":"OOOOOOOOXOXOXXOXOXOOO","memo":"9／10星期六晚上休診中秋節，其餘時段正常開診"},
