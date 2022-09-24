@@ -1855,6 +1855,7 @@ locations = [
 {"lng":"120.4618","lat":"23.48392","name":"松柏藥局","id":"5922010754","tel":"052780909","addr":"嘉義市東區東平里民權路87號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"防疫實名制快篩試劑於週一至週六的營業時間販售，售完為止。"},
 {"lng":"120.4529","lat":"23.4782","name":"源豪藥局","id":"5922011966","tel":"052169696","addr":"嘉義市東區光華路82號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"周一至周六，售鑿為止。周日休"},
 {"lng":"120.46764","lat":"23.47718","name":"聖心藥局","id":"5922012178","tel":"052777189","addr":"嘉義市東區大雅路二段577號","business_week":"OOOOOOXOOOOOOOOOOOOOO"},
+{"lng":"120.4506","lat":"23.48235","name":"聖安藥局","id":"5922012285","tel":"052222941","addr":"嘉義市東區仁武里民權路365號1樓","business_week":"OOOXOOOOOOXOOOOOOXOOO","memo":"每日8:30開始發放，每週四休息."},
 {"lng":"120.464","lat":"23.48889","name":"振安藥局","id":"5922012383","tel":"052756541","addr":"嘉義市東區王田里林森東路300號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩:周一至周日10:00開始販售，售完為止"},
 {"lng":"120.4663","lat":"23.47685","name":"維康藥局","id":"5922012392","tel":"052757663","addr":"嘉義市東區短竹里大雅路二段567號1樓","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"<領購快篩> 星期一  ~ 星期五 下午 2:00~5:00 。假日國定假日停售。"},
 {"lng":"120.45531","lat":"23.49526","name":"德和藥局","id":"5922012552","tel":"052789940","addr":"嘉義市東區新生路703號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOO","memo":"快篩試劑 星期1-6 早上8點開始販賣"},
