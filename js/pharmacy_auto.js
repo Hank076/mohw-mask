@@ -1764,6 +1764,7 @@ locations = [
 {"lng":"120.2008","lat":"22.99758","name":"春天藥局","id":"5921050174","tel":"062221562","addr":"臺南市中西區民族路2段274號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"上午10 :00開始，售完為止，周日停售。"},
 {"lng":"120.2045","lat":"22.99468","name":"吉仁大藥局","id":"5921050423","tel":"062263777","addr":"臺南市中西區白金里民權路2段86號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"周ㄧ到周六09:30~12:00，售完為止。"},
 {"lng":"120.2095","lat":"22.99747","name":"丞功藥局","id":"5921051582","tel":"062287641","addr":"臺南市中西區成功路31號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"星期一-六08:30-售完"},
+{"lng":"120.2","lat":"22.99013","name":"府前藥師藥局","id":"5921051608","tel":"062284411","addr":"臺南市中西區府前路一段270號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"口罩販售時間 :星期一-五14:30-16:30 星期六10:00-12:00"},
 {"lng":"120.2046","lat":"23.0272","name":"翰昌藥局","id":"5921060072","tel":"062596372","addr":"臺南市安南區溪東里北安路二段119號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.2189","lat":"23.06309","name":"守利藥局","id":"5921060116","tel":"063559347","addr":"臺南市安南區卅南里安和路4段616號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩實名制 星期一~六  9:00~售完"},
 {"lng":"120.1737","lat":"23.05","name":"仲宏藥局","id":"5921060161","tel":"062567798","addr":"臺南市安南區淵中里安中路3段431號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期一~星期六08:00-22:00 星期日:公休"},
