@@ -2563,6 +2563,7 @@ locations = [
 {"lng":"121.304","lat":"24.99839","name":"永明藥師藥局","id":"5932013034","tel":"033343606","addr":"桃園市桃園區永安路264號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩試劑，早上8點多開始依衛福部規範憑健保卡，一人一卡一份（5劑入），每份500元。售出後不退換。"},
 {"lng":"121.3116","lat":"24.99496","name":"仁悅藥師藥局","id":"5932013114","tel":"033361718","addr":"桃園市桃園區中山路60號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩販售時間  早上08:40 ； 星期日停售"},
 {"lng":"121.318447","lat":"24.984953","name":"桃康藥局","id":"5932013123","tel":"033641815","addr":"桃園市桃園區桃鶯路203號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.2702","lat":"24.97902","name":"龍城藥局","id":"5932013203","tel":"032170662","addr":"桃園市桃園區龍壽里龍城五街60號","business_week":"OXXXXOXOOXOOXXOOXOOXX","memo":"快篩試劑代售：營業時間內販售。週三、日休息。"},
 {"lng":"121.3176","lat":"24.99664","name":"合豐藥局","id":"5932013338","tel":"033394007","addr":"桃園市桃園區中山東路82號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販售時間：週一至週日"},
 {"lng":"121.317297","lat":"24.983712","name":"芳鄰藥局","id":"5932013374","tel":"033679498","addr":"桃園市桃園區昆明路39號","business_week":"OOOOOOOOOOOOOXOOOOOOO"},
 {"lng":"121.3079","lat":"24.99955","name":"桃園中正藥局","id":"5932013392","tel":"033381600","addr":"桃園市桃園區中正路373號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
