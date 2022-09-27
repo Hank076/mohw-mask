@@ -2905,6 +2905,7 @@ locations = [
 {"lng":"121.144932","lat":"24.913408","name":"資生楊梅大藥局","id":"5932043309","tel":"032889590","addr":"桃園市楊梅區楊新路100號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"每日快篩代售時間14:00-17:00"},
 {"lng":"121.179692","lat":"24.914883","name":"全球埔心大藥局","id":"5932043327","tel":"034824839","addr":"桃園市楊梅區永美路395號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間:9:00-22:00"},
 {"lng":"121.1458","lat":"24.91148","name":"楊梅藥局","id":"5932043336","tel":"034880776","addr":"桃園市楊梅區大成路148、150號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
+{"lng":"121.1851","lat":"24.91655","name":"家安藥局","id":"5932043345","tel":"034811626","addr":"桃園市楊梅區中興路132號","business_week":"OOOOOOXOOOXXXXOOXOXXX"},
 {"lng":"121.174","lat":"24.92149","name":"樂健烘焙藥局","id":"5932043363","tel":"034965428","addr":"桃園市楊梅區青山一街135號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.1851","lat":"24.91729","name":"京元藥局","id":"5932043372","tel":"034829624","addr":"桃園市楊梅區中興路105號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.1729","lat":"24.90958","name":"楊梅丁丁藥局","id":"5932043381","tel":"034815486","addr":"桃園市楊梅區中山北路2段227號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
