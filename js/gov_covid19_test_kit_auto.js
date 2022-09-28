@@ -420,7 +420,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.738684","lat":"25.024989","name":"瑞安診所","id":"3531241043","tel":"0224951083","addr":"新北市平溪區平溪街9號","business_week":"OOOOOOXOOOOOXXXXXXXXX"},
 {"lng":"121.690665","lat":"25.178557","name":"萬里診所","id":"3531280059","tel":"0224922022","addr":"新北市萬里區萬里里瑪鋉路98-1號","business_week":"OOOOOOXXXXXXXXOOOOOXX"},
 {"lng":"121.689323","lat":"25.177399","name":"享悅診所","id":"3531281172","tel":"0224928190","addr":"新北市萬里區瑪鋉路34號","business_week":"OOOOOXXOOOOOXXOOOOOXX"},
-{"lng":"121.294167","lat":"24.990919","name":"柯福順耳鼻喉科診所","id":"3532012804","tel":"032201122","addr":"桃園市桃園區中山路613號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"9／9全天開診；9／10早上及下午正常門診"},
+{"lng":"121.294167","lat":"24.990919","name":"柯福順耳鼻喉科診所","id":"3532012804","tel":"032201122","addr":"桃園市桃園區中山路613號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"10／08正常門診，10／09休診，10／10上午及下午正常門診"},
 {"lng":"121.304908","lat":"25.004038","name":"鴻林耳鼻喉科診所","id":"3532012966","tel":"033377088","addr":"桃園市桃園區中正路567號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.309381","lat":"25.014804","name":"楊文彬耳鼻喉科診所","id":"3532014273","tel":"033150628","addr":"桃園市桃園區春日路850號","business_week":"OOOOOOOXXXXXXXOOOOOXX","memo":"防疫期間， 平日下午診改為17:00-21:00  雙十連假僅上午看診"},
 {"lng":"121.30559","lat":"25.00353","name":"偉勝耳鼻喉科診所","id":"3532014308","tel":"033473858","addr":"桃園市桃園區中正路558號","business_week":"OOOOOOOOOOOOOOOOOOOXX"},
