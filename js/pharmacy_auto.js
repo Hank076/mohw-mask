@@ -241,6 +241,7 @@ locations = [
 {"lng":"121.5214","lat":"25.05143","name":"興康源藥局","id":"5901102677","tel":"0225311248","addr":"臺北市中山區中山北路1段140巷8號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5496","lat":"25.08263","name":"富宥康藥局","id":"5901102686","tel":"0225325277","addr":"臺北市中山區北安路608巷5弄22號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5426","lat":"25.04839","name":"正傑健保藥局","id":"5901102837","tel":"0227310181","addr":"臺北市中山區長安東路2段181號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"下午四點開始販售"},
+{"lng":"121.5216","lat":"25.06024","name":"錦西春天生活藥局","id":"5901102855","tel":"0225312658","addr":"臺北市中山區錦西街10號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩14:40領號碼牌 15:00開始販售"},
 {"lng":"121.5493","lat":"25.08191","name":"保德明水藥局","id":"5901102971","tel":"0285097769","addr":"臺北市中山區北安路608巷4弄1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"09:00-22:30 週一到週日 全年無休 都可購買或領取免費快篩"},
 {"lng":"121.5486","lat":"25.08194","name":"大直健康藥局","id":"5901103110","tel":"0225323310","addr":"臺北市中山區北安路591號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"販售時間:W1-W7:09:00-21:00"},
 {"lng":"121.5349","lat":"25.05305","name":"娸淇藥局","id":"5901103147","tel":"0225082762","addr":"臺北市中山區伊通街95號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"口罩販售時間2:30PM(六日無發口罩)4\/2-4\/5 清明休息"},
