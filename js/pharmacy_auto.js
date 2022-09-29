@@ -1157,7 +1157,7 @@ locations = [
 {"lng":"120.251894","lat":"23.030693","name":"昱賢藥師藥局中正店","id":"5905310344","tel":"062021535","addr":"臺南市永康區中正路141、143號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售時間：星期一~星期日12:00-17:00點"},
 {"lng":"120.246247","lat":"23.006438","name":"家嘉藥局","id":"5905310353","tel":"063121328","addr":"臺南市永康區復國一路206號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"緊急領藥請洽  https:／／lin.ee／u1aUvsy 0988116193"},
 {"lng":"120.2438","lat":"23.01671","name":"晉大藥局復國店","id":"5905310531","tel":"062025309","addr":"臺南市永康區復國一路582-1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩即日起早上10點起販售，不限卡片張數，不分單雙"},
-{"lng":"120.2315","lat":"23.0083","name":"裕安藥局","id":"5905310540","tel":"063133251","addr":"臺南市永康區中華二路385號","business_week":"OOOOOOOOOOOOXXOOOOOXO","memo":"9／10（六）中秋全日休診!"},
+{"lng":"120.2315","lat":"23.0083","name":"裕安藥局","id":"5905310540","tel":"063133251","addr":"臺南市永康區中華二路385號","business_week":"OOOOOOOOOOOOXXOOOOOXO","memo":"10／8（六）全日休診!"},
 {"lng":"120.2611","lat":"23.00076","name":"宜芯健康藥局","id":"5905310568","tel":"062722622","addr":"臺南市永康區大灣路736號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期一~星期六13:30過後"},
 {"lng":"120.2467","lat":"23.01241","name":"昂德藥局","id":"5905310657","tel":"063121220","addr":"臺南市永康區復華里復國一路152號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩 早上9點即開始購買 售完為止"},
 {"lng":"120.263266","lat":"23.012294","name":"永大啄木鳥藥局","id":"5905310817","tel":"062071575","addr":"臺南市永康區永大路二段397號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
