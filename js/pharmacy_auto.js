@@ -3083,6 +3083,7 @@ locations = [
 {"lng":"121.2096","lat":"24.95077","name":"樂興藥局","id":"5932101235","tel":"034923885","addr":"桃園市平鎮區義興街23號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"111／9／9 0800~1200，1430~1730   111／9／10  0800~1200"},
 {"lng":"","lat":"","name":"新大賀藥局","id":"5932101253","tel":"034927100","addr":"桃園市平鎮區新榮路259號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午兩點開始發號碼牌販售快篩"},
 {"lng":"121.214","lat":"24.94629","name":"晨安藥局","id":"5932108305","tel":"034925202","addr":"桃園市平鎮區振興西路99號","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"販售時段:早上8:00..... 22:00販賣"},
+{"lng":"121.2229","lat":"24.94747","name":"建德藥局","id":"5932108430","tel":"034686662","addr":"桃園市平鎮區北勢里金陵路103號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"販售時段:上午8:30 ，（周日休息）"},
 {"lng":"121.2218","lat":"24.9452","name":"大益藥局","id":"5932108529","tel":"034578962","addr":"桃園市平鎮區金陵路224號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"口罩販賣時段:早上8:30起至售完為止."},
 {"lng":"121.218","lat":"24.9317","name":"鼎祥藥局","id":"5932109857","tel":"034679124","addr":"桃園市平鎮區關爺北路四二號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"實名制快篩早上9:00開始販售"},
 {"lng":"121.2139","lat":"24.9538","name":"優達藥局","id":"5932109955","tel":"034943488","addr":"桃園市平鎮區廣明路六六號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩9點賣"},
