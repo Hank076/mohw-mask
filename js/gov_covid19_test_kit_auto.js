@@ -474,7 +474,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.994546","lat":"24.874811","name":"羅世績診所","id":"3533080226","tel":"035593399","addr":"新竹縣新豐鄉建興路一段154-10號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.99672","lat":"24.870322","name":"吳家仁小兒科診所","id":"3533080299","tel":"035575302","addr":"新竹縣新豐鄉新興路245號","business_week":"OOOOOOOOOOOOXOOOOOOXX"},
 {"lng":"121.75556","lat":"24.755669","name":"曹天德診所","id":"3534010522","tel":"039353267","addr":"宜蘭縣宜蘭市舊城東路3-1號","business_week":"OOOOOOXOOOXOXXOOOOOXX"},
-{"lng":"121.753591","lat":"24.761606","name":"林耳鼻喉科診所","id":"3534010657","tel":"039311234","addr":"宜蘭縣宜蘭市中山路三段233號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"中秋節9／9正常門診、9／10正常門診、9／11只看早上門診"},
+{"lng":"121.753591","lat":"24.761606","name":"林耳鼻喉科診所","id":"3534010657","tel":"039311234","addr":"宜蘭縣宜蘭市中山路三段233號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"國慶日10／8正常門診、10／9只看早上門診、10／10正常門診"},
 {"lng":"121.76879","lat":"24.673138","name":"藍正州小兒科診所","id":"3534021954","tel":"039531168","addr":"宜蘭縣羅東鎮南門路20號","business_week":"OOOOOOOOOOOOXOOOOOOXO"},
 {"lng":"121.763784","lat":"24.679748","name":"劉醫師小兒科診所","id":"3534022102","tel":"039518121","addr":"宜蘭縣羅東鎮純精路二段229號","business_week":"OOOOOOOOOOOOXXOOOOOXX","memo":"111／9／9，111／9／10，111／9／11上午開診"},
 {"lng":"121.86523","lat":"24.583103","name":"吳昌達診所","id":"3534031503","tel":"039955976","addr":"宜蘭縣蘇澳鎮海邊路141號","business_week":"OOOOOOXOOOOOXXXXXXXXX"},
