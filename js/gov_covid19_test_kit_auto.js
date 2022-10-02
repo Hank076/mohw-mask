@@ -270,7 +270,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.483384","lat":"25.066707","name":"吉田診所","id":"3531021461","tel":"0229845093","addr":"新北市三重區中正北路174-7號","business_week":"OOOOOOXOOXOOXXOOOOOXX"},
 {"lng":"121.479945","lat":"25.067608","name":"洪小兒科診所","id":"3531021649","tel":"0229823852","addr":"新北市三重區三民街243號","business_week":"OOOOXOXOOOOOOXOOOOOOX"},
 {"lng":"121.495125","lat":"25.061377","name":"德慈聯合診所","id":"3531022208","tel":"0229736693","addr":"新北市三重區重新路三段14號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"星期天晚上看診時段至20:00"},
-{"lng":"121.481264","lat":"25.08031","name":"九如聯合診所","id":"3531022226","tel":"0228575600","addr":"新北市三重區仁愛街753號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
+{"lng":"121.481264","lat":"25.08031","name":"九如聯合診所","id":"3531022226","tel":"0228575600","addr":"新北市三重區仁愛街753號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.48535","lat":"25.058675","name":"林永權耳鼻喉科診所","id":"3531022342","tel":"0229714526","addr":"新北市三重區三陽路32號","business_week":"OOOOOOXXXXXXXXOOOOOOX","memo":"111\/02\/28上午有看診，晚上休診"},
 {"lng":"121.495275","lat":"25.061648","name":"江村聯合診所","id":"3531022600","tel":"0229821515","addr":"新北市三重區重新路三段7號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.490084","lat":"25.058577","name":"至安診所","id":"3531022735","tel":"0229773835","addr":"新北市三重區重安街6號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"9\/13中秋節上午門診"},
