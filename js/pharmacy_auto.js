@@ -1157,6 +1157,7 @@ locations = [
 {"lng":"120.227377","lat":"22.967548","name":"杏一台南崇德藥局","id":"5905320564","tel":"062671939","addr":"臺南市東區崇德路674號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"健保快篩發送時間:周一至周日:下午:15:00"},
 {"lng":"120.2344","lat":"22.99818","name":"中華台安藥局","id":"5905320608","tel":"062092622","addr":"臺南市東區中華東路一段4號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"固定週一至周日13點-16點販售快篩，售完為止，現場為主"},
 {"lng":"120.2298","lat":"22.99522","name":"晉大藥局","id":"5905320635","tel":"062092580","addr":"臺南市東區東平路134號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制下午3點開始販售"},
+{"lng":"120.2288","lat":"22.97485","name":"崇善藥局","id":"5905320644","tel":"062896619","addr":"臺南市東區崇善路392號1樓","business_week":"OOOOOXXOOOOOXXOXOXOXX","memo":"星期一、三、五下午15:00~16:00；星期二、四下午15:00~18:00；9／3.9／9-9／11.9／24休息"},
 {"lng":"120.2291","lat":"22.98105","name":"東門台安藥局","id":"5905320653","tel":"062904377","addr":"臺南市東區中華東路三段2號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.2247","lat":"22.97262","name":"恆大藥局","id":"5905320699","tel":"062905586","addr":"臺南市東區崇明路590號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上九時開業，晚上九時結束營業"},
 {"lng":"120.224669","lat":"22.973111","name":"悅橙藥局","id":"5905320706","tel":"062605168","addr":"臺南市東區崇明路459號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩每日實際販售時間為上午9點起"},
