@@ -260,7 +260,7 @@ locations = [
 {"lng":"121.5248","lat":"25.06483","name":"農安藥局","id":"5901103423","tel":"0225959293","addr":"臺北市中山區農安街18之1號","business_week":"XXXXXXXOOOOOOOOOOOOOO"},
 {"lng":"121.5321","lat":"25.06039","name":"錦州春天生活藥局","id":"5901103487","tel":"0225213586","addr":"臺北市中山區錦州街213號、213號2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩15:00販賣"},
 {"lng":"121.5358","lat":"25.06477","name":"農安盛康藥局","id":"5901103530","tel":"0225038205","addr":"臺北市中山區農安街267號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
-{"lng":"121.5323","lat":"25.05495","name":"佳頤中西藥局","id":"5901103558","tel":"0225641479","addr":"臺北市中山區長春路147之1號","business_week":"OOOOOXXOOOOOOOOOOOOOO","memo":"實名制快篩販售時間為下午1點起，售完為止，其他販售細節以店內公告為主"},
+{"lng":"121.5323","lat":"25.05495","name":"佳頤中西藥局","id":"5901103558","tel":"0225641479","addr":"臺北市中山區長春路147之1號","business_week":"OOOOOXXOOOOOOOOOOOOOO"},
 {"lng":"121.5346","lat":"25.06457","name":"康銓藥局","id":"5901103576","tel":"0225039393","addr":"臺北市中山區農安街174號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上9點販售。"},
 {"lng":"121.5409","lat":"25.06532","name":"禾全藥局","id":"5901103585","tel":"0225165721","addr":"臺北市中山區龍江路332號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩發放時間：1400、19:00  ；現場排隊"},
 {"lng":"121.5256","lat":"25.05588","name":"十二願藥局","id":"5901103629","tel":"0225311223","addr":"臺北市中山區林森北路309號","business_week":"XXXXXXXOOOOOOOOOOOOOO","memo":"快篩晚上8點開始發放.營業時間下午1點至凌晨3點"},
