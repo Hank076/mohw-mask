@@ -3234,6 +3234,7 @@ locations = [
 {"lng":"121.768251","lat":"24.678911","name":"潤康社區健保藥局","id":"5934021883","tel":"039576271","addr":"宜蘭縣羅東鎮公正路167之2號1樓","business_week":"OOOOOOOOOOOOOXOXXXOXX","memo":"固定周一至周六上午8點，依排隊順序開始販賣快篩試劑，售完為止。"},
 {"lng":"121.7701","lat":"24.67258","name":"元氣藥局","id":"5934021927","tel":"039541075","addr":"宜蘭縣羅東鎮中正南路197之2號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"快篩試劑，每日7:40開賣，售完為止（星期日停售）"},
 {"lng":"121.7701","lat":"24.68102","name":"晨安藥局","id":"5934021972","tel":"039540633","addr":"宜蘭縣羅東鎮倉前路40號","business_week":"OOOOOOXOOOOOOOOOOOOXX","memo":"快篩 周一至周五 9點-12點 15點-21點 ；周六 9點-12點半"},
+{"lng":"121.7672","lat":"24.67253","name":"成功藥局","id":"5934021990","tel":"039577550","addr":"宜蘭縣羅東鎮興東南路235號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"121.7692","lat":"24.67309","name":"康莊藥局","id":"5934022013","tel":"039553168","addr":"宜蘭縣羅東鎮康樂巷1號","business_week":"OOOOOOOOOOOOXOOOOOOXX","memo":"實名制快篩；每天早上皆有營業；星期六下午晚上休息"},
 {"lng":"121.7715","lat":"24.67827","name":"大菖藥局","id":"5934022031","tel":"039559898","addr":"宜蘭縣羅東鎮公正路88號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期一到六上午08:30販售，不發號碼牌，現場排隊售完為止。"},
 {"lng":"121.7635","lat":"24.67976","name":"宏安藥局","id":"5934022059","tel":"039518696","addr":"宜蘭縣羅東鎮賢文里純精路2段225巷10號1樓","business_week":"OOOOOOOOOOOOXXOOOOOXX","memo":"快篩9；00開賣"},
