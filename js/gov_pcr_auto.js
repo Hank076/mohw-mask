@@ -125,7 +125,7 @@ gov_pcr_locations = [
 {"lng":"120.218628","lat":"23.795598","name":"長庚醫療財團法人雲林長庚紀念醫院","id":"1139130010","tel":"056915151","addr":"雲林縣麥寮鄉中興村工業路1500號","business_week":"OOOOOOXOOOOOXXOXOOXXX","memo":"本院提供24小時急診服務"},
 {"lng":"120.4279313","lat":"23.73522006","name":"國立臺灣大學醫學院附設醫院雲林分院虎尾院區","id":"0439010518","tel":"056330002","addr":"雲林縣虎尾鎮學府路95號","business_week":"OOOOOXXOOOOOXXOOOOXXX","memo":"急診服務時段為24小時"},
 {"lng":"120.3013204","lat":"23.57748505","name":"北港仁一醫院","id":"1539061072","tel":"057827666","addr":"雲林縣北港鎮公園路155號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"24小時內發生之骨折，可於門診時間優先掛號看診。"},
-{"lng":"120.511423","lat":"23.66863786","name":"信安醫療社團法人信安醫院","id":"0939010018","tel":"055223788","addr":"雲林縣斗六市瓦厝路159號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"9／9-9／11皆停診"},
+{"lng":"120.511423","lat":"23.66863786","name":"信安醫療社團法人信安醫院","id":"0939010018","tel":"055223788","addr":"雲林縣斗六市瓦厝路159號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"10／8-10／10皆停診"},
 {"lng":"120.42297","lat":"23.46755","name":"臺中榮民總醫院嘉義分院","id":"0622020017","tel":"052359630","addr":"嘉義市西區劉厝里世賢路二段600號","business_week":"OOOOOOXOOOOOXXXXXOXXX"},
 {"lng":"120.467671","lat":"23.47635","name":"天主教中華聖母修女會醫療財團法人天主教聖馬爾定醫院","id":"1122010021","tel":"052756000","addr":"嘉義市東區短竹里大雅路二段565號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"急診24小時提供內.外.婦.兒等科醫療服務."},
 {"lng":"120.42936","lat":"23.481544","name":"衛生福利部嘉義醫院","id":"0122020517","tel":"052319090","addr":"嘉義市西區北港路312號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
