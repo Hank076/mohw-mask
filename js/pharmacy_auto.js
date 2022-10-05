@@ -4065,7 +4065,7 @@ locations = [
 {"lng":"120.465","lat":"23.1214","name":"大眾藥局","id":"5941231111","tel":"065744099","addr":"臺南市玉井區中華路237號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"實名制快篩劑早上7:40至售完（第二周與第四周周日休）"},
 {"lng":"120.4657","lat":"23.12218","name":"伊立安藥局","id":"5941231139","tel":"065747001","addr":"臺南市玉井區玉田里中山路143號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"實名制快篩劑 7:30起至售完"},
 {"lng":"120.2251","lat":"22.91949","name":"振裕藥局","id":"5941270109","tel":"062661478","addr":"臺南市仁德區二行里二行一路165號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售時間：早上09點-12點 下午2點半-9點"},
-{"lng":"120.2575","lat":"22.971089","name":"滋生藥局","id":"5941270136","tel":"062705057","addr":"臺南市仁德區仁義里中山路362號","business_week":"OOOOOOXOOOOOXXOOOOOXO","memo":"快篩試劑7:30開始販售。"},
+{"lng":"120.2575","lat":"22.971089","name":"滋生藥局","id":"5941270136","tel":"062705057","addr":"臺南市仁德區仁義里中山路362號","business_week":"OOOOOOXOOOOOXXOOOOOXO","memo":"10／8（六）早上正常營業 10／9（日）~10／10（一）營業時間不定"},
 {"lng":"120.252308","lat":"22.954036","name":"成吉藥局","id":"5941270154","tel":"062798003","addr":"臺南市仁德區新田里中正路二段468號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.2577","lat":"22.99146","name":"太子藥局","id":"5941270163","tel":"062729906","addr":"臺南市仁德區太子里太子路338號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.2502","lat":"22.90866","name":"聖豐藥局","id":"5941270216","tel":"062663588","addr":"臺南市仁德區中洲里中洲路788號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑販售時間：平日依郵差送貨時間而定，週六（停售），週日8:30開始"},
