@@ -561,6 +561,7 @@ locations = [
 {"lng":"121.4942","lat":"25.02714","name":"西園宏越藥局","id":"5901193329","tel":"0223097336","addr":"臺北市萬華區西園路2段213號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩下午4點~5點販售"},
 {"lng":"121.5035","lat":"25.02955","name":"艾米力藥師藥局","id":"5901193338","tel":"0223036583","addr":"臺北市萬華區西藏路107-2號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"10／10國慶日，上午至11:30；午晚休息。"},
 {"lng":"121.5007","lat":"25.03886","name":"企鵝藥局","id":"5901193365","tel":"0223884691","addr":"臺北市萬華區西昌街175號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"公費快篩，系統發放時間9:00 - 22:30"},
+{"lng":"121.561","lat":"24.98889","name":"建興藥局","id":"5901200105","tel":"0229399993","addr":"臺北市文山區木柵路2段81號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"星期一至星期日早上8時30分現場販售實名制快篩試劑"},
 {"lng":"121.5448","lat":"24.99717","name":"健群藥局","id":"5901200114","tel":"0229328898","addr":"臺北市文山區景興路41號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5393","lat":"24.99512","name":"瑞安藥局","id":"5901200123","tel":"0229312888","addr":"臺北市文山區溪口街69-1號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上8:30開始營業.星期日休息.快篩劑早上8:30開始販賣."},
 {"lng":"121.5449","lat":"24.99875","name":"永明大藥局","id":"5901200490","tel":"0229314428","addr":"臺北市文山區興隆路1段297號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日營業時間:早上9:00~晚上10:00，不限時段、不限購。"},
