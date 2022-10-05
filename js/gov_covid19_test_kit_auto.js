@@ -297,7 +297,6 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.494832","lat":"25.086417","name":"艾樂堡診所","id":"3531026564","tel":"0282875777","addr":"新北市三重區集賢路63之1號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.496981","lat":"25.065788","name":"正興診所","id":"3531026706","tel":"0229861235","addr":"新北市三重區正義北路113號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.524964","lat":"24.999426","name":"吳宗坡耳鼻喉科診所","id":"3531032026","tel":"0286603386","addr":"新北市永和區得和路381號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
-{"lng":"121.50991","lat":"25.007027","name":"國平耳鼻喉科診所","id":"3531032179","tel":"0289233980","addr":"新北市永和區永貞路376號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.516994","lat":"25.005607","name":"德美診所","id":"3531033747","tel":"0229273001","addr":"新北市永和區中正路455之1號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"121.515041","lat":"25.012561","name":"頂溪耳鼻喉科診所","id":"3531034155","tel":"0229290066","addr":"新北市永和區永和路二段139-1號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"正常門診"},
 {"lng":"121.517094","lat":"25.00830751","name":"樂華診所","id":"3531034208","tel":"0286608030","addr":"新北市永和區中正路632號1樓","business_week":"OXXOOOOOOOOOOXOOOOXXX"},
