@@ -762,6 +762,7 @@ locations = [
 {"lng":"120.7175","lat":"24.25179","name":"佑全豐原中正藥局","id":"5903010547","tel":"0425152886","addr":"臺中市豐原區中正路223、225號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售時間: 9:00至售完為止。請關注本藥局臉書最新訊息。各醫院診所慢箋、牙科箋領藥全年無休"},
 {"lng":"120.7163","lat":"24.24346","name":"升禾和大藥局","id":"5903010556","tel":"0425293099","addr":"臺中市豐原區育英路26號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑 星期二-六08:00 星期日-一 09:00 開始販售 售完為止"},
 {"lng":"120.7173","lat":"24.25367","name":"林居藥局","id":"5903010583","tel":"0425159168","addr":"臺中市豐原區源豐路114號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩依當天物流送貨時間， 會在 FB林居藥局 公告販售時間， 謝謝"},
+{"lng":"","lat":"","name":"隔壁藥局","id":"5903010609","tel":"0425231527","addr":"臺中市豐原區一心路240之2號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.83179","lat":"24.247785","name":"國良豐藥局","id":"5903020034","tel":"0425885778","addr":"臺中市東勢區豐勢路21號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑全天販售"},
 {"lng":"120.829","lat":"24.25586","name":"東勢福倫藥局","id":"5903020052","tel":"0425876118","addr":"臺中市東勢區豐勢路438號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"＜快篩＞ 早上08:00開賣.賣完為止"},
 {"lng":"120.8302","lat":"24.25113","name":"新明通藥局","id":"5903020089","tel":"0425873969","addr":"臺中市東勢區豐勢路232號1樓","business_week":"OOOOOOOOOOOOOXOOOOOXX"},
