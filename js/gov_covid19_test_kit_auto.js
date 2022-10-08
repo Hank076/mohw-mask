@@ -606,7 +606,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.501413","lat":"22.665668","name":"蔡長禧診所","id":"3543011135","tel":"087227766","addr":"屏東縣屏東市民生路12-16號","business_week":"OOOOOXXOOOOOXXOOOOOXX"},
 {"lng":"120.495431","lat":"22.680544","name":"梁宏志診所","id":"3543011911","tel":"087364494","addr":"屏東縣屏東市自由路379-4號","business_week":"OOOOOOXOXOXOXXOOOOOXX","memo":"國定假日（如中秋、端午、勞動節、國慶日、二二八、 元旦等）放假， 108.8.24休假一日"},
 {"lng":"120.499206","lat":"22.67142","name":"林長興診所","id":"3543013399","tel":"087236266","addr":"屏東縣屏東市廣東路72號","business_week":"OOOOOOXOOXOOOXOOOOOXX","memo":"1\/1日休診一天"},
-{"lng":"120.481001","lat":"22.678294","name":"張俊智診所","id":"3543013577","tel":"087667010","addr":"屏東縣屏東市博愛路215號","business_week":"OOOOOOXXXXXXXXOOXOOXX","memo":"中秋節休診公告:9／9（五）下午.晚上休診 9／10（六）9／11（日）全天休診"},
+{"lng":"120.481001","lat":"22.678294","name":"張俊智診所","id":"3543013577","tel":"087667010","addr":"屏東縣屏東市博愛路215號","business_week":"OOOOOOXXXXXXXXOOXOOXX","memo":"國慶日休診公告:10／8（六）下午.晚上休診 10／09（日）全天休診，10／10（一）全日看診"},
 {"lng":"120.505348","lat":"22.675816","name":"小太陽兒科聯合診所","id":"3543014565","tel":"087379591","addr":"屏東縣屏東市建豐路169號","business_week":"OXOOOXXOOOOOXOOOOOOXO","memo":"9／9早上打新冠疫苗午晚休診  9／11照常看診"},
 {"lng":"120.543111","lat":"22.549496","name":"黃志忠診所","id":"3543020438","tel":"087884486","addr":"屏東縣潮州鎮中山路33號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"1／1，  4／5， 6／3，9／10，10／10 全日休診 休診."},
 {"lng":"120.540045","lat":"22.543277","name":"瑞安診所","id":"3543022183","tel":"087888716","addr":"屏東縣潮州鎮興隆路137號","business_week":"OOOOOOXXXXXXXXOOOOOXX","memo":"周日休息"},
