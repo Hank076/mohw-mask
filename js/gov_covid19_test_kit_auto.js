@@ -94,7 +94,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.607625","lat":"25.072665","name":"葫洲診所","id":"3501114202","tel":"0226306606","addr":"臺北市內湖區康寧路三段35號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"1\/31、2\/13、2\/20、2\/27、4\/5、6\/3、9\/10僅上午看診復健"},
 {"lng":"121.616579","lat":"25.054076","name":"冠德耳鼻喉科診所","id":"3501120451","tel":"0226513085","addr":"臺北市南港區研究院路一段17號","business_week":"OOOOOOOOOOOOXXOOOOOXX"},
 {"lng":"121.588026","lat":"25.039494","name":"永育診所","id":"3501121743","tel":"0227850700","addr":"臺北市南港區福德街320之2號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"9／9早午晚照常看診；9／10早上看診，下午晚上休診；9／11全日休診；9／12早午晚照常看診"},
-{"lng":"121.615108","lat":"25.04557","name":"李文珍小兒科診所","id":"3501121814","tel":"0226511871","addr":"臺北市南港區研究院路二段74號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"10／10週一國定假日上午8:00-12:00看診；"},
+{"lng":"121.615108","lat":"25.04557","name":"李文珍小兒科診所","id":"3501121814","tel":"0226511871","addr":"臺北市南港區研究院路二段74號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"10／9與10／10國定假日上午8:00-12:00看診；"},
 {"lng":"121.509303","lat":"25.08855","name":"粱耳鼻喉科診所","id":"3501151269","tel":"0228168456","addr":"臺北市士林區社正路12-1號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"121.501448","lat":"25.132204","name":"洪耳鼻喉科診所","id":"3501160231","tel":"0228928769","addr":"臺北市北投區中央南路1段43號","business_week":"OOOOOOXXXXXXXXOOOOOXX","memo":"10\/09、10\/10  上午(0830-1200)看診"},
 {"lng":"121.515314","lat":"25.114287","name":"黃正宏診所","id":"3501163036","tel":"0228217076","addr":"臺北市北投區西安街一段359號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
