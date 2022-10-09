@@ -621,7 +621,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.609188","lat":"22.722726","name":"永興診所","id":"3543101170","tel":"087021343","addr":"屏東縣鹽埔鄉振興村中正路54號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"1\/1 上午看診，1\/2上午看診"},
 {"lng":"120.601718","lat":"22.823485","name":"嘉誠診所","id":"3543111318","tel":"087962772","addr":"屏東縣高樹鄉高樹村南興路118-1號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"國慶日假期: 10／8 早上／10／10 早午看診"},
 {"lng":"120.56656","lat":"22.612546","name":"蕭文熙診所","id":"3543130420","tel":"087692999","addr":"屏東縣內埔鄉廣濟路149號","business_week":"OOOOOOXOOOOOXXOOXOOXX"},
-{"lng":"120.462947","lat":"22.546935","name":"趙致成診所","id":"3543170095","tel":"088681236","addr":"屏東縣新園鄉仙吉路211號","business_week":"OOOOOOOOOOOOXXOOOOOXX","memo":"9／10（六）中秋節休診"},
+{"lng":"120.462947","lat":"22.546935","name":"趙致成診所","id":"3543170095","tel":"088681236","addr":"屏東縣新園鄉仙吉路211號","business_week":"OOOOOOOOOOOOXXOOOOOXX","memo":"10／10（一）雙十節下午晚上休診"},
 {"lng":"119.574724","lat":"23.572724","name":"周明河小兒科診所","id":"3544010301","tel":"069264080","addr":"澎湖縣馬公市陽明路33號","business_week":"OOOOOOOOOOOOOXOOOOOOO"},
 {"lng":"119.571461","lat":"23.572147","name":"江明儒耳鼻喉科診所","id":"3544011639","tel":"069276768","addr":"澎湖縣馬公市大勇街65號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"雙十連假全日正常看診，"},
 {"lng":"121.594515","lat":"23.974792","name":"廖耳鼻喉科診所","id":"3545010681","tel":"038356196","addr":"花蓮縣花蓮市中華路422之1號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"上午8:30-12:00; 下午4:00-7:00"},
