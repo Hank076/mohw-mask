@@ -3852,6 +3852,7 @@ locations = [
 {"lng":"120.2518","lat":"23.74714","name":"新興藥局","id":"5939131286","tel":"056938030","addr":"雲林縣麥寮鄉麥豐村新興路37-1號","business_week":"OOOOOOXOOOOOOXOOOOXXX","memo":"週日公休。家用快篩試劑8點開始販售，賣完為止"},
 {"lng":"120.252374","lat":"23.747041","name":"台安藥局","id":"5939131384","tel":"056933311","addr":"雲林縣麥寮鄉麥豐村新興路16號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週日公休。＜台全診所隔壁藥局＞ 快篩販售時間：8:00（售完提前截止）。"},
 {"lng":"120.251","lat":"23.74982","name":"立昇藥局","id":"5939131473","tel":"056933066","addr":"雲林縣麥寮鄉華興路91號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"1330-2200"},
+{"lng":"120.2527","lat":"23.74947","name":"麥津藥局","id":"5939131482","tel":"056932258","addr":"雲林縣麥寮鄉中山路313、315號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"120.2556","lat":"23.67723","name":"豐安藥局","id":"5939140034","tel":"056991672","addr":"雲林縣東勢鄉東北村康安路76號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"早上8:00~11:30， 下午14:30~17:30， 晚上18:30~21:00"},
 {"lng":"120.2536","lat":"23.67503","name":"義和堂中西藥局","id":"5939140061","tel":"056991028","addr":"雲林縣東勢鄉東南村東勢東路12號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日營業時段販售"},
 {"lng":"120.2519","lat":"23.6761","name":"東新藥局","id":"5939141139","tel":"056998959","addr":"雲林縣東勢鄉東勢西路55號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"週一至五8-12 14-18點.週六 8-12點"},
