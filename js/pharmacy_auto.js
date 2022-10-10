@@ -3787,6 +3787,7 @@ locations = [
 {"lng":"120.3311","lat":"23.61548","name":"永昇藥局","id":"5939170023","tel":"057861838","addr":"雲林縣元長鄉下寮村東庄路35號","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"販賣口罩時間：0800開賣，賣完為止"},
 {"lng":"120.3124","lat":"23.64811","name":"嘉民藥局","id":"5939171039","tel":"057880513","addr":"雲林縣元長鄉長南村元南路62號","business_week":"OOOOOOXOOXOOXXXXXXXXX","memo":"無"},
 {"lng":"120.334","lat":"23.61849","name":"和平藥局","id":"5939171093","tel":"057862551","addr":"雲林縣元長鄉下寮村東興路33號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"販賣口罩時間：0800開賣，賣完為止"},
+{"lng":"120.3133","lat":"23.65138","name":"維恩健保藥局","id":"5939171100","tel":"057882062","addr":"雲林縣元長鄉長北村中山路58號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"120.3132","lat":"23.64867","name":"順元藥局","id":"5939171128","tel":"057886555","addr":"雲林縣元長鄉中山路25號","business_week":"OOOOOOXOOOXOXXOXOXOXX","memo":"早上8點開賣，賣完為止。周日休息。"},
 {"lng":"120.2216","lat":"23.63745","name":"仁安堂藥局","id":"5939180074","tel":"057875563","addr":"雲林縣四湖鄉中山西路185號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"0700-販售結束"},
 {"lng":"120.2251","lat":"23.63476","name":"陽明藥局","id":"5939181133","tel":"057876519","addr":"雲林縣四湖鄉中正路422號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"0800---販售結束"},
