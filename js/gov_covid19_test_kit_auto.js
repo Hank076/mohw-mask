@@ -66,7 +66,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.555944","lat":"25.05846","name":"王俊彰耳鼻喉科診所","id":"3501010478","tel":"0227665698","addr":"臺北市松山區民生東路五段17號","business_week":"XXXXXOXXXXXXXXOOOOOXX","memo":"自101年7\/1起門診時間上午:(六)10:00~12:30.晚上:(一~五)5:00~9:30"},
 {"lng":"121.560762","lat":"25.048369","name":"陳大昕耳鼻喉科診所","id":"3501010692","tel":"0227676349","addr":"臺北市松山區八德路4段100號","business_week":"OOOOOOXXXXXXXXOOOOOXX","memo":"110／6／4上午門診"},
 {"lng":"121.560077","lat":"25.058776","name":"詹前俊小兒科診所","id":"3501010816","tel":"0227653039","addr":"臺北市松山區民生東路五段105號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
-{"lng":"121.55619","lat":"25.048162","name":"車參薇小兒科診所","id":"3501011493","tel":"0225770101","addr":"臺北市松山區八德路3段195號1樓","business_week":"OOOOOOXOOOOOXXOOOOXXX","memo":"上午9:00--12:00;下午3:00--6:00;晚上6:00--9:00"},
+{"lng":"121.55619","lat":"25.048162","name":"車參薇小兒科診所","id":"3501011493","tel":"0225770101","addr":"臺北市松山區八德路3段195號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"上午9:00--12:00;下午3:00--6:00;晚上6:00--9:00"},
 {"lng":"121.567756","lat":"25.051546","name":"親親家庭診所","id":"3501013059","tel":"0225283232","addr":"臺北市松山區南京東路5段347號1樓","business_week":"OOOOOOXOOOOOXXOOOOOOX"},
 {"lng":"121.563524","lat":"25.0558","name":"澄東耳鼻喉科診所","id":"3501014823","tel":"0227420552","addr":"臺北市松山區三民路37號","business_week":"OOOOOOXOOOOOXOOOOOOXO"},
 {"lng":"121.558051","lat":"25.050861","name":"泰安親親家庭診所","id":"3501015106","tel":"0227605036","addr":"臺北市松山區光復北路97號","business_week":"OOOOOOXOOOOOXXOOOOOXO"},
