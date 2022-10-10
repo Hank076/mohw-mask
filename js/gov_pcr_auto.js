@@ -198,7 +198,7 @@ gov_pcr_locations = [
 {"lng":"121.626753","lat":"23.988335","name":"臺灣基督教門諾會醫療財團法人門諾醫院","id":"1145010038","tel":"038241234","addr":"花蓮縣花蓮市民權路44號","business_week":"OOOOOOXOOOOOXXOXOXXXX","memo":"本院急診24小時服務"},
 {"lng":"121.312031","lat":"23.339213","name":"臺北榮民總醫院玉里分院","id":"0645030011","tel":"038883141","addr":"花蓮縣玉里鎮新興街91號","business_week":"OOOOOXXOOOOOOXOOOOOXX"},
 {"lng":"121.611421","lat":"23.979207","name":"衛生福利部花蓮醫院","id":"0145010019","tel":"038358141","addr":"花蓮縣花蓮市中正路600號","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"急診24小時全年無休。"},
-{"lng":"121.3185952","lat":"23.33492847","name":"佛教慈濟醫療財團法人玉里慈濟醫院","id":"1145030012","tel":"038882718","addr":"花蓮縣玉里鎮民權街1-1號","business_week":"OOOOOXOOOOOOXOOOXOOXX","memo":"急診全年無休"},
+{"lng":"121.3185952","lat":"23.33492847","name":"佛教慈濟醫療財團法人玉里慈濟醫院","id":"1145030012","tel":"038882718","addr":"花蓮縣玉里鎮民權街1-1號","business_week":"OOOOOOOOOOOOXOOOXOOXX","memo":"急診全年無休"},
 {"lng":"121.377829","lat":"23.099296","name":"衛生福利部臺東醫院成功分院","id":"0146020537","tel":"089854748","addr":"臺東縣成功鎮中山東路32號","business_week":"OOOOOOXOOOOOOXXXXXXXX","memo":"提供24小時急診服務"},
 {"lng":"121.132431","lat":"22.772346","name":"臺北榮民總醫院臺東分院","id":"0646010013","tel":"089222528","addr":"臺東縣台東市更生路1000號","business_week":"OOOOOOXOOOOOOXOOXOOXX","memo":"本院急診全天24小時提供醫療服務"},
 {"lng":"121.166766","lat":"23.057281","name":"佛教慈濟醫療財團法人關山慈濟醫院","id":"1146030516","tel":"089814880","addr":"臺東縣關山鎮和平路125之5號","business_week":"OOOOOXXOOOOOXXOOOOXXX","memo":"急診24小時全天候提供服務。"},

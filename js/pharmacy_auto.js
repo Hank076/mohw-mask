@@ -4119,7 +4119,7 @@ locations = [
 {"lng":"120.4989","lat":"22.68319","name":"恩典藥局","id":"5943014350","tel":"087368718","addr":"屏東縣屏東市廣東路564號","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"禮拜一到五9:00~17:00*六日休息*"},
 {"lng":"120.5364","lat":"22.54281","name":"晉源藥師藥局","id":"5943020090","tel":"087886819","addr":"屏東縣潮州鎮新興路65之1號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩販售時間:營業日:8:30開始，售完為止."},
 {"lng":"120.54153","lat":"22.549735","name":"信安西藥局","id":"5943020125","tel":"087882176","addr":"屏東縣潮州鎮同榮里中山路70號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"實名制快篩常態販賣。售完為止。週六週日不營業。"},
-{"lng":"120.537861","lat":"22.54802","name":"惠安藥局","id":"5943020161","tel":"087882368","addr":"屏東縣潮州鎮新榮里新生路31號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩庫存充足，隨到隨買"},
+{"lng":"120.537861","lat":"22.54802","name":"惠安藥局","id":"5943020161","tel":"087882368","addr":"屏東縣潮州鎮新榮里新生路31號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"周一至周六"},
 {"lng":"120.5399","lat":"22.55155","name":"健銘藥局","id":"5943020241","tel":"087897631","addr":"屏東縣潮州鎮新生里新生路147號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"星期一到星期六早上8點45開始 售完為止(剩餘數量藥局當下為準)"},
 {"lng":"120.5404","lat":"22.55572","name":"安欣藥師藥局","id":"5943020367","tel":"087805759","addr":"屏東縣潮州鎮延平路一六八號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩試劑販售時間早上9:00開始"},
 {"lng":"120.540042","lat":"22.553906","name":"芳林藥局","id":"5943021480","tel":"087801919","addr":"屏東縣潮州鎮三和里中正路199號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制販賣時間為營業日14:00起，售完為止"},
