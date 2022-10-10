@@ -1218,6 +1218,7 @@ locations = [
 {"lng":"120.1701","lat":"22.99098","name":"宜康永華藥局","id":"5905380097","tel":"062930119","addr":"臺南市安平區國平里永華路二段785號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩領取；每天16-22點，售完為止"},
 {"lng":"120.1793","lat":"22.99272","name":"信美藥局","id":"5905380140","tel":"062980142","addr":"臺南市安平區建平里平通路142號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"9:00銷售快篩"},
 {"lng":"120.168","lat":"22.98595","name":"凱順藥局","id":"5905380177","tel":"062999752","addr":"臺南市安平區育平里健康三街39號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩試劑每日9:00開始，售完為止。"},
+{"lng":"120.174","lat":"22.98438","name":"怡家藥局","id":"5905380239","tel":"062970519","addr":"臺南市安平區國平里華平路79號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"5／22週日早上8點加賣快篩，週一及六早0900~1100，週二、四、五晚1800~2000"},
 {"lng":"120.1754","lat":"22.99425","name":"心悅藥局","id":"5905380275","tel":"062973727","addr":"臺南市安平區華平里華平路537號1樓","business_week":"OOOOOOXXXXXXXXOOOOOXX","memo":"9:00-12:00  16:00~20:00"},
 {"lng":"120.176281","lat":"22.99668","name":"人仁藥局","id":"5905380293","tel":"062998667","addr":"臺南市安平區怡平里慶平路281號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"10／9  10／16店休"},
 {"lng":"120.1748","lat":"22.99031","name":"新高橋藥局台南永華店","id":"5905380300","tel":"062992362","addr":"臺南市安平區華平路279號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"若有到貨早上九點五十分發放號碼牌十點開始販售"},
