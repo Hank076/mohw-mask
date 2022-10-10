@@ -1488,6 +1488,7 @@ locations = [
 {"lng":"120.6553","lat":"24.15224","name":"佑恩藥師藥局","id":"5917032908","tel":"0423100058","addr":"臺中市西區精誠路67號1樓","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"實名制快篩周一到周六，早上9:10，周日下午2:10開始販賣"},
 {"lng":"120.6571","lat":"24.13072","name":"義興配藥局","id":"5917040099","tel":"0423751551","addr":"臺中市南區西川里忠明南路628號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一至週日上午9點販賣防疫快篩試劑"},
 {"lng":"120.6712","lat":"24.11564","name":"侑民藥局","id":"5917040106","tel":"0422860146","addr":"臺中市南區興大路396巷49號1樓","business_week":"OOOOOOOOOOOOXXOOOOOOO","memo":"週一至週日上午9點販賣防疫快篩試劑"},
+{"lng":"120.6752723","lat":"24.1267297","name":"慧寧藥局","id":"5917040124","tel":"0422851858","addr":"臺中市南區德義里忠孝路2號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"配合實名制快篩，星期一至星期六每天上午九時至中午十二時販售。"},
 {"lng":"120.670227","lat":"24.124562","name":"和益中西藥局","id":"5917040151","tel":"0422614237","addr":"臺中市南區江川里五權南路224號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"周一至周六早上8點30分開始販售快篩，視情況調整販售時間"},
 {"lng":"120.6702","lat":"24.11416","name":"元聖藥局","id":"5917040302","tel":"0422627468","addr":"臺中市南區積善里五權南路650號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一至週日上午8點 售完為止"},
 {"lng":"120.6665","lat":"24.11425","name":"陳信安藥局","id":"5917040464","tel":"0422619560","addr":"臺中市南區永興里高工路349號","business_week":"XXXXXXXOOOOOOXOOOOOOX"},
