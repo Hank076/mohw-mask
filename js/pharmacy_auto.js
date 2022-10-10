@@ -3106,6 +3106,7 @@ locations = [
 {"lng":"121.7675","lat":"24.67243","name":"怡林藥局","id":"5934021481","tel":"039541926","addr":"宜蘭縣羅東鎮興東南路174號","business_week":"OOOOOXOOOOOOXXOOOOOXX","memo":"快篩試劑每天早上8點開賣.不發號碼牌現刷現買.售完為止."},
 {"lng":"121.769504","lat":"24.678794","name":"康民藥局","id":"5934021490","tel":"039576036","addr":"宜蘭縣羅東鎮公正路148號","business_week":"OOOOOOOOOOOOOXOOOOOXX"},
 {"lng":"121.7654","lat":"24.67989","name":"慈濟大藥局","id":"5934021552","tel":"039551803","addr":"宜蘭縣羅東鎮公正路274之1號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
+{"lng":"121.7652","lat":"24.68876","name":"上華藥局","id":"5934021632","tel":"039557655","addr":"宜蘭縣羅東鎮復興路2段159號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"上午8；00開始販售實名制快篩.售完為止."},
 {"lng":"121.7707","lat":"24.68046","name":"倉前藥局","id":"5934021794","tel":"039571336","addr":"宜蘭縣羅東鎮公正里倉前路57號1樓","business_week":"OOOOOOXOOXOOOXXXXXXXX","memo":"快篩販賣週一到週六8:00-12:00，14:30-18:00星期三下午休息"},
 {"lng":"121.7674","lat":"24.67398","name":"正欣藥局","id":"5934021856","tel":"039556786","addr":"宜蘭縣羅東鎮興東南路228巷8號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩w1~w6領取時間為早上9點，周日公休"},
 {"lng":"121.768251","lat":"24.678911","name":"潤康社區健保藥局","id":"5934021883","tel":"039576271","addr":"宜蘭縣羅東鎮公正路167之2號1樓","business_week":"OOOOOOOOOOOOOXOXXXOXX","memo":"固定周一至周六上午8點，依排隊順序開始販賣快篩試劑，售完為止。"},
