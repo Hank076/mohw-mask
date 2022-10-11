@@ -374,7 +374,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.806528","lat":"25.107678","name":"康橋診所","id":"3531121528","tel":"0224974128","addr":"新北市瑞芳區明燈路三段39-7號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"121.464656","lat":"24.985811","name":"莊京憲耳鼻喉科診所","id":"3531132334","tel":"0282603171","addr":"新北市土城區明德路一段2號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.440678","lat":"24.973188","name":"祐生耳鼻喉科診所","id":"3531132478","tel":"0282614588","addr":"新北市土城區中央路二段223之9號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
-{"lng":"121.450052","lat":"24.987362","name":"羅林小兒科診所","id":"3531132889","tel":"0282733026","addr":"新北市土城區裕民路83號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"10／8、10／9、10／10開早午晚診，假日掛號費為150元。"},
+{"lng":"121.450052","lat":"24.987362","name":"羅林小兒科診所","id":"3531132889","tel":"0282733026","addr":"新北市土城區裕民路83號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.414306","lat":"24.956429","name":"頂埔中心診所","id":"3531133064","tel":"0222671382","addr":"新北市土城區中央路四段286號","business_week":"OOOOOOOOOOOOOXOOOOOXX"},
 {"lng":"121.440386","lat":"24.973108","name":"城林小兒科診所","id":"3531133153","tel":"0222706166","addr":"新北市土城區中央路二段312號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"9／9、9／10開早診，國定假日開診掛號費加收50元。"},
 {"lng":"121.451445","lat":"24.986507","name":"裕安診所","id":"3531133171","tel":"0222613300","addr":"新北市土城區裕民路131號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"1\/30、1\/31、2\/6、2\/13、2\/20、2\/27、4\/5、6\/3、9\/10上午看診"},
