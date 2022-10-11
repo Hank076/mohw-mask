@@ -2375,6 +2375,7 @@ locations = [
 {"lng":"121.6565","lat":"25.06694","name":"幸福藥局","id":"5931111755","tel":"0226490127","addr":"新北市汐止區大同路2段332號1.2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"星期日暫停販售快篩試劑"},
 {"lng":"121.6297","lat":"25.0706","name":"全家藥局","id":"5931111835","tel":"0226954990","addr":"新北市汐止區明峰街143號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩試劑販售:週1-6，上午9-11點（現場排隊，不發號碼牌，售完為止）"},
 {"lng":"121.6632","lat":"25.06397","name":"滿益藥局","id":"5931111988","tel":"0286421562","addr":"新北市汐止區仁愛路130號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"口罩代售時間自13:30 ， 現場排隊"},
+{"lng":"121.6213","lat":"25.0416","name":"吉安康健保藥師藥局","id":"5931112047","tel":"0226405881","addr":"新北市汐止區宜興街11號1樓","business_week":"XXXXXXXOOOOOOXOOOOOOX","memo":"營業時間以現場公告為主"},
 {"lng":"121.6211","lat":"25.04126","name":"裕和藥局","id":"5931112083","tel":"0226609119","addr":"新北市汐止區宜興街4號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.6335","lat":"25.06447","name":"汐芷藥局","id":"5931112136","tel":"0226924087","addr":"新北市汐止區福德一路255號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日8:30現場發放....疫情期間勿恐慌.自費快篩請親臨親洽"},
 {"lng":"121.6537","lat":"25.06284","name":"安泰藥局","id":"5931112234","tel":"0226488486","addr":"新北市汐止區連興街114號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
