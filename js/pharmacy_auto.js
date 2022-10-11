@@ -3740,7 +3740,7 @@ locations = [
 {"lng":"120.2466","lat":"23.57223","name":"玉璽藥局","id":"5939201354","tel":"057856019","addr":"雲林縣水林鄉水南村水林路115號之1","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"實名制快篩早上8:30 開賣，售完為止"},
 {"lng":"120.2444","lat":"23.46605","name":"石原藥局","id":"5940010154","tel":"053792389","addr":"嘉義縣朴子市中正里中正路149號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"有營業時間8點起售快篩售完6點為止"},
 {"lng":"120.2445","lat":"23.46537","name":"榮一藥局","id":"5940011286","tel":"053792448","addr":"嘉義縣朴子市山通路61號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制周一至周日上午09點開始銷售至售完為止"},
-{"lng":"120.2446","lat":"23.46725","name":"開元藥局","id":"5940011302","tel":"053700014","addr":"嘉義縣朴子市開元路154號","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"10月8日到10月14日每天上午有營業，下午休息"},
+{"lng":"120.2446","lat":"23.46725","name":"開元藥局","id":"5940011302","tel":"053700014","addr":"嘉義縣朴子市開元路154號","business_week":"OOOOOXXOOOOOXXXXXXXXX"},
 {"lng":"120.2443","lat":"23.46547","name":"一信藥局","id":"5940011400","tel":"053792323","addr":"嘉義縣朴子市山通路132號","business_week":"OOOXOOXOOOXOOXOOOXOOX","memo":"早上9:00到晚上21:00"},
 {"lng":"120.2403","lat":"23.46391","name":"杏安藥局","id":"5940011482","tel":"053702268","addr":"嘉義縣朴子市海通路98-4號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"周一~周六 08:00-售罄;周日 不一定"},
 {"lng":"120.24152","lat":"23.462017","name":"弘安藥局","id":"5940011544","tel":"053707000","addr":"嘉義縣朴子市新進路31號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"8:00-22:00"},
