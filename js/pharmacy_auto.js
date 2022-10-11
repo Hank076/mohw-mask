@@ -4012,6 +4012,7 @@ locations = [
 {"lng":"120.537494","lat":"22.542912","name":"成昌藥局","id":"5943021588","tel":"087801199","addr":"屏東縣潮州鎮永春里光春路96號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販賣時間為每天下午2點開始販售"},
 {"lng":"120.5391","lat":"22.54882","name":"葉錦霖藥局","id":"5943021604","tel":"087885629","addr":"屏東縣潮州鎮新榮里中山五巷3-4號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"藥局販售口罩時間，依藥局門口公告時間為主(售完為止)"},
 {"lng":"120.5321","lat":"22.54325","name":"健鑫藥局","id":"5943021631","tel":"087862685","addr":"屏東縣潮州鎮萬年路141號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"平日販售時間:早08:00（滾動修正）（星期六及日停售）12:30至13:30午休"},
+{"lng":"120.5365","lat":"22.54417","name":"立康藥局","id":"5943021695","tel":"087800995","addr":"屏東縣潮州鎮介壽路77號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制上午8:00開始販售，售完為止"},
 {"lng":"120.538","lat":"22.54777","name":"欣正宗藥局","id":"5943021766","tel":"087892250","addr":"屏東縣潮州鎮新生路36號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩實名制早上9:00開始販售，售完為止（如遇快篩配送延遲，販售時間另訂）"},
 {"lng":"120.450505","lat":"22.466736","name":"保生藥局","id":"5943030103","tel":"088322818","addr":"屏東縣東港鎮中山路56號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.4576","lat":"22.47326","name":"保生藥局中正店","id":"5943031468","tel":"088328178","addr":"屏東縣東港鎮興東里中正路一段130號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"每天上午8:20開始販售快篩售完為止"},
