@@ -671,6 +671,6 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.227571","lat":"22.872983","name":"都蘭診所","id":"3546071071","tel":"089530021","addr":"臺東縣東河鄉都蘭村21鄰都蘭96號","business_week":"OOOOOOXOOOOOXXOXXXXXX","memo":"9／3，9／9，9／10，10／8 ，12／31休診"},
 {"lng":"118.319877","lat":"24.433705","name":"禾心診所","id":"3590011316","tel":"082322180","addr":"金門縣金城鎮北門里民生路9-7號","business_week":"OOOOOOXOXOOOXXOOOOOXX","memo":"兒科照常看診 骨科看診及復健請電話詢問"},
 {"lng":"118.410272","lat":"24.438943","name":"康橋診所","id":"3590030615","tel":"082330096","addr":"金門縣金湖鎮赤東路150號","business_week":"OOXOOOOOXXOOXXOXXOXXX"},
-{"lng":"121.537266","lat":"25.025172","name":"尹書田醫療財團法人書田泌尿科眼科診所","id":"4001020028","tel":"0223690211","addr":"臺北市大安區建國南路二段276號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"111／10／10僅早診 泌尿科／眼科／內科值班看診"},
+{"lng":"121.537266","lat":"25.025172","name":"尹書田醫療財團法人書田泌尿科眼科診所","id":"4001020028","tel":"0223690211","addr":"臺北市大安區建國南路二段276號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.339359","lat":"22.636811","name":"和平醫療社團法人進興診所","id":"4107320010","tel":"073869559","addr":"高雄市三民區九如一路171號","business_week":"OOOOOOXOOOOOOXOXOXOXX","memo":"111／09 月開始增每週1.3.5晚診，六增下午診"},
 ];

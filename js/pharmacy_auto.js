@@ -122,7 +122,7 @@ locations = [
 {"lng":"121.5601","lat":"25.05878","name":"大樹松山藥局","id":"5901013719","tel":"0227562226","addr":"臺北市松山區民生東路5段107號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"121.546812","lat":"25.053739","name":"康麗藥局","id":"5901013728","tel":"0227174117","addr":"臺北市松山區南京東路3段303巷20號(1樓)","business_week":"OOOOOXXOOOOOOXOOOOOOX"},
 {"lng":"","lat":"","name":"富景藥局","id":"5901013746","tel":"0227455666","addr":"臺北市松山區三民路145號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
-{"lng":"121.5461","lat":"25.03619","name":"宏恩藥局","id":"5901020303","tel":"0227000956","addr":"臺北市大安區大安路1段181號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"隨到隨買。符合免費領用資格者，亦歡迎領取。另供應自費 唾液快篩，歡迎洽詢。10／10營業時間異動為10:00~18:00"},
+{"lng":"121.5461","lat":"25.03619","name":"宏恩藥局","id":"5901020303","tel":"0227000956","addr":"臺北市大安區大安路1段181號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"隨到隨買。符合免費領用資格者，亦歡迎領取。另供應自費 唾液快篩，歡迎洽詢。"},
 {"lng":"121.5429","lat":"25.02254","name":"靜園藥局","id":"5901020376","tel":"0227336390","addr":"臺北市大安區和平東路2段118巷57之1號","business_week":"OOOOOXXOOOOOOOOOOOOOO","memo":"實名制快篩每日下午2:00開始代售，售完為止"},
 {"lng":"121.5548","lat":"25.04066","name":"延吉大藥局","id":"5901020385","tel":"0227819227","addr":"臺北市大安區延吉街153號1樓","business_week":"OOOOOXXOOOOXXXOOOOXXX"},
 {"lng":"121.528509","lat":"25.02271","name":"師大藥局","id":"5901020554","tel":"0223623479","addr":"臺北市大安區師大路99號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩試劑開賣時間下午2:30現場排隊"},
