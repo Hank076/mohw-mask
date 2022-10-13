@@ -170,7 +170,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.353236","lat":"22.680719","name":"仁雄診所","id":"3507080090","tel":"073741298","addr":"高雄市仁武區仁雄路15-1號","business_week":"OOOOOOXOOOOOOXOOOOOOO"},
 {"lng":"120.299177","lat":"22.664736","name":"朱光興診所","id":"3507290318","tel":"075223188","addr":"高雄市鼓山區文信路256號1樓","business_week":"OOOOOOXOOOXOOXOXOXOXX","memo":"春節期間看診時段請電洽診所"},
 {"lng":"120.278766","lat":"22.655795","name":"為好診所","id":"3507290336","tel":"075215489","addr":"高雄市鼓山區九如四路957號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
-{"lng":"120.28088","lat":"22.637174","name":"劉水壽診所","id":"3507290443","tel":"075211891","addr":"高雄市鼓山區鼓山二路166-7號","business_week":"OOOOOOXXXXXXXXXXXXXXX","memo":"10／10早上正常看診"},
+{"lng":"120.28088","lat":"22.637174","name":"劉水壽診所","id":"3507290443","tel":"075211891","addr":"高雄市鼓山區鼓山二路166-7號","business_week":"OOOOOOXXXXXXXXXXXXXXX"},
 {"lng":"120.28922","lat":"22.683758","name":"振亮診所","id":"3507300819","tel":"075879799","addr":"高雄市左營區左營大路156號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"10／8週六全日看診，10／9週日上午看診，10／10週一全日看診"},
 {"lng":"120.327285","lat":"22.641954","name":"柳雱邁診所","id":"3507320035","tel":"073895640","addr":"高雄市三民區大順二路96號","business_week":"OOOOOOXOXOXOXOOOOOOXO","memo":"10\/9早上，10\/10早上，10\/11下午，10\/11晚上看診"},
 {"lng":"120.32017","lat":"22.664784","name":"鼎真診所","id":"3507320526","tel":"073103130","addr":"高雄市三民區金鼎路325號","business_week":"OOOOOOXOOXOOXXOOOOOXX"},
