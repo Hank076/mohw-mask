@@ -2687,6 +2687,7 @@ locations = [
 {"lng":"121.5032","lat":"25.25816","name":"三芝藥師藥局","id":"5931211045","tel":"0286353982","addr":"新北市三芝區中正路1段43號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4053","lat":"25.14971","name":"杏家藥局","id":"5931231127","tel":"0226105369","addr":"新北市八里區中華路2段256號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"121.3999","lat":"25.1476","name":"大愛嘉安藥局","id":"5931231207","tel":"0226107790","addr":"新北市八里區中山路2段422號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.411","lat":"25.1576","name":"小蘋果藥局","id":"5931231225","tel":"0226108206","addr":"新北市八里區中山路1段229號","business_week":"OOOOOXOOOOOOXOOOOOOXO"},
 {"lng":"121.8658","lat":"25.03728","name":"松南藥局","id":"5931250015","tel":"0224931085","addr":"新北市雙溪區中華路29號","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"實名制快篩上班時間隨到隨買"},
 {"lng":"121.866","lat":"25.03761","name":"信芳藥局","id":"5931250042","tel":"0224931301","addr":"新北市雙溪區中華路50號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"121.6373","lat":"25.22091","name":"仁又堂藥局","id":"5931270026","tel":"0224982468","addr":"新北市金山區信義路17號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
