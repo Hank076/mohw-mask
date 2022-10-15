@@ -3222,7 +3222,7 @@ locations = [
 {"lng":"121.7715","lat":"24.67827","name":"大菖藥局","id":"5934022031","tel":"039559898","addr":"宜蘭縣羅東鎮公正路88號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期一到六上午08:30販售，不發號碼牌，現場排隊售完為止。"},
 {"lng":"121.7635","lat":"24.67976","name":"宏安藥局","id":"5934022059","tel":"039518696","addr":"宜蘭縣羅東鎮賢文里純精路2段225巷10號1樓","business_week":"OOOOOOOOOOOOXXOOOOOXX","memo":"快篩9；00開賣"},
 {"lng":"121.7705","lat":"24.67232","name":"天一藥師藥局","id":"5934022077","tel":"039541160","addr":"宜蘭縣羅東鎮南昌街95號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"***實名制快篩量充足無虞，歡迎來購買***"},
-{"lng":"121.7786","lat":"24.67394","name":"羅東啄木鳥藥局","id":"5934022095","tel":"039604670","addr":"宜蘭縣羅東鎮中山路2段303號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"5／9起下午3點開始販售"},
+{"lng":"121.7786","lat":"24.67394","name":"羅東啄木鳥藥局","id":"5934022095","tel":"039604670","addr":"宜蘭縣羅東鎮中山路2段303號","business_week":"XOOXOXXXOOXOXXXOOXOXX","memo":"平日下午3點販售"},
 {"lng":"121.7633","lat":"24.67703","name":"培英藥局","id":"5934022148","tel":"039558211","addr":"宜蘭縣羅東鎮純精路2段113號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩販售時間:星期一~星期五08:00開始，星期六 09:00開始，星期日休息"},
 {"lng":"121.765","lat":"24.67803","name":"哈哈藥局","id":"5934022157","tel":"039530258","addr":"宜蘭縣羅東鎮民生路141號1樓","business_week":"OOOOOOOOOOOOOXOOOOOXX"},
 {"lng":"121.7722","lat":"24.67662","name":"和平藥局","id":"5934022166","tel":"039564771","addr":"宜蘭縣羅東鎮和平路85號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩實名制早上08:00開始販售"},
