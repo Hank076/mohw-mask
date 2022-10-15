@@ -446,7 +446,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.290976","lat":"25.049022","name":"佳音小兒科診所","id":"3532051767","tel":"033127553","addr":"桃園市蘆竹區中正路359號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"10月08日，10月10日上午下午晚上開診；10／09休息"},
 {"lng":"121.292766","lat":"25.046607","name":"陳俊仁親子診所","id":"3532052568","tel":"033215866","addr":"桃園市蘆竹區中正路128號","business_week":"OOOOOOXXOOOOOXOOOOOXX","memo":"110\/01\/01 上午看診，111\/02\/28上午看診"},
 {"lng":"121.198155","lat":"25.064167","name":"懷德耳鼻喉科診所","id":"3532060604","tel":"033868878","addr":"桃園市大園區中正東路19-1號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
-{"lng":"121.336781","lat":"24.994712","name":"遠東耳鼻喉科診所","id":"3532070548","tel":"033502720","addr":"桃園市龜山區萬壽路2段997號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
+{"lng":"121.336781","lat":"24.994712","name":"遠東耳鼻喉科診所","id":"3532070548","tel":"033502720","addr":"桃園市龜山區萬壽路2段997號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"下午、晚上門診時間: 4:30~9:00"},
 {"lng":"121.297427","lat":"25.046271","name":"南崁現代診所","id":"3532072159","tel":"033218080","addr":"桃園市龜山區南祥路40號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"10／8早上開診.下午開診.晚上開診、10／9早上開診.下午開診.晚上開診、10／10早上開診.下午開診.晚上開診"},
 {"lng":"121.335055","lat":"24.991947","name":"朱永恆診所","id":"3532072266","tel":"033508182","addr":"桃園市龜山區中興路353號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"10／8（六）早上看診，下午及晚上休診；10／10（一） 早上看診，下午及晚上休診"},
 {"lng":"121.367423","lat":"25.056847","name":"微笑親子耳鼻喉科診所","id":"3532072506","tel":"033180022","addr":"桃園市龜山區文化二路51號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
