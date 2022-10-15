@@ -3365,6 +3365,7 @@ locations = [
 {"lng":"120.7186","lat":"24.25187","name":"中正藥局","id":"5936012515","tel":"0425298379","addr":"臺中市豐原區中正路186號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.7156","lat":"24.25173","name":"豐原福倫藥局","id":"5936012551","tel":"0425276618","addr":"臺中市豐原區中正路296號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販賣時段：下午2：00起"},
 {"lng":"120.7085","lat":"24.24521","name":"進安藥局","id":"5936012560","tel":"0425262681","addr":"臺中市豐原區西勢路115號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"周一至周日早上8:00開始發售快篩，售完為止"},
+{"lng":"120.715","lat":"24.24902","name":"誠品藥局","id":"5936012677","tel":"0425120495","addr":"臺中市豐原區中山路349號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.828525","lat":"24.25689","name":"劉藥局","id":"5936020035","tel":"0425873198","addr":"臺中市東勢區東安里豐勢路476號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.828558","lat":"24.256445","name":"仁生藥局","id":"5936020080","tel":"0425872245","addr":"臺中市東勢區東安里豐勢路421號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"以實際到貨為準*開始販售*售完為止！ （13:00-15:00 休息）週日有庫存會持續販售，均以現場為準！"},
 {"lng":"120.8279","lat":"24.258","name":"東生藥局","id":"5936020115","tel":"0425873647","addr":"臺中市東勢區中寧里豐勢路491號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"周一至周日上午9:00至12:00販售"},
