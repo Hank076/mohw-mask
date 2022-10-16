@@ -574,7 +574,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.310061","lat":"23.036697","name":"徐小兒科診所","id":"3541061691","tel":"065901995","addr":"臺南市新化區中山路193號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"9／9全日看診，9／10上午有看診"},
 {"lng":"120.298002","lat":"23.129878","name":"聯和耳鼻喉科診所","id":"3541071295","tel":"065851696","addr":"臺南市善化區大成路312之1號","business_week":"OOOOOOOOOOOOOOOOOOOXX"},
 {"lng":"120.313373","lat":"23.278623","name":"蔡瑞頒診所","id":"3541090101","tel":"066224466","addr":"臺南市柳營區光福里成功街210號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"每天有門診(星期日及國定假日上午看診\/急診:電話6224466\/休假日交付調劑)"},
-{"lng":"120.351375","lat":"23.231106","name":"民生診所","id":"3541130084","tel":"066986015","addr":"臺南市六甲區六甲里中正路531號","business_week":"OOXOOOXOOXOOOXOOXOOOO"},
+{"lng":"120.351375","lat":"23.231106","name":"民生診所","id":"3541130084","tel":"066986015","addr":"臺南市六甲區六甲里中正路531號","business_week":"OOXOOOXOOXOOOXOOXOOOO","memo":"111／10／14-111／10／20診所有人確診，診所休診1星期"},
 {"lng":"120.3501256","lat":"23.2309362","name":"甲和診所","id":"3541131232","tel":"066991393","addr":"臺南市六甲區六甲里建國街74號","business_week":"OOOOOOXOOXOXOXXXXXXXX","memo":"下午 2~6點"},
 {"lng":"120.164703","lat":"23.217893","name":"美地診所","id":"3541181170","tel":"067946127","addr":"臺南市將軍區苓仔寮里苓保81號","business_week":"OOOOOOXOXOXOXXOXOXOXX"},
 {"lng":"120.124859","lat":"23.267258","name":"大立診所","id":"3541190035","tel":"067860090","addr":"臺南市北門區北門里72號","business_week":"OOOOOOXOOOOOXXXXXXXXX"},

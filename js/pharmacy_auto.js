@@ -1657,6 +1657,7 @@ locations = [
 {"lng":"120.6612","lat":"24.1469","name":"麗新健保大藥局","id":"5917030995","tel":"0423017100","addr":"臺中市西區向上路一段162號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.6585","lat":"24.14651","name":"匯康藥局","id":"5917032220","tel":"0423014038","addr":"臺中市西區向上路一段二七七號一樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週一至週六早上09:30開始販售至口罩售完為止"},
 {"lng":"120.66181","lat":"24.135611","name":"祥鶴大藥局","id":"5917032293","tel":"0423710969","addr":"臺中市西區美村路一段六七三號一樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"固定周一至周日早上８：００售快篩至售完"},
+{"lng":"120.6714","lat":"24.14995","name":"中港大藥局","id":"5917032382","tel":"0422080708","addr":"臺中市西區臺灣大道2段132號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.6611","lat":"24.14444","name":"銘津藥局","id":"5917032471","tel":"0423021314","addr":"臺中市西區民生路390號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"每日上午10:00至13:00，下午3:00至21:00 現場排隊，星期日下午休息"},
 {"lng":"120.6707","lat":"24.1379","name":"向日睽藥局","id":"5917032613","tel":"0423731893","addr":"臺中市西區林森路98-2號1樓","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"快篩.每天早上9點開賣"},
 {"lng":"120.6605","lat":"24.14684","name":"幸福大藥局","id":"5917032640","tel":"0423026149","addr":"臺中市西區向上路一段194號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日上午8:00開始販售實名制快篩，售完為止"},
