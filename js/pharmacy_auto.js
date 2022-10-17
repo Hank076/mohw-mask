@@ -3711,6 +3711,7 @@ locations = [
 {"lng":"120.779","lat":"23.82647","name":"家禾藥局","id":"5938050120","tel":"0492760565","addr":"南投縣集集鎮民生路237號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩代售：w1~w5 下午2：00（當場發放號碼牌，而後當場代售）"},
 {"lng":"120.7881","lat":"23.8287","name":"省安藥局","id":"5938050139","tel":"0492763442","addr":"南投縣集集鎮民生路31號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"上午09-10至12點  下午3~7點  晚上7:30~8:00"},
 {"lng":"120.7034","lat":"23.83741","name":"召安藥局","id":"5938060180","tel":"0492737976","addr":"南投縣名間鄉彰南路30之1號","business_week":"OOOOOXOOOOOOXOOOOOOXO","memo":"實名制快篩週日~週五早上8:40開賣 . 週六店休停賣"},
+{"lng":"120.7023","lat":"23.83759","name":"献奇藥局","id":"5938061249","tel":"0492732678","addr":"南投縣名間鄉南雅村102號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩8:30開始作業，11:30~13:00暫停，當日庫存售完即停止販售發放"},
 {"lng":"120.6931","lat":"23.87715","name":"宏春健康生活藥局","id":"5938061301","tel":"0492228041","addr":"南投縣名間鄉彰南路395號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.7538","lat":"23.7458","name":"好康藥局","id":"5938070097","tel":"0492753788","addr":"南投縣鹿谷鄉中正路二段64號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"公費快篩早上8點販售"},
 {"lng":"120.937","lat":"23.89672","name":"得康藥局","id":"5938091149","tel":"0492899630","addr":"南投縣魚池鄉魚池村魚池街373號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"星期一至五上午8:45.星期六早上8:45開始販售快篩試劑"},
