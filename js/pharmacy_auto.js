@@ -2137,6 +2137,7 @@ locations = [
 {"lng":"121.510568","lat":"25.01331","name":"康宏安藥局","id":"5931033087","tel":"0229288118","addr":"新北市永和區保福路2段78號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5158","lat":"25.01017","name":"皇家藥師藥局","id":"5931033103","tel":"0289216867","addr":"新北市永和區中正路720號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.5143","lat":"25.00787","name":"緣來藥師藥局","id":"5931033176","tel":"0229211798","addr":"新北市永和區福和路250、252號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
+{"lng":"121.5152","lat":"25.01007","name":"廣惠藥局","id":"5931033194","tel":"0229290675","addr":"新北市永和區中正路649號2樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5102","lat":"25.00608","name":"級立健保藥局","id":"5931033201","tel":"0229299995","addr":"新北市永和區保平路139號1樓","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"快篩週一~週六販售，週日不銷售，10／9公休"},
 {"lng":"121.5075","lat":"25.01393","name":"保安藥局","id":"5931033363","tel":"0229277623","addr":"新北市永和區保安路212號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩販售時間 09:00-12:00，15:00-18:00，19:00-21:30"},
 {"lng":"121.5122","lat":"25.00749","name":"常安中西藥局","id":"5931033461","tel":"0229283530","addr":"新北市永和區保平路26號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"有實名制快篩 不分單雙號"},
