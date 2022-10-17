@@ -1880,6 +1880,7 @@ locations = [
 {"lng":"120.4714","lat":"23.47751","name":"大雅藥局","id":"5922013120","tel":"052778237","addr":"嘉義市東區大雅路二段487號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.458688","lat":"23.456598","name":"後庄弘安藥局","id":"5922013148","tel":"052305678","addr":"嘉義市東區吳鳳南路298號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.46","lat":"23.45571","name":"軍輝健康幸福藥局","id":"5922013157","tel":"052395789","addr":"嘉義市東區軍輝路192號","business_week":"OOOOOOOOOOOOOXOOOOOXX"},
+{"lng":"120.4533","lat":"23.47931","name":"森活中西藥局","id":"5922013175","tel":"052288518","addr":"嘉義市東區吳鳳北路208號一樓","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"8:00開始發放快篩   售完為止"},
 {"lng":"120.4588","lat":"23.455","name":"軍輝啄木鳥藥局","id":"5922013184","tel":"052395963","addr":"嘉義市東區軍輝路222號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.4604","lat":"23.48374","name":"民權藥局","id":"5922013193","tel":"052775322","addr":"嘉義市東區民權路155號1樓、157號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"120.4486","lat":"23.48383","name":"弘安藥局","id":"5922020063","tel":"052259000","addr":"嘉義市西區文化路277號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間 08:00-22:00 週一~週日販售快篩時間08:00-售罄；請自備零錢（面額500、1000不找零）"},
