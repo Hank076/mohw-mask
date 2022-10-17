@@ -321,6 +321,7 @@ locations = [
 {"lng":"121.5832","lat":"25.04329","name":"祥安藥局","id":"5901121421","tel":"0226547322","addr":"臺北市南港區中坡南路25號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.6166","lat":"25.05401","name":"健園藥局","id":"5901121583","tel":"0227851567","addr":"臺北市南港區研究院路1段19號1樓","business_week":"OOOOOOOOOOOOXXOOOOOXX","memo":"早上8點開賣 （政府有配送的狀況下） 沒發放號碼牌售完為止"},
 {"lng":"121.5883","lat":"25.04092","name":"新東發藥局","id":"5901121618","tel":"0227855190","addr":"臺北市南港區成福路198號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"營業時間 早上10:00至晚上9:00"},
+{"lng":"121.6165","lat":"25.05181","name":"富康活力藥局","id":"5901121627","tel":"0227828810","addr":"臺北市南港區研究院路1段101巷8號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一至週六，每天09:00-21:00販售口罩，請記得帶健保卡&零錢，售完為止。"},
 {"lng":"121.6061","lat":"25.05545","name":"亞博藥師藥局","id":"5901121672","tel":"0227838090","addr":"臺北市南港區興華路81號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.6152","lat":"25.0454","name":"佳龍藥局","id":"5901121725","tel":"0227885951","addr":"臺北市南港區研究院路2段80號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.6167","lat":"25.05175","name":"湳港藥局","id":"5901121734","tel":"0227892200","addr":"臺北市南港區研究院路1段101巷10號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一至週日，2:30開賣（政府有配送的況狀下）（沒有發放號碼牌），售完為止"},
