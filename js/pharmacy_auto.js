@@ -2944,6 +2944,7 @@ locations = [
 {"lng":"121.3878","lat":"25.04034","name":"文青藥局","id":"5932077118","tel":"033270581","addr":"桃園市龜山區文青路202號","business_week":"XOOOOOOOOOOOOOOOOOOOO","memo":"快篩販賣時段：上午10點到20點。（星期一下午2點-20點開始）"},
 {"lng":"121.3446","lat":"24.98989","name":"博爾康生活藥局","id":"5932077154","tel":"033506588","addr":"桃園市龜山區大同路250號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.3347","lat":"24.98763","name":"佑全藥局","id":"5932077172","tel":"033193036","addr":"桃園市龜山區幸福三街31號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"政府快篩試劑販賣時段：14:00-14:30"},
+{"lng":"121.3318","lat":"24.99291","name":"明昌藥局","id":"5932077270","tel":"033501205","addr":"桃園市龜山區中興里萬壽路二段1191-6號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.3252","lat":"24.98754","name":"家和藥局","id":"5932077298","tel":"033196416","addr":"桃園市龜山區建國東路97號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販賣時段：週一至週日15:00-17:00"},
 {"lng":"121.3427","lat":"25.0026","name":"全興藥局","id":"5932077305","tel":"033597901","addr":"桃園市龜山區光峰路153號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"上午8:30開始販售實名制快篩試劑，禮拜日公休。"},
 {"lng":"121.387692","lat":"25.040786","name":"安博氏藥師藥局","id":"5932077369","tel":"033283185","addr":"桃園市龜山區文青路185號1樓","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"快篩販售時間 : 星期1 ~ 星期6  中午 12:00 ~  晚上 10:00"},
