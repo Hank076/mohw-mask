@@ -975,6 +975,7 @@ locations = [
 {"lng":"120.6459","lat":"24.17179","name":"舒健藥局","id":"5903270721","tel":"0427077858","addr":"臺中市西屯區西屯路二段255號2樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"公費快篩試劑於早上9~12點，下午3~6點，晚上7~9點現場排隊購買，週日公休。"},
 {"lng":"120.6518","lat":"24.15734","name":"大墩藥局","id":"5903270749","tel":"0423209602","addr":"臺中市西屯區大墩19街68號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天下午三點開賣，請提早來排隊（視排隊狀況會提早發售）"},
 {"lng":"120.6367","lat":"24.15565","name":"河南丁丁藥局","id":"5903270776","tel":"0422511658","addr":"臺中市西屯區河南路4段191號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"周一至周日每天上午9:00開始販售實名制快篩"},
+{"lng":"120.6024","lat":"24.18286","name":"榮友藥局","id":"5903270801","tel":"0423508392","addr":"臺中市西屯區臺灣大道四段1742號","business_week":"OOOOOOXOOOOOXXXXOXXXX"},
 {"lng":"120.639","lat":"24.18251","name":"佑全福星藥局","id":"5903270810","tel":"0424527465","addr":"臺中市西屯區黎明路三段395、397號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"因政府實名制快篩配貨時間不一，依照門市現場公告時間為主"},
 {"lng":"120.6421","lat":"24.16318","name":"分子藥局","id":"5903270847","tel":"0422513080","addr":"臺中市西屯區惠來路二段236-1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"發放時間週一至週日早上10點起售完為止"},
 {"lng":"120.6632","lat":"24.16394","name":"熊健康藥局","id":"5903270874","tel":"0423163505","addr":"臺中市西屯區太原路一段232號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩實名制營業時間販售。 星期日公休。"},
