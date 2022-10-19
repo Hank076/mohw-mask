@@ -599,7 +599,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.396568","lat":"22.50376","name":"建芳診所","id":"3542052034","tel":"076467666","addr":"高雄市林園區東林東路28號","business_week":"OOOOOOXOOOOOXXOXXXOXX","memo":"10／10休假"},
 {"lng":"120.397711","lat":"22.601503","name":"宜和內兒科診所","id":"3542060189","tel":"077816825","addr":"高雄市大寮區鳳林三路341號","business_week":"OOOOOOOOOOOOXXOOXOOXX"},
 {"lng":"120.395163","lat":"22.607652","name":"郭其靈診所","id":"3542060901","tel":"077823335","addr":"高雄市大寮區鳳林三路541號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
-{"lng":"120.394756","lat":"22.6083","name":"張桐榮診所","id":"3542061953","tel":"077825382","addr":"高雄市大寮區鳳林三路575號","business_week":"OOOOOOOOOOOOXXOOOOOXO","memo":"10／8，全天休診，10／9，10／10早上看診，下午晚上休診"},
+{"lng":"120.394756","lat":"22.6083","name":"張桐榮診所","id":"3542061953","tel":"077825382","addr":"高雄市大寮區鳳林三路575號","business_week":"OOOOOOOOOOOOXXOOOOOXX","memo":"10／8，全天休診，10／9，10／10早上看診，下午晚上休診"},
 {"lng":"120.392702","lat":"22.636111","name":"大承耳鼻喉科診所","id":"3542062307","tel":"077013668","addr":"高雄市大寮區鳳屏一路466號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"10／08開診-全天看診；10／09開診-早午看診，晚上休診；10／10開診-全天看診"},
 {"lng":"120.355907","lat":"22.681815","name":"劉內兒科診所","id":"3542080047","tel":"073718727","addr":"高雄市仁武區仁心路6號","business_week":"OOOOOOXOOOOOOXXXXXXXX","memo":"10／08及10／10上午&下午正常看診"},
 {"lng":"120.351551","lat":"22.700291","name":"陽光診所","id":"3542081348","tel":"073755500","addr":"高雄市仁武區中華路255號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"6／3及6／4早午晚診6／5早開診9／9及9／10早午晚開診9／11早開診.10／8早午晚診、10／9早診、10／10早午晚診"},
