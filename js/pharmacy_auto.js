@@ -1336,6 +1336,7 @@ locations = [
 {"lng":"120.2579","lat":"22.85786","name":"永昌藥局","id":"5907150202","tel":"076964321","addr":"高雄市路竹區延平路81號","business_week":"OOOOOOXOOOOOOXXXXXXXX","memo":"周一至周六上午10:00~12:30；下午15:30-18:00開始依序販售快篩試劑，售完為止。星期日休息。"},
 {"lng":"120.260111","lat":"22.86059","name":"天德藥局路竹店","id":"5907150220","tel":"076975656","addr":"高雄市路竹區忠孝路26-2、26-3號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩早上九點開始販售，售完為止"},
 {"lng":"120.269","lat":"22.86954","name":"固德藥局","id":"5907150239","tel":"076978641","addr":"高雄市路竹區金平路312號","business_week":"OOOOOXOOOOOOXXXXXXXXX","memo":"每日上午8點販售實名制快篩"},
+{"lng":"120.2459","lat":"22.88472","name":"華安藥局","id":"5907160039","tel":"076938208","addr":"高雄市湖內區中山路一段451-19號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.2483","lat":"22.87968","name":"安麗兒藥局東方店","id":"5907160075","tel":"076936029","addr":"高雄市湖內區湖東里東方路90號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"領快篩 時間 一~日 早上9點開始~售完為止"},
 {"lng":"120.2195","lat":"22.90733","name":"保生藥局","id":"5907160093","tel":"076990800","addr":"高雄市湖內區葉厝里保生路340.342號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"120.1847","lat":"22.90057","name":"得安藥局","id":"5907170035","tel":"076909718","addr":"高雄市茄萣區嘉安里仁愛路三段56巷1-3號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
