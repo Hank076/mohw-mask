@@ -3711,7 +3711,7 @@ locations = [
 {"lng":"120.966258","lat":"23.964625","name":"吉生藥局","id":"5938020159","tel":"0492982966","addr":"南投縣埔里鎮南門里南昌街145號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日上午8:00販售快篩.售完為止"},
 {"lng":"120.9517","lat":"23.97306","name":"德林藥局","id":"5938020257","tel":"0492915293","addr":"南投縣埔里鎮大城路206號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"每日10點開始販售快篩試劑，直至當日應售數量完畢或店休為止。"},
 {"lng":"120.9624","lat":"23.96734","name":"東風中西藥局","id":"5938021432","tel":"0492903112","addr":"南投縣埔里鎮南昌街309號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩販售時間是早上8：30到晚上7：30 周日休假"},
-{"lng":"120.9686","lat":"23.96652","name":"大家好藥局","id":"5938021521","tel":"0492995876","addr":"南投縣埔里鎮中山路2段262-1號","business_week":"OOOOOOXOOXOXOXOOXOOXX","memo":"10／13下午休息，10／10休息"},
+{"lng":"120.9686","lat":"23.96652","name":"大家好藥局","id":"5938021521","tel":"0492995876","addr":"南投縣埔里鎮中山路2段262-1號","business_week":"OOOOOOXOOXOXOXOOXOOXX","memo":"11／10下午休息，11／26休息"},
 {"lng":"120.9537","lat":"23.96959","name":"埔里啄木鳥藥局","id":"5938021683","tel":"0492914510","addr":"南投縣埔里鎮中山路三段467號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"0-6歲免費實名制快篩09:40開始領，一般實名制09:40開始賣"},
 {"lng":"120.9678","lat":"23.96446","name":"欣欣藥局","id":"5938021745","tel":"0492421931","addr":"南投縣埔里鎮中正路385號","business_week":"OOOOOOOOOOOOOOOXOOOOO","memo":"早上8:30開始販賣實名制快篩，週二11：00開始販售"},
 {"lng":"120.964422","lat":"23.963861","name":"集成藥局","id":"5938021772","tel":"0492992837","addr":"南投縣埔里鎮南興街270號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間中~隨到隨領~"},
