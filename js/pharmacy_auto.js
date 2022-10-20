@@ -4361,6 +4361,7 @@ locations = [
 {"lng":"121.6058","lat":"23.98183","name":"佑全花蓮中山藥局","id":"5945013306","tel":"038360199","addr":"花蓮縣花蓮市中山路326號1樓、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間內皆可領快篩，營業時間9點-22點"},
 {"lng":"121.45","lat":"23.74899","name":"人和藥局","id":"5945021040","tel":"038762712","addr":"花蓮縣鳳林鎮中正路200號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.4503","lat":"23.74937","name":"安康鳳林藥局","id":"5945021086","tel":"038762227","addr":"花蓮縣鳳林鎮仁愛街10號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩發放時間，依現場公告為主，售完為止。"},
+{"lng":"121.3151","lat":"23.3331","name":"德興藥局","id":"5945030094","tel":"038889408","addr":"花蓮縣玉里鎮國武里中山路2段58號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩及開始營業:平日八點假日九點／／休息時間:中午12:00至13:30（週日至15:00） 晚間18:00至19:00"},
 {"lng":"121.3151","lat":"23.3371","name":"仁德藥局","id":"5945031199","tel":"038882333","addr":"花蓮縣玉里鎮中華路140號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩試劑每日早上8:30販賣，每週日休息"},
 {"lng":"121.314","lat":"23.33083","name":"莊藥局","id":"5945031297","tel":"038882328","addr":"花蓮縣玉里鎮中城里27鄰成功街95號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"口罩販售時間8:30-20:30"},
 {"lng":"121.604032","lat":"24.033064","name":"黃藥局","id":"5945040036","tel":"038267211","addr":"花蓮縣新城鄉北埔村北埔路203號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"實名制快篩販售時段：早上08:30~09:30，周日公休"},
