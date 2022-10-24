@@ -2340,7 +2340,7 @@ locations = [
 {"lng":"121.4519","lat":"25.03765","name":"新佑康健保藥局","id":"593106A771","tel":"0229947490","addr":"新北市新莊區中華路1段35號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4445","lat":"25.05148","name":"家禾藥局","id":"593106A824","tel":"0229972121","addr":"新北市新莊區立信五街6號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間皆有實名制快篩"},
 {"lng":"121.41956","lat":"25.026255","name":"欣國藥局","id":"593106A833","tel":"0229080958","addr":"新北市新莊區富國路57號1樓、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天快篩劑發號碼牌AM09:30販賣AM09:00售完為止"},
-{"lng":"121.4226","lat":"25.0215","name":"德翰藥局","id":"593106A922","tel":"0222025576","addr":"新北市新莊區四維路171巷1、3號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩代售時間週一至週六08:30"},
+{"lng":"121.4226","lat":"25.0215","name":"德翰藥局","id":"593106A922","tel":"0222025576","addr":"新北市新莊區四維路171巷1、3號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.426295","lat":"25.023981","name":"建安藥局","id":"593106A931","tel":"0222051969","addr":"新北市新莊區建安街117號、119號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"121.4446","lat":"25.05226","name":"美德心藥局","id":"593106A995","tel":"0229989025","addr":"新北市新莊區中平路367號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"固定每日8:00開始，販售快篩實名制，免費快篩也可以領，星期日也有賣。"},
 {"lng":"121.4577","lat":"25.04953","name":"樂福藥局","id":"593106B027","tel":"0229923388","addr":"新北市新莊區幸福路48號1樓、幸福路64巷2弄16號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午三點半開始購買快篩實名制"},
