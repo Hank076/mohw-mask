@@ -789,6 +789,7 @@ locations = [
 {"lng":"120.5386","lat":"24.24486","name":"沐光藥師連鎖藥局梧棲店","id":"5903060127","tel":"0426562262","addr":"臺中市梧棲區文昌路449號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩當天物流配送到就開賣（https:／／reurl.cc／NA67lm） 營業時間 9:30~21:30慢箋領藥／長照特約／孕期&小兒保健"},
 {"lng":"120.7171","lat":"24.30986","name":"泉興中西大藥局","id":"5903070016","tel":"0425583883","addr":"臺中市后里區甲后路一段598號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"120.712872","lat":"24.304686","name":"得安藥局","id":"5903070025","tel":"0425585333","addr":"臺中市后里區四村路78號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩販賣時間11:00~21:00 （18:00~19:00休息時間）"},
+{"lng":"120.7134","lat":"24.30512","name":"后里宏安藥局","id":"5903070052","tel":"0425581036","addr":"臺中市后里區福音路28號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩每天早上8-30販售下午2-30至晚上9-30，週日休息。"},
 {"lng":"120.7113","lat":"24.30469","name":"豪銘藥局","id":"5903070061","tel":"0425562991","addr":"臺中市后里區公安路68號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.7063","lat":"24.31155","name":"后里瑞士藥師藥局","id":"5903070089","tel":"0425566999","addr":"臺中市后里區甲后路二段579號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.7164","lat":"24.30682","name":"后里藥局","id":"5903070105","tel":"0425590119","addr":"臺中市后里區文明路133號1樓","business_week":"OOOOOOOOOOOOXXOOOOOOX"},
