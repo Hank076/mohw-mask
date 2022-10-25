@@ -2416,6 +2416,7 @@ locations = [
 {"lng":"121.3514","lat":"24.9527","name":"純安大藥局","id":"5931081403","tel":"0226791791","addr":"新北市鶯歌區國慶街179號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.3455","lat":"24.95592","name":"小樹藥師藥局","id":"5931081412","tel":"0226785107","addr":"新北市鶯歌區光明街126號1樓","business_week":"OOOOOOOOOOOOXOOOOOOXO","memo":"快篩販賣時間: 早上10:00~11:00開始販售"},
 {"lng":"121.338469","lat":"24.955481","name":"萊爾康健保藥局","id":"5931081421","tel":"0226775092","addr":"新北市鶯歌區永明街17號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"121.3494","lat":"24.95357","name":"康群藥局","id":"5931081494","tel":"0226796690","addr":"新北市鶯歌區建國路202號1樓","business_week":"OOOOOXXXXXXXXXXXXXXXX"},
 {"lng":"121.3497","lat":"24.95358","name":"正雅藥局","id":"5931081529","tel":"0226701128","addr":"新北市鶯歌區建國路176號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.3534","lat":"24.95571","name":"信義健保藥局","id":"5931081547","tel":"0286775563","addr":"新北市鶯歌區信義街63號1樓","business_week":"OOOOOOOXXXXXXXOOOOOOX","memo":"發放時間以現場公告為主"},
 {"lng":"121.3469","lat":"24.94851","name":"易加藥局","id":"5931081556","tel":"0226705686","addr":"新北市鶯歌區尖山路137巷4號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
