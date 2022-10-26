@@ -2962,6 +2962,7 @@ locations = [
 {"lng":"121.2935","lat":"24.9305","name":"和生藥局","id":"5932080197","tel":"033688368","addr":"桃園市八德區興豐路588號","business_week":"OOOOOOXOOOOOOOOOOOOOO"},
 {"lng":"121.306486","lat":"24.963346","name":"日鴻藥局","id":"5932080455","tel":"033763304","addr":"桃園市八德區義勇街175號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩販賣時段：早上9:00 發號碼牌下午4:00~6:00領取"},
 {"lng":"121.2947","lat":"24.96711","name":"壽德藥局","id":"5932083081","tel":"033666350","addr":"桃園市八德區桃德路八十四號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"121.287","lat":"24.92923","name":"健康中西藥師藥局","id":"5932083330","tel":"033650198","addr":"桃園市八德區興豐路326號2樓","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.3265","lat":"24.97137","name":"信發藥局","id":"5932083394","tel":"033669276","addr":"桃園市八德區桃鶯路24號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"1110901更新快篩地圖數量僅供參考依現場為主"},
 {"lng":"121.279","lat":"24.96204","name":"上方藥局","id":"5932083509","tel":"033635902","addr":"桃園市八德區廣褔路一八八號","business_week":"OOOOOOXOOOOOOXOOOXOOX","memo":"販賣快篩:開賣時間下午2:00~賣完為止"},
 {"lng":"121.2958","lat":"24.96902","name":"新大明藥局","id":"5932083527","tel":"033618284","addr":"桃園市八德區大明街二一號一樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩上午6.10開始領號碼牌領完為止假ㄖ無休"},
