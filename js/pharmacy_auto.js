@@ -2772,6 +2772,7 @@ locations = [
 {"lng":"121.2172","lat":"24.95608","name":"新生藥師藥局","id":"5932021090","tel":"034919796","addr":"桃園市中壢區民權路52號","business_week":"OOOOOOOOOOOOOOOOOOXOX","memo":"販賣時段：早上8:30"},
 {"lng":"121.2276","lat":"24.95767","name":"新象藥局","id":"5932021214","tel":"034277585","addr":"桃園市中壢區元化路62號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間:上午8:00至 晚上23:00 ***快篩販售時間周一至周六8:00***"},
 {"lng":"121.2499","lat":"24.97907","name":"優良藥局","id":"5932021269","tel":"034612336","addr":"桃園市中壢區長春路20號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩販售時間10:00"},
+{"lng":"121.238","lat":"24.95653","name":"懷仁藥師健保藥局","id":"5932021401","tel":"034378466","addr":"桃園市中壢區中北路93號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩銷售\\5月7號更改時間為下午5:00\\星期日沒有販售"},
 {"lng":"121.2454","lat":"24.9468","name":"全球永美大藥局","id":"5932021438","tel":"034661839","addr":"桃園市中壢區中山東路二段530號1至2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間:9:00-22:00"},
 {"lng":"121.228241","lat":"24.958397","name":"領耀大藥局","id":"5932021554","tel":"034253038","addr":"桃園市中壢區中央里元化路97號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"周日公休，平日快篩販售時間08:45開始"},
 {"lng":"121.2606","lat":"24.94827","name":"日光健康藥局","id":"5932021670","tel":"034383559","addr":"桃園市中壢區華祥一街2號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販賣時段：星期日不賣"},
