@@ -4028,6 +4028,7 @@ locations = [
 {"lng":"120.291845","lat":"23.076525","name":"安麗兒藥局新市店","id":"5941201161","tel":"065012699","addr":"臺南市新市區新和里中正路260號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"健保快篩下午2點~晚上9點或售完為止。"},
 {"lng":"120.4623","lat":"23.12381","name":"玉井藥局","id":"5941230016","tel":"065742271","addr":"臺南市玉井區玉田里中華路47號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"星期一-日07:30-售完"},
 {"lng":"120.464019","lat":"23.125177","name":"博愛中西藥局","id":"5941230052","tel":"065743036","addr":"臺南市玉井區玉田里中正路238號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩劑早上8點至售完為止"},
+{"lng":"120.465","lat":"23.1214","name":"大眾藥局","id":"5941231111","tel":"065744099","addr":"臺南市玉井區中華路237號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"實名制快篩劑早上7:40至售完（第二周與第四周周日休）"},
 {"lng":"120.4657","lat":"23.12218","name":"伊立安藥局","id":"5941231139","tel":"065747001","addr":"臺南市玉井區玉田里中山路143號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"實名制快篩劑 7:30起至售完"},
 {"lng":"120.2251","lat":"22.91949","name":"振裕藥局","id":"5941270109","tel":"062661478","addr":"臺南市仁德區二行里二行一路165號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售時間：早上09點-12點 下午2點半-9點"},
 {"lng":"120.2575","lat":"22.971089","name":"滋生藥局","id":"5941270136","tel":"062705057","addr":"臺南市仁德區仁義里中山路362號","business_week":"OOOOOOXOOOOOXXOOOOOXO","memo":"10／8（六）早上正常營業 10／9（日）~10／10（一）營業時間不定"},
