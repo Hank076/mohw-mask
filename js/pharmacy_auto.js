@@ -911,7 +911,7 @@ locations = [
 {"lng":"120.655","lat":"24.14522","name":"喆星藥局","id":"5903240385","tel":"0424715301","addr":"臺中市西區精誠路422號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.661162","lat":"24.132868","name":"德芳美村藥局","id":"5903240410","tel":"0423782848","addr":"臺中市西區美村路一段681、683號1樓","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"周一至週五下午3點~6點"},
 {"lng":"120.6567","lat":"24.15103","name":"神農藥局","id":"5903240429","tel":"0423103335","addr":"臺中市西區公益路190之1號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"上午11:00開始販賣快篩試劑，售完為止"},
-{"lng":"120.6615","lat":"24.14458","name":"真誠藥局","id":"5903240438","tel":"0423015750","addr":"臺中市西區美村路一段378號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"世鴻診所旁.10月1日起單次可購買6盒.0-6歲第四輪開始"},
+{"lng":"120.6615","lat":"24.14458","name":"真誠藥局","id":"5903240438","tel":"0423015750","addr":"臺中市西區美村路一段378號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"世鴻診所旁.11月1日起單次可購買6盒.0-6歲第5輪開始"},
 {"lng":"120.6717","lat":"24.14626","name":"大樹五權藥局","id":"5903240447","tel":"0422022910","addr":"臺中市西區五權路97-1號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"120.6615","lat":"24.14825","name":"杏一台中美村藥局","id":"5903240456","tel":"0423013310","addr":"臺中市西區美村路一段242、246號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩販售時間12:00~19:00（或售完為止），週日及國定假日不販售（國慶日當天不販售快篩）"},
 {"lng":"120.6549","lat":"24.14949","name":"德恩藥師藥局","id":"5903240465","tel":"0423102358","addr":"臺中市西區精誠路252號1樓","business_week":"OOOOOOXOOOOOOOOOOOOOO"},
