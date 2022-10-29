@@ -3592,6 +3592,7 @@ locations = [
 {"lng":"120.4973","lat":"24.03104","name":"秀水福倫藥局","id":"5937121291","tel":"047699618","addr":"彰化縣秀水鄉彰水路2段570號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.5009","lat":"24.03537","name":"丁丁藥局秀水店","id":"5937121308","tel":"047686200","addr":"彰化縣秀水鄉彰水路一段22號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一~週日於上午9點開始販售實名制快篩試劑!丁丁藥局關心您!"},
 {"lng":"120.4943","lat":"24.02791","name":"彰水藥局","id":"5937121317","tel":"047685880","addr":"彰化縣秀水鄉彰水路二段425、427、429號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
+{"lng":"120.5679","lat":"24.01439","name":"明志藥局","id":"5937130049","tel":"047867702","addr":"彰化縣花壇鄉三春村彰員路1段542號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"周一至周日9:00開始販賣口罩"},
 {"lng":"120.544107","lat":"24.027191","name":"武田藥局","id":"5937131153","tel":"047878683","addr":"彰化縣花壇鄉長沙村中正路120號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期一至星期六早上8點30分開始販售  *星期日休息*"},
 {"lng":"120.5463","lat":"24.04459","name":"祥安藥局","id":"5937131171","tel":"047863460","addr":"彰化縣花壇鄉彰員路3段89號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"實名制快篩早上8:20開始現場販售"},
 {"lng":"120.5394","lat":"24.02642","name":"春天藥局","id":"5937131180","tel":"047874458","addr":"彰化縣花壇鄉中山路2段30號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天早上8:30開始販售"},
