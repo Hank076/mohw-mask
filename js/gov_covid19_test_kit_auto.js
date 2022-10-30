@@ -132,7 +132,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.298573","lat":"22.724916","name":"長義診所","id":"3502042296","tel":"073640553","addr":"高雄市楠梓區惠民路46號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"9月10日休診 .上午 8:30-11:50  下午 15:30 - 17:50 晚診 18:30- 20:50"},
 {"lng":"120.321659","lat":"22.648641","name":"蕭瑞榮小兒科診所","id":"3502051375","tel":"073867121","addr":"高雄市三民區建工路533號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"10／8上午、下午開診、10／9全日休診、10／10上午開診"},
 {"lng":"120.318738","lat":"22.640239","name":"儲昭仁耳鼻喉科診所","id":"3502052345","tel":"073890470","addr":"高雄市三民區九如一路854號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"111／10／08早，午，晚看診，111／10／09休，111／10／10休"},
-{"lng":"120.320831","lat":"22.642189","name":"范雅修小兒科診所","id":"3502052498","tel":"073876366","addr":"高雄市三民區平等路163號","business_week":"OOOOOXXXXXXXXXOOOOOXO","memo":"雙十假期10／9休診，10／10正常看診"},
+{"lng":"120.320831","lat":"22.642189","name":"范雅修小兒科診所","id":"3502052498","tel":"073876366","addr":"高雄市三民區平等路163號","business_week":"OOOOOXXXXXXXXXOOOOOXO","memo":"10／30（日）晚上休診"},
 {"lng":"120.332316","lat":"22.642897","name":"許聰騰診所","id":"3502053904","tel":"073981023","addr":"高雄市三民區大昌二路100號","business_week":"OOOOOXXOOXOOXXOOXOOXX"},
 {"lng":"120.331532","lat":"22.62148","name":"林文樹小兒科內科診所","id":"3502080027","tel":"077611286","addr":"高雄市苓雅區武慶三路89號","business_week":"OOOOOOXXXXXXXXOOOOOOX","memo":"111／09／09 上午和晚上09／10 上午正常門診"},
 {"lng":"120.328586","lat":"22.621666","name":"陳清裕小兒科診所","id":"3502081499","tel":"077517221","addr":"高雄市苓雅區三多一路327號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
