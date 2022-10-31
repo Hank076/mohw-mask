@@ -2896,6 +2896,7 @@ locations = [
 {"lng":"121.3074","lat":"24.95938","name":"東林藥局","id":"5932084211","tel":"033761129","addr":"桃園市八德區和義街13號1樓","business_week":"OOOOOOXOOOOOOXOOOXOXO","memo":"快篩販賣時段：上午9:00開始.週日也有賣喔（12:00~15:00藥局休息）"},
 {"lng":"121.2718","lat":"24.97541","name":"佑兒康藥局","id":"5932084248","tel":"033709680","addr":"桃園市八德區永豐路570號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售時間:  每週一.二.四.五.六 下午2:30 開始 ； 每週三.日 晚上8:50開始"},
 {"lng":"121.3053","lat":"24.95733","name":"成發藥局","id":"5932084257","tel":"033751696","addr":"桃園市八德區和平路250號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩時間：下午三點 週日休息"},
+{"lng":"121.2973","lat":"24.93407","name":"博泰藥局","id":"5932084300","tel":"033731010","addr":"桃園市八德區介壽路二段982號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"121.2991","lat":"24.95818","name":"新寶樹藥局","id":"5932084319","tel":"033770000","addr":"桃園市八德區介壽路一段966號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.2993","lat":"24.95943","name":"悅康藥局","id":"5932084373","tel":"033662930","addr":"桃園市八德區介壽路一段916號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"全年無休、快篩販賣時段：13:30-17:00"},
 {"lng":"121.276","lat":"24.97932","name":"大躍藥局","id":"5932084480","tel":"033786958","addr":"桃園市八德區高城里高城路48號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售時間：8：15~售完為止，平日晚上不販售禮拜五除外"},
