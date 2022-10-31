@@ -1040,7 +1040,7 @@ locations = [
 {"lng":"120.6941","lat":"24.17221","name":"佑全台中興安藥局","id":"5903291266","tel":"0422490355","addr":"臺中市北屯區興安路一段253號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.7229","lat":"24.17591","name":"康是美藥局東山店","id":"5903291275","tel":"0424364571","addr":"臺中市北屯區東山路一段320號1樓、和福路258號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.312","lat":"23.30989","name":"橘子藥局","id":"5905010036","tel":"066351881","addr":"臺南市新營區民權路118之2號","business_week":"OOOOOOOOOOOOXXOOOOOXX","memo":"週一至週五10:00-19:00（13:00-14:00中午休息）；週六.週日10:00-12:00（配合實名制快篩販售，但有時會公休，再請先電話確認）"},
-{"lng":"120.304815","lat":"23.30861","name":"松柏藥局","id":"5905010063","tel":"066590063","addr":"臺南市新營區新南里新北街1號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
+{"lng":"120.304815","lat":"23.30861","name":"松柏藥局","id":"5905010063","tel":"066590063","addr":"臺南市新營區新南里新北街1號","business_week":"OOOOOOXOOOOOOXOXOOXXX"},
 {"lng":"120.3146","lat":"23.30286","name":"長壽藥局","id":"5905010072","tel":"066324001","addr":"臺南市新營區中山路219號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售時間：8:00~22:00"},
 {"lng":"120.3273","lat":"23.3189","name":"宏泰大藥局","id":"5905010125","tel":"066327801","addr":"臺南市新營區新東里東興8街27號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"營業時間至21:00"},
 {"lng":"120.3041","lat":"23.30767","name":"啄木鳥藥師藥局","id":"5905010143","tel":"066590248","addr":"臺南市新營區新南里民治路242號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"6／7起上午9:30開始販售，售完為止"},
