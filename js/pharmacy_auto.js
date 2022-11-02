@@ -1183,6 +1183,7 @@ locations = [
 {"lng":"120.2373","lat":"22.98241","name":"大樹自由藥局","id":"5905320797","tel":"062890800","addr":"臺南市東區自由路三段382號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"120.216984","lat":"22.962395","name":"大樹大同藥局","id":"5905320804","tel":"062158700","addr":"臺南市東區大同路二段227、229號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"120.217885","lat":"22.979458","name":"信霖藥局","id":"5905320840","tel":"063364699","addr":"臺南市東區崇明路123號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週日公休  營業時間AM9點~PM9點半"},
+{"lng":"120.2287","lat":"22.98652","name":"裕農藥局","id":"5905320859","tel":"062092286","addr":"臺南市東區裕農路302號1樓","business_week":"OOOOOXXOOOXOXXOXOXOXX","memo":"快篩下午5點開始"},
 {"lng":"120.2163","lat":"22.97419","name":"靈安藥局","id":"5905320877","tel":"062143727","addr":"臺南市東區大福里榮譽街32-2號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"週一至週五早上九點至晚上九點／週六早上九點至中午十二點"},
 {"lng":"120.215079","lat":"22.972259","name":"中華崇德藥局","id":"5905320886","tel":"062880800","addr":"臺南市東區中華東路三段181、183號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"120.2272","lat":"22.97227","name":"大樹崇道藥局","id":"5905320911","tel":"062680456","addr":"臺南市東區崇道路63號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
