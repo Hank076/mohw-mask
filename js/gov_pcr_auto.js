@@ -201,7 +201,7 @@ gov_pcr_locations = [
 {"lng":"121.3185952","lat":"23.33492847","name":"佛教慈濟醫療財團法人玉里慈濟醫院","id":"1145030012","tel":"038882718","addr":"花蓮縣玉里鎮民權街1-1號","business_week":"OOOOOOOOOOOOXOOOXOOXX","memo":"急診全年無休"},
 {"lng":"121.377829","lat":"23.099296","name":"衛生福利部臺東醫院成功分院","id":"0146020537","tel":"089854748","addr":"臺東縣成功鎮中山東路32號","business_week":"OOOOOOXOOOOOOXXXXXXXX","memo":"提供24小時急診服務"},
 {"lng":"121.132431","lat":"22.772346","name":"臺北榮民總醫院臺東分院","id":"0646010013","tel":"089222528","addr":"臺東縣台東市更生路1000號","business_week":"OOOOOOXOOOOOOXOOXOOXX","memo":"本院急診全天24小時提供醫療服務"},
-{"lng":"121.166766","lat":"23.057281","name":"佛教慈濟醫療財團法人關山慈濟醫院","id":"1146030516","tel":"089814880","addr":"臺東縣關山鎮和平路125之5號","business_week":"OOOOOXXOOOOOXXOOOOXXX","memo":"急診24小時全天候提供服務。"},
+{"lng":"121.166766","lat":"23.057281","name":"佛教慈濟醫療財團法人關山慈濟醫院","id":"1146030516","tel":"089814880","addr":"臺東縣關山鎮和平路125之5號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"急診24小時全天候提供服務。"},
 {"lng":"121.146016","lat":"22.763821","name":"東基醫療財團法人台東基督教醫院","id":"1146010032","tel":"089960888","addr":"臺東縣台東市開封街350號","business_week":"OOOOOOXOOOOOXXOOOOXXX","memo":"急診、住診服務：24小時／全年無休。"},
 {"lng":"121.150649","lat":"22.757025","name":"衛生福利部臺東醫院","id":"0146010013","tel":"089324112","addr":"臺東縣台東市五權街1號","business_week":"OOOOOXOOOOOOXXXXXXXXX","memo":"提供24小時急診服務、每月二、四週星期日上午提供假日門診服務"},
 {"lng":"121.1463877","lat":"22.7577577","name":"天主教花蓮教區醫療財團法人台東聖母醫院","id":"1146010041","tel":"089322833","addr":"臺東縣台東市杭州街2號","business_week":"OOOOOXXOOOOOXXXXXXXXX"},
