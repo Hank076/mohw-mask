@@ -4011,7 +4011,7 @@ locations = [
 {"lng":"119.5747","lat":"23.57292","name":"陽明金福藥局","id":"5944011406","tel":"069260855","addr":"澎湖縣馬公市陽明路50號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"口罩：週一至週六  09:30 開始販售"},
 {"lng":"119.5718","lat":"23.57208","name":"宏淇藥局","id":"5944011424","tel":"069260782","addr":"澎湖縣馬公市大勇街42號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"119.5846","lat":"23.56228","name":"東文藥局","id":"5944011433","tel":"069221433","addr":"澎湖縣馬公市東文里文山路66號","business_week":"OOOOOXOOOOOOXXOOOOOXX"},
-{"lng":"119.5708","lat":"23.57457","name":"永日春六號藥局","id":"5944011451","tel":"069270750","addr":"澎湖縣馬公市光榮里文光路110號1樓","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"快篩實名制，週一至週日，每天早上07:30開始販售，售完為止。"},
+{"lng":"119.5708","lat":"23.57457","name":"永日春六號藥局","id":"5944011451","tel":"069270750","addr":"澎湖縣馬公市光榮里文光路110號1樓","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"快篩實名制，週一至週日營業時段，皆提供販售服務。"},
 {"lng":"119.6603","lat":"23.5844","name":"全民藥局","id":"5944020558","tel":"069920403","addr":"澎湖縣湖西鄉湖西村150-3號","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"週一至週五早上08:00開始販售快篩試劑，售完為止 ； 中午12:00-13:30休息"},
 {"lng":"119.5094","lat":"23.60122","name":"金福藥局","id":"5944040014","tel":"069984048","addr":"澎湖縣西嶼鄉池東村43之2號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"121.6067","lat":"23.98027","name":"德生藥局","id":"5945010038","tel":"038322676","addr":"花蓮縣花蓮市中山路329號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩:每日上午9點開始"},
