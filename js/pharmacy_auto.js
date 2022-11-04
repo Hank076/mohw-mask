@@ -3203,6 +3203,7 @@ locations = [
 {"lng":"120.5361","lat":"24.07263","name":"佳展佳藥局","id":"5937012733","tel":"047288246","addr":"彰化縣彰化市彰安里中正路2段434號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"免費領牙科、慢性處方。上午08:30販售快篩。"},
 {"lng":"120.5452","lat":"24.08102","name":"福田藥局","id":"5937012751","tel":"047296058","addr":"彰化縣彰化市光復路20號","business_week":"OOOOOOXOOOOOXXXOXOXXX","memo":"週一到週六，早上8:00營業，開始販售快篩試劑， 售完為止. 下午2:30開始營業"},
 {"lng":"120.537545","lat":"24.075468","name":"華恩健保藥局","id":"5937012831","tel":"047239977","addr":"彰化縣彰化市華山路210號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩販售:下午2點"},
+{"lng":"120.5453","lat":"24.08422","name":"振安藥局","id":"5937012877","tel":"047261277","addr":"彰化縣彰化市民生里永安街73號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩試劑，每天販售，售完為止。"},
 {"lng":"120.5451","lat":"24.07213","name":"康好藥局南校店","id":"5937012957","tel":"047283491","addr":"彰化縣彰化市華北里南校街104號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩試劑下午2點開始販售，賣完為止"},
 {"lng":"120.53607","lat":"24.088349","name":"春生藥局自強店","id":"5937013114","tel":"047227058","addr":"彰化縣彰化市五權里自強南路45-6號","business_week":"XXXXXXXOOOOOXXXXXXXXX","memo":"下午2點發放號碼牌 發完即開始依序購買  星期六日休息"},
 {"lng":"120.5483","lat":"24.09616","name":"彰化啄木鳥藥局","id":"5937013196","tel":"047330661","addr":"彰化縣彰化市茄南里金馬路2段27號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
