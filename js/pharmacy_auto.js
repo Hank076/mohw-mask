@@ -4194,7 +4194,7 @@ locations = [
 {"lng":"121.1539","lat":"22.75747","name":"仁愛藥局","id":"5946012312","tel":"089350360","addr":"臺東縣臺東市光明路40號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"上午9:00 代售實名制快篩劑，至售完為止。"},
 {"lng":"121.150734","lat":"22.75422","name":"回春藥局","id":"5946012367","tel":"089322534","addr":"臺東縣台東市光明路196號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩全日供應"},
 {"lng":"121.0054","lat":"22.61024","name":"三杏藥局","id":"5946061128","tel":"089783373","addr":"臺東縣太麻里鄉太麻里街263號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"上午 8:30 販售實名制快篩劑，售完為止。"},
-{"lng":"121.136","lat":"22.91115","name":"平安藥局","id":"5946091135","tel":"089550688","addr":"臺東縣鹿野鄉中華路二段5號","business_week":"OOOOOXXOOOOOXXOOOOOXX"},
+{"lng":"121.136","lat":"22.91115","name":"平安藥局","id":"5946091135","tel":"089550688","addr":"臺東縣鹿野鄉中華路二段5號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"星期六.日.藥局休息..無販售快篩服務.請民眾見諒."},
 {"lng":"121.21866","lat":"23.123154","name":"伯安藥局","id":"5946101118","tel":"089863585","addr":"臺東縣池上鄉新生路116號","business_week":"XXXXXXXOOOOOOXXXXXXXX","memo":"午1400-1800"},
 {"lng":"121.215795","lat":"23.122375","name":"開心藥局","id":"5946101127","tel":"089861151","addr":"臺東縣池上鄉中山路136號","business_week":"OOOOOOXOOOOOOXOOOOXXX","memo":"快篩實名制週一至週六營業時間均販售，不發號碼牌，國定連假日另公告"},
 {"lng":"118.320671","lat":"24.432807","name":"大賀藥局","id":"5990010515","tel":"082327678","addr":"金門縣金城鎮北門里民生路3號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"中午12點開始販售實名制快篩"},
