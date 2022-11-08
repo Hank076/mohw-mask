@@ -188,7 +188,7 @@ gov_pcr_locations = [
 {"lng":"119.430963","lat":"23.204103","name":"七美鄉衛生所","id":"2344060011","tel":"069971005","addr":"澎湖縣七美鄉中和村埔內54號","business_week":"OOOOOOOOOOOOOOOOOOOXX"},
 {"lng":"119.610071","lat":"23.740119","name":"吉貝衛生所","id":"2344030031","tel":"069911430","addr":"澎湖縣白沙鄉吉貝村8-13號","business_week":"OOOOOXOOOOOOOXOOOOOOX"},
 {"lng":"119.660087","lat":"23.660035","name":"鳥嶼衛生所","id":"2344030022","tel":"069916092","addr":"澎湖縣白沙鄉鳥嶼漁港新村3號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"非上班時間提供急診服務"},
-{"lng":"119.565423","lat":"23.564553","name":"衛生福利部澎湖醫院","id":"0144010015","tel":"069261151","addr":"澎湖縣馬公市中正路10號","business_week":"OOOOOOOOOOOOOXXXXXXXX","memo":"本院提供24小時急診"},
+{"lng":"119.565423","lat":"23.564553","name":"衛生福利部澎湖醫院","id":"0144010015","tel":"069261151","addr":"澎湖縣馬公市中正路10號","business_week":"OOOOOOOOOOOOOOXXXXXXX","memo":"本院提供24小時急診"},
 {"lng":"119.521637","lat":"23.361397","name":"將軍衛生所","id":"2344050024","tel":"069902066","addr":"澎湖縣望安鄉將軍村12鄰將軍澳1之3號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"24小時急診"},
 {"lng":"119.320671","lat":"23.403736","name":"花嶼衛生室","id":"2344050015","tel":"069991739","addr":"澎湖縣望安鄉花嶼5號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"夜間急診。快篩試劑販售時間為:每日08:00-12:00、13:30-17:30售完為止，如有餘數為離島未售出（東嶼坪、花嶼）。"},
 {"lng":"119.497377","lat":"23.361897","name":"望安鄉衛生所","id":"2344050015","tel":"069991036","addr":"澎湖縣望安鄉西安村36-7號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"夜間急診。快篩試劑販售時間為:每日08:00-12:00、13:30-17:30售完為止，如有餘數為離島未售出（東嶼坪、花嶼）。"},
