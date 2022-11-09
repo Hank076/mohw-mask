@@ -203,7 +203,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.724013","lat":"25.12101","name":"李偉華耳鼻喉科診所","id":"3511061325","tel":"0224348535","addr":"基隆市安樂區安樂路二段179號1樓","business_week":"OOXOOOXXXXXXOXOOXOOXX","memo":"星期六.下午.16:00-19:00）"},
 {"lng":"120.979828","lat":"24.807053","name":"林安復耳鼻喉科診所","id":"3512010126","tel":"035355890","addr":"新竹市東區中華路二段159號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.973597","lat":"24.808684","name":"彭耳鼻喉科診所","id":"3512011132","tel":"035428888","addr":"新竹市東區中央路195號","business_week":"OOOOOOOOOOOOOXOOOOOXX"},
-{"lng":"120.977604","lat":"24.808036","name":"廖明厚小兒科診所","id":"3512011150","tel":"035316665","addr":"新竹市東區民族路130號","business_week":"OOOOOOXOOOXXXXOOOOXXX","memo":"急 門診 特休日早上看診 107年9月起星期四下午休診 星期日ˋ疫苗診"},
+{"lng":"120.977604","lat":"24.808036","name":"廖明厚小兒科診所","id":"3512011150","tel":"035316665","addr":"新竹市東區民族路130號","business_week":"OOOOOOXOOOXOOXOOOOOXX","memo":"急 門診 特休日早上看診 107年9月起星期四下午休診"},
 {"lng":"120.998682","lat":"24.795555","name":"英慈耳鼻喉科診所","id":"3512011356","tel":"035722846","addr":"新竹市東區立功里光復路二段308號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"11月26日周六選舉 只有上午門診"},
 {"lng":"120.994977","lat":"24.801621","name":"城佑耳鼻喉科診所","id":"3512013010","tel":"035748329","addr":"新竹市東區建中路59號","business_week":"OOOOOOOOOOXOXOOOOOOXX","memo":"10／7 全日開診，10／8~10／10 上午開診"},
 {"lng":"121.017581","lat":"24.783526","name":"謝德貴兒童診所","id":"3512013645","tel":"036686666","addr":"新竹市東區光復路一段360-2號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"6／3早午晚開診6／4早開診6／5休診9／9早午晚開診9／10休診9／11休診10／8早上開診、10／9休診、10／10休診"},
