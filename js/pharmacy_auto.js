@@ -325,6 +325,7 @@ locations = [
 {"lng":"121.5883","lat":"25.04092","name":"新東發藥局","id":"5901121618","tel":"0227855190","addr":"臺北市南港區成福路198號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"營業時間 早上10:00至晚上9:00"},
 {"lng":"121.6165","lat":"25.05181","name":"富康活力藥局","id":"5901121627","tel":"0227828810","addr":"臺北市南港區研究院路1段101巷12號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一至週六，每天09:00-21:00販售口罩，請記得帶健保卡&零錢，售完為止。"},
 {"lng":"121.6061","lat":"25.05545","name":"亞博藥師藥局","id":"5901121672","tel":"0227838090","addr":"臺北市南港區興華路81號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"121.6152","lat":"25.0454","name":"佳龍藥局","id":"5901121725","tel":"0227885951","addr":"臺北市南港區研究院路2段80號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.6167","lat":"25.05175","name":"湳港藥局","id":"5901121734","tel":"0227892200","addr":"臺北市南港區研究院路1段101巷10號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一至週日，2:30開賣（政府有配送的況狀下）（沒有發放號碼牌），售完為止"},
 {"lng":"121.5853","lat":"25.0457","name":"儀安健保藥局","id":"5901121823","tel":"0227859893","addr":"臺北市南港區同德路74號","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"實名制快篩下午三點開賣，無發放號碼牌（只有週日為晚上六點）"},
 {"lng":"121.6061","lat":"25.05517","name":"泓安藥局","id":"5901121841","tel":"0227861083","addr":"臺北市南港區興華路75號","business_week":"OOOOOOOOOOOOXXOOOOOXO","memo":"星期一至星期日早上10:00開賣快篩試劑"},
