@@ -4286,7 +4286,7 @@ locations = [
 {"lng":"121.5712","lat":"23.97783","name":"仁愛藥局","id":"5945051619","tel":"038511635","addr":"花蓮縣吉安鄉慶豐村中山路三段280號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"121.5915","lat":"23.98574","name":"花蓮建國藥局","id":"5945051646","tel":"038461699","addr":"花蓮縣吉安鄉建國路1段137-1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"0900-2100"},
 {"lng":"121.587084","lat":"23.973576","name":"吉安丁丁藥局","id":"5945051664","tel":"038536772","addr":"花蓮縣吉安鄉中華路二段11號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日9點營業即開始販售實名制快篩劑"},
-{"lng":"121.5617","lat":"23.97128","name":"上善藥局","id":"5945051673","tel":"038535618","addr":"花蓮縣吉安鄉吉安路二段39號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"（快篩領取時間:週一~週六上午8:30-12:00）星期日休息10\/10星期一休息"},
+{"lng":"121.5617","lat":"23.97128","name":"上善藥局","id":"5945051673","tel":"038535618","addr":"花蓮縣吉安鄉吉安路二段39號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"（快篩領取時間:週一~週六上午8:30-12:00）星期日休息11／12休息"},
 {"lng":"121.594","lat":"23.96871","name":"享寧藥局","id":"5945051682","tel":"038526532","addr":"花蓮縣吉安鄉中正路一段2號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"快篩開賣時間: 星期一到五早上九點到晚上九點； 星期六早上九點； 星期日休息"},
 {"lng":"121.5091","lat":"23.8693","name":"益昌藥局","id":"5945061204","tel":"038653718","addr":"花蓮縣壽豐鄉壽豐村中山路5段113號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"營業時間:早上W1~W6  8:30~12:00  下午W1~W5  2:00~6:00"},
 {"lng":"121.4235","lat":"23.66588","name":"合康藥局","id":"5945070561","tel":"038700306","addr":"花蓮縣光復鄉中正路一段85號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"無"},
