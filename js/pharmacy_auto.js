@@ -2134,7 +2134,7 @@ locations = [
 {"lng":"121.512807","lat":"25.013368","name":"上安藥局","id":"5931032875","tel":"0222328565","addr":"新北市永和區仁愛路80號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5171","lat":"25.01162","name":"博輝藥局","id":"5931032955","tel":"0289211766","addr":"新北市永和區中興街60號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"星期日提供急診服務"},
 {"lng":"121.5201","lat":"25.01396","name":"弘光藥局","id":"5931033032","tel":"0229282000","addr":"新北市永和區竹林路中興里66巷19號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上9點至晚上10點"},
-{"lng":"121.514771","lat":"25.013607","name":"博昇藥局","id":"5931033078","tel":"0229267273","addr":"新北市永和區仁愛路22號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"星期一至六8：20開始現場販售實名制快篩。"},
+{"lng":"121.514771","lat":"25.013607","name":"博昇藥局","id":"5931033078","tel":"0229267273","addr":"新北市永和區仁愛路22號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.510568","lat":"25.01331","name":"康宏安藥局","id":"5931033087","tel":"0229288118","addr":"新北市永和區保福路2段78號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5158","lat":"25.01017","name":"皇家藥師藥局","id":"5931033103","tel":"0289216867","addr":"新北市永和區中正路720號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.5143","lat":"25.00787","name":"緣來藥師藥局","id":"5931033176","tel":"0229211798","addr":"新北市永和區福和路250、252號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
