@@ -2969,6 +2969,7 @@ locations = [
 {"lng":"121.276","lat":"24.97932","name":"大躍藥局","id":"5932084480","tel":"033786958","addr":"桃園市八德區高城里高城路48號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售時間：8：15~售完為止，平日晚上不販售禮拜五除外"},
 {"lng":"121.3067","lat":"24.95861","name":"誠泰藥局","id":"5932084499","tel":"033649340","addr":"桃園市八德區大千里東勇街51-2號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.297","lat":"24.95908","name":"第二店廣福藥局","id":"5932084515","tel":"033660848","addr":"桃園市八德區廣福路91號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販賣時段：16:00~17:30"},
+{"lng":"121.305231","lat":"24.964874","name":"慈幼藥局","id":"5932084560","tel":"033749915","addr":"桃園市八德區忠勇六街7號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.297744","lat":"24.95011","name":"健民大藥局","id":"5932084613","tel":"033666639","addr":"桃園市八德區介壽路2段282號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間:9:00-22:00"},
 {"lng":"121.2958","lat":"24.95941","name":"成大藥局","id":"5932084622","tel":"033661575","addr":"桃園市八德區廣福路141號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"政府快篩販賣時段:星期一至星期日早上八點半開始販售"},
 {"lng":"121.2999","lat":"24.96304","name":"嘉家藥局","id":"5932084640","tel":"033749192","addr":"桃園市八德區介壽路一段782號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩領取時間以當天到貨狀況為主"},
