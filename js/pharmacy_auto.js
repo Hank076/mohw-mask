@@ -3875,7 +3875,7 @@ locations = [
 {"lng":"120.3109","lat":"23.69352","name":"三民藥局","id":"5939151135","tel":"056975515","addr":"雲林縣褒忠鄉三民路15號","business_week":"OOOXOOOOXOXOOXXXXXXXX","memo":"快篩試劑販賣時間:-08:00至售完"},
 {"lng":"120.3134","lat":"23.69541","name":"正和藥局","id":"5939151162","tel":"056972776","addr":"雲林縣褒忠鄉三民路116號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上7:00開始販售至售完止"},
 {"lng":"120.1931","lat":"23.70056","name":"木川藥局","id":"5939161140","tel":"056986220","addr":"雲林縣台西鄉中山路393號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"口罩發放時間:星期一到星期六早上8:00開始，售完為止.星期日休息"},
-{"lng":"120.1997","lat":"23.69946","name":"全家藥局","id":"5939161168","tel":"056984607","addr":"雲林縣台西鄉民生路24號","business_week":"OOOOOOXOOOOOOXXXXXXXX","memo":"【實名制快篩】早上08:00開始販售。醫院慢箋領藥、新冠抗病毒藥物PAXLOVID領藥"},
+{"lng":"120.1997","lat":"23.69946","name":"全家藥局","id":"5939161168","tel":"056984607","addr":"雲林縣台西鄉民生路24號","business_week":"OOOOOOXOOOOOOXXXXXXXX","memo":"【實名制快篩】【醫院慢箋領藥】【新冠抗病毒藥物PAXLOVID領藥】"},
 {"lng":"120.196969","lat":"23.697043","name":"華澤藥局","id":"5939161177","tel":"056980688","addr":"雲林縣台西鄉民族路30巷22-6號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.3124","lat":"23.64811","name":"嘉民藥局","id":"5939171039","tel":"057880513","addr":"雲林縣元長鄉長南村元南路62號","business_week":"OOOOOOXOOXOOXXXXXXXXX","memo":"無"},
 {"lng":"120.334","lat":"23.61849","name":"和平藥局","id":"5939171093","tel":"057862551","addr":"雲林縣元長鄉下寮村東興路33號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"販賣口罩時間：0800開賣，賣完為止"},
