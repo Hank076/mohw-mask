@@ -3643,7 +3643,7 @@ locations = [
 {"lng":"120.4591","lat":"23.89176","name":"堃泰中西藥局","id":"5937221241","tel":"048928798","addr":"彰化縣埤頭鄉斗苑西路267號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上8點開始發放，免排現領"},
 {"lng":"120.322","lat":"23.85443","name":"順順藥局","id":"5937241065","tel":"048946379","addr":"彰化縣大城鄉東城村東平路63-1號","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"實名制 快篩 統一於下午3點開始 星期日不販賣"},
 {"lng":"120.4271","lat":"23.86282","name":"宏吉藥局","id":"5937251105","tel":"048976709","addr":"彰化縣竹塘鄉竹塘村仁愛街50號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"周一到周六，7:50開始販賣快篩試劑"},
-{"lng":"120.4259","lat":"23.86081","name":"上明藥局","id":"5937251123","tel":"048970600","addr":"彰化縣竹塘鄉竹塘村竹塘街66號","business_week":"OOOOXOOOOOXXOXXXXXXXX","memo":"星期日上午有免費快篩更換"},
+{"lng":"120.4259","lat":"23.86081","name":"上明藥局","id":"5937251123","tel":"048970600","addr":"彰化縣竹塘鄉竹塘村竹塘街66號","business_week":"OOOOXOOOOOXXOXXXXXXXX","memo":"星期六日上午有免費快篩更換"},
 {"lng":"120.426741","lat":"23.859132","name":"竹塘張藥局","id":"5937251169","tel":"048972216","addr":"彰化縣竹塘鄉中興街56號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"120.4944","lat":"23.85174","name":"呂藥局","id":"5937260033","tel":"048895552","addr":"彰化縣溪州鄉溪州里中興路1號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"8:00開始販售快篩試劑，售完為止"},
 {"lng":"120.567","lat":"23.81505","name":"益興藥局","id":"5937261147","tel":"048802581","addr":"彰化縣溪州鄉大庄村中山巷27號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週一至週六早上8點開始販售，售完為止；1930休診"},
