@@ -1820,6 +1820,7 @@ locations = [
 {"lng":"120.1722","lat":"23.04956","name":"泰赫中西藥局","id":"5921061604","tel":"062562317","addr":"臺南市安南區安中路4段79號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上8開始銷售賣完為止"},
 {"lng":"120.1309","lat":"23.06296","name":"新資生藥師藥局","id":"5921061668","tel":"062571153","addr":"臺南市安南區城北路52號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOO","memo":"星期一~星期六早上.快篩販售8點到10點止"},
 {"lng":"120.2179","lat":"23.0659","name":"康悅健藥師藥局","id":"5921061720","tel":"063556382","addr":"臺南市安南區安和路5段149-2號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩-星期一-五13:00-售完   星期六-日15:00-售完"},
+{"lng":"120.2118","lat":"23.03457","name":"宏恩藥局","id":"5921061757","tel":"062474513","addr":"臺南市安南區長溪路1段52號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.1686","lat":"22.98883","name":"康活藥局","id":"5921071226","tel":"062936483","addr":"臺南市安平區健康三街186號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"快篩晚上18:00開賣."},
 {"lng":"120.1749","lat":"22.98882","name":"全家藥局","id":"5921071244","tel":"062939000","addr":"臺南市安平區華平路170號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"早上10:10 開賣快篩售完為止  請準備剛好金額 謝謝  星期日不營業"},
 {"lng":"120.1688","lat":"22.98987","name":"蘋果藥師藥局","id":"5921071360","tel":"062955351","addr":"臺南市安平區健康三街206號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩16:30-21:00販賣，請自備零錢."},
