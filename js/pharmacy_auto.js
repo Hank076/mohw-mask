@@ -2412,6 +2412,7 @@ locations = [
 {"lng":"121.3774","lat":"24.94638","name":"大新藥局","id":"5931091865","tel":"0286713204","addr":"新北市三峽區大義路259號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩領取販售時間為上午9點至晚上9點"},
 {"lng":"121.375","lat":"24.9438","name":"盛台藥局","id":"5931091874","tel":"0226722730","addr":"新北市三峽區大學路108號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"政府快篩平日13:50發號碼牌，14:00準時販售。假日視政府配量販售（販售時間相同）。"},
 {"lng":"121.3757","lat":"24.93321","name":"三峽藥局","id":"5931091892","tel":"0226738868","addr":"新北市三峽區介壽路1段27號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
+{"lng":"121.3752","lat":"24.93635","name":"三峽大昌藥局","id":"5931091972","tel":"0226711560","addr":"新北市三峽區民生街56號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.376945","lat":"24.928613","name":"欣美大藥局","id":"5931091990","tel":"0286712269","addr":"新北市三峽區大同路52號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日9:00至21:00銷售， 賣完為止!"},
 {"lng":"121.3678","lat":"24.92983","name":"瑞達美藥局","id":"5931092022","tel":"0286741627","addr":"新北市三峽區民權街180號1樓","business_week":"OOOOOOOXXXXXXXXXXXXXX","memo":"若政府有配送則早上9點10分開始發號碼牌，拿到號碼牌要離開請先寄卡付費，否則視同放棄"},
 {"lng":"121.3964","lat":"24.93584","name":"一大藥局","id":"5931092040","tel":"0286766677","addr":"新北市三峽區橫溪路23號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
