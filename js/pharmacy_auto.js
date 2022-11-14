@@ -734,7 +734,7 @@ locations = [
 {"lng":"120.3536","lat":"22.56665","name":"悅是康藥局","id":"5902110628","tel":"078010012","addr":"高雄市小港區漢民路276號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩不限時間、領完為止"},
 {"lng":"120.3522","lat":"22.58211","name":"力安藥師藥局","id":"5902111796","tel":"077918167","addr":"高雄市小港區桂陽路316號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩實名制:週一~週六早上07:30售完為止.週日公休"},
 {"lng":"120.3635","lat":"22.57096","name":"丁丁藥局小港店","id":"5902111938","tel":"078603388","addr":"高雄市小港區宏平路85號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間9-23，實名制快篩9點開始賣（中秋節營業至17:55）"},
-{"lng":"120.7258","lat":"24.24303","name":"金宏健保藥局","id":"5903010038","tel":"0425288262","addr":"臺中市豐原區安康路103號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"營業時間:星期一至星期六上午9:00-晚上9:00"},
+{"lng":"120.7258","lat":"24.24303","name":"金宏健保藥局","id":"5903010038","tel":"0425288262","addr":"臺中市豐原區安康路103號","business_week":"OOOOOXXOOOOOXXOXOOOXX","memo":"營業時間:星期一至星期五上午9:00-晚上7:50"},
 {"lng":"120.7336","lat":"24.25457","name":"友誠藥局","id":"5903010127","tel":"0425132371","addr":"臺中市豐原區豐東路401號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"禮拜一至禮拜日快篩發放時間上午九點至晚上九點，售完為止。"},
 {"lng":"120.7118","lat":"24.23956","name":"維立藥局","id":"5903010145","tel":"0425337605","addr":"臺中市豐原區豐南街2號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"營業時間 8點30~21點30，星期日無營業"},
 {"lng":"120.7153","lat":"24.24733","name":"永豐藥局","id":"5903010181","tel":"0425280088","addr":"臺中市豐原區中山路422號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
