@@ -2308,6 +2308,7 @@ locations = [
 {"lng":"121.4498","lat":"25.05089","name":"陽光連鎖藥局","id":"5931069505","tel":"0222774300","addr":"新北市新莊區中信街40號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"有賣快篩"},
 {"lng":"121.448","lat":"25.05311","name":"中信藥師藥局","id":"5931069603","tel":"0229969811","addr":"新北市新莊區中信街80號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"AM 07:30 開始"},
 {"lng":"121.4523","lat":"25.05003","name":"日光藥局","id":"5931069701","tel":"0289937296","addr":"新北市新莊區中港路404號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"12／31    1／1 休2天"},
+{"lng":"121.4259","lat":"25.01647","name":"禾佳藥局","id":"5931069747","tel":"0222080189","addr":"新北市新莊區民安西路154號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4475","lat":"25.04809","name":"健業藥妝藥局","id":"5931069765","tel":"0222796279","addr":"新北市新莊區中和街130號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販售資訊:下午3點~11點販售"},
 {"lng":"121.421923","lat":"25.020375","name":"真安綜合大藥局","id":"5931069774","tel":"0222026188","addr":"新北市新莊區四維路205號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.4543","lat":"25.04863","name":"宏泰藥局","id":"5931069792","tel":"0229964649","addr":"新北市新莊區自信街37號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
