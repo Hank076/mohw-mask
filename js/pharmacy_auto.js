@@ -502,6 +502,7 @@ locations = [
 {"lng":"121.5184","lat":"25.02513","name":"佑康大藥局","id":"5901183789","tel":"0223683602","addr":"臺北市中正區汀州路2段115號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩隨時都能來買！阿妮亞萬歲"},
 {"lng":"121.5169","lat":"25.04448","name":"佳和藥局","id":"5901183798","tel":"0223117102","addr":"臺北市中正區黎明里公園路30號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"121.5096","lat":"25.0249","name":"進達健保藥局","id":"5901184071","tel":"0223039829","addr":"臺北市中正區中華路2段453號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩全時段發售  星期日公休"},
+{"lng":"121.5062","lat":"25.02795","name":"活力健康藥妝藥局","id":"5901184080","tel":"0223392625","addr":"臺北市中正區中華路2段315巷1號","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"快篩每日09:30-21:00  週日1200:21:00"},
 {"lng":"121.518592","lat":"25.029532","name":"信康藥局","id":"5901184106","tel":"0223961979","addr":"臺北市中正區南昌路1段143號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"09:00 開始 售完為止"},
 {"lng":"121.5042","lat":"25.03101","name":"保德中華藥局","id":"5901184179","tel":"0223027720","addr":"臺北市中正區中華路2段159號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩下午三點開始販售"},
 {"lng":"121.5264","lat":"25.03466","name":"71恩典藥局","id":"5901184213","tel":"0223223371","addr":"臺北市中正區信義路2段71號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"實名制快篩及免費快篩營業時間隨時可買或換。請持健保卡."},
