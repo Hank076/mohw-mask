@@ -4147,6 +4147,7 @@ locations = [
 {"lng":"120.4898","lat":"22.67023","name":"信安藥局","id":"5943014314","tel":"087322332","addr":"屏東縣屏東市漢口街11號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"0830-2100 無人排隊時  隨到隨領"},
 {"lng":"120.4867","lat":"22.67045","name":"千甲台安藥局","id":"5943014332","tel":"087330663","addr":"屏東縣屏東市武廟里逢甲路92號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日快篩資訊和重要事項公告於LINE社群:https:／／reurl.cc／M0b5VX（每日早上08:00販售--晚上23:00）"},
 {"lng":"120.4785","lat":"22.66651","name":"和平藥局","id":"5943014341","tel":"087556696","addr":"屏東縣屏東市和平路35號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
+{"lng":"120.4989","lat":"22.68319","name":"恩典藥局","id":"5943014350","tel":"087368718","addr":"屏東縣屏東市廣東路564號","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"禮拜一到五9:00~17:00*六日休息*"},
 {"lng":"120.5364","lat":"22.54281","name":"晉源藥師藥局","id":"5943020090","tel":"087886819","addr":"屏東縣潮州鎮新興路65之1號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩販售時間:營業日:8:30開始，售完為止."},
 {"lng":"120.54153","lat":"22.549735","name":"信安西藥局","id":"5943020125","tel":"087882176","addr":"屏東縣潮州鎮同榮里中山路70號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"實名制快篩常態販賣。售完為止。週六週日不營業。"},
 {"lng":"120.537861","lat":"22.54802","name":"惠安藥局","id":"5943020161","tel":"087882368","addr":"屏東縣潮州鎮新榮里新生路31號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"周一至周六"},
