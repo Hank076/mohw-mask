@@ -2170,6 +2170,7 @@ locations = [
 {"lng":"121.481375","lat":"25.002413","name":"溫莎藥局","id":"5931040037","tel":"0282277275","addr":"新北市中和區員山路388號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"固定週1至週六早上9點現場隨到隨買不發號碼牌.售完為止."},
 {"lng":"121.474","lat":"25.00236","name":"瑞發藥局","id":"5931040055","tel":"0222235319","addr":"新北市中和區民享街56-1號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"121.4986","lat":"25.00219","name":"中和光田藥局","id":"5931040082","tel":"0222459602","addr":"新北市中和區連城路28號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩**領藥時間無代售服務（請先寄卡或晚上9點後來領）"},
+{"lng":"121.508243","lat":"24.983919","name":"華新藥局","id":"5931040215","tel":"0229448345","addr":"新北市中和區華新街73號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4687","lat":"25.00163","name":"欣祥藥局","id":"5931040224","tel":"0229646442","addr":"新北市中和區民德路74-1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日早上9點，販售快篩。若有異動以現場公告為主 ."},
 {"lng":"121.4724","lat":"25.00173","name":"天立藥局","id":"5931040242","tel":"0229578831","addr":"新北市中和區莒光路122號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5118","lat":"24.99168","name":"信隆大藥局","id":"5931040297","tel":"0229426196","addr":"新北市中和區安樂路6號1至2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
