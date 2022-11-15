@@ -4364,7 +4364,7 @@ locations = [
 {"lng":"121.3771","lat":"23.49752","name":"瑞安藥局","id":"5945091113","tel":"038876616","addr":"花蓮縣瑞穗鄉中山路1段6號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時間：每天上午7；30點開始販售，賣完為止。"},
 {"lng":"121.1516","lat":"22.75487","name":"陳藥局","id":"5946010194","tel":"089310659","addr":"臺東縣臺東市光明路143號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"星期日公休。週一至六早上8點開始代售快篩試劑。"},
 {"lng":"121.141123","lat":"22.763546","name":"晃成藥局","id":"5946010229","tel":"089336981","addr":"臺東縣臺東市更生路494號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩9:00開始"},
-{"lng":"121.1517","lat":"22.75654","name":"大東藥局","id":"5946011486","tel":"089349747","addr":"臺東縣臺東市中山路238號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"星期日不販售  星期一至星期五  早上8:30   下午15:30  販售   星期六早上8:30 販售"},
+{"lng":"121.1517","lat":"22.75654","name":"大東藥局","id":"5946011486","tel":"089349747","addr":"臺東縣臺東市中山路238號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"星期日不販售  星期一至星期五  早上8:30   下午15:30  販售   星期六早上8:30 販售 11／19休假"},
 {"lng":"121.1551","lat":"22.75662","name":"松泰藥師藥局","id":"5946011593","tel":"089334845","addr":"臺東縣臺東市中華路1段242號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩實名制  星期一至六 09:00開始販售"},
 {"lng":"121.139738","lat":"22.756263","name":"禾安藥局","id":"5946011780","tel":"089223111","addr":"臺東縣臺東市四維路3段2號、8號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一至週日9點快篩依序販售."},
 {"lng":"121.1354","lat":"22.74286","name":"中華藥局","id":"5946011931","tel":"089322389","addr":"臺東縣臺東市中華路二段345號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"快篩試劑早上8:10開始販賣。"},
