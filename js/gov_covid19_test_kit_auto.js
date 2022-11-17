@@ -84,7 +84,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.548329","lat":"25.082041","name":"大直診所","id":"3501103272","tel":"0225332339","addr":"臺北市中山區北安路595巷2弄2號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.548801","lat":"25.082581","name":"高固亷診所","id":"3501105310","tel":"0225323036","addr":"臺北市中山區北安路613號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.54903","lat":"25.083708","name":"莊宇龍診所","id":"3501105445","tel":"0225331255","addr":"臺北市中山區北安路637號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
-{"lng":"121.5461","lat":"25.079699","name":"愛鄰診所","id":"3501105767","tel":"0225322333","addr":"臺北市中山區北安路520-1號","business_week":"OOOOOOXOOOOOXXOOOOOOX","memo":"10／10早診正常、夜診休息，其他都正常看診"},
+{"lng":"121.5461","lat":"25.079699","name":"愛鄰診所","id":"3501105767","tel":"0225322333","addr":"臺北市中山區北安路520-1號","business_week":"OOOOOOXOOOOOXXOOOOOOX"},
 {"lng":"121.548528","lat":"25.082196","name":"惟亷診所","id":"3501107645","tel":"0225323038","addr":"臺北市中山區北安路595巷1號B1","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.548643","lat":"25.081944","name":"大直佳恩診所","id":"3501107725","tel":"0225323301","addr":"臺北市中山區北安路591號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"121.548801","lat":"25.082581","name":"固亷診所","id":"3501108277","tel":"0225323036","addr":"臺北市中山區北安路613號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
