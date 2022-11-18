@@ -253,7 +253,7 @@ locations = [
 {"lng":"121.541","lat":"25.06511","name":"建誠中西藥局","id":"5901103227","tel":"0225158608","addr":"臺北市中山區龍江路385之1號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"實名制快篩發放時間 週一至週五10:00-20:00 週六 10:00-14:00"},
 {"lng":"121.525825","lat":"25.066473","name":"誠意中西藥局","id":"5901103236","tel":"0225950951","addr":"臺北市中山區林森北路613號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"依情況調整"},
 {"lng":"121.541786","lat":"25.048401","name":"長安藥局","id":"5901103272","tel":"0227772740","addr":"臺北市中山區長安東路2段171-3號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"周日公休"},
-{"lng":"121.5255","lat":"25.06232","name":"仁一藥局","id":"5901103325","tel":"0225711742","addr":"臺北市中山區林森北路520號","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"快篩發放時間每日下午2點"},
+{"lng":"121.5255","lat":"25.06232","name":"仁一藥局","id":"5901103325","tel":"0225711742","addr":"臺北市中山區林森北路520號","business_week":"OOOOOOXOOOOOOOOOOOOOO"},
 {"lng":"121.5488","lat":"25.08241","name":"大直小太陽藥局","id":"5901103334","tel":"0285093208","addr":"臺北市中山區北安路607之1號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.549","lat":"25.08243","name":"美康正康藥局","id":"5901103352","tel":"0225323077","addr":"臺北市中山區北安路616之1號、618號2樓之1","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5482","lat":"25.08073","name":"大直永安藥局","id":"5901103405","tel":"0225332125","addr":"臺北市中山區北安路567之2號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"0-6歲幼童免費快篩及健保實名制快篩，上班時間都可購買"},
