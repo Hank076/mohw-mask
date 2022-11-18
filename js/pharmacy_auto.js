@@ -1469,7 +1469,7 @@ locations = [
 {"lng":"120.3115","lat":"22.59249","name":"金服安藥局","id":"5907360379","tel":"078150061","addr":"高雄市前鎮區鎮興路191號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日下午2-9點販賣快篩試劑"},
 {"lng":"120.3226","lat":"22.57903","name":"益源藥局","id":"5907360413","tel":"078412120","addr":"高雄市前鎮區草衙二路418號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.3073","lat":"22.59003","name":"隆德藥局","id":"5907360440","tel":"078216030","addr":"高雄市前鎮區前鎮街170號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天早上八點營業.快篩劑要09:00後才開賣"},
-{"lng":"120.3141","lat":"22.60955","name":"聯合藥局","id":"5907360459","tel":"073391535","addr":"高雄市前鎮區一心一路281號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"有貨量就販售.現場排隊販售.不採取號碼牌"},
+{"lng":"120.3141","lat":"22.60955","name":"聯合藥局","id":"5907360459","tel":"073391535","addr":"高雄市前鎮區一心一路281號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間 9:30~21:30"},
 {"lng":"120.3357","lat":"22.60598","name":"大樹瑞福藥局","id":"5907360520","tel":"077271170","addr":"高雄市前鎮區瑞隆路170號1樓、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"120.3116","lat":"22.61373","name":"祥安健保藥局","id":"5907360566","tel":"073340393","addr":"高雄市前鎮區復興三路393號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.3117","lat":"22.60649","name":"風鈴藥局","id":"5907360628","tel":"075367833","addr":"高雄市前鎮區管仲路37號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"販售快篩：09:30-11:30 依照配送調整販售時間（周日公休）"},
