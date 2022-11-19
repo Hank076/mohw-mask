@@ -2675,6 +2675,7 @@ locations = [
 {"lng":"121.6906","lat":"25.17868","name":"北海岸藥局","id":"5931281074","tel":"0224922022","addr":"新北市萬里區瑪鍊路98號","business_week":"OOOOOOXXXXXXXXOOOOOXX"},
 {"lng":"121.6569","lat":"25.20989","name":"焦藥局","id":"5931281083","tel":"0224923188","addr":"新北市萬里區港東新?6號1樓","business_week":"OOOOOOXOOOOOXXOOXOOXX","memo":"11月14~17 僅早上9~12點， 11月18~20休息"},
 {"lng":"121.293748","lat":"25.02199","name":"家佳藥局","id":"5932010019","tel":"033175618","addr":"桃園市桃園區瑞慶里莊一街80號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"藥局不看診，周休二日"},
+{"lng":"121.2934","lat":"25.02282","name":"安琪兒藥局","id":"5932010202","tel":"033016965","addr":"桃園市桃園區莊敬路二段76號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.2959","lat":"25.01191","name":"七加恩聯合藥局","id":"5932010328","tel":"033029302","addr":"桃園市桃園區中埔二街123號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.2875","lat":"24.98726","name":"均康藥局","id":"5932010560","tel":"032170172","addr":"桃園市桃園區中聖里國鼎一街27號1樓之4","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩販售時間 : 早上8:00"},
 {"lng":"121.3136","lat":"24.99548","name":"新華興清溪藥局","id":"5932010631","tel":"033330011","addr":"桃園市桃園區東門里中山東路10號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩早上09:30 開始"},
