@@ -3993,6 +3993,7 @@ locations = [
 {"lng":"120.2661","lat":"23.32082","name":"民生藥局","id":"5941020056","tel":"066521071","addr":"臺南市鹽水區中境里三福路51號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制家用快篩早上8:00開始販售!"},
 {"lng":"120.4136","lat":"23.34965","name":"源大醫藥局","id":"5941030043","tel":"066831128","addr":"臺南市白河區永安里中正路55號","business_week":"OOOOOOOOOOOOOOXXXXXXX","memo":"快篩販售時間：星期一~星期日 早上8：00開始至售完"},
 {"lng":"120.415","lat":"23.34964","name":"新信安藥局","id":"5941030089","tel":"066852173","addr":"臺南市白河區中山路51號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩販賣時間:早上7:30至晚上7：00，星期日店休"},
+{"lng":"120.4466","lat":"23.37697","name":"協宏藥局","id":"5941030114","tel":"066852961","addr":"臺南市白河區竹門里98之3號","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"快篩  08 : 30-20:00"},
 {"lng":"120.4141","lat":"23.34956","name":"芳瑜藥局","id":"5941031175","tel":"066857379","addr":"臺南市白河區永安里康樂路72號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"星期日下午休息"},
 {"lng":"120.2521","lat":"23.18357","name":"杏林藥局","id":"5941040012","tel":"065722692","addr":"臺南市麻豆區晉江里興中路136號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"星期一~日  7:30~22:00（隨到隨買~不用排隊）"},
 {"lng":"120.2507","lat":"23.18354","name":"安安藥局","id":"5941040049","tel":"065727475","addr":"臺南市麻豆區興中路88號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間：上午8:00-晚上10:00"},
