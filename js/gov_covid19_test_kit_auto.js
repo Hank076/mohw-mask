@@ -570,7 +570,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.431199","lat":"23.555419","name":"賴政友診所","id":"3540040036","tel":"052266550","addr":"嘉義縣民雄鄉東榮村和平路9號","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"11月5.12.19.16日晚上休診  11月6.13.20.27日 下午.晚上休診"},
 {"lng":"120.345586","lat":"23.556584","name":"昌模小兒科診所","id":"3540060207","tel":"053740369","addr":"嘉義縣新港鄉福德路20號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.378207","lat":"23.498525","name":"定安診所","id":"3540111272","tel":"052371777","addr":"嘉義縣太保市南新里中山路一段311-5號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
-{"lng":"120.493889","lat":"23.446431","name":"台大佳醫診所","id":"3540131498","tel":"052399199","addr":"嘉義縣中埔鄉金蘭村頂山門34-51號","business_week":"OOOOOOXOOOOOXXOOXOOXX","memo":"9／9，9／10止有早上看診，9／11休假"},
+{"lng":"120.493889","lat":"23.446431","name":"台大佳醫診所","id":"3540131498","tel":"052399199","addr":"嘉義縣中埔鄉金蘭村頂山門34-51號","business_week":"OOOOOOXOOOOOXXOOXOOXX","memo":"11／26上午看診"},
 {"lng":"120.312612","lat":"23.30656","name":"顏內小兒科診所","id":"3541010318","tel":"066320209","addr":"臺南市新營區民權路82號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"星期日約診"},
 {"lng":"120.319723","lat":"23.307312","name":"同慶診所","id":"3541010621","tel":"066323566","addr":"臺南市新營區三民路37之6號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"可事先電話查詢.上午8:00-12:00，下午2:40-4:40，晚上7:10-8:10."},
 {"lng":"120.316181","lat":"23.316759","name":"陳耀軫診所","id":"3541010694","tel":"066356988","addr":"臺南市新營區中正路57號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
