@@ -485,6 +485,7 @@ locations = [
 {"lng":"121.5688","lat":"25.0412","name":"市政藥局","id":"5901174084","tel":"0227560050","addr":"臺北市信義區忠孝東路5段169號1樓、171號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"121.5272","lat":"25.04162","name":"崇信藥局","id":"5901180037","tel":"0223417557","addr":"臺北市中正區齊東街88號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"上午8.30開始代售快篩 .售完為止."},
 {"lng":"121.5076","lat":"25.03026","name":"日生大藥局","id":"5901180055","tel":"0223031393","addr":"臺北市中正區汀州路1段53號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩試劑代售服務時間: 快篩試劑 每日上午10點起開賣 售完為止"},
+{"lng":"121.5305","lat":"25.0406","name":"民生藥局","id":"5901180126","tel":"0223416470","addr":"臺北市中正區濟南路2段45-1號1樓","business_week":"OOXOOXOOOXOOXOOOXOOXO","memo":"8／7"},
 {"lng":"121.5326","lat":"25.03969","name":"大安藥局","id":"5901180206","tel":"0223213186","addr":"臺北市中正區新生南路1段106號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"週一到週六"},
 {"lng":"121.5126","lat":"25.04221","name":"上海聯合藥局","id":"5901180215","tel":"0223117744","addr":"臺北市中正區衡陽路32號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5303","lat":"25.01654","name":"中心藥局","id":"5901180224","tel":"0223689889","addr":"臺北市中正區汀州路3段121號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩實名制目前0-6歲兒童，第五輪可免費領取一盒；65歲以上，第三輪可免費領取一盒"},
