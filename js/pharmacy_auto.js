@@ -2649,7 +2649,7 @@ locations = [
 {"lng":"121.6399","lat":"25.21925","name":"躍獅五福藥局","id":"5931271103","tel":"0224081608","addr":"新北市金山區中山路99號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販售時段:早上八點至售完為止"},
 {"lng":"121.6837","lat":"25.18504","name":"萬里藥局","id":"5931280013","tel":"0224922235","addr":"新北市萬里區瑪鍊路90號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.6906","lat":"25.17868","name":"北海岸藥局","id":"5931281074","tel":"0224922022","addr":"新北市萬里區瑪鍊路98號","business_week":"OOOOOOXXXXXXXXOOOOOXX"},
-{"lng":"121.6569","lat":"25.20989","name":"焦藥局","id":"5931281083","tel":"0224923188","addr":"新北市萬里區港東新?6號1樓","business_week":"OOOOOOXOOOOOXXOOXOOXX","memo":"11月14~17 僅早上9~12點， 11月18~20休息"},
+{"lng":"121.6569","lat":"25.20989","name":"焦藥局","id":"5931281083","tel":"0224923188","addr":"新北市萬里區港東新?6號1樓","business_week":"OOOOOOXOOOOOXXOOXOOXX"},
 {"lng":"121.293748","lat":"25.02199","name":"家佳藥局","id":"5932010019","tel":"033175618","addr":"桃園市桃園區瑞慶里莊一街80號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"藥局不看診，周休二日"},
 {"lng":"121.2934","lat":"25.02282","name":"安琪兒藥局","id":"5932010202","tel":"033016965","addr":"桃園市桃園區莊敬路二段76號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.2959","lat":"25.01191","name":"七加恩聯合藥局","id":"5932010328","tel":"033029302","addr":"桃園市桃園區中埔二街123號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
