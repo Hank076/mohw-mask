@@ -3046,6 +3046,7 @@ locations = [
 {"lng":"121.175989","lat":"24.794085","name":"聯合大藥局","id":"5933010055","tel":"035877767","addr":"新竹縣關西鎮西安里正義路91號","business_week":"OOOOOOOOOOOOXXOOOOOXX","memo":"快篩販賣時段：每天早上八點至售完為止"},
 {"lng":"121.1778","lat":"24.79152","name":"明德藥局","id":"5933010064","tel":"035874335","addr":"新竹縣關西鎮中山路18號","business_week":"OOOOOOOOOOOOXXOOOOOXX"},
 {"lng":"121.1307","lat":"24.81263","name":"仁泰藥局","id":"5933010082","tel":"035868391","addr":"新竹縣關西鎮石光里6鄰268號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
+{"lng":"121.1761","lat":"24.79111","name":"進安藥局","id":"5933010091","tel":"035872153","addr":"新竹縣關西鎮正義路15號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"12:00-14:00休息(配合醫療院所)。"},
 {"lng":"121.177101","lat":"24.792267","name":"佳仁藥局","id":"5933010144","tel":"035872298","addr":"新竹縣關西鎮中興路12號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"全年無休(星期日不定期)"},
 {"lng":"121.1759","lat":"24.79386","name":"康和藥局","id":"5933011178","tel":"035870068","addr":"新竹縣關西鎮正義路79號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"依看診時間供民眾取藥"},
 {"lng":"121.1762","lat":"24.79269","name":"高平堂藥局","id":"5933011196","tel":"035872263","addr":"新竹縣關西鎮正義路66號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"相關公告 請搜尋FB【高平堂藥局】"},
