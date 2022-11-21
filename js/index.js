@@ -92,21 +92,7 @@ var showWarningMessage = function(){
 };
 
 var showInfoMessage = function(type){
-    let exchange_info = '';
-    let current_week = new Date().getDay();
-
-    if(current_week == 0){
-        exchange_info = '今日全民皆可購買公費快篩試劑';
-    }else if(current_week % 2 ==0){
-        exchange_info = '今日身分證尾碼為 <i class="fa-solid fa-0"></i> <i class="fa-solid fa-2"></i> <i class="fa-solid fa-4"></i> <i class="fa-solid fa-6"></i> <i class="fa-solid fa-8"></i> 者可購買公費快篩試劑';
-    }else{
-        exchange_info = '今日身分證尾碼為 <i class="fa-solid fa-1"></i> <i class="fa-solid fa-3"></i> <i class="fa-solid fa-5"></i> <i class="fa-solid fa-7"></i> <i class="fa-solid fa-9"></i> 者可購買公費快篩試劑';
-    }
-
-    let msg_content = '<i class="fa-solid fa-circle-info"></i> <span class="text-primary">' + exchange_info + '</span><br /><br />' + 
-    '<i class="fa-solid fa-circle-info"></i> 口罩庫存政府停止更新，故本站也同步移除口罩地圖。<br />' + 
-    '<i class="fa-solid fa-circle-info"></i> 採發放號碼牌方式之藥局，庫存以現場為主。<br /><br />' + 
-
+    let msg_content = '<i class="fa-solid fa-circle-info"></i> 採發放號碼牌方式之藥局，庫存以現場為主。<br /><br />' + 
     '<i class="fa-solid fa-circle-info"></i> 新增 社區採檢站、公費快篩發放點 兩種地圖(右上篩選)。<br />' + 
     '<i class="fa-solid fa-circle-chevron-right"></i> 社區採檢站：如自覺有風險且出現發燒、呼吸道症狀、嗅味覺異常、不明原因腹瀉等相關症狀，或抗原快篩（含家用快篩）陽性時，請佩戴醫用口罩，就近前往指定社區採檢院所，由醫師評估進行PCR核酸檢驗。<br />' + 
     '<i class="fa-solid fa-circle-chevron-right"></i> 公費快篩發放點：如有出現呼吸道症狀，可由醫師評估發放試劑後自行檢驗。<br /><br />' + 
