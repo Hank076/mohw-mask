@@ -3157,6 +3157,7 @@ locations = [
 {"lng":"121.7421","lat":"24.74576","name":"熊賀大藥局","id":"5934012366","tel":"039352950","addr":"宜蘭縣宜蘭市女中路3段26號","business_week":"OOOOOXOOOOOOOOOOOOXOO","memo":"快篩 星期一至日  營業時間皆有販售及0-6歲、65歲以上免費領取"},
 {"lng":"121.757154","lat":"24.77047","name":"宜蘭啄木鳥藥局","id":"5934012375","tel":"039289387","addr":"宜蘭縣宜蘭市新生里中山路5段176號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩早上9:30開賣，現場排隊"},
 {"lng":"121.755","lat":"24.74656","name":"綠洲藥局","id":"5934012393","tel":"039311800","addr":"宜蘭縣宜蘭市中山路2段113號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"全天候10:00-21:00販售快篩，週日公休，，謝謝!"},
+{"lng":"121.753","lat":"24.75984","name":"熊貓健保藥局","id":"5934012419","tel":"039331335","addr":"宜蘭縣宜蘭市中山路3段169號1樓","business_week":"OOOOOOXOXXXOXXOOOXOXX"},
 {"lng":"121.7485","lat":"24.75524","name":"宜蘭藥局","id":"5934012473","tel":"039365168","addr":"宜蘭縣宜蘭市泰山路36號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"121.7706","lat":"24.6737","name":"樺生藥師連鎖藥局","id":"5934020019","tel":"039543432","addr":"宜蘭縣羅東鎮中正路37號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"每天上午7:30開始販售直至售完"},
 {"lng":"121.7708","lat":"24.67803","name":"順昇藥局","id":"5934020064","tel":"039541655","addr":"宜蘭縣羅東鎮長春路60號","business_week":"OOOOOOXOOOOOXXOOOOOOX","memo":"上午9:00開始販售快篩，現場排隊不發號碼牌售完為止，星期日休息"},
