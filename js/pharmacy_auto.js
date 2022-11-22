@@ -2590,6 +2590,7 @@ locations = [
 {"lng":"121.4605","lat":"25.08169","name":"中美永結藥局","id":"5931143266","tel":"0222887676","addr":"新北市蘆洲區長安街185號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.481255","lat":"25.08538","name":"集賢藥局","id":"5931143275","tel":"0222882400","addr":"新北市蘆洲區信義路222巷61號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"121.4592","lat":"25.08947","name":"宥安藥局","id":"5931143284","tel":"0222823556","addr":"新北市蘆洲區長榮路381號2樓","business_week":"XXXXXXXOOOOOOXXXXXXXX","memo":"快篩下午3點半開始販售；兒童免費快篩下午三點半開始領取；星期日全日休息。"},
+{"lng":"121.461116","lat":"25.093181","name":"大樹長榮藥局","id":"5931143319","tel":"0228480567","addr":"新北市蘆洲區長榮路61、61-1號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"121.4699","lat":"25.08364","name":"全家藥粧藥局","id":"5931143328","tel":"0222811215","addr":"新北市蘆洲區光華路4號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.4793","lat":"25.08936","name":"昭陽藥局","id":"5931143355","tel":"0282867077","addr":"新北市蘆洲區復興路230號1樓","business_week":"XOOOOOOXOOOOOOXOOOOOO","memo":"可以領健保快篩試劑"},
 {"lng":"121.4734","lat":"25.08868","name":"光禾藥局","id":"5931143364","tel":"0228480050","addr":"新北市蘆洲區民權路122號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
