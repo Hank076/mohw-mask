@@ -724,6 +724,7 @@ locations = [
 {"lng":"120.3337","lat":"22.6065","name":"旺盛藥局","id":"5902092410","tel":"077512899","addr":"高雄市前鎮區永豐路108號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"過年期間 111\/01\/31下午至111\/02\/03  休診"},
 {"lng":"120.311675","lat":"22.59305","name":"元生藥局","id":"5902092492","tel":"078156356","addr":"高雄市前鎮區鎮興路226號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.306","lat":"22.60221","name":"協和藥局","id":"5902092554","tel":"075377769","addr":"高雄市前鎮區中華五路983號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩代售:  星期天休息   周一至周六下午2點起   售完為止"},
+{"lng":"120.3247","lat":"22.60678","name":"晏昇藥局","id":"5902092643","tel":"077235136","addr":"高雄市前鎮區凱旋三路81號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"快篩代售時間:早上8:30"},
 {"lng":"120.3346","lat":"22.60931","name":"廣泰藥局","id":"5902092896","tel":"077162166","addr":"高雄市前鎮區瑞北路56號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩實名制早上11點販賣  星期日停賣"},
 {"lng":"120.3165","lat":"22.61293","name":"健家藥局","id":"5902092910","tel":"073389986","addr":"高雄市前鎮區二聖二路45號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"周一至周六，早上9:00營業"},
 {"lng":"120.3082","lat":"22.58819","name":"慈濟健保藥局","id":"5902092956","tel":"078159788","addr":"高雄市前鎮區鎮州路211號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天早上8點開始賣.售完為止藥局販售口罩時間，依藥局門口公告時間為主(售完為止)"},
