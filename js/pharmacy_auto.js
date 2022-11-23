@@ -113,7 +113,7 @@ locations = [
 {"lng":"121.55","lat":"25.05569","name":"杏一台北長庚藥局","id":"5901013504","tel":"0225149463","addr":"臺北市松山區敦化北路199巷2弄3號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5524","lat":"25.05787","name":"立赫民生藥局","id":"5901013513","tel":"0227139200","addr":"臺北市松山區民生東路4段72號","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"週一至週六上午09:30開始販售實名制快篩；週日中午12:00開始販售"},
 {"lng":"121.5656","lat":"25.06443","name":"安禾大藥局","id":"5901013586","tel":"0227602952","addr":"臺北市松山區撫遠街382號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
-{"lng":"121.553706","lat":"25.045949","name":"慶昌藥局","id":"5901013648","tel":"0225770820","addr":"臺北市松山區延吉街29號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午14:00開始發放"},
+{"lng":"121.553706","lat":"25.045949","name":"慶昌藥局","id":"5901013648","tel":"0225770820","addr":"臺北市松山區延吉街29號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5525","lat":"25.04685","name":"順儷中崙藥局","id":"5901013657","tel":"0225796900","addr":"臺北市松山區八德路3段74巷48號1樓","business_week":"XOOOOOOXOOOOOOXOOOOXX"},
 {"lng":"121.5648","lat":"25.05826","name":"民生盛康藥局","id":"5901013693","tel":"0227460758","addr":"臺北市松山區民生東路5段204號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期日不提供快篩服務，一到六可以來領取，但有沒有快篩全憑運氣，見諒"},
 {"lng":"121.5465","lat":"25.04833","name":"杏一台北台安藥局","id":"5901013700","tel":"0287728295","addr":"臺北市松山區八德路2段399號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制販售時間為每天下午15:00，開賣前10分鐘發放號碼牌，售完為止"},
