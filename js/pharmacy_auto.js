@@ -1513,6 +1513,7 @@ locations = [
 {"lng":"121.7365","lat":"25.09258","name":"福安藥局","id":"5911031283","tel":"0224588550","addr":"基隆市暖暖區暖暖街552號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"週日公休"},
 {"lng":"121.7492","lat":"25.09815","name":"安安藥局","id":"5911031318","tel":"0224585577","addr":"基隆市暖暖區源遠路168號","business_week":"OOOOOXOOOOOXXOOOOOXXO","memo":"每週六公休，星期日~星期五早上8:30販售實名制快篩"},
 {"lng":"121.7357","lat":"25.09904","name":"百福暖暖專業藥局","id":"5911031327","tel":"0224596999","addr":"基隆市暖暖區暖暖街189號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.7407","lat":"25.12728","name":"回春藥局","id":"5911040175","tel":"0224224728","addr":"基隆市仁愛區仁五路43號","business_week":"OOOOOOXOOOOOOXXOOOXXX","memo":"3\/9及3\/10因電腦送修不賣口罩 13:00發號碼牌 16:00~18:00領口罩"},
 {"lng":"121.750704","lat":"25.127443","name":"大田大藥局","id":"5911040228","tel":"0224258762","addr":"基隆市仁愛區仁二路5號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"專業藥師 提供最專業用藥服務"},
 {"lng":"121.742569","lat":"25.12841","name":"婕登藥局","id":"5911041305","tel":"0224222582","addr":"基隆市仁愛區愛三路53號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"成人口罩：每天下午三點開始發放號碼牌"},
 {"lng":"121.7364","lat":"25.12786","name":"光華藥局","id":"5911041332","tel":"0224338703","addr":"基隆市仁愛區成功一路129號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩試劑販售.星期日休息"},
