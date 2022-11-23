@@ -2747,6 +2747,7 @@ locations = [
 {"lng":"121.3172","lat":"25.01231","name":"均安藥局","id":"5932018940","tel":"033581695","addr":"桃園市桃園區寶山街61號","business_week":"OOXOOOXOOXOOOXOOXOOXX","memo":"實名制快篩營業時段可買"},
 {"lng":"121.2946","lat":"24.9912","name":"大一藥局","id":"5932019045","tel":"032171836","addr":"桃園市桃園區中山路684之一號一樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩試劑每日上午10點開賣。星期日停售。"},
 {"lng":"121.299","lat":"25.00086","name":"慈安藥局","id":"5932019116","tel":"033369599","addr":"桃園市桃園區永安路383號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩販賣時段：8:30~10:30，過時後，另78份係隔日販賣的量."},
+{"lng":"121.3029","lat":"24.99888","name":"同生藥師藥局","id":"5932019330","tel":"033349791","addr":"桃園市桃園區永安路318號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩試劑代售時間自星期一至星期六早上8:00開始售完為止"},
 {"lng":"121.2957","lat":"25.02375","name":"莘莘藥局","id":"5932019581","tel":"033170681","addr":"桃園市桃園區莊敬路一段368號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩週一至週六 隨時銷售 售完為止"},
 {"lng":"121.3183","lat":"25.0079","name":"元氣藥局","id":"5932019929","tel":"033332201","addr":"桃園市桃園區民光東路一O九號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"貨量充足，隨到隨買喔!  下午:12:00~15:00；18:00~18:30為休息時間"},
 {"lng":"121.2992","lat":"25.00066","name":"力美藥局","id":"593201A195","tel":"033334191","addr":"桃園市桃園區永安路三七七號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"口罩販賣時段:下午2時30分開始販賣口罩賣完為止"},
