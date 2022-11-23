@@ -2353,6 +2353,7 @@ locations = [
 {"lng":"121.4577","lat":"25.04953","name":"樂福藥局","id":"593106B027","tel":"0229923388","addr":"新北市新莊區幸福路48號1樓、幸福路64巷2弄16號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午三點半開始購買快篩實名制"},
 {"lng":"121.4553","lat":"25.04549","name":"家嘉藥局","id":"593106B036","tel":"0289926488","addr":"新北市新莊區自立街103號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4572","lat":"25.04452","name":"力源藥局","id":"593106B045","tel":"0289929919","addr":"新北市新莊區復興路2段133號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
+{"lng":"121.4273","lat":"25.02037","name":"平安藥局","id":"593106B081","tel":"0222082368","addr":"新北市新莊區民安西路60號2樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.455369","lat":"25.04829","name":"依都勇藥局","id":"593106B090","tel":"0229901516","addr":"新北市新莊區自信街63號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4518","lat":"25.05182","name":"來福中西健保藥局","id":"593106B116","tel":"0229961615","addr":"新北市新莊區中港路512號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.416511","lat":"25.027024","name":"樂安生活藥局","id":"593106B125","tel":"0229069899","addr":"新北市新莊區雙鳳路27號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"上午九點發放政府快篩，現場排隊。"},
