@@ -2149,7 +2149,7 @@ locations = [
 {"lng":"121.5189","lat":"25.00749","name":"欣安大藥局","id":"5931033863","tel":"0222326685","addr":"新北市永和區福和路221號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑pm13:30發號碼牌暨銷售，售完為止。"},
 {"lng":"121.520809","lat":"25.007672","name":"永和大樹藥局","id":"5931033961","tel":"0229233377","addr":"新北市永和區福和路143號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"121.5233","lat":"24.99947","name":"悠活藥局","id":"5931033989","tel":"0231516288","addr":"新北市永和區得和路330號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售: 周一至周日早上8:15開始發售。"},
-{"lng":"121.5071","lat":"24.99979","name":"律安藥局","id":"5931034011","tel":"0229287212","addr":"新北市永和區中和路321號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"實名制快篩販售時間：每日早上九點到售完為止。星期天休息。"},
+{"lng":"121.5071","lat":"24.99979","name":"律安藥局","id":"5931034011","tel":"0229287212","addr":"新北市永和區中和路321號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"實名制快篩販售時間：每日早上九點到售完為止。星期六至中午12點，星期天休息.。"},
 {"lng":"121.524413","lat":"25.001521","name":"叁品藥局","id":"5931034039","tel":"0229208800","addr":"新北市永和區秀朗路2段118號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"謝謝 中秋都有上班"},
 {"lng":"121.5267","lat":"24.9981","name":"崇恩藥局","id":"5931034048","tel":"0289214022","addr":"新北市永和區成功路2段135號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5183","lat":"25.01386","name":"柏愛藥局","id":"5931034084","tel":"0289285609","addr":"新北市永和區竹林路57號1樓","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"實名制快篩每日0900開賣.國定假日營業時間0900-1700"},
