@@ -601,6 +601,7 @@ locations = [
 {"lng":"120.2951","lat":"22.66479","name":"裕康中西大藥局","id":"5902022801","tel":"075555352","addr":"高雄市鼓山區裕誠路1519號","business_week":"OOOOOOOXXXXXXXOOOOOXX","memo":"藥局販售口罩時間，依藥局門口公告時間為主(售完為止)"},
 {"lng":"120.2757","lat":"22.65468","name":"弘興藥局","id":"5902022829","tel":"075612677","addr":"高雄市鼓山區鼓山三路48-11號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.2935","lat":"22.66647","name":"康爾喜藥局","id":"5902022874","tel":"075222650","addr":"高雄市鼓山區慶豐街50號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩試劑 （售完為止）。週日不發"},
+{"lng":"120.2793","lat":"22.65466","name":"高雄藥局","id":"5902022972","tel":"075214266","addr":"高雄市鼓山區九如四路924號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.30412","lat":"22.675352","name":"紅心藥局","id":"5902030063","tel":"073416697","addr":"高雄市左營區崇德路255號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"早上8點30賣快篩到完"},
 {"lng":"120.2932","lat":"22.68702","name":"宏仁藥局","id":"5902030090","tel":"075817895","addr":"高雄市左營區左營大路390號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩代售時間自早上10:00開始，售完為止。"},
 {"lng":"120.3058","lat":"22.66458","name":"立文藥局","id":"5902030269","tel":"075572899","addr":"高雄市左營區立文路54號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"1"},
