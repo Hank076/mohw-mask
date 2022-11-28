@@ -3550,6 +3550,7 @@ locations = [
 {"lng":"120.5633","lat":"23.98916","name":"大欣藥局","id":"5937150032","tel":"048524803","addr":"彰化縣大村鄉村上村中正西路19號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"防疫家用快篩試劑販賣時間於臉書公告!"},
 {"lng":"120.5447","lat":"23.99661","name":"郭藥局","id":"5937151075","tel":"048522988","addr":"彰化縣大村鄉茄苳路1段132號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"快篩試劑依店內公告為主"},
 {"lng":"120.5449","lat":"23.99936","name":"誠品藥局","id":"5937151119","tel":"048529206","addr":"彰化縣大村鄉大村村茄苳路1段233號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"週日公休。營業時間內皆有販售快篩試劑，售完為止。"},
+{"lng":"120.5898","lat":"23.982","name":"五行藥局","id":"5937151128","tel":"048527603","addr":"彰化縣大村鄉黃厝村12鄰山腳路2-26號","business_week":"OOOOOOXOOOOOXXOOOXOXX","memo":"週一至六早上9點以後到12.下午4-6點販賣。"},
 {"lng":"120.5856","lat":"23.98996","name":"萬來藥局","id":"5937151137","tel":"048535565","addr":"彰化縣大村鄉福興村山腳路80-9號","business_week":"OOOOOXOOOOOOXOOOOOOXX","memo":"下午3點始受理政府快篩，星期六休息。"},
 {"lng":"120.5455","lat":"23.99402","name":"福井藥局","id":"5937151155","tel":"048525328","addr":"彰化縣大村鄉中正西路398號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"120.4768","lat":"23.99591","name":"埔鹽藥局","id":"5937161115","tel":"048659655","addr":"彰化縣埔鹽鄉埔鹽村彰水路二段8號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期日公休! 快篩9點開始販售"},
