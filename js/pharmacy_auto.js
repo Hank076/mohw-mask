@@ -2962,6 +2962,7 @@ locations = [
 {"lng":"121.217","lat":"24.86616","name":"龍大藥局","id":"5932099132","tel":"034993793","addr":"桃園市龍潭區中正路一六九號","business_week":"OOOOOOOOOOXOXXOOOOOXX"},
 {"lng":"121.2335","lat":"24.8737","name":"繕葆藥局","id":"5932099150","tel":"034803831","addr":"桃園市龍潭區中興路309號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"快篩販賣時段：早上9:00-售完為止，週日停售"},
 {"lng":"121.2176","lat":"24.86781","name":"達仁藥局","id":"5932099285","tel":"034095166","addr":"桃園市龍潭區北龍路270號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩8:00~售完為止"},
+{"lng":"121.2164","lat":"24.86674","name":"康熙藥局","id":"5932099436","tel":"034801508","addr":"桃園市龍潭區中正路128號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩販賣時段：有庫存即可購買（1200-1430休息），周日公休"},
 {"lng":"121.2145","lat":"24.8663","name":"弘安育藥局","id":"5932099481","tel":"034808824","addr":"桃園市龍潭區北龍路一四四號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩-販賣時段:上午7:00起至售完為止（5／1／口罩已停售）"},
 {"lng":"121.2144","lat":"24.86893","name":"１Ｏ１藥師聯合藥局","id":"5932099516","tel":"034708593","addr":"桃園市龍潭區中正路44號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩販售時間: 週一至週六販售，週日藥局休息  快篩停售"},
 {"lng":"121.2308","lat":"24.87293","name":"中興藥師藥局","id":"5932099623","tel":"034091005","addr":"桃園市龍潭區中興路399號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販賣時間-9:00-21:00六、日停售"},
