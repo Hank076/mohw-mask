@@ -2514,6 +2514,7 @@ locations = [
 {"lng":"121.417","lat":"24.95827","name":"萬昌健保藥局","id":"5931132245","tel":"0222678057","addr":"新北市土城區中央路4段160號","business_week":"OOOOOOOOXOXOXXOOOOOOX","memo":"快篩 星期一三五下午15:00，二四六18:30 販售"},
 {"lng":"121.4421","lat":"24.97475","name":"立新藥局","id":"5931132263","tel":"0282626111","addr":"新北市土城區光明街5號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.4412","lat":"24.97535","name":"富柏大藥局","id":"5931132272","tel":"0282626815","addr":"新北市土城區水源街22號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"121.4501","lat":"24.98629","name":"凱一藥局","id":"5931132389","tel":"0222707679","addr":"新北市土城區裕民路92巷21弄8號1樓","business_week":"OXOOOOOOXOOOOOOXOOOOO","memo":"服務時間10:00~21:00，每週二休息。"},
 {"lng":"121.4591","lat":"24.98221","name":"小倉藥局","id":"5931132405","tel":"0222744257","addr":"新北市土城區青雲路190號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩發放早上八點領號碼牌，一人卡限一張號碼牌，隨即憑號碼牌購買快篩，賣完為止。"},
 {"lng":"121.4419","lat":"24.97549","name":"惠蒼藥局","id":"5931132496","tel":"0222606812","addr":"新北市土城區中央路2段216號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩早上8:00開始販售     ＜＜週日店休＞＞"},
 {"lng":"121.469512","lat":"24.985864","name":"宏奇藥局","id":"5931132538","tel":"0282619585","addr":"新北市土城區延吉街126號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
