@@ -4361,7 +4361,7 @@ locations = [
 {"lng":"121.136","lat":"22.91115","name":"平安藥局","id":"5946091135","tel":"089550688","addr":"臺東縣鹿野鄉中華路二段5號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"星期六.日.藥局休息..無販售快篩服務.請民眾見諒."},
 {"lng":"121.21866","lat":"23.123154","name":"伯安藥局","id":"5946101118","tel":"089863585","addr":"臺東縣池上鄉新生路116號","business_week":"XXXXXXXOOOOOOXXXXXXXX","memo":"午1400-1800"},
 {"lng":"121.215795","lat":"23.122375","name":"開心藥局","id":"5946101127","tel":"089861151","addr":"臺東縣池上鄉中山路136號","business_week":"OOOOOOXOOOOOOXOOOOXXX","memo":"快篩實名制週一至週六營業時間均販售，不發號碼牌，國定連假日另公告"},
-{"lng":"118.320671","lat":"24.432807","name":"大賀藥局","id":"5990010515","tel":"082327678","addr":"金門縣金城鎮北門里民生路3號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"中午12點開始販售實名制快篩"},
+{"lng":"118.320671","lat":"24.432807","name":"大賀藥局","id":"5990010515","tel":"082327678","addr":"金門縣金城鎮北門里民生路3號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"118.316316","lat":"24.433547","name":"康總藥局","id":"5990010524","tel":"082316053","addr":"金門縣金城鎮西門里莒光路156號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑販售時段：每日早上08:30分開始販售，售完為止。"},
 {"lng":"118.3183","lat":"24.43167","name":"金志忠藥局","id":"5990010533","tel":"082325813","addr":"金門縣金城鎮東門里莒光路11號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制 8:00開始販賣"},
 {"lng":"118.3195","lat":"24.4347","name":"大森藥局","id":"5990010631","tel":"082325100","addr":"金門縣金城鎮民生路28、30號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩 早上九點開始販賣"},
