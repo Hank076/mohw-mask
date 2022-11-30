@@ -2364,6 +2364,7 @@ locations = [
 {"lng":"121.4546","lat":"25.04041","name":"善美藥局","id":"593106B241","tel":"0229960979","addr":"新北市新莊區公園路89號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.444672","lat":"25.050992","name":"盛弘藥局","id":"593106B287","tel":"0222763336","addr":"新北市新莊區中平路295號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.417535","lat":"25.026876","name":"廣元藥局","id":"593106B296","tel":"0229044988","addr":"新北市新莊區雙鳳路2號(1樓)","business_week":"OOOOOOOOOOOOOOXXXXXXX"},
+{"lng":"121.4261","lat":"25.01398","name":"新莊丁丁藥局","id":"593106B303","tel":"0222022388","addr":"新北市新莊區民安西路237號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"","lat":"","name":"大樹幸福藥局","id":"593106B321","tel":"0229981066","addr":"新北市新莊區幸福路672號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"121.4245","lat":"25.02446","name":"騰康藥局","id":"593106B349","tel":"0226793069","addr":"新北市新莊區富國路184號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"121.3931","lat":"24.97086","name":"正宜藥局","id":"5931070044","tel":"0226805678","addr":"新北市樹林區佳園路1段39號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
