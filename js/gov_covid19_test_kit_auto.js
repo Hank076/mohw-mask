@@ -318,7 +318,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.513292","lat":"24.988437","name":"唯安診所","id":"3531044535","tel":"02 2947 9165","addr":"新北市中和區景新街455號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"1\/30、1\/31、2\/6、2\/13、2\/20、2\/27、4\/5、6\/3、9\/10僅上午看診"},
 {"lng":"121.504029","lat":"24.991225","name":"翰霖耳鼻喉科診所","id":"3531044553","tel":"0222462238","addr":"新北市中和區景安路202號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.507867","lat":"24.985821","name":"廣祥診所","id":"3531044615","tel":"0286683090","addr":"新北市中和區興南路2段27號1樓後半部及29號1、2樓","business_week":"OOOOOOOOOOOOOXOOOOOOO"},
-{"lng":"121.513478","lat":"25.003392","name":"王俊傑診所","id":"3531044633","tel":"0229293636","addr":"新北市中和區中安街8號","business_week":"OOOOOOOOOOOOXXOOOOOXX"},
+{"lng":"121.513478","lat":"25.003392","name":"王俊傑診所","id":"3531044633","tel":"0229293636","addr":"新北市中和區中安街8號","business_week":"OOOOOOOOOOOOXXOOOOOXO"},
 {"lng":"121.509904","lat":"24.989204","name":"佑欣診所","id":"3531045167","tel":"0286685811","addr":"新北市中和區興南路一段90號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"連假期間每日上午門診"},
 {"lng":"121.501804","lat":"25.000122","name":"中和重慶耳鼻喉科診所","id":"3531045381","tel":"0222426600","addr":"新北市中和區中和路127號1、2樓","business_week":"OOOOOOXOOOOOXXOOOOOOX","memo":"中秋&國慶假日照常看診"},
 {"lng":"121.512179","lat":"25.00373","name":"捷安診所","id":"3531045532","tel":"0222331117","addr":"新北市中和區中和路456號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"1\/30、1\/31、2\/6、2\/13、2\/20、2\/27、4\/5、6\/3、9\/10僅上午看診"},
