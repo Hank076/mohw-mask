@@ -643,6 +643,7 @@ locations = [
 {"lng":"120.337","lat":"22.73691","name":"富翔藥局","id":"5902040050","tel":"073516365","addr":"高雄市楠梓區常德路307號","business_week":"OOOOOOXOOOOOOXOOOOOOO","memo":"快篩實名制販售中，售完為止。"},
 {"lng":"120.289538","lat":"22.711935","name":"新友藥局","id":"5902040069","tel":"073653534","addr":"高雄市楠梓區萬昌路111號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"藥局販售口罩時間，依藥局門口公告時間為主(售完為止)"},
 {"lng":"120.3262","lat":"22.72532","name":"世詠藥局","id":"5902040087","tel":"073539869","addr":"高雄市楠梓區楠都東街138號","business_week":"OOOOOXXOOOOOOXOOOOOOO","memo":"快篩周一~周五早上9:00-21:0周六日下午15:00-21:30，售完為止"},
+{"lng":"120.3247","lat":"22.72731","name":"丁丁楠梓藥局","id":"5902040112","tel":"073533743","addr":"高雄市楠梓區建楠路130、132、134號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一~週日於早上09:00開始販售實名制快篩試劑!丁丁藥局楠梓店（楠梓火車站前）關心您!"},
 {"lng":"120.33","lat":"22.72873","name":"東初藥局","id":"5902040185","tel":"073511261","addr":"高雄市楠梓區楠梓路32號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"12／1（四） 起再度提供65歲以上及0~6歲幼兒5劑免費快篩"},
 {"lng":"120.3287","lat":"22.72659","name":"益民藥局","id":"5902040210","tel":"073522161","addr":"高雄市楠梓區建楠路47號","business_week":"OOOXOXOOOOOOXOOOOOOOO","memo":"開門時間10:00"},
 {"lng":"120.3068","lat":"22.72694","name":"進昇藥局","id":"5902040229","tel":"073652334","addr":"高雄市楠梓區德賢路202號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩每日上午10點販售，售完為止"},
