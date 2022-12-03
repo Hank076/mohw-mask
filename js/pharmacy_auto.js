@@ -1997,6 +1997,7 @@ locations = [
 {"lng":"121.4428","lat":"24.99858","name":"禾田藥局","id":"5931016755","tel":"0229659899","addr":"新北市板橋區大觀路2段265巷12號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"9：30-21：30發放購買"},
 {"lng":"121.468676","lat":"25.00733","name":"正安健保藥局","id":"5931016808","tel":"0229526813","addr":"新北市板橋區民族路224號(1樓)","business_week":"OOOOOOXOOOOOXXOOXOOXX"},
 {"lng":"121.472","lat":"25.00734","name":"漢民藥局","id":"5931016880","tel":"0229598168","addr":"新北市板橋區漢生東路346號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"藥世界0930實名制快篩（依配送滾動式調整╮（╯_╰）╭）"},
+{"lng":"121.4624","lat":"25.02921","name":"裕苠藥局","id":"5931016924","tel":"0222535227","addr":"新北市板橋區裕民街6號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"春節期間看診時段請電洽"},
 {"lng":"121.4518","lat":"24.99656","name":"聯康藥局","id":"5931017001","tel":"0289674888","addr":"新北市板橋區南雅南路2段136號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩上午9:30開始發放"},
 {"lng":"121.4565","lat":"25.00706","name":"醫安藥局","id":"5931017010","tel":"0229692588","addr":"新北市板橋區南雅南路1段11號1樓及2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週日休，下午3點開始販售，依現場排隊為主"},
 {"lng":"121.4433","lat":"25.00094","name":"永欣藥師藥局","id":"5931017047","tel":"0229687120","addr":"新北市板橋區龍興街46號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
