@@ -2444,6 +2444,7 @@ locations = [
 {"lng":"121.4592","lat":"24.9809","name":"祥發藥局","id":"5931130349","tel":"0222655056","addr":"新北市土城區青雲路255號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩周一~周六上午8:30起販售，售完為止"},
 {"lng":"121.4442","lat":"24.98436","name":"盛安大藥局","id":"5931130358","tel":"0222668525","addr":"新北市土城區中央路1段258號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.45163","lat":"24.984469","name":"學安藥師藥局","id":"5931130483","tel":"0222610565","addr":"新北市土城區學府路1段211號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上9點00分開始賣快篩，售完為止"},
+{"lng":"121.4636","lat":"24.98727","name":"祥安大藥局","id":"5931131579","tel":"0222629707","addr":"新北市土城區立德路42-1號","business_week":"OOOOOXOOOOOOXOOOOOOXO"},
 {"lng":"121.4553","lat":"24.98727","name":"學府實和藥局","id":"5931131864","tel":"0222612111","addr":"新北市土城區學府路1段121號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"連續假日依現場公布為主"},
 {"lng":"121.4697","lat":"24.98577","name":"裕達藥局","id":"5931131882","tel":"0222739328","addr":"新北市土城區延吉街171號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"下午2點開賣快篩，星期日休息"},
 {"lng":"121.4692","lat":"24.99035","name":"璨鴻藥局","id":"5931131908","tel":"0282622588","addr":"新北市土城區延和路191號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩發放時間星期一至五"},
