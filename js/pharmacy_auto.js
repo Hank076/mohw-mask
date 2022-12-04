@@ -2411,7 +2411,7 @@ locations = [
 {"lng":"121.4227","lat":"24.99003","name":"永賀藥局","id":"5931072575","tel":"0226815801","addr":"新北市樹林區中山路1段127號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.3941","lat":"24.97095","name":"佳園藥局","id":"5931072584","tel":"0226685056","addr":"新北市樹林區佳園路1段41巷20號1樓","business_week":"OOOOOXOOOOOOXOOOOOOXO"},
 {"lng":"121.3654","lat":"24.95653","name":"快安藥師藥局","id":"5931080148","tel":"0226792356","addr":"新北市鶯歌區中正一路94、96號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩早上8:30開賣"},
-{"lng":"121.3254","lat":"24.97248","name":"嘉泰藥師藥局","id":"5931081216","tel":"0226709668","addr":"新北市鶯歌區鶯桃路2段31號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩隨時皆可領取【星期日公休】"},
+{"lng":"121.3254","lat":"24.97248","name":"嘉泰藥師藥局","id":"5931081216","tel":"0226709668","addr":"新北市鶯歌區鶯桃路2段31號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期日公休"},
 {"lng":"121.3406","lat":"24.94437","name":"文瑞藥局","id":"5931081234","tel":"0226780589","addr":"新北市鶯歌區尖山路296號","business_week":"OOOOOOXOOOOOOXXXXXXXX","memo":"快篩下午14:00開始販售  假日販售時間前一天公告"},
 {"lng":"121.3503","lat":"24.95345","name":"唯新示範藥局","id":"5931081289","tel":"0286775363","addr":"新北市鶯歌區建國路161號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩購買時段 10:00-20:00（午、晚餐時間有休息，詳洽本藥局）。每周日暫停實名制快篩服務。"},
 {"lng":"121.3367","lat":"24.94007","name":"佑家藥局","id":"5931081305","tel":"0226798282","addr":"新北市鶯歌區中正三路151號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"星期一至六，分兩梯次販售   第一梯次下午 1:30開始販售   3點結束販售  .  第二梯次  晚上7點30分販售  九點結束販售"},

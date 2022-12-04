@@ -155,7 +155,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.641248","lat":"24.108509","name":"德昌小兒科診所","id":"3503150019","tel":"0423372686","addr":"臺中市烏日區中山路一段335號","business_week":"OOOOXOOOOOOXOOOOOOXOX"},
 {"lng":"120.699121","lat":"24.069355","name":"陳炎山家庭醫學科診所","id":"3503180053","tel":"0423391100","addr":"臺中市霧峰區中正路1110號","business_week":"OOXOOOXOOOOOXXOOOOOXX"},
 {"lng":"120.694164","lat":"24.149657","name":"華幼診所","id":"3503230110","tel":"0423600099","addr":"臺中市東區進化路211號","business_week":"OXOOOOOOXOOOOXOXOOOOO"},
-{"lng":"120.6661832","lat":"24.1686604","name":"家昌耳鼻喉科診所","id":"3503260163","tel":"0422993888","addr":"臺中市北區陜西路62號1樓","business_week":"OOOOOXOOOOOOXOOOOOOXO","memo":"10／10 全天開診"},
+{"lng":"120.6661832","lat":"24.1686604","name":"家昌耳鼻喉科診所","id":"3503260163","tel":"0422993888","addr":"臺中市北區陜西路62號1樓","business_week":"OOOOOXOOOOOOXOOOOOOXO","memo":"111／12／31休診， 112／1／1全天開診， 112／1／2全天開診"},
 {"lng":"120.683998","lat":"24.166855","name":"展弘耳鼻喉科診所","id":"3503260592","tel":"0422307388","addr":"臺中市北區漢口路四段322號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"9月9日全日有門診，9月10日中秋節早、午看診，晚上休診，9月11日全日休診"},
 {"lng":"120.652552","lat":"24.160274","name":"陳亮宇耳鼻喉科診所","id":"3503271773","tel":"0423203888","addr":"臺中市西屯區大墩路995號","business_week":"OOOOOXOOOOOOXOOOOOOXO"},
 {"lng":"120.639219","lat":"24.183395","name":"蘇家龍診所","id":"3503272234","tel":"0427085151","addr":"臺中市西屯區黎明路三段421號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
