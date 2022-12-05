@@ -469,7 +469,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.140655","lat":"25.045763","name":"全心診所","id":"3532121826","tel":"034834783","addr":"桃園市觀音區大觀路二段182號1樓","business_week":"OOOOOOOOOOOOXOOOOOOXX","memo":"112／1／1 下午晚上休診，"},
 {"lng":"121.086465","lat":"24.740089","name":"王尹弘耳鼻喉科診所","id":"3533030511","tel":"035941175","addr":"新竹縣竹東鎮長春路三段5號","business_week":"OOOOOOXOOOOOXXXXXXXXX"},
 {"lng":"121.083378","lat":"24.743969","name":"崇光小兒專科診所","id":"3533031821","tel":"035959878","addr":"新竹縣竹東鎮長春路三段188號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"10／8早上開診.下午開診.晚上開診、10／9早上開診.下午開診、10／10早上開診.下午開診.晚上開診"},
-{"lng":"121.00573","lat":"24.83239","name":"傅仁良小兒科診所","id":"3533051547","tel":"035530106","addr":"新竹縣竹北市博愛街172號","business_week":"OOOOOOOOOOXOXXOOOOOXX"},
+{"lng":"121.00573","lat":"24.83239","name":"傅仁良小兒科診所","id":"3533051547","tel":"035530106","addr":"新竹縣竹北市博愛街172號","business_week":"OOOOOOOOOOOXXXOOOOOXX"},
 {"lng":"121.009949","lat":"24.825628","name":"游恆懿診所","id":"3533051636","tel":"035586721","addr":"新竹縣竹北市縣政八街23號","business_week":"OOOOOOXOXOXXXXXXXOXXX","memo":"10／10 上午看診 下午休診"},
 {"lng":"121.024942","lat":"24.822424","name":"啄木鳥耳鼻喉科診所","id":"3533052099","tel":"036586586","addr":"新竹縣竹北市莊敬三路39號1號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"10／8早上開診.下午開診.晚上開診、10／9早上開診.晚上開診、10／10早上開診.下午開診.晚上開診"},
 {"lng":"121.028431","lat":"24.814446","name":"艾兒診所","id":"3533052491","tel":"036586699","addr":"新竹縣竹北市福興東路二段140號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
