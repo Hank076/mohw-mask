@@ -3457,6 +3457,7 @@ locations = [
 {"lng":"120.574103","lat":"23.954867","name":"日信藥局員林店","id":"5937052380","tel":"048352030","addr":"彰化縣員林市中正路255號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"免費快篩試劑早上9點兌換，每星期日營業時間為早上9:00-下午6:00，周一至周六時間為9:00-22:00"},
 {"lng":"120.574579","lat":"23.968913","name":"裕良藥局大同店","id":"5937052399","tel":"048344612","addr":"彰化縣員林市大同路二段203-1號","business_week":"XXXXXXXOOOOOOOXXXXXXX","memo":"早上10點開始販售快篩"},
 {"lng":"120.5686","lat":"23.95904","name":"員林啄木鳥藥局","id":"5937052424","tel":"048339483","addr":"彰化縣員林市新生路121、123號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.577724","lat":"23.957153","name":"迪迪連鎖藥局員林店","id":"5937052433","tel":"048312898","addr":"彰化縣員林市林森路163號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制販售時間：每日十點發放，依物流配送時間為準。"},
 {"lng":"120.5722","lat":"23.95997","name":"統信藥局","id":"5937052451","tel":"048367089","addr":"彰化縣員林市正興街372號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"12:00-14:00休息時間"},
 {"lng":"120.5704","lat":"23.95526","name":"家家藥局","id":"5937052497","tel":"048367007","addr":"彰化縣員林市惠來街87號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.5714","lat":"23.96324","name":"佑全員林中正藥局","id":"5937052504","tel":"048368669","addr":"彰化縣員林市中正路135,137號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售時間早上9點到晚上9點~售完為止"},
