@@ -4157,7 +4157,7 @@ locations = [
 {"lng":"120.6013","lat":"22.67008","name":"禾韻藥局","id":"5943131481","tel":"087700378","addr":"屏東縣內埔鄉龍泉村東川路35號","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"實名制快篩劑販售時間週一至週五早上八點至十二點，下午十二點半至六點，售完為止."},
 {"lng":"120.5721","lat":"22.61401","name":"新榮安藥局","id":"5943131516","tel":"087799086","addr":"屏東縣內埔鄉勝光路71號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.572936","lat":"22.616001","name":"內埔啄木鳥藥局","id":"5943131534","tel":"087787078","addr":"屏東縣內埔鄉光明路471號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩發放時間:中午12:00~下午4:30"},
-{"lng":"120.5633","lat":"22.60894","name":"富田藥局","id":"5943131552","tel":"087785166","addr":"屏東縣內埔鄉永光路17號","business_week":"OOOOOOXOOOOOOOOOOOOXX","memo":"早上8:30-11:30 ；下午15:00-20:00 販售快篩試劑.售完為止.W六.日休."},
+{"lng":"120.5633","lat":"22.60894","name":"富田藥局","id":"5943131552","tel":"087785166","addr":"屏東縣內埔鄉永光路17號","business_week":"OOOOOOXOOOOOOOOOOOOXX","memo":"早上8:30-11:30 ；下午15:00-20:00 販售快篩試劑.售完為止."},
 {"lng":"120.5655","lat":"22.61723","name":"南寧藥局","id":"5943131561","tel":"087690330","addr":"屏東縣內埔鄉南寧路23號","business_week":"OOOXOOXOOOXOOXOOOXOOX","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"120.5447","lat":"22.63057","name":"豐田藥局","id":"5943131598","tel":"087782858","addr":"屏東縣內埔鄉振豐村新東路365號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.5513","lat":"22.47006","name":"安泰藥局新埤店","id":"5943151027","tel":"087973793","addr":"屏東縣新埤鄉新華路163號","business_week":"OOOOOOOOOOOOOOOOOOOXX"},
