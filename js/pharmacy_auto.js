@@ -1961,6 +1961,7 @@ locations = [
 {"lng":"121.45613","lat":"25.018042","name":"台安藥局","id":"5931017341","tel":"0229663600","addr":"新北市板橋區中正路204號1樓、2樓、3樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售時間08-23"},
 {"lng":"121.4589","lat":"24.99216","name":"軒源藥局","id":"5931017369","tel":"0229583995","addr":"新北市板橋區信義路169號(1樓)","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"實名制快篩周一至周六早上8:30開始過卡發放，周日休息"},
 {"lng":"121.46543","lat":"25.024992","name":"美康四維藥局","id":"5931017396","tel":"0222506616","addr":"新北市板橋區四維路122號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天提供78份快篩 星期一.三.五單號 二.四.六雙號 星期日不限"},
+{"lng":"121.4595","lat":"25.00689","name":"光澤醫美藥局","id":"5931017403","tel":"0229551215","addr":"新北市板橋區四川路1段21號(1樓)","business_week":"OXOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.4748","lat":"25.0161","name":"光鹽藥局","id":"5931017556","tel":"0229552167","addr":"新北市板橋區中山路2段84之2號(2樓)","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.4672","lat":"25.00702","name":"福安藥局","id":"5931017574","tel":"0229540875","addr":"新北市板橋區國泰街76巷24、26號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"【週日快篩照常販售。】"},
 {"lng":"121.4654","lat":"25.02222","name":"新埔健保藥局","id":"5931017618","tel":"0222558878","addr":"新北市板橋區自由路2號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
