@@ -737,6 +737,7 @@ locations = [
 {"lng":"120.2736","lat":"22.60608","name":"千佑藥局","id":"5902100042","tel":"075712619","addr":"高雄市旗津區復興里中洲三路513號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"12月1日-12月31日早上08.31至10.30為販賣快篩時間"},
 {"lng":"120.3477","lat":"22.56534","name":"鳳明中西大藥局","id":"5902110093","tel":"078011846","addr":"高雄市小港區二苓路247號","business_week":"OOOOOOOOOOOOOXOOOOOOO"},
 {"lng":"120.3359","lat":"22.56386","name":"大裕藥局","id":"5902110299","tel":"078211467","addr":"高雄市小港區小港里小港路261號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩星期一到六早上九點販售 星期日休息"},
+{"lng":"120.3588","lat":"22.51445","name":"臨生藥局","id":"5902110422","tel":"078711290","addr":"高雄市小港區鳳鳴路146-4號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"上午9時開始販售快篩劑售完為止。"},
 {"lng":"120.3464","lat":"22.52635","name":"慈林藥局","id":"5902110593","tel":"078718087","addr":"高雄市小港區鳳林路93號","business_week":"OOOOOOXXXXXXXXOOOXOXX","memo":"早上9:00開始販售，售完為止，周日不販售（10:30~12:00）（18:30~20:00）較忙碌，需稍作等待."},
 {"lng":"120.35844","lat":"22.581439","name":"高泰藥局","id":"5902110600","tel":"077930043","addr":"高雄市小港區桂陽路7號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"即日起，營業日早上7:30 為販賣快篩時間，售完為止"},
 {"lng":"120.3536","lat":"22.56665","name":"悅是康藥局","id":"5902110628","tel":"078010012","addr":"高雄市小港區漢民路276號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩不限時間、領完為止"},
