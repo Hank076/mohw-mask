@@ -3410,6 +3410,7 @@ locations = [
 {"lng":"120.5455","lat":"24.09625","name":"全杏藥局","id":"5937010999","tel":"047363366","addr":"彰化縣彰化市茄苳路一段299號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期一至五早上8點半，星期六早上10點，星期日休息"},
 {"lng":"120.5589","lat":"24.08606","name":"龍美藥局","id":"5937011021","tel":"047249816","addr":"彰化縣彰化市中山路三段228號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"周一至周六08:30-17:00販售   週日有開店才販售剩餘請見店外告示"},
 {"lng":"120.577039","lat":"24.085366","name":"大竹長生藥局","id":"5937011058","tel":"047384176","addr":"彰化縣彰化市彰南路二段8號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩代售全日"},
+{"lng":"120.5793","lat":"24.08538","name":"媽咪藥局","id":"5937012117","tel":"047321517","addr":"彰化縣彰化市彰南路2段115號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"實名制快篩:周一至周六全天，週日早上9:00開始販售，售完為止"},
 {"lng":"120.541613","lat":"24.071999","name":"平成藥局","id":"5937012242","tel":"047258070","addr":"彰化縣彰化市福安里曉陽路31號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.571336","lat":"24.082985","name":"慶全藥局","id":"5937012251","tel":"047386747","addr":"彰化縣彰化市福山里福山街189號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩代售時間7:00(星期一至日，無休)，現場排隊"},
 {"lng":"120.5444","lat":"24.06132","name":"施文彬大藥局","id":"5937012635","tel":"047111653","addr":"彰化縣彰化市大埔路345號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩代售時間早上9:30（星期一至日，無休）， 發放號碼牌"},
