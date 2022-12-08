@@ -218,7 +218,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.659231","lat":"24.146909","name":"陳正和耳鼻喉科診所","id":"3517031054","tel":"0423012729","addr":"臺中市西區向上路一段226號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.66079","lat":"24.13285","name":"阮春閔小兒科診所","id":"3517031947","tel":"0423757456","addr":"臺中市西區南屯路一段148號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"12／31.1／2正常看診，看診時段早（08:00~12:00）、午（14:30~18:00）、晚（18:30~21:30）"},
 {"lng":"120.655309","lat":"24.139897","name":"曾憲彰耳鼻喉科診所","id":"3517034224","tel":"0423786066","addr":"臺中市西區五權西路一段275號","business_week":"OOOOOXOOOOOOXOOOOOOXX"},
-{"lng":"120.653684","lat":"24.155224","name":"佳慶診所","id":"3517034368","tel":"0423208989","addr":"臺中市西區東興路三段272之1號","business_week":"OOOOOOXXXXXXXXOOOOOXX","memo":"111／12／31早診正常， 112／01／02正常門診"},
+{"lng":"120.653684","lat":"24.155224","name":"佳慶診所","id":"3517034368","tel":"0423208989","addr":"臺中市西區東興路三段272之1號","business_week":"OOOOOOXXXXXXXXOOOOOXX","memo":"111／12／31早診開診，112／01／02開診"},
 {"lng":"120.68436","lat":"24.131094","name":"陳鉉煒小兒科診所","id":"3517040839","tel":"0422861566","addr":"臺中市南區臺中路156號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"雙十假期看診時間10／09.10 正常看診，10／09星期日休診."},
 {"lng":"120.666978","lat":"24.117615","name":"林忠立診所","id":"3517041934","tel":"0422619948","addr":"臺中市南區美村南路58號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"9月10日中秋晚上休診，其餘時段正常看診。"},
 {"lng":"120.689942","lat":"24.15762","name":"祥祐診所","id":"3517051967","tel":"0422315688","addr":"臺中市北區三民路三段348號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"112／01／02 早上8:00 門診 下午晚上正常門診  視訊門診 LINE ID @12345a"},
