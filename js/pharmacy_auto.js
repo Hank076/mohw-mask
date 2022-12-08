@@ -4267,6 +4267,7 @@ locations = [
 {"lng":"120.5068","lat":"22.48985","name":"南州健人藥師藥局","id":"5943201095","tel":"088646828","addr":"屏東縣南州鄉三民路149號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"販售快篩試紙:周一至周六下午2:00~4:00，週日不販售快篩試紙"},
 {"lng":"120.3818","lat":"22.35203","name":"明德藥局","id":"5943221051","tel":"088611278","addr":"屏東縣琉球鄉本福村中山路151號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"10:00-12:00 販賣實名制快篩    並依現場狀況滾動式調整  週六+週日停售"},
 {"lng":"120.3794","lat":"22.34968","name":"美美藥局","id":"5943221131","tel":"088612191","addr":"屏東縣琉球鄉中山路75之3號","business_week":"OOOOOOXOOOOOOXOXOOOOX","memo":"營業日早上7:40開始販售，售完為止，星期日不販售口罩"},
+{"lng":"119.5703","lat":"23.57152","name":"新見安藥局","id":"5944010043","tel":"069277346","addr":"澎湖縣馬公市光明里光復路95號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"119.5662","lat":"23.56752","name":"敏松藥局","id":"5944010061","tel":"069273241","addr":"澎湖縣馬公市民生路25-9號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"每日AM 08:00開始販售快篩試劑 （星期日AM09:00）"},
 {"lng":"119.6008","lat":"23.52835","name":"合珍藥局","id":"5944010070","tel":"069953082","addr":"澎湖縣馬公市鎖港里387-1號","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"平日中午12:00-14:00休息，週六日中午休息時間11:30-14:30"},
 {"lng":"119.5708","lat":"23.56972","name":"宏安藥局","id":"5944010089","tel":"069273048","addr":"澎湖縣馬公市中華路54號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
