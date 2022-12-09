@@ -57,7 +57,7 @@ gov_pcr_locations = [
 {"lng":"121.2037883","lat":"24.95751014","name":"祐民醫院","id":"1532020215","tel":"034915656","addr":"桃園市中壢區民族路二段180號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"本院無提供急診服務"},
 {"lng":"121.2578603","lat":"24.96448913","name":"中壢長榮醫院","id":"1532021338","tel":"034631230","addr":"桃園市中壢區環中東路150號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"即日起本院急診24小時提供急診服務"},
 {"lng":"121.2250456","lat":"24.95871587","name":"中美醫院","id":"1532021392","tel":"034266222","addr":"桃園市中壢區中美路95號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
-{"lng":"121.2234105","lat":"24.95421439","name":"新國民醫療社團法人新國民醫院","id":"0932020034","tel":"034225180","addr":"桃園市中壢區復興路152號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"請以本院官方網站公告為準(http:\/\/www.skmh.com.tw\/)"},
+{"lng":"121.2234105","lat":"24.95421439","name":"新國民醫療社團法人新國民醫院","id":"0932020034","tel":"034225180","addr":"桃園市中壢區復興路152號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"請以本院官方網站公告為準(http:\/\/www.skmh.com.tw\/)"},
 {"lng":"121.3186802","lat":"24.98410931","name":"德仁醫院","id":"1532011163","tel":"033617985","addr":"桃園市桃園區桃鶯路245號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"121.3097107","lat":"24.98927235","name":"聯新國際醫院桃新分院","id":"1532010120","tel":"033325678","addr":"桃園市桃園區復興路195號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"星期六看診時間8:00~15:30"},
 {"lng":"121.238244","lat":"25.08140568","name":"聯新國際醫院桃園國際機場醫療中心","id":"3432060513","tel":"033983456","addr":"桃園市大園區航站南路9號、15號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"平日夜間20:30-08:30、假日及國定例假日提供急診服務"},
