@@ -2075,6 +2075,7 @@ locations = [
 {"lng":"121.4987","lat":"25.06886","name":"陽光藥師藥局","id":"5931024588","tel":"0229788120","addr":"新北市三重區三和路2段182號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4885","lat":"25.0806","name":"萊康健保藥局","id":"5931024622","tel":"0282871076","addr":"新北市三重區溪尾街176號1樓","business_week":"OOOOOXOOOOOOXOOOOOOXO"},
 {"lng":"121.4836","lat":"25.06302","name":"德榮藥局","id":"5931024631","tel":"0229717291","addr":"新北市三重區中華路91號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"政府快篩販售時間星期一至星期六早上10:00至晚上10:00現場販售 星期日中午12:00~下午2:00..謝謝"},
+{"lng":"121.4803","lat":"25.06712","name":"博愛藥局","id":"5931024677","tel":"0229711606","addr":"新北市三重區三民街220號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制（大人／兒童），在營業時間內都可以領取，不須排隊。"},
 {"lng":"121.4924","lat":"25.08295","name":"仁華藥局","id":"5931024695","tel":"0229806161","addr":"新北市三重區五華街73-1號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4836","lat":"25.0631","name":"中華健保藥局","id":"5931024784","tel":"0229813155","addr":"新北市三重區中華路95號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天下午3點半開始販賣實名制快篩"},
 {"lng":"121.4863","lat":"25.08731","name":"捷元健保藥局","id":"5931024873","tel":"0282877107","addr":"新北市三重區三賢街185號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"每周日公休不販售快篩"},
