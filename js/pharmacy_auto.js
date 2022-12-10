@@ -613,6 +613,7 @@ locations = [
 {"lng":"120.30412","lat":"22.675352","name":"紅心藥局","id":"5902030063","tel":"073416697","addr":"高雄市左營區崇德路255號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"早上8點30賣快篩到完"},
 {"lng":"120.2932","lat":"22.68702","name":"宏仁藥局","id":"5902030090","tel":"075817895","addr":"高雄市左營區左營大路390號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩代售時間自早上10:00開始，售完為止。"},
 {"lng":"120.3058","lat":"22.66458","name":"立文藥局","id":"5902030269","tel":"075572899","addr":"高雄市左營區立文路54號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.3186","lat":"22.68308","name":"慈德藥局","id":"5902030287","tel":"073416212","addr":"高雄市左營區重愛路53號","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"快篩發放時間:週一至周六:上午9點至21點.週日下午2點半9點；請自備剛好的錢.不用找錢.以利流程.6／7下午.6／8上午休息"},
 {"lng":"120.287573","lat":"22.681086","name":"吉辰藥局","id":"5902030312","tel":"075815069","addr":"高雄市左營區左營大路41之1號","business_week":"OOOOOOOXOOOOOXOOOOOOO","memo":"早上9點開賣口罩   賣完為止"},
 {"lng":"120.293472","lat":"22.687253","name":"重仁藥局","id":"5902030410","tel":"075824083","addr":"高雄市左營區左營大路408號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"自2\/11日~2\/29日，營業日08:00~22:30為販賣口罩時間.售完為止"},
 {"lng":"120.3216","lat":"22.67935","name":"有機藥局","id":"5902030634","tel":"073596429","addr":"高雄市左營區榮耀街3號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"平日:7:40~22:00 六:08:00~22:00 星期日公休"},
