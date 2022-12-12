@@ -4117,6 +4117,7 @@ locations = [
 {"lng":"120.4898","lat":"22.58748","name":"杏林婦嬰藥局","id":"5943051399","tel":"087777791","addr":"屏東縣萬丹鄉萬安村萬丹路一段155號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.4892","lat":"22.57943","name":"好藥多藥局","id":"5943051415","tel":"087770055","addr":"屏東縣萬丹鄉水泉村萬新路1388號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"2\/11-2\/29，營業時間8:00為口罩販賣時間，售完為止"},
 {"lng":"120.5333","lat":"22.68979","name":"臺灣人藥師藥局","id":"5943060058","tel":"087625315","addr":"屏東縣長治鄉崙上村崑崙路188-10號","business_week":"OOOOOOXOOOOOOOOOOOOOX"},
+{"lng":"120.5117","lat":"22.66511","name":"瑞安藥局","id":"5943061091","tel":"087237236","addr":"屏東縣長治鄉瑞源路11號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"營業日08;00開始.12點到2點休息"},
 {"lng":"120.5245","lat":"22.67398","name":"宏大藥師藥局潭頭店","id":"5943061135","tel":"087369957","addr":"屏東縣長治鄉潭頭路155號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.5796","lat":"22.69815","name":"繁華藥局","id":"5943061144","tel":"087626055","addr":"屏東縣長治鄉繁華路269號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"營業日7:30~8:30; 15:00~20:00為販賣口罩時間. 週六7:30-9:00"},
 {"lng":"120.57614","lat":"22.703361","name":"宏大健保藥局繁華店","id":"5943061153","tel":"087620695","addr":"屏東縣長治鄉繁隆村中山路30號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間8:00-20:00，一年365天全年無休"},
