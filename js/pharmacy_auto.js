@@ -548,6 +548,7 @@ locations = [
 {"lng":"121.5613","lat":"24.98514","name":"康宜庭生活藥局","id":"5901201568","tel":"0229385363","addr":"臺北市文山區興隆路4段64號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名快篩14:00開賣 現場排隊，如有前天未販售，則早上8:30販售"},
 {"lng":"121.558702","lat":"25.006838","name":"東京晟藥局","id":"5901201728","tel":"0229356354","addr":"臺北市文山區辛亥路4段97號","business_week":"OOOOOOXOOOOOOXOOOOOOO","memo":"晚上營業至22:30止"},
 {"lng":"121.547","lat":"24.99952","name":"舒博威藥局","id":"5901201826","tel":"0229306805","addr":"臺北市文山區興隆路2段95巷3號","business_week":"OOOOOOXXXXXXXXOOOOOOX","memo":"早上8:30開始販售"},
+{"lng":"121.5585","lat":"24.98132","name":"巧康藥局","id":"5901201835","tel":"0229372061","addr":"臺北市文山區木新路3段262、264號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"12／1起，實施第八輪家用抗原快篩試劑實名制，及第六輪0至6歲學齡前幼兒與第四輪65歲以上長者免費領取1份快篩試劑"},
 {"lng":"121.539844","lat":"24.991001","name":"佳醫景美藥局","id":"5901201871","tel":"0286636659","addr":"臺北市文山區羅斯福路6段290號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售時間：每日12:00販售，售完為止"},
 {"lng":"121.5478","lat":"24.99955","name":"華君藥局","id":"5901202047","tel":"0229319510","addr":"臺北市文山區興隆路2段60號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天12:00開始販售快篩"},
 {"lng":"121.5621","lat":"24.98901","name":"皇興藥師藥局","id":"5901202216","tel":"0229365553","addr":"臺北市文山區木柵路2段121號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
