@@ -2884,6 +2884,7 @@ locations = [
 {"lng":"121.1982","lat":"25.0667","name":"大園藥局","id":"5932060140","tel":"033865034","addr":"桃園市大園區中華路49號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩販賣時段：上午7:00 開始售完為止 若遇無收到配送 另行公告"},
 {"lng":"121.1974","lat":"25.06282","name":"永固安藥局","id":"5932060168","tel":"033867233","addr":"桃園市大園區中山南路五六號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販賣時段:依據永固安藥局粉絲專頁公告"},
 {"lng":"121.2585","lat":"25.07499","name":"勝峰藥師藥局","id":"5932060177","tel":"033835588","addr":"桃園市大園區?林里3鄰?林路51號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"09:30-21:30"},
+{"lng":"121.1972","lat":"25.06478","name":"保和大藥局","id":"5932061003","tel":"033867448","addr":"桃園市大園區大園里中山北路36號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.2587","lat":"25.07888","name":"家宏藥局","id":"5932062046","tel":"033838866","addr":"桃園市大園區祰林里三民路二段466號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"快篩販賣時段： 15:.00-17:00"},
 {"lng":"121.1977","lat":"25.06585","name":"唯新藥局","id":"5932062144","tel":"033869380","addr":"桃園市大園區忠孝一街11號1樓","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"快篩販賣時段：下午1:30販售"},
 {"lng":"121.1973","lat":"25.0676","name":"快安藥師藥局","id":"5932062215","tel":"033856896","addr":"桃園市大園區新生北路41號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑販賣時段:上午8:30起至售完為止；現場排隊"},
