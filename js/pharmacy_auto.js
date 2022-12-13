@@ -2785,6 +2785,7 @@ locations = [
 {"lng":"121.255252","lat":"24.961935","name":"內壢丁丁藥局","id":"5932024144","tel":"034535351","addr":"桃園市中壢區環中東路325號1樓","business_week":"OOOOOOOOOOOOOOXXXXXXX"},
 {"lng":"121.2036","lat":"24.95743","name":"中民社區藥局","id":"5932024153","tel":"034922642","addr":"桃園市中壢區民族路2段182號","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"週六週日及國定假日不營業"},
 {"lng":"121.2558","lat":"24.93335","name":"大賀藥局","id":"5932024162","tel":"034375977","addr":"桃園市中壢區龍東路399號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩領取號碼牌時間:周一 ~ 周日 上午11:30 相關資訊請臉書搜尋  中壢大賀藥局"},
+{"lng":"121.2233","lat":"24.95944","name":"千和藥局","id":"5932024199","tel":"034518884","addr":"桃園市中壢區中美路1段49號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.2291","lat":"24.96265","name":"杏一中壢天晟藥局","id":"5932024206","tel":"034554517","addr":"桃園市中壢區延平路173號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"例假日營業時間09:00-22:00"},
 {"lng":"121.2502","lat":"24.9284","name":"幸運星藥師藥局","id":"5932024215","tel":"034563356","addr":"桃園市中壢區龍東路44號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"0-6歲兒童&快篩實名制08:30開始依量販售，售完為止"},
 {"lng":"121.23735","lat":"24.954428","name":"佑全中壢中山藥局","id":"5932024251","tel":"034385373","addr":"桃園市中壢區中山東路2段27號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
