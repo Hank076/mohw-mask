@@ -2591,7 +2591,7 @@ locations = [
 {"lng":"121.4335","lat":"25.06244","name":"紅葉藥局","id":"5931161460","tel":"0222960328","addr":"新北市泰山區楓江路8號2樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.4331","lat":"25.05534","name":"苗園健保特約藥局","id":"5931161513","tel":"0222970736","addr":"新北市泰山區仁愛路92號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.4304","lat":"25.03971","name":"立赫輔大藥局","id":"5931161577","tel":"0229060306","addr":"新北市泰山區貴子路65號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"營業時間：週一~週五，9:30-19:30，週六9:00-13:00，實名制快篩早上9:30開始販售。"},
-{"lng":"121.4336","lat":"25.06434","name":"全成藥局","id":"5931161602","tel":"0229093039","addr":"新北市泰山區明志路1段83號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實聯制快篩: 早上8:30開始販售"},
+{"lng":"121.4336","lat":"25.06434","name":"全成藥局","id":"5931161602","tel":"0229093039","addr":"新北市泰山區明志路1段83號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.432089","lat":"25.060524","name":"華特藥局","id":"5931161620","tel":"0229095662","addr":"新北市泰山區明志路1段260號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.3898","lat":"25.07869","name":"存明藥局","id":"5931170012","tel":"0226011618","addr":"新北市林口區中山路91號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"121.3982","lat":"25.07874","name":"士昌藥局","id":"5931170021","tel":"0226018863","addr":"新北市林口區工六路36號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"防疫口罩代售:週一至週六早上9:00~11:00現場排隊"},
