@@ -2583,6 +2583,7 @@ locations = [
 {"lng":"121.4522","lat":"25.10267","name":"闔安藥局","id":"5931151599","tel":"0222921143","addr":"新北市五股區成德里成泰路3段579號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩如有配送 早上9點半開賣 採現場排隊制 每日固定78份"},
 {"lng":"121.4383","lat":"25.08436","name":"陽光樂活藥局","id":"5931151606","tel":"0222928799","addr":"新北市五股區成泰路2段101-2號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.43354","lat":"25.089727","name":"陽光健保藥局","id":"5931151615","tel":"0222922400","addr":"新北市五股區五福路54號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.4339","lat":"25.08922","name":"祐康藥師藥局","id":"5931151660","tel":"0282921335","addr":"新北市五股區五福路36號1樓","business_week":"OOOOOOOOOOOOOXOOOOOXX"},
 {"lng":"121.4389","lat":"25.08635","name":"東興藥局","id":"5931151679","tel":"0282922718","addr":"新北市五股區成泰路2段69號2樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.433891","lat":"25.074107","name":"水碓藥局","id":"5931151697","tel":"0282926691","addr":"新北市五股區自強路34號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"","lat":"","name":"五股藥局","id":"5931151713","tel":"0222951150","addr":"新北市五股區成泰路1段235之2號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
