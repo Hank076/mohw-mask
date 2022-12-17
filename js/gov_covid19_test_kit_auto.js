@@ -213,7 +213,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.960033","lat":"24.80176","name":"台安耳鼻喉科診所","id":"3512040955","tel":"035246069","addr":"新竹市北區北大路466號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.959078","lat":"24.81003","name":"陳君毅小兒科診所","id":"3512042208","tel":"035345705","addr":"新竹市北區西大路738號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.971673","lat":"24.818121","name":"祐庭耳鼻喉科診所","id":"3512042244","tel":"035351166","addr":"新竹市北區光華街99-1號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
-{"lng":"120.973052","lat":"24.819742","name":"林敬堯親子診所","id":"3512042600","tel":"035350123","addr":"新竹市北區湳雅街120號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"9／9早午晚開診9／10早午開診9／11休診.10／8早上開診.下午開診、10／9休診、10／10早上開診.下午開診"},
+{"lng":"120.973052","lat":"24.819742","name":"林敬堯親子診所","id":"3512042600","tel":"035350123","addr":"新竹市北區湳雅街120號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"10／10早上開診.下午開診. 12／31上午開診下午開診.1／2上午開診下午開診晚上開診"},
 {"lng":"120.661461","lat":"24.144904","name":"吳東洀小兒科診所","id":"3517030968","tel":"0423029672","addr":"臺中市西區美村路一段362號","business_week":"OXOXOOXOOOOXXXXOXOXXX"},
 {"lng":"120.659231","lat":"24.146909","name":"陳正和耳鼻喉科診所","id":"3517031054","tel":"0423012729","addr":"臺中市西區向上路一段226號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.66079","lat":"24.13285","name":"阮春閔小兒科診所","id":"3517031947","tel":"0423757456","addr":"臺中市西區南屯路一段148號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"12／31.1／2正常看診，看診時段早（08:00~12:00）、午（14:30~18:00）、晚（18:30~21:30）"},
