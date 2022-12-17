@@ -3041,7 +3041,7 @@ locations = [
 {"lng":"121.0807","lat":"24.82769","name":"廣和藥局","id":"5933020104","tel":"035885959","addr":"新竹縣新埔鎮中正路292號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩 早上8:00至晚上21:00"},
 {"lng":"121.0798","lat":"24.82761","name":"梁藥局","id":"5933021254","tel":"035885439","addr":"新竹縣新埔鎮中正路233號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩實名制07:30~21:30"},
 {"lng":"121.0885","lat":"24.73595","name":"健民藥局","id":"5933030011","tel":"035952268","addr":"新竹縣竹東鎮東寧路二段315號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑販賣時段：早上8:00開始"},
-{"lng":"121.0882","lat":"24.73841","name":"鄧藥局","id":"5933030066","tel":"035952908","addr":"新竹縣竹東鎮榮樂里大同路43號","business_week":"OOOOOOOOOXOOXXOOOOOOO","memo":"快篩販售時間14:00起"},
+{"lng":"121.0882","lat":"24.73841","name":"鄧藥局","id":"5933030066","tel":"035952908","addr":"新竹縣竹東鎮榮樂里大同路43號","business_week":"OOOOOOXOOXOOXOOOOOOXO","memo":"快篩販售時間14:00起"},
 {"lng":"121.0888","lat":"24.73692","name":"華德藥局","id":"5933030306","tel":"035940019","addr":"新竹縣竹東鎮東林路15號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販賣時段：同營業時段"},
 {"lng":"121.0966","lat":"24.72171","name":"能安西藥局","id":"5933031643","tel":"035950515","addr":"新竹縣竹東鎮東峰路13號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午2點，星期日不販售"},
 {"lng":"121.0861","lat":"24.73988","name":"合康藥局","id":"5933031652","tel":"035103818","addr":"新竹縣竹東鎮興農街11號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名快篩皆以線上觀看數量為主，麻煩自行注意單雙號至門市領取"},
