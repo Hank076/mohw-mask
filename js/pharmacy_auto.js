@@ -3351,6 +3351,7 @@ locations = [
 {"lng":"120.7131","lat":"24.12447","name":"富眾藥局","id":"5936190327","tel":"0422706009","addr":"臺中市太平區永豐路35號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"111年平安吉祥年:星期一至星期六.下午1點.星期日:休息."},
 {"lng":"120.7202","lat":"24.15065","name":"同安藥局","id":"5936190416","tel":"0423918391","addr":"臺中市太平區新平路三段87號","business_week":"OOOOOOXXXXXXXXOOOOOXX","memo":"上午9點開賣快篩，下午1-4點、週六下午、週日休息。"},
 {"lng":"120.7165","lat":"24.14456","name":"衛民藥局","id":"5936190550","tel":"0422795581","addr":"臺中市太平區宜欣二路72號","business_week":"OOOOOXOOOOOOXOOOOOOXX","memo":"早上九點開始賣快篩 不用排隊"},
+{"lng":"120.7199","lat":"24.15663","name":"杏原藥局","id":"5936190649","tel":"0423918768","addr":"臺中市太平區新坪里樹孝路77號","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"早上9點現場排隊販賣口罩.快篩試劑"},
 {"lng":"120.716677","lat":"24.128059","name":"東亞藥師大藥局","id":"5936190710","tel":"0422787987","addr":"臺中市太平區中興路66號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日早上9:00~晚上9:00販賣快篩試劑"},
 {"lng":"120.7207","lat":"24.13334","name":"佑昇藥局","id":"5936191851","tel":"0422783697","addr":"臺中市太平區中平路16號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.7164","lat":"24.15076","name":"玖裕藥局","id":"5936191879","tel":"0423917005","addr":"臺中市太平區樹孝路45號1樓","business_week":"OOXOOOXOOOOOXXOOOOOXX","memo":"營業時間都可以現場直接購買"},
