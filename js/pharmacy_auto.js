@@ -3674,6 +3674,7 @@ locations = [
 {"lng":"120.5392","lat":"23.70849","name":"怡康健保藥局","id":"5939011734","tel":"055334585","addr":"雲林縣斗六市西平路42-1號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.5447","lat":"23.70513","name":"明真西藥局","id":"5939011850","tel":"055321605","addr":"雲林縣斗六市自由路1號","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"口罩販售:早上0800-1200中午1200-1400休息下午1400到2100賣完為止"},
 {"lng":"120.547965","lat":"23.709441","name":"榮譽藥局","id":"5939012062","tel":"055343503","addr":"雲林縣斗六市永安路53號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩販售時間（星期一至六上午9:00開始販售）星期日販售時間不定"},
+{"lng":"120.5516","lat":"23.70846","name":"鎮東藥局","id":"5939012133","tel":"055332449","addr":"雲林縣斗六市中華路460號","business_week":"OOOOOXOOXOOXXOOXOOXXX","memo":"星期二. 五 下午及晚上休息  星期六全天休息 (國定假日 星期日 9:00開始 晚上7:30 休息 )"},
 {"lng":"120.5996","lat":"23.70252","name":"保健藥局","id":"5939012179","tel":"055576037","addr":"雲林縣斗六市梅林路283號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"營業時間：1~5，0800~1200， 1500~1900，六日休"},
 {"lng":"120.5417","lat":"23.71444","name":"上海啄木鳥藥局","id":"5939012188","tel":"055374296","addr":"雲林縣斗六市上海路234號","business_week":"OOOOOOOOOOOOOOXXXXXXX","memo":"實名制快篩販售時間上午8:30"},
 {"lng":"120.5369","lat":"23.69934","name":"啄木鳥藥局","id":"5939012222","tel":"055344030","addr":"雲林縣斗六市民生南路262號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
