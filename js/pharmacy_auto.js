@@ -1416,6 +1416,7 @@ locations = [
 {"lng":"120.2951","lat":"22.63314","name":"銘益藥局","id":"5907340046","tel":"072853107","addr":"高雄市前金區七賢二路208、210號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.288","lat":"22.63082","name":"捷康藥妝藥局","id":"5907340091","tel":"072166099","addr":"高雄市前金區七賢二路396號一樓","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"藥局人力限制 只提供確診者現場領藥 無送藥服務 無抗病毒藥物"},
 {"lng":"120.3257","lat":"22.61678","name":"英祥藥局","id":"5907350113","tel":"077522786","addr":"高雄市苓雅區英祥街19號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"120.3247","lat":"22.63293","name":"佳康藥局","id":"5907350177","tel":"072266685","addr":"高雄市苓雅區建國一路334號","business_week":"OOOOOOXOOOOXXXOOOOXXX","memo":"快篩代售領取時間:一至六 13:00~16:30因配合隔壁診所，所以會優先處理看診病患，謝謝。請自備500元整，不找零。"},
 {"lng":"120.3303","lat":"22.6307","name":"中美藥局","id":"5907350186","tel":"077151149","addr":"高雄市苓雅區正言路26號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩試劑販售，週一~週六09:30開始售完為止"},
 {"lng":"120.298596","lat":"22.617241","name":"健順藥局","id":"5907350195","tel":"072695832","addr":"高雄市苓雅區自強三路140號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"自2\/6起，營業日0830~22:00為口罩販售時間，售完為止"},
 {"lng":"120.3402","lat":"22.63182","name":"人和藥局","id":"5907350266","tel":"077490883","addr":"高雄市苓雅區正義路180-6號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩販售時間週一到周六上午 09:00"},
