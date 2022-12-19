@@ -3498,6 +3498,7 @@ locations = [
 {"lng":"120.4258","lat":"24.04239","name":"福興永安藥局","id":"5937111062","tel":"047745268","addr":"彰化縣福興鄉沿海路4段737號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"星期一至星期日 早上7點開始販售快篩試劑"},
 {"lng":"120.4137","lat":"24.0294","name":"健安藥局","id":"5937111151","tel":"047707835","addr":"彰化縣福興鄉廈粘村沿海路3段214-1號1樓","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"早上08:30開始販售，售完為止，不找零※周日不販售※相關訊息滾動式修正"},
 {"lng":"120.431477","lat":"24.050549","name":"東泰藥局","id":"5937111160","tel":"047772277","addr":"彰化縣福興鄉福興村沿海路5段366號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"星期一至星期六早上09:00開始販售快篩試劑"},
+{"lng":"120.5061","lat":"24.03662","name":"慶泰藥局","id":"5937120025","tel":"047698510","addr":"彰化縣秀水鄉安東村中山路166號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日早上8AM起開始賣口罩，售完為止"},
 {"lng":"120.494454","lat":"24.026149","name":"效生藥局","id":"5937120052","tel":"047683931","addr":"彰化縣秀水鄉民生街908號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上7:00開始發號碼牌"},
 {"lng":"120.4977","lat":"24.03204","name":"伸豐藥局","id":"5937121184","tel":"047697482","addr":"彰化縣秀水鄉福安村彰水路二段663號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上8:30販售，售完為止"},
 {"lng":"120.4917","lat":"24.02402","name":"福慧藥局","id":"5937121237","tel":"047689180","addr":"彰化縣秀水鄉彰水路2段203號","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"1.早上8;45開始營業，早上9:00開始販售口罩 2.每日中午12:00-15:00休息"},
