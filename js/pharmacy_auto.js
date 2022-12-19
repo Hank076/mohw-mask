@@ -103,6 +103,7 @@ locations = [
 {"lng":"121.563947","lat":"25.049197","name":"啄木鳥藥局","id":"5901013362","tel":"0227422413","addr":"臺北市松山區八德路4段209號、211號(1、2層)","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日早上10點開始販售實名制快篩"},
 {"lng":"121.5755","lat":"25.05018","name":"玖田藥局","id":"5901013371","tel":"0227666578","addr":"臺北市松山區八德路4段655號","business_week":"XXXXXXXOOOOOOOOOOOOOO","memo":"Line：@ahh3248m"},
 {"lng":"121.5635","lat":"25.0558","name":"澄馨藥局","id":"5901013380","tel":"0227420159","addr":"臺北市松山區三民路37號","business_week":"OOOOOOXOOOOOXOOOOOOXO"},
+{"lng":"121.5667","lat":"25.05155","name":"一安正昇藥局","id":"5901013399","tel":"0227680993","addr":"臺北市松山區南京東路5段309號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.54657","lat":"25.048043","name":"松山八德藥局","id":"5901013442","tel":"0227782773","addr":"臺北市松山區八德路2段400號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"121.577","lat":"25.05074","name":"新德大藥局","id":"5901013451","tel":"0227673402","addr":"臺北市松山區饒河街204號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"周一至周六上午九點開賣；快篩實名制（周日休息）"},
 {"lng":"121.55","lat":"25.05569","name":"杏一台北長庚藥局","id":"5901013504","tel":"0225149463","addr":"臺北市松山區敦化北路199巷2弄3號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
