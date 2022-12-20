@@ -1364,6 +1364,7 @@ locations = [
 {"lng":"120.3084","lat":"22.66541","name":"杏一左營自由藥局","id":"5907301021","tel":"075509511","addr":"高雄市左營區自由二路397號","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"周一-周日販賣時間下午兩點"},
 {"lng":"120.311","lat":"22.6707","name":"丁丁藥局北高雄店","id":"5907301030","tel":"073453680","addr":"高雄市左營區自由三路148號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制早上9點開始販售"},
 {"lng":"120.30777","lat":"22.665109","name":"新高橋藥局裕誠店","id":"5907301049","tel":"075573857","addr":"高雄市左營區裕誠路291號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.3104","lat":"22.68483","name":"熊安心藥局華夏店","id":"5907301076","tel":"073430632","addr":"高雄市左營區華夏路1212號1樓","business_week":"OOOOOOXOOOOOXXOOOXOXX","memo":"快篩試劑-請參考藥局營業時間或致電詢問"},
 {"lng":"120.3213","lat":"22.6811","name":"杏一高榮二店藥局","id":"5907301094","tel":"073463348","addr":"高雄市左營區榮總路177號1樓","business_week":"XXXXXXXOOOOOXXXXXXXXX","memo":"實名制快篩 週一~五09:30開賣／週六14:30開賣"},
 {"lng":"120.2897","lat":"22.72085","name":"德民藥局","id":"5907310020","tel":"073630805","addr":"高雄市楠梓區德民路911號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"營業日星期一至星期六上午11:00~15:00銷售快篩實名制.售完為止，週日公休"},
 {"lng":"120.3309","lat":"22.73885","name":"新高橋藥局土庫店","id":"5907310128","tel":"073535458","addr":"高雄市楠梓區土庫路188號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售時間10:00~22:00，售完為止"},
