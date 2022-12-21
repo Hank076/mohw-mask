@@ -75,6 +75,7 @@ locations = [
 {"lng":"121.5582","lat":"25.0527","name":"明一藥局","id":"5901010094","tel":"0227691654","addr":"臺北市松山區南京東路5段59巷28弄25號1樓","business_week":"OOOOOXXOOOOOOXOOOOOOX","memo":"AM10: ~~PM9:00"},
 {"lng":"121.5466","lat":"25.05948","name":"仁弘藥局","id":"5901010174","tel":"0227136764","addr":"臺北市松山區民生東路3段113巷25弄6號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上九點開始發放快篩."},
 {"lng":"121.5615","lat":"25.05827","name":"益華藥局","id":"5901010192","tel":"0227624898","addr":"臺北市松山區民生東路5段138巷6號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.5667","lat":"25.06178","name":"德靈藥局","id":"5901010272","tel":"0227646998","addr":"臺北市松山區富錦街548號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週日休"},
 {"lng":"121.5449","lat":"25.06327","name":"健全藥局","id":"5901010290","tel":"0227128293","addr":"臺北市松山區民權東路3段103巷20號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5449","lat":"25.06298","name":"瑞昌大藥局","id":"5901010496","tel":"0227151881","addr":"臺北市松山區民權東路3段103巷10號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.5607","lat":"25.05364","name":"合生藥局","id":"5901010576","tel":"0227602932","addr":"臺北市松山區南京東路5段123巷45號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"12／18 10點到16點"},
