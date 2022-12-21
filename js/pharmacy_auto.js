@@ -1661,6 +1661,7 @@ locations = [
 {"lng":"120.652","lat":"24.15929","name":"裕和藥局","id":"5917061150","tel":"0423252629","addr":"臺中市西屯區大墩路951號1F","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.617672","lat":"24.18807","name":"典安大藥局","id":"5917062353","tel":"0424616571","addr":"臺中市西屯區西屯路3段159-60號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天10:00發放快篩"},
 {"lng":"120.6568","lat":"24.15693","name":"健康藥局","id":"5917062406","tel":"0423190305","addr":"臺中市西屯區何南里大墩19街26號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"原則上W1-W6 10:00開始販售快篩（視排隊狀況提前），星期日休息"},
+{"lng":"120.6138","lat":"24.17453","name":"久揚大藥局","id":"5917062531","tel":"0423580738","addr":"臺中市西屯區工業區一路98之16號","business_week":"OOOOOOXOOOOOOXOOOOOOO","memo":"未發號碼牌，星期一至六早上9:00開始販賣口罩，星期日不一定"},
 {"lng":"120.6181","lat":"24.17737","name":"德康藥局","id":"5917062559","tel":"0423583373","addr":"臺中市西屯區福和里中工三路156號","business_week":"OOOOOOOXXXXXXXXXXXXXX","memo":"每天早上9:00開始，不發號碼牌，現場排隊領口罩"},
 {"lng":"120.6472","lat":"24.17387","name":"東亞藥師藥局","id":"5917062620","tel":"0427022702","addr":"臺中市西屯區河南路2段350號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名快篩每日早上9:30販賣"},
 {"lng":"120.6418","lat":"24.17275","name":"逢甲何藥局","id":"5917062773","tel":"0427088495","addr":"臺中市西屯區青海路二段二八七號一、二樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"防疫家用快篩試劑販售 5／23起改為早上9:00-晚上10:00販售"},
