@@ -4055,7 +4055,7 @@ locations = [
 {"lng":"120.5416","lat":"22.90123","name":"健民藥局","id":"5942040061","tel":"076812796","addr":"高雄市美濃區泰安里中正路一段31-1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"春節期間正常營業（初二店休）"},
 {"lng":"120.5261","lat":"22.87692","name":"進安堂藥局","id":"5942040089","tel":"076812741","addr":"高雄市美濃區忠孝路1段372號","business_week":"OOOOOOXXXXXXXXXXXXXXX"},
 {"lng":"120.5365","lat":"22.8688","name":"吉安藥局","id":"5942040114","tel":"076831711","addr":"高雄市美濃區中正路二段732號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"自2\/11日~2\/29日，營業日08:00~21:00為販賣口罩時間，售完為止"},
-{"lng":"120.3953","lat":"22.50359","name":"福安藥局","id":"5942050085","tel":"076438833","addr":"高雄市林園區東林里東林西路51號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.3953","lat":"22.50359","name":"福安藥局","id":"5942050085","tel":"076438833","addr":"高雄市林園區林園北路290 號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.3958","lat":"22.51297","name":"弘寶藥局","id":"5942051279","tel":"076433159","addr":"高雄市林園區鳳林路二段757之1號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"自2\/11日~2\/29日，營業日09:00為販賣口罩時間，售完為止，"},
 {"lng":"120.3901","lat":"22.50328","name":"金高泰藥局","id":"5942051546","tel":"076429592","addr":"高雄市林園區東林西路210號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.3964","lat":"22.50372","name":"健人藥師藥局","id":"5942051555","tel":"076463158","addr":"高雄市林園區東林里東林東路20號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制防疫快篩販售時間:周一 ~六:下午2點~4點，周日不販售"},
