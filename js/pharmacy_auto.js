@@ -3471,6 +3471,7 @@ locations = [
 {"lng":"120.5712","lat":"23.9678","name":"躍獅永聖藥局","id":"5937052184","tel":"048369065","addr":"彰化縣員林市三信里中山路2段325號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"固定周一到周六，早上9:30開始販賣公發快篩，周日沒營業。"},
 {"lng":"120.567768","lat":"23.962539","name":"新義藥局","id":"5937052246","tel":"048396788","addr":"彰化縣員林市南平里新義街288號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天早上9點開始販賣及領取政府快篩"},
 {"lng":"120.5713","lat":"23.96388","name":"淑德藥局","id":"5937052255","tel":"048359155","addr":"彰化縣員林市仁美里中山路2段110、112號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"周日沒營業。"},
+{"lng":"120.5707","lat":"23.96247","name":"丁丁藥局員林店","id":"5937052282","tel":"048373508","addr":"彰化縣員林市中山路二段89號","business_week":"OOOOOOXOOXOOOXXOXXOXX","memo":"*星期一-日每日上午9點開始.售完為止。(全年無休)"},
 {"lng":"120.573","lat":"23.95862","name":"員郭藥局","id":"5937052317","tel":"048356201","addr":"彰化縣員林市三民街38-1號","business_week":"OOOOOOOOOOOOOXOOOOOXX"},
 {"lng":"120.5825","lat":"23.96065","name":"大樹三民藥局","id":"5937052335","tel":"048372837","addr":"彰化縣員林市三民東街356號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"120.5797","lat":"23.96462","name":"壽春中西藥局","id":"5937052353","tel":"048361667","addr":"彰化縣員林市成功路55號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"5／6（五）起。快篩試劑早上9點半後發售，週日無販售。"},
