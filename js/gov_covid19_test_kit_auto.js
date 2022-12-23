@@ -198,7 +198,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.757513","lat":"25.099426","name":"碇內診所","id":"3511031247","tel":"0224595878","addr":"基隆市暖暖區源遠路323號","business_week":"OOOOOOOOOOOOOXOOOOOXX"},
 {"lng":"121.740956","lat":"25.129251","name":"李任堅小兒科診所","id":"3511040479","tel":"0224269096","addr":"基隆市仁愛區孝一路86號","business_week":"OOOOOOXXXXXXXXOOOOOXX","memo":"雙十國慶日10／8.10／10看早上下午.晚上休息"},
 {"lng":"121.742976","lat":"25.124624","name":"王孟俊診所","id":"3511040639","tel":"0224293128","addr":"基隆市仁愛區南榮路143號","business_week":"OOOOOOXOOOXOXXOOOOOXX"},
-{"lng":"121.748048","lat":"25.127382","name":"楊耳鼻喉科診所","id":"3511040693","tel":"0224245212","addr":"基隆市仁愛區仁二路115號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"9／9 正常看診，9／10早上看診，午晚休診"},
+{"lng":"121.748048","lat":"25.127382","name":"楊耳鼻喉科診所","id":"3511040693","tel":"0224245212","addr":"基隆市仁愛區仁二路115號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"12／31早午看診；1／1休診；1／2早上看診，午晚休診"},
 {"lng":"121.739842","lat":"25.130723","name":"仁愛診所","id":"3511041181","tel":"0224223255","addr":"基隆市仁愛區孝三路80號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"端午節(6\/14)只看上午時段"},
 {"lng":"121.724013","lat":"25.12101","name":"李偉華耳鼻喉科診所","id":"3511061325","tel":"0224348535","addr":"基隆市安樂區安樂路二段179號1樓","business_week":"OOXOOOXXXXXXOXOOXOOXX","memo":"星期六.下午.16:00-19:00）"},
 {"lng":"120.979828","lat":"24.807053","name":"林安復耳鼻喉科診所","id":"3512010126","tel":"035355890","addr":"新竹市東區中華路二段159號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
