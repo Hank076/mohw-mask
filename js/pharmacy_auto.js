@@ -3950,7 +3950,7 @@ locations = [
 {"lng":"120.403193","lat":"23.322575","name":"青山藥局","id":"5941110046","tel":"066802740","addr":"臺南市東山區東中里中興路23號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販售時間：星期一~日 9:00~售完"},
 {"lng":"120.4031","lat":"23.32411","name":"杏春堂中西藥局","id":"5941111061","tel":"066802682","addr":"臺南市東山區中興路97號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.353288","lat":"23.230007","name":"竹軒大藥局","id":"5941131161","tel":"066982258","addr":"臺南市六甲區甲南里民生街158號","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"週日一至周日，上午8點開始販售快篩試劑"},
-{"lng":"120.3594","lat":"23.11809","name":"江梁藥師藥局","id":"5941150013","tel":"065761206","addr":"臺南市大內區內江里285-1號","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"營業時間內皆可購買快篩"},
+{"lng":"120.3594","lat":"23.11809","name":"江梁藥師藥局","id":"5941150013","tel":"065761206","addr":"臺南市大內區內江里285-1號","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"1／1-1／2營業時間為08:00-18:00"},
 {"lng":"120.3611","lat":"23.1177","name":"三和藥局","id":"5941151056","tel":"065762187","addr":"臺南市大內區內江里270號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.21658","lat":"23.140974","name":"厚真藥局","id":"5941161070","tel":"067962628","addr":"臺南市西港區營西里2鄰後營17號","business_week":"OOOOOOOOOOOOXXOOOOOXX","memo":"營業起訖時間8:00至21:00，週六日至13:00，本藥局為Paxlovid處方調劑處所"},
 {"lng":"120.158","lat":"23.20163","name":"年豐藥局","id":"5941181054","tel":"067946247","addr":"臺南市將軍區忠嘉里忠興42-10號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"星期一、四、五、六08:00~09:00 星期二~三08:30~09:30（5／11上午休息）買快篩時間"},
