@@ -4021,6 +4021,7 @@ locations = [
 {"lng":"120.4949","lat":"22.68121","name":"彥芳藥局","id":"5943013979","tel":"087385559","addr":"屏東縣屏東市自由路364-3號","business_week":"OOOOOOOOOOOOXXOOOOOXX","memo":"無"},
 {"lng":"120.4838","lat":"22.66998","name":"台大藥師藥局","id":"5943014029","tel":"087330587","addr":"屏東縣屏東市光復路140-3、142號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.4749","lat":"22.68145","name":"大林崇蘭藥局","id":"5943014074","tel":"087323738","addr":"屏東縣屏東市大同北路98號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"平日下午兩點開賣快篩，星期日不販售公費快篩，如有不便敬請見諒"},
+{"lng":"120.49","lat":"22.67281","name":"維康藥局","id":"5943014109","tel":"087346888","addr":"屏東縣屏東市中華路61-1號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"口罩販售時間上午:09:00~12:00.售完為止"},
 {"lng":"120.5043","lat":"22.6554","name":"惠生藥局","id":"5943014127","tel":"087223889","addr":"屏東縣屏東市歸仁路63-13號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.4966","lat":"22.68527","name":"廣東藥局","id":"5943014145","tel":"087362210","addr":"屏東縣屏東市廣東路682-2.684號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"120.5038","lat":"22.66399","name":"屏大藥局","id":"5943014234","tel":"087220369","addr":"屏東縣屏東市民生路57-21號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
