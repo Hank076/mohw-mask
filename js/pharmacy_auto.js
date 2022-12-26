@@ -2605,6 +2605,7 @@ locations = [
 {"lng":"121.280115","lat":"24.989796","name":"全球龍安藥局","id":"5932013865","tel":"033609639","addr":"桃園市桃園區龍安街111號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間:9:00-22:00"},
 {"lng":"121.3054","lat":"25.01751","name":"經國藥局","id":"5932013874","tel":"033151959","addr":"桃園市桃園區經國路200號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩實名制於每周一至周六下午1點開始販售"},
 {"lng":"121.317999","lat":"25.013997","name":"桃園大有藥局","id":"5932013883","tel":"033460793","addr":"桃園市桃園區大有路556號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩星期一到星期日下午1:50發號碼牌；販賣時段：14:00~15:00"},
+{"lng":"121.2971","lat":"25.02393","name":"莊敬長青藥師藥局","id":"5932013909","tel":"033587676","addr":"桃園市桃園區莊敬路一段323號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩早上9:30開始販售，售完為止"},
 {"lng":"121.2902","lat":"24.99093","name":"益壽藥局","id":"5932013918","tel":"033693100","addr":"桃園市桃園區中山路828、830、832、834、836號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"121.2886","lat":"24.99044","name":"合祥藥局","id":"5932013972","tel":"033703010","addr":"桃園市桃園區國際路二段8號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.2924","lat":"25.01812","name":"安慶藥局","id":"5932013981","tel":"033027267","addr":"桃園市桃園區安慶街91號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午兩點販售，現場排隊"},
