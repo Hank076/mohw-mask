@@ -654,7 +654,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.568853","lat":"23.979095","name":"康寧診所","id":"3545051404","tel":"038530910","addr":"花蓮縣吉安鄉慶豐村中山路3段386號","business_week":"OOOOOOXOOOOOXXOOOOOXO","memo":"10／8早診、10／9晚診、10／10早午晚診.12／31上午開診1／1晚上開診1／2上午開診下午開診晚上開診"},
 {"lng":"121.594434","lat":"23.985019","name":"福田耳鼻喉科診所","id":"3545051431","tel":"038577823","addr":"花蓮縣吉安鄉建國路一段65號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.570684","lat":"23.977709","name":"光鹽診所","id":"3545051468","tel":"038534305","addr":"花蓮縣吉安鄉慶豐村中山路三段281號","business_week":"OOOOOOXOOXOOXXOOXOOXX"},
-{"lng":"121.58931","lat":"23.988827","name":"中心診所","id":"3545051495","tel":"038460656","addr":"花蓮縣吉安鄉中央路三段566號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"6／3端午節全日休診"},
+{"lng":"121.58931","lat":"23.988827","name":"中心診所","id":"3545051495","tel":"038460656","addr":"花蓮縣吉安鄉中央路三段566號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"12／31（星期六）全日休診"},
 {"lng":"121.592581","lat":"23.987323","name":"自強耳鼻喉科診所","id":"3545051502","tel":"038561277","addr":"花蓮縣吉安鄉北昌村自強路568號","business_week":"OOOOOOXXXXXXXXOOOOOXX"},
 {"lng":"121.576247","lat":"23.992256","name":"和田小兒科診所","id":"3545051548","tel":"038576822","addr":"花蓮縣吉安鄉建國路二段229號1樓","business_week":"OOOOOXXOOOOXXXOOOOXXX"},
 {"lng":"121.585257","lat":"23.969684","name":"奇美診所","id":"3545051575","tel":"038533376","addr":"花蓮縣吉安鄉中山路二段1號","business_week":"OOOOOOXOOXOOXXOOXOOXX","memo":"111年3\/1起，修改為午晚上門診時間為5:00-8:00"},
