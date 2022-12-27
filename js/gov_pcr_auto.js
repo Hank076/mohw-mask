@@ -55,7 +55,7 @@ gov_pcr_locations = [
 {"lng":"121.3667802","lat":"25.02988402","name":"長庚醫療財團法人桃園長庚紀念醫院","id":"1132071036","tel":"033196200","addr":"桃園市龜山區頂湖路123號","business_week":"OOOOOOXOOOOOOXXXXXXXX","memo":"急診全年無休，門診開診日及開診科別依本院全球資訊網之網路掛號服務公告為準"},
 {"lng":"121.2299712","lat":"24.95313224","name":"華揚醫院","id":"1532021365","tel":"034577200","addr":"桃園市中壢區中北路二段316號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"泌尿外科:每個月第二週（週六）及第四週（週六）"},
 {"lng":"121.2037883","lat":"24.95751014","name":"祐民醫院","id":"1532020215","tel":"034915656","addr":"桃園市中壢區民族路二段180號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"本院無提供急診服務"},
-{"lng":"121.2578603","lat":"24.96448913","name":"中壢長榮醫院","id":"1532021338","tel":"034631230","addr":"桃園市中壢區環中東路150號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"即日起本院急診24小時提供急診服務"},
+{"lng":"121.2578603","lat":"24.96448913","name":"中壢長榮醫院","id":"1532021338","tel":"034631230","addr":"桃園市中壢區環中東路150號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"本院急診24小時提供急診服務"},
 {"lng":"121.2250456","lat":"24.95871587","name":"中美醫院","id":"1532021392","tel":"034266222","addr":"桃園市中壢區中美路95號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"121.2234105","lat":"24.95421439","name":"新國民醫療社團法人新國民醫院","id":"0932020034","tel":"034225180","addr":"桃園市中壢區復興路152號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"請以本院官方網站公告為準(http:\/\/www.skmh.com.tw\/)"},
 {"lng":"121.3186802","lat":"24.98410931","name":"德仁醫院","id":"1532011163","tel":"033617985","addr":"桃園市桃園區桃鶯路245號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
