@@ -2707,6 +2707,7 @@ locations = [
 {"lng":"121.228241","lat":"24.958397","name":"領耀大藥局","id":"5932021554","tel":"034253038","addr":"桃園市中壢區中央里元化路97號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"周日公休，平日快篩販售時間08:30開始"},
 {"lng":"121.2606","lat":"24.94827","name":"日光健康藥局","id":"5932021670","tel":"034383559","addr":"桃園市中壢區華祥一街2號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.254319","lat":"24.963756","name":"立康專業藥局","id":"5932021689","tel":"034553121","addr":"桃園市中壢區莊敬路865號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
+{"lng":"121.2568","lat":"24.98025","name":"慧中健保藥局","id":"5932021812","tel":"034556129","addr":"桃園市中壢區成章二街141號1樓","business_week":"XXXXXXXXXXXXXXOOOOOOX","memo":"每日4:30開始領號碼牌販售快篩試劑"},
 {"lng":"121.2268","lat":"24.94399","name":"億源藥局","id":"5932021830","tel":"034595111","addr":"桃園市中壢區林森路176號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"8:30-21:00\/口罩販賣時段：08:30開始，售完為止"},
 {"lng":"121.2569","lat":"24.93482","name":"正翰藥師藥局","id":"5932022051","tel":"034664171","addr":"桃園市中壢區龍東路498號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一至週五下午2:30現場排隊銷售實名制快篩（週六，週日中午12:00）上述均以實際到貨為主"},
 {"lng":"121.2218","lat":"24.96005","name":"星康生活藥局","id":"5932022257","tel":"034252869","addr":"桃園市中壢區中美路二段94號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩9:00開賣"},
