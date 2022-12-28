@@ -3772,6 +3772,7 @@ locations = [
 {"lng":"120.164921","lat":"23.617505","name":"亞洲藥局","id":"5939191380","tel":"057991108","addr":"雲林縣口湖鄉崙東村中山路78-2號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"1000(賣完為止)"},
 {"lng":"120.247","lat":"23.57205","name":"優生藥局","id":"5939200011","tel":"057856307","addr":"雲林縣水林鄉水林路99巷2號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"販賣快篩試劑時間:5月1日早上8點有販售"},
 {"lng":"120.2448","lat":"23.5725","name":"正大藥局","id":"5939201238","tel":"057852069","addr":"雲林縣水林鄉水林路42號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"固定每天早上8點開始販售，售完為止"},
+{"lng":"120.2445","lat":"23.57217","name":"義生藥局","id":"5939201283","tel":"057853701","addr":"雲林縣水林鄉水林路197號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"販賣快篩時間:如營業時間"},
 {"lng":"120.2425","lat":"23.572","name":"全仁藥局","id":"5939201336","tel":"057852721","addr":"雲林縣水林鄉水林路130號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩實名制星期一到星期日上午8點開賣（視快篩到貨時間開賣）"},
 {"lng":"120.2466","lat":"23.57223","name":"玉璽藥局","id":"5939201354","tel":"057856019","addr":"雲林縣水林鄉水南村水林路115號之1","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"實名制快篩早上8:30 開始"},
 {"lng":"120.2444","lat":"23.46605","name":"石原藥局","id":"5940010154","tel":"053792389","addr":"嘉義縣朴子市中正里中正路149號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"有營業時間8點起售快篩售完6點為止"},
