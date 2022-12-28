@@ -916,6 +916,7 @@ locations = [
 {"lng":"120.6666","lat":"24.11516","name":"尚尚藥局","id":"5903250603","tel":"0422606831","addr":"臺中市南區美村南路197號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一至週六下午3點販售實名制快篩，週日休診"},
 {"lng":"120.683","lat":"24.1339","name":"杏一南區台中藥局","id":"5903250612","tel":"0422220652","addr":"臺中市南區台中路66、68號1樓","business_week":"XXXXXXXOOOOOOOXXXXXXX","memo":"每日下午4點開始販售實名制快篩，售完為止。一人一卡一盒"},
 {"lng":"120.6592","lat":"24.11688","name":"澄光工學藥局","id":"5903250630","tel":"0422620606","addr":"臺中市南區工學路159號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"120.6806","lat":"24.16333","name":"康甫藥師藥局","id":"5903260163","tel":"0422366682","addr":"臺中市北區進化北路366號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"有關口罩販售：周一至周六早上9:30發號碼牌，下午3:00過後發售口罩。周日休息。"},
 {"lng":"120.6946","lat":"24.16047","name":"冠安藥局","id":"5903260270","tel":"0422335770","addr":"臺中市北區進化路510、512號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.6818","lat":"24.15927","name":"喜悅健保藥局","id":"5903260314","tel":"0422333988","addr":"臺中市北區健行路414號1樓","business_week":"OOOOOXXOOOOOOXOOOOOOX","memo":"星期一到星期五早上10點到晚上9點半，星期六中午12點到晚上6點半."},
 {"lng":"120.6711","lat":"24.16703","name":"台中漢口藥局","id":"5903260341","tel":"0422936166","addr":"臺中市北區漢口路3段183、185號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售時間每天10:00~19:30"},
