@@ -2768,6 +2768,7 @@ locations = [
 {"lng":"121.2255","lat":"24.95742","name":"幸福藥局","id":"593202B054","tel":"034223092","addr":"桃園市中壢區中光路3號","business_week":"OXXOXOOOOXOOOXOOXOOXX","memo":"口罩販賣時段：六日一三8:30~售完為止 \/二五14:30~售完為止\/四10:00~售完為止"},
 {"lng":"121.2277","lat":"24.95526","name":"健康生活藥局","id":"593202B349","tel":"034272729","addr":"桃園市中壢區中山路二五號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩8:30"},
 {"lng":"121.166994","lat":"24.95824","name":"永豐藥局","id":"593202B394","tel":"034205339","addr":"桃園市中壢區民族路五段四六O號","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"快篩販賣時段：隨到隨賣，售完為止!9／1起0-6歲，65歲可免費領取一份!"},
+{"lng":"121.2611","lat":"24.96974","name":"佳音健保藥局","id":"593202B401","tel":"034516813","addr":"桃園市中壢區興仁路一段144號2樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"12／31、1／2全日營業，1／1全日休息；快篩販賣時段：全天"},
 {"lng":"121.2083","lat":"24.9574","name":"祐達藥局","id":"593202B438","tel":"034015995","addr":"桃園市中壢區民族路二九八號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.2535","lat":"24.9298","name":"榮善堂藥局","id":"593202B447","tel":"034564946","addr":"桃園市中壢區前龍街九號","business_week":"OOOOOOOOOOOOOXOOOOXXX","memo":"全台第一自助快篩領取系統，快篩販賣星期一至日皆為早上八點"},
 {"lng":"121.2524","lat":"24.96428","name":"自立藥局","id":"593202B474","tel":"034558980","addr":"桃園市中壢區永福路1013號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"AM 8:00 販售快篩試劑"},
