@@ -146,7 +146,7 @@ gov_pcr_locations = [
 {"lng":"120.240268","lat":"22.997284","name":"高雄榮民總醫院臺南分院","id":"0641310018","tel":"063125101","addr":"臺南市永康區復興路427號","business_week":"OOOOOOXOOOOOXXOXOXXXX","memo":"急診每日24小時全年不打烊"},
 {"lng":"120.3445776","lat":"22.96701263","name":"吉安醫療社團法人吉安醫院","id":"0905290020","tel":"066025115","addr":"臺南市關廟區中正路435號","business_week":"OOOOOXXOOOOOXXXXXXXXX"},
 {"lng":"120.2998589","lat":"23.30849496","name":"營新醫院","id":"1541011126","tel":"066592345","addr":"臺南市新營區隋唐街228號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"急診服務時間為08:00-21:00"},
-{"lng":"120.2939464","lat":"23.12799491","name":"誼仁診所(抗原快篩服務)","id":"3505070032","tel":"065817267","addr":"臺南市善化區中正路387號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
+{"lng":"120.2939464","lat":"23.12799491","name":"誼仁診所(抗原快篩服務)","id":"3505070032","tel":"065817267","addr":"臺南市善化區中正路387號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"12／31早午診  1／1休診  1／2早中晚診"},
 {"lng":"120.251574","lat":"23.029662","name":"中正耳鼻喉科診所(抗原快篩服務)","id":"3541313172","tel":"062333566","addr":"台南市永康區正強街231號","business_week":"OOOOOOOOOOOOXXOOOOOXX"},
 {"lng":"120.3146436","lat":"23.30373169","name":"杏仁診所","id":"3541010247","tel":"066332659","addr":"臺南市新營區民權里民有街27號1樓","business_week":"OOOOOXXOOXOOXXXXXXXXX"},
 {"lng":"120.363101","lat":"22.567359","name":"高雄市立小港醫院","id":"1102110011","tel":"078036783#3134","addr":"高雄市小港區山明里山明路四八二號B1-10樓","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"本院急診全年24小時全天候看診"},
