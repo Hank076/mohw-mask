@@ -660,7 +660,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.585257","lat":"23.969684","name":"奇美診所","id":"3545051575","tel":"038533376","addr":"花蓮縣吉安鄉中山路二段1號","business_week":"OOOOOOXOOXOOXXOOXOOXX","memo":"111年3／1起，修改為午晚上門診時間為5:00-8:00"},
 {"lng":"121.561639","lat":"23.971299","name":"福康診所","id":"3545051637","tel":"038547668","addr":"花蓮縣吉安鄉吉安路二段41號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"121.566495","lat":"23.980293","name":"卓奇勳小兒科診所","id":"3545051655","tel":"038533550","addr":"花蓮縣吉安鄉中山路三段482-3號","business_week":"OOOOOOXXXXXXXXOOOOOXX"},
-{"lng":"121.53088","lat":"23.909351","name":"信德診所","id":"3545061151","tel":"038661197","addr":"花蓮縣壽豐鄉中山路三段76號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"早上診8-12時 下午診16-20時"},
+{"lng":"121.53088","lat":"23.909351","name":"信德診所","id":"3545061151","tel":"038661197","addr":"花蓮縣壽豐鄉中山路三段76號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"早上診8-12時 下午診16-20時"},
 {"lng":"121.42534","lat":"23.664732","name":"葉日昇診所","id":"3545070070","tel":"038700182","addr":"花蓮縣光復鄉忠孝路100號","business_week":"OOOOOOXOOOOOXXXXXXXXX"},
 {"lng":"121.342371","lat":"23.494886","name":"哈比心診所","id":"3545120520","tel":"038877497","addr":"花蓮縣萬榮鄉紅葉村3鄰40號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"上午8點至12點、下午4點至8點看診。"},
 {"lng":"121.151902","lat":"22.756105","name":"大慶家醫科外科診所","id":"3546010238","tel":"089322221","addr":"臺東縣臺東市中山路267號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"1120102照常看診， 1120122~1120126休診"},
