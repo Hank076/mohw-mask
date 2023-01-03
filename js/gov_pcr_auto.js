@@ -122,7 +122,7 @@ gov_pcr_locations = [
 {"lng":"120.307229","lat":"23.590144","name":"中國醫藥大學北港附設醫院","id":"1339060017","tel":"057837901","addr":"雲林縣北港鎮新德路123號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"急診24小時不打烊，門診時間:上午8:30看診  下午2:00看診  晚上6:00看診"},
 {"lng":"120.441373","lat":"23.780705","name":"彰化基督教醫療財團法人雲林基督教醫院","id":"1139040011","tel":"055871111","addr":"雲林縣西螺鎮新豐里市場南路371、375號","business_week":"OOOOOOXOOOOOXXXXXXXXX"},
 {"lng":"120.437343","lat":"23.708016","name":"天主教若瑟醫療財團法人若瑟醫院","id":"1139030015","tel":"056337333","addr":"雲林縣虎尾鎮新生路74號(民權路2號)","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"急診24小時服務"},
-{"lng":"120.218628","lat":"23.795598","name":"長庚醫療財團法人雲林長庚紀念醫院","id":"1139130010","tel":"056915151","addr":"雲林縣麥寮鄉中興村工業路1500號","business_week":"OOOOOOXOOOOOOXOXOOOXX"},
+{"lng":"120.218628","lat":"23.795598","name":"長庚醫療財團法人雲林長庚紀念醫院","id":"1139130010","tel":"056915151","addr":"雲林縣麥寮鄉中興村工業路1500號","business_week":"OOOOOOXOOOOOXXOXOOOXX","memo":"急診24小時服務。"},
 {"lng":"120.4279313","lat":"23.73522006","name":"國立臺灣大學醫學院附設醫院雲林分院虎尾院區","id":"0439010518","tel":"056330002","addr":"雲林縣虎尾鎮學府路95號","business_week":"OOOOOXXOOOOOXXOOOOXXX","memo":"急診服務時段為24小時"},
 {"lng":"120.3013204","lat":"23.57748505","name":"北港仁一醫院","id":"1539061072","tel":"057827666","addr":"雲林縣北港鎮公園路155號","business_week":"OOOOOOXOOOOOXXXXXXXXX"},
 {"lng":"120.511423","lat":"23.66863786","name":"信安醫療社團法人信安醫院","id":"0939010018","tel":"055223788","addr":"雲林縣斗六市瓦厝路159號","business_week":"OOOOOOXOOOOOXXXXXXXXX"},
