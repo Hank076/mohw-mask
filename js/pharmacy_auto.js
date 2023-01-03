@@ -3762,6 +3762,7 @@ locations = [
 {"lng":"121.6098","lat":"23.97664","name":"安安藥局","id":"5945012498","tel":"038334514","addr":"花蓮縣花蓮市中山路142-8號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"營業時間周一至六早上8:10-11:50   下午 4:00-5:50    晚上 7:00-9:20  （星期日休息）"},
 {"lng":"121.6263","lat":"23.99112","name":"全心藥局","id":"5945012836","tel":"038223488","addr":"花蓮縣花蓮市永興路1號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"固定星期一到六 早上08:00 開始領購快篩，售完為止"},
 {"lng":"121.5994","lat":"23.98438","name":"承祐藥局","id":"5945012863","tel":"038338261","addr":"花蓮縣花蓮市建國路266號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"販售時間："},
+{"lng":"121.5939","lat":"23.97447","name":"宇康藥局","id":"5945012872","tel":"038357790","addr":"花蓮縣花蓮市中華路397號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"週二、四至19:00，週日公休"},
 {"lng":"121.6009","lat":"23.9737","name":"達榮藥局","id":"5945012890","tel":"038316020","addr":"花蓮縣花蓮市中福路185號","business_week":"OOOOOOXOOOOOXXOOOOOOX","memo":"星期一到六 早上8:00-10:00 快篩販售"},
 {"lng":"121.599","lat":"23.99447","name":"東大藥局","id":"5945012970","tel":"038463231","addr":"花蓮縣花蓮市富吉路4號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販賣時間：早上10；00至售完為止"},
 {"lng":"121.59861","lat":"23.971662","name":"幸福花蓮藥局","id":"5945013048","tel":"038361412","addr":"花蓮縣花蓮市中正路179號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售時間週一至週六下午一點開賣晚9點30結束*周日彈性販售."},
