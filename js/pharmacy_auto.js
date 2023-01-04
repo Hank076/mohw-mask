@@ -3269,6 +3269,7 @@ locations = [
 {"lng":"120.682801","lat":"23.978534","name":"萬壽堂藥局","id":"5938030057","tel":"0492333570","addr":"南投縣草屯鎮中山街211號","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"販售時間：週一 至 週六 早上8:00【萬壽堂 祝您 順心"},
 {"lng":"120.6839","lat":"23.98232","name":"國聖藥局","id":"5938030084","tel":"0492305685","addr":"南投縣草屯鎮芬草路1段35號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"執業時間銷售家用快篩，售完為止"},
 {"lng":"120.6845","lat":"23.98124","name":"環球大藥局","id":"5938030100","tel":"0492356485","addr":"南投縣草屯鎮中正路753號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"*0-6歲幼兒免費快篩跟實名制快篩 周一至周日全天 販售 售完為止"},
+{"lng":"120.6677","lat":"23.97507","name":"建林藥局","id":"5938030191","tel":"0492336449","addr":"南投縣草屯鎮復興路734號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"07:30開始現場販售，售完為止"},
 {"lng":"120.6574","lat":"23.97377","name":"健泰藥局","id":"5938030253","tel":"04992336280","addr":"南投縣草屯鎮碧峰里碧山路1082號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早8:30營業，晚8:30休息 週日固定公休。"},
 {"lng":"120.6816","lat":"23.98459","name":"易生藥局","id":"5938030280","tel":"0492323350","addr":"南投縣草屯鎮明正里芬草路一段153號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間 08:00~21:00"},
 {"lng":"120.6882","lat":"23.99325","name":"豐安藥局","id":"5938030379","tel":"0492334412","addr":"南投縣草屯鎮中正路1219號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間早上7點至晚上9點 : 發快篩每日早上07:00現場販售，售完為止"},
