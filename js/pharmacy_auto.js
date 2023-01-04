@@ -1469,6 +1469,7 @@ locations = [
 {"lng":"120.6898","lat":"24.1444","name":"福生藥局","id":"5917020337","tel":"0422119106","addr":"臺中市東區福仁街138號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期一至星期六8:00~12:00／1:30~21:00"},
 {"lng":"120.7067","lat":"24.14148","name":"群益藥局","id":"5917020417","tel":"0422129298","addr":"臺中市東區東英八街106號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩實名制於早上8.30開始販售售完為止 周日公休"},
 {"lng":"120.71","lat":"24.14933","name":"福倫藥局","id":"5917021549","tel":"0422139918","addr":"臺中市東區精武東路198號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩代售:每天下午08:00開始販售 售完為止.（口罩代售，售完為止）"},
+{"lng":"120.710851","lat":"24.144664","name":"中大藥局","id":"5917021718","tel":"0422131348","addr":"臺中市東區十甲路505號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.6576","lat":"24.14276","name":"立安藥局","id":"5917030066","tel":"0423719125","addr":"臺中市西區土庫里忠明南路348號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"每天09:00開始依排隊先後序開始發放號碼牌並配售口罩，售完為止。"},
 {"lng":"120.6541","lat":"24.14279","name":"裕源藥局","id":"5917030100","tel":"0423763133","addr":"臺中市西區公館里南屯路一段66-7號一樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"周一至周六8:40後依到貨時間販售快篩試劑，周日休息"},
 {"lng":"120.6698","lat":"24.13322","name":"太信藥局","id":"5917030128","tel":"0423718318","addr":"臺中市西區三民路一段95-1號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"請每天08:3021:30領快篩"},
