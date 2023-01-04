@@ -1,6 +1,7 @@
 locations = [
 {"lng":"119.9492","lat":"26.16084","name":"連江縣立醫院","id":"0291010010","tel":"083623995","addr":"連江縣南竿鄉復興村217號","business_week":"OOOOOOXOOOOOOXXXXXXXX"},
 {"lng":"121.7095","lat":"24.93592","name":"新北市坪林區衛生所","id":"2331200010","tel":"0226656272","addr":"新北市坪林區坪林街104號","business_week":"OOOOOXXXXXXXXXXXXXXXX","memo":"防疫快篩劑販售服務時間，星期一至五09:00-12:00 。（倘若遇政府規定補班日，仍會提供販售服務）"},
+{"lng":"121.9095","lat":"25.02258","name":"新北市貢寮區衛生所","id":"2331260016","tel":"0224901431","addr":"新北市貢寮區仁愛路128號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑販售時間為周一至周五早上9點開始販售，每日販售一箱，數量有限售完為止。"},
 {"lng":"121.548","lat":"24.87197","name":"新北市烏來區衛生所","id":"2331290014","tel":"0226617200","addr":"新北市烏來區新烏路5段109號","business_week":"OOOOOXXOOOOOXXXXXXXXX"},
 {"lng":"120.9949","lat":"24.76691","name":"新竹縣寶山鄉衛生所","id":"2333100013","tel":"035292106","addr":"新竹縣寶山鄉雙溪村7鄰雙園路二段273號","business_week":"OOOOXXXXXXXXXXXXXXXXX","memo":"快篩試劑於星期一~星期六8:30-9:30販售"},
 {"lng":"121.0555","lat":"24.70055","name":"新竹縣北埔鄉衛生所","id":"2333110019","tel":"035801677","addr":"新竹縣北埔鄉北埔街90號","business_week":"OOXOXXXXXOXXXXXXXXXXX","memo":"農曆春節假期休診"},
@@ -587,6 +588,7 @@ locations = [
 {"lng":"120.3317","lat":"22.64092","name":"柏仁藥局","id":"5902056638","tel":"073976016","addr":"高雄市三民區覺民路504號","business_week":"OOOOOOXOOOOOOXOOOOOOO","memo":"實名制快篩週1-6下午3:00-9:30 周日下午5:30-9:00開賣"},
 {"lng":"120.3018","lat":"22.6439","name":"岱安藥局","id":"5902056718","tel":"073219946","addr":"高雄市三民區熱河二街23號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"下午1點~5點開始販售實名制快篩（日公休）"},
 {"lng":"120.3207","lat":"22.66513","name":"長慶藥局","id":"5902056807","tel":"073105835","addr":"高雄市三民區金鼎路310號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上10:00開始販售快篩"},
+{"lng":"120.2985","lat":"22.64282","name":"民安藥局","id":"5902057126","tel":"073121381","addr":"高雄市三民區嫩江街70號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"販賣快篩09:00~12:00_16:00~18:00_19:00~21:00（售完為止）"},
 {"lng":"120.332263","lat":"22.645286","name":"欣仁惠藥局","id":"5902057144","tel":"073837833","addr":"高雄市三民區大昌二路248號","business_week":"OOOOOOOOOOOOOXOOOOOOO"},
 {"lng":"120.3159","lat":"22.65336","name":"育英藥局","id":"5902057288","tel":"073824467","addr":"高雄市三民區灣子里和順街39號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"營業時間:8:30-21:00， 週日休息"},
 {"lng":"120.3238","lat":"22.66483","name":"崧民藥師藥局","id":"5902057368","tel":"073102496","addr":"高雄市三民區金鼎路228號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"服務時間9:00-22:00自1月1日~1月31日  早上9:30開始售快篩"},
