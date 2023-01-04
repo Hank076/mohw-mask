@@ -1024,6 +1024,7 @@ locations = [
 {"lng":"120.2406","lat":"23.04138","name":"樂丞藥局","id":"5905311010","tel":"062433319","addr":"臺南市永康區中正北路60號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售時間：早上11點開賣至售完"},
 {"lng":"120.2459","lat":"23.00103","name":"莉志藥局","id":"5905311038","tel":"063123090","addr":"臺南市永康區建國里復國路87巷3號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"除夕開始休至初四開工"},
 {"lng":"120.2288","lat":"23.0167","name":"中華長億藥局","id":"5905311074","tel":"063022322","addr":"臺南市永康區中華路734、736號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
+{"lng":"120.2616","lat":"23.00665","name":"心康藥局","id":"5905311083","tel":"062055075","addr":"臺南市永康區永大路二段179號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.2611","lat":"23.02493","name":"永大丁丁藥局","id":"5905311092","tel":"062013690","addr":"臺南市永康區永大路二段1516號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"9點開始"},
 {"lng":"120.2471","lat":"23.02099","name":"台南永康藥局","id":"5905311127","tel":"062020201","addr":"臺南市永康區中山南路816、816─1、2、3號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
 {"lng":"120.2338","lat":"23.01167","name":"佑心藥局","id":"5905311154","tel":"063022516","addr":"臺南市永康區振興路46號1樓","business_week":"OOOOOOXOXOOOOXOOOOOXX","memo":"8:30-12:00；15:00-17:30；18:30-21:00"},
