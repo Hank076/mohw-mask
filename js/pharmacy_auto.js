@@ -3461,6 +3461,7 @@ locations = [
 {"lng":"120.3038","lat":"23.57334","name":"樂芯藥局","id":"5939061789","tel":"057820005","addr":"雲林縣北港鎮文化路166號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.3011","lat":"23.57754","name":"宜康藥局","id":"5939061805","tel":"057820685","addr":"雲林縣北港鎮公園路159號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.3037","lat":"23.57091","name":"安麗兒藥局北港店","id":"5939061814","tel":"057820169","addr":"雲林縣北港鎮大同路102號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.3004","lat":"23.57188","name":"大同瑞安藥局","id":"5939061903","tel":"057831720","addr":"雲林縣北港鎮大同路215號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"販賣快篩時間下午2點開始，售完為止"},
 {"lng":"120.298244","lat":"23.578768","name":"北港啄木鳥藥局","id":"5939061921","tel":"057822795","addr":"雲林縣北港鎮華勝路250號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.5608","lat":"23.64772","name":"廣醫藥局","id":"5939070162","tel":"055829703","addr":"雲林縣古坑鄉西平村中山路219號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.5203","lat":"23.6351","name":"慈生藥局","id":"5939071276","tel":"055828222","addr":"雲林縣古坑鄉麻園村平和22號","business_week":"XXXXXXOXXOOXOOXOOOOOX"},
