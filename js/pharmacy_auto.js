@@ -555,6 +555,7 @@ locations = [
 {"lng":"120.284","lat":"22.63279","name":"南京藥局","id":"5902010025","tel":"075514652","addr":"高雄市鹽埕區建國四路387號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"實名制快篩若有庫存，星期1-6營業時間均可購買，星期日休息，售完為止"},
 {"lng":"120.283367","lat":"22.623469","name":"長庚藥局","id":"5902011291","tel":"075513436","addr":"高雄市鹽埕區五福四路163號一樓","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"120.284","lat":"22.62797","name":"昇安藥局","id":"5902011308","tel":"075216438","addr":"高雄市鹽埕區瀨南街225號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩試劑早上8:4 0開始發號碼牌"},
+{"lng":"120.2802","lat":"22.66454","name":"永松藥局","id":"5902020012","tel":"075810657","addr":"高雄市鼓山區鼓山三路130-15號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"星期一至星期日 每天早上9點開賣~晚上10點"},
 {"lng":"120.2959","lat":"22.66936","name":"世和藥局","id":"5902021153","tel":"075522566","addr":"高雄市鼓山區華豐里華夏路195號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"賣快篩時間：周一至週日每天早上730分，售完為止。"},
 {"lng":"120.2937","lat":"22.66969","name":"崧柏藥局","id":"5902021233","tel":"075542027","addr":"高雄市鼓山區華榮路543號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"藥局販售快篩試劑時間每天8點40發號碼牌，9點開始。每天78份"},
 {"lng":"120.2861","lat":"22.66774","name":"藍玉藥局","id":"5902021377","tel":"075837528","addr":"高雄市鼓山區鼓峰里九如四路2002號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"賣快篩時間：周一至週六早上9:00 開始.售完為止。"},
