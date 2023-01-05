@@ -1408,6 +1408,7 @@ locations = [
 {"lng":"121.7405","lat":"25.13786","name":"錦泰藥局","id":"5911050162","tel":"0224228523","addr":"基隆市中山區中山二路43號","business_week":"XXXXXXXXXXXXOOOOOOOXX","memo":"快篩販賣時間星期一至五晚上7點，星期六，星期日下午5點"},
 {"lng":"121.717","lat":"25.14982","name":"大慶大藥局","id":"5911051365","tel":"0224378640","addr":"基隆市中山區中和路168巷3弄20號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.726303","lat":"25.146108","name":"寶慷藥局","id":"5911051392","tel":"0224362338","addr":"基隆市中山區復興路191號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"08:00開始販賣快篩"},
+{"lng":"121.7388","lat":"25.14545","name":"順豐藥局","id":"5911051409","tel":"0224369176","addr":"基隆市中山區中華路4號","business_week":"OOOOOXOOOOOOXOOOOOOXO","memo":"家用快篩每日上午8點起隨到隨領售完為止。"},
 {"lng":"121.7358","lat":"25.1314","name":"百福安一藥局","id":"5911051507","tel":"0224258068","addr":"基隆市中山區安一路81號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.7262","lat":"25.1446","name":"復興藥局","id":"5911051543","tel":"0224362566","addr":"基隆市中山區復興路128、130、132、134號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.719418","lat":"25.125109","name":"福泰藥局","id":"5911060015","tel":"0224311631","addr":"基隆市安樂區麥金路433號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
