@@ -557,6 +557,7 @@ locations = [
 {"lng":"120.2861","lat":"22.66774","name":"藍玉藥局","id":"5902021377","tel":"075837528","addr":"高雄市鼓山區鼓峰里九如四路2002號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"賣快篩時間：周一至週六早上9:00 開始.售完為止。"},
 {"lng":"120.2793","lat":"22.6587","name":"惠民藥局","id":"5902022669","tel":"075833228","addr":"高雄市鼓山區九如四路1426號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.2791","lat":"22.65936","name":"定國藥局","id":"5902022794","tel":"075815858","addr":"高雄市鼓山區九如四路1135號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.2951","lat":"22.66479","name":"裕康中西大藥局","id":"5902022801","tel":"075555352","addr":"高雄市鼓山區裕誠路1519號","business_week":"OOOOOOOXXXXXXXOOOOOXX","memo":"藥局販售口罩時間，依藥局門口公告時間為主(售完為止)"},
 {"lng":"120.2757","lat":"22.65468","name":"弘興藥局","id":"5902022829","tel":"075612677","addr":"高雄市鼓山區鼓山三路48-11號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.2935","lat":"22.66647","name":"康爾喜藥局","id":"5902022874","tel":"075222650","addr":"高雄市鼓山區慶豐街50號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩試劑 （售完為止）。週日不發"},
 {"lng":"120.2793","lat":"22.65466","name":"高雄藥局","id":"5902022972","tel":"075214266","addr":"高雄市鼓山區九如四路924號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
