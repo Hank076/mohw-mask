@@ -3725,6 +3725,7 @@ locations = [
 {"lng":"120.2925","lat":"22.79481","name":"惠光西藥局","id":"5942020050","tel":"076212163","addr":"高雄市岡山區維仁路147號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.2845","lat":"22.78459","name":"協安大藥局","id":"5942020078","tel":"076252256","addr":"高雄市岡山區介壽西路10號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"上午8點30分開始販售"},
 {"lng":"120.2961","lat":"22.79292","name":"平和藥局","id":"5942020176","tel":"076212592","addr":"高雄市岡山區岡山路268號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"實名制快篩，周一~周五早上8點開始販售，售完為止"},
+{"lng":"120.2882","lat":"22.79476","name":"鴻興大藥局","id":"5942020185","tel":"076259903","addr":"高雄市岡山區中華路136號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"有營業  就有賣快篩。"},
 {"lng":"120.3018","lat":"22.80071","name":"建元藥局","id":"5942020265","tel":"076216672","addr":"高雄市岡山區大仁北路104號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"早上8點開始販售，售完為止。"},
 {"lng":"120.2883","lat":"22.79077","name":"丁丁藥局","id":"5942021664","tel":"076256157","addr":"高雄市岡山區仁壽里中華路1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制早上9點開始販售"},
 {"lng":"120.2949","lat":"22.78865","name":"勵志藥局","id":"5942021717","tel":"076230826","addr":"高雄市岡山區忠孝里勵志二路38號","business_week":"OOOOOOOOOOOOOXOOOOOOO"},
