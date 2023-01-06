@@ -1,6 +1,7 @@
 locations = [
 {"lng":"119.9492","lat":"26.16084","name":"連江縣立醫院","id":"0291010010","tel":"083623995","addr":"連江縣南竿鄉復興村217號","business_week":"OOOOOOXOOOOOOXXXXXXXX"},
 {"lng":"121.7095","lat":"24.93592","name":"新北市坪林區衛生所","id":"2331200010","tel":"0226656272","addr":"新北市坪林區坪林街104號","business_week":"OOOOOXXXXXXXXXXXXXXXX","memo":"防疫快篩劑販售服務時間，星期一至五09:00-12:00 。（倘若遇政府規定補班日，仍會提供販售服務）"},
+{"lng":"121.566","lat":"25.29016","name":"新北市石門區衛生所","id":"2331220012","tel":"0226381007","addr":"新北市石門區中山路28-1號","business_week":"XOOOOOXXOOOOXXXXXXXXX","memo":"元旦假期休診"},
 {"lng":"121.9095","lat":"25.02258","name":"新北市貢寮區衛生所","id":"2331260016","tel":"0224901431","addr":"新北市貢寮區仁愛路128號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑販售時間為周一至周五早上9點開始販售，每日販售一箱，數量有限售完為止。"},
 {"lng":"121.548","lat":"24.87197","name":"新北市烏來區衛生所","id":"2331290014","tel":"0226617200","addr":"新北市烏來區新烏路5段109號","business_week":"OOOOOXXOOOOOXXXXXXXXX"},
 {"lng":"121.1393","lat":"24.71756","name":"新竹縣橫山鄉衛生所","id":"2333070010","tel":"035932004","addr":"新竹縣橫山鄉大肚村3鄰新興街141巷10號","business_week":"OOOOOXXOOOOOXXXXXXXXX"},
