@@ -3325,6 +3325,7 @@ locations = [
 {"lng":"120.6305","lat":"24.01382","name":"啟安大藥局","id":"5937141104","tel":"0492522858","addr":"彰化縣芬園鄉芬草路2段230號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"上午8點30分販賣實名制快篩"},
 {"lng":"120.62904","lat":"24.015162","name":"強生藥局","id":"5937141159","tel":"0492521857","addr":"彰化縣芬園鄉社口村光復路20號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"08:00~12:00販售快篩。周日公休"},
 {"lng":"120.5592","lat":"23.98865","name":"天德藥師藥局","id":"5937150019","tel":"048525256","addr":"彰化縣大村鄉擺塘村中正西路61號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"依排隊人潮而調整代售時間，星期一至六全天（7:30-21:00）代售防疫口罩與家用快篩試劑，售完為止。"},
+{"lng":"120.5633","lat":"23.98916","name":"大欣藥局","id":"5937150032","tel":"048524803","addr":"彰化縣大村鄉村上村中正西路19號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"防疫家用快篩試劑販賣時間於臉書公告!"},
 {"lng":"120.5447","lat":"23.99661","name":"郭藥局","id":"5937151075","tel":"048522988","addr":"彰化縣大村鄉茄苳路1段132號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"快篩試劑依店內公告為主"},
 {"lng":"120.5449","lat":"23.99936","name":"誠品藥局","id":"5937151119","tel":"048529206","addr":"彰化縣大村鄉大村村茄苳路1段233號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"週日公休。營業時間內皆有販售快篩試劑，1／21-1／25.1／26晚上休診."},
 {"lng":"120.5898","lat":"23.982","name":"五行藥局","id":"5937151128","tel":"048527603","addr":"彰化縣大村鄉黃厝村12鄰山腳路2-26號","business_week":"OOOOOOXOOOOOXXOOOXOXX"},
