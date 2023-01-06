@@ -1923,6 +1923,7 @@ locations = [
 {"lng":"121.4943","lat":"25.0564","name":"鴻成藥局","id":"5931021014","tel":"0229727025","addr":"新北市三重區同安街113號","business_week":"OOOOOOXOOOOOOXOOOOOOO"},
 {"lng":"121.4942","lat":"25.06421","name":"義中藥局","id":"5931021023","tel":"0229815088","addr":"新北市三重區大同北路107號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.4901","lat":"25.07853","name":"禮隆藥局","id":"5931021167","tel":"0229894735","addr":"新北市三重區自強路4段64號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑早上九點開始發號碼牌，發完為止"},
+{"lng":"121.4886","lat":"25.08081","name":"福昌大藥局","id":"5931021372","tel":"0229714069","addr":"新北市三重區溪尾街205號","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"快篩販賣時間上午9點至晚上10點"},
 {"lng":"121.4898","lat":"25.07867","name":"國星藥局","id":"5931021416","tel":"0229859203","addr":"新北市三重區溪尾街109號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩上午九點開賣（周日休息）"},
 {"lng":"121.481742","lat":"25.080264","name":"家福藥局","id":"5931021452","tel":"0222877692","addr":"新北市三重區仁愛街682號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩販售時間:AM9:00，售完為止，星期天公休。請自備零錢"},
 {"lng":"121.4996","lat":"25.07322","name":"龍門藥局","id":"5931021532","tel":"0229756141","addr":"新北市三重區龍門路189號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩販售時間~星期一至星期六"},
