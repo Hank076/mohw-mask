@@ -539,7 +539,7 @@ locations = [
 {"lng":"121.5697","lat":"24.98683","name":"振大藥局","id":"5901202681","tel":"0229393385","addr":"臺北市文山區永安街22巷16號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.566","lat":"24.98292","name":"躍獅奕新藥局","id":"5901202752","tel":"0222340378","addr":"臺北市文山區木新路2段275號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5414","lat":"24.99126","name":"欣安景美藥局","id":"5901202841","tel":"0229316008","addr":"臺北市文山區景文街77號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"今日快篩劑PM:14:00販賣售完為止"},
-{"lng":"121.5642","lat":"24.98236","name":"北一藥師藥局","id":"5901202850","tel":"0222348686","addr":"臺北市文山區木新路3段47號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.5642","lat":"24.98236","name":"北一藥師藥局","id":"5901202850","tel":"0222348686","addr":"臺北市文山區木新路3段47號","business_week":"OOOOOOXOOOOOOOOOOOOOO"},
 {"lng":"121.538","lat":"25.00203","name":"萬隆大藥局","id":"5901202949","tel":"0229334580","addr":"臺北市文山區羅斯福路5段218巷15號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"9：00~22：30"},
 {"lng":"121.5706","lat":"25.00139","name":"杏一萬安藥局","id":"5901202958","tel":"0222302126","addr":"臺北市文山區萬安街15號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間0900-2200"},
 {"lng":"121.555001","lat":"25.000892","name":"大樹文山藥局","id":"5901203062","tel":"0229342226","addr":"臺北市文山區興隆路3段13號(1、2、3樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
