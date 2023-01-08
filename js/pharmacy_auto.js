@@ -2044,6 +2044,7 @@ locations = [
 {"lng":"121.4986","lat":"25.00219","name":"中和光田藥局","id":"5931040082","tel":"0222459602","addr":"新北市中和區連城路28號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"實際狀況依門市公告為主~可加LINE詢問ID:0988608701"},
 {"lng":"121.508243","lat":"24.983919","name":"華新藥局","id":"5931040215","tel":"0229448345","addr":"新北市中和區華新街73號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4687","lat":"25.00163","name":"欣祥藥局","id":"5931040224","tel":"0229646442","addr":"新北市中和區民德路74-1號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.4724","lat":"25.00173","name":"天立藥局","id":"5931040242","tel":"0229578831","addr":"新北市中和區莒光路122號","business_week":"OOOOOXXOOOOOXOOOOOOXO"},
 {"lng":"121.5118","lat":"24.99168","name":"信隆大藥局","id":"5931040297","tel":"0229426196","addr":"新北市中和區安樂路6號1至2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5139","lat":"25.0039","name":"宏信藥局","id":"5931040322","tel":"0229294976","addr":"新北市中和區永貞路262巷4號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"如有到貨每日早上7點30分準時開賣快篩試劑"},
 {"lng":"121.4965","lat":"25.00456","name":"健星藥局","id":"5931040402","tel":"0222403437","addr":"新北市中和區景平路754號","business_week":"OOOOOOXOOOOOOOOOOOOOO"},
