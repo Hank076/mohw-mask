@@ -3614,6 +3614,7 @@ locations = [
 {"lng":"120.2519","lat":"23.6761","name":"東新藥局","id":"5939141139","tel":"056998959","addr":"雲林縣東勢鄉東勢西路55號","business_week":"OOOOOOXOOOOOXXXXXXXXX"},
 {"lng":"120.2553","lat":"23.67587","name":"安康藥局","id":"5939141219","tel":"056993866","addr":"雲林縣東勢鄉東南村康安路18號","business_week":"OOOOOOXOXOXOXXOXOXOXX","memo":"星期一、三、五為8:00-19:00，星期二、四、六為8:00-12:00"},
 {"lng":"120.305822","lat":"23.692576","name":"召安大藥局","id":"5939150067","tel":"056976066","addr":"雲林縣褒忠鄉中勝村中正路450號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩發放每日下午約1:30"},
+{"lng":"120.3109","lat":"23.69352","name":"三民藥局","id":"5939151135","tel":"056975515","addr":"雲林縣褒忠鄉三民路15號","business_week":"OOOOOOOOXOXOOXXXXXXXX"},
 {"lng":"120.3134","lat":"23.69541","name":"正和藥局","id":"5939151162","tel":"056972776","addr":"雲林縣褒忠鄉三民路116號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.1931","lat":"23.70056","name":"木川藥局","id":"5939161140","tel":"056986220","addr":"雲林縣台西鄉中山路393號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.1997","lat":"23.69946","name":"全家藥局","id":"5939161168","tel":"056984607","addr":"雲林縣台西鄉民生路24號","business_week":"OOOOOOXOOOOOOXXXXXXXX","memo":"【實名制快篩】【醫院慢箋領藥】【新冠抗病毒藥物PAXLOVID領藥】"},
