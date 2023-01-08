@@ -658,6 +658,7 @@ locations = [
 {"lng":"120.2987","lat":"22.62137","name":"中華藥局","id":"5902071546","tel":"072712779","addr":"高雄市前金區中華四路363號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期日固定休假， 快篩於工作天開店即販售，  售完為止！"},
 {"lng":"120.3056","lat":"22.6162","name":"瑞林藥局","id":"5902080036","tel":"073312146","addr":"高雄市苓雅區興中一路282號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.3138","lat":"22.6266","name":"正和藥局","id":"5902080312","tel":"072265377","addr":"高雄市苓雅區福建街362號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.3356","lat":"22.62303","name":"弘宗藥局","id":"5902080474","tel":"077211088","addr":"高雄市苓雅區武智街2號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"販售／兌換（實名制快篩試劑）"},
 {"lng":"120.331959","lat":"22.619578","name":"福海藥局","id":"5902080518","tel":"077618855","addr":"高雄市苓雅區武慶三路58號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上09:00開始代售快篩，現場排隊售完為止，售出不退換。"},
 {"lng":"120.3332","lat":"22.63065","name":"柏松藥局","id":"5902080545","tel":"077119786","addr":"高雄市苓雅區輔仁路175號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一~週六09:00~22:30.週日11:00~20:00"},
 {"lng":"120.3218","lat":"22.62093","name":"一加藥局","id":"5902080616","tel":"077212748","addr":"高雄市苓雅區和平一路四二號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
