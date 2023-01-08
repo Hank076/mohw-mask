@@ -1602,6 +1602,7 @@ locations = [
 {"lng":"120.6196","lat":"24.18259","name":"東亞永福藥局","id":"5917063681","tel":"0424638229","addr":"臺中市西屯區永福路35號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩上午十一點開賣"},
 {"lng":"120.643941","lat":"24.17883","name":"永旭大藥局","id":"5917063725","tel":"0427087952","addr":"臺中市西屯區逢甲路92號1樓","business_week":"OOOOOXXOOOOOOOOOOOOOO","memo":"實名快篩，星期一到五早上10點開始，星期六日中午12點開始販售。"},
 {"lng":"120.6377","lat":"24.13922","name":"仁人藥局","id":"5917070060","tel":"0423890451","addr":"臺中市南屯區南屯里黎明路一段1085號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩銷售時間：8:00至22:30，售完為止。"},
+{"lng":"120.6258","lat":"24.11292","name":"萬安藥局","id":"5917070088","tel":"0424791818","addr":"臺中市南屯區中和里黎明路一段38號","business_week":"OOOOOOOXXXXXXXOOOOOOO"},
 {"lng":"120.637807","lat":"24.140281","name":"濟安堂藥局","id":"5917070186","tel":"0423899603","addr":"臺中市南屯區南屯路二段788號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售時間都固定每天早上8 點 開始"},
 {"lng":"120.6496","lat":"24.15551","name":"聯發藥局","id":"5917070248","tel":"0423262738","addr":"臺中市南屯區溝墘里大墩路850號","business_week":"OOOOOXXOOOOOOXOOOOOOX","memo":"週一至週六於營業時間販售快篩"},
 {"lng":"120.6506","lat":"24.14276","name":"吉田藥局","id":"5917070346","tel":"0424756816","addr":"臺中市南屯區大同里大墩六街154號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
