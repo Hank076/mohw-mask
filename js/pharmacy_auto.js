@@ -3619,6 +3619,7 @@ locations = [
 {"lng":"120.2536","lat":"23.67503","name":"義和堂中西藥局","id":"5939140061","tel":"056991028","addr":"雲林縣東勢鄉東南村東勢東路12號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日營業時段販售"},
 {"lng":"120.2519","lat":"23.6761","name":"東新藥局","id":"5939141139","tel":"056998959","addr":"雲林縣東勢鄉東勢西路55號","business_week":"OOOOOOXOOOOOXXXXXXXXX"},
 {"lng":"120.2553","lat":"23.67587","name":"安康藥局","id":"5939141219","tel":"056993866","addr":"雲林縣東勢鄉東南村康安路18號","business_week":"OOOOOOXOXOXOXXOXOXOXX","memo":"星期一、三、五為8:00-19:00，星期二、四、六為8:00-12:00"},
+{"lng":"120.3081","lat":"23.69338","name":"博順藥局","id":"5939150012","tel":"056971048","addr":"雲林縣褒忠鄉中正路325之3號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"120.305822","lat":"23.692576","name":"召安大藥局","id":"5939150067","tel":"056976066","addr":"雲林縣褒忠鄉中勝村中正路450號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩發放每日下午約1:30"},
 {"lng":"120.3109","lat":"23.69352","name":"三民藥局","id":"5939151135","tel":"056975515","addr":"雲林縣褒忠鄉三民路15號","business_week":"OOOOOOOOXOXOOXXXXXXXX"},
 {"lng":"120.3134","lat":"23.69541","name":"正和藥局","id":"5939151162","tel":"056972776","addr":"雲林縣褒忠鄉三民路116號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
