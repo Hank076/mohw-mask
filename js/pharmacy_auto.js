@@ -3529,6 +3529,7 @@ locations = [
 {"lng":"120.3027","lat":"23.56495","name":"民生藥局","id":"5939060120","tel":"057822476","addr":"雲林縣北港鎮民生路70號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"上午8:30-晚上9:30，週末請先電話洽詢"},
 {"lng":"120.3028","lat":"23.57434","name":"益安大藥局","id":"5939060317","tel":"057730779","addr":"雲林縣北港鎮華勝里公園路18之2號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"篩劑...每天早上8:00開始販售..賣完為止"},
 {"lng":"120.3037","lat":"23.56877","name":"南方藥局","id":"5939061501","tel":"057832178","addr":"雲林縣北港鎮共榮里博愛路119號","business_week":"OOOOOOXOOOOOXXXXXXXXX"},
+{"lng":"120.297156","lat":"23.574941","name":"大元藥局","id":"5939061583","tel":"057833636","addr":"雲林縣北港鎮民樂路72號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"販賣口罩時間:如營業時間"},
 {"lng":"120.3038","lat":"23.57334","name":"樂芯藥局","id":"5939061789","tel":"057820005","addr":"雲林縣北港鎮文化路166號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.3011","lat":"23.57754","name":"宜康藥局","id":"5939061805","tel":"057820685","addr":"雲林縣北港鎮公園路159號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.3037","lat":"23.57091","name":"安麗兒藥局北港店","id":"5939061814","tel":"057820169","addr":"雲林縣北港鎮大同路102號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
