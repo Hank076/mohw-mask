@@ -2998,6 +2998,7 @@ locations = [
 {"lng":"121.769","lat":"24.6802","name":"公正藥局","id":"5934022175","tel":"039560543","addr":"宜蘭縣羅東鎮興東路137、139號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.8496","lat":"24.59608","name":"南陽藥局","id":"5934030015","tel":"039965076","addr":"宜蘭縣蘇澳鎮中山路1段120號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.865","lat":"24.58267","name":"新豐藥局","id":"5934031138","tel":"039962869","addr":"宜蘭縣蘇澳鎮江夏路26號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"快篩販售時間 : 周一 ~ 周六上午 8:00 ， 售完為止"},
+{"lng":"121.8524","lat":"24.59604","name":"宏一藥局","id":"5934031165","tel":"039962125","addr":"宜蘭縣蘇澳鎮中山路1段29號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售時間 ~ 09:00"},
 {"lng":"121.838","lat":"24.59571","name":"仁人健保藥局","id":"5934031209","tel":"039971168","addr":"宜蘭縣蘇澳鎮蘇港路365號","business_week":"OOOXXXXOOOXXXXOOOXXXX"},
 {"lng":"121.829","lat":"24.6468","name":"熊野藥局","id":"5934031218","tel":"039903367","addr":"宜蘭縣蘇澳鎮龍德里福德路418號","business_week":"OOOXXXXOOOXXXXOOOXXXX"},
 {"lng":"121.8698","lat":"24.58087","name":"皇超藥局","id":"5934031263","tel":"039951309","addr":"宜蘭縣蘇澳鎮華山路3號","business_week":"OOOOOXOOOOOOXOOOOOOXO","memo":"星期六休息，營業時間：9點-19點"},
