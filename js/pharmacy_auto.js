@@ -3849,6 +3849,7 @@ locations = [
 {"lng":"120.4944","lat":"22.68516","name":"昱昇藥師藥局","id":"5943011135","tel":"087377471","addr":"屏東縣屏東市北勢里中正路373-1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑早上8:00開始販售，售完為止"},
 {"lng":"120.493","lat":"22.68328","name":"寶慷藥局","id":"5943012427","tel":"087350558","addr":"屏東縣屏東市中正路三九八號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"平日營業時間8:00-22:30.假日營業時間9:00-21:00"},
 {"lng":"120.4936","lat":"22.68682","name":"家安藥師藥局","id":"5943012445","tel":"087354236","addr":"屏東縣屏東市廣東路747號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"自2\/13日~2\/29日，營業日08:00~21:30為販賣口罩時間，售完為止"},
+{"lng":"120.4862","lat":"22.68773","name":"立健藥局","id":"5943012892","tel":"087328039","addr":"屏東縣屏東市勝利里廣東路962號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"快篩星期一~五早上9:00開始銷售~"},
 {"lng":"120.4896","lat":"22.67132","name":"三和藥局","id":"5943012909","tel":"087322519","addr":"屏東縣屏東市中華路8號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"120.4884","lat":"22.67102","name":"陽生藥局","id":"5943013068","tel":"087322413","addr":"屏東縣屏東市逢甲路26號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩上午8:00販賣，售完為止"},
 {"lng":"120.4862","lat":"22.65322","name":"名正生活美藥局","id":"5943013166","tel":"087524395","addr":"屏東縣屏東市復興南路1段99號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業日AM10:00為販賣實名制快篩時間，售完為止~謝謝"},
