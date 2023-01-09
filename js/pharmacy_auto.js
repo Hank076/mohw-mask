@@ -1388,6 +1388,7 @@ locations = [
 {"lng":"120.3116","lat":"22.61373","name":"祥安健保藥局","id":"5907360566","tel":"073340393","addr":"高雄市前鎮區復興三路393號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.3117","lat":"22.60649","name":"風鈴藥局","id":"5907360628","tel":"075367833","addr":"高雄市前鎮區管仲路37號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"販售快篩：09:30-11:30 依照配送調整販售時間（周日公休）"},
 {"lng":"120.3261","lat":"22.59924","name":"眾安堂藥局","id":"5907360646","tel":"078219881","addr":"高雄市前鎮區班超路17號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"除夕到晚上6點 ，初四開工"},
+{"lng":"120.312779","lat":"22.610047","name":"民權丁丁藥局","id":"5907360655","tel":"079650177","addr":"高雄市前鎮區民權二路345號1-3樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.3056","lat":"22.60341","name":"忠純藥局","id":"5907360664","tel":"073366886","addr":"高雄市前鎮區中華五路1009號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.3291","lat":"22.60547","name":"前鎮大樹藥局","id":"5907360673","tel":"077137171","addr":"高雄市前鎮區瑞隆路472號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.2724","lat":"22.60775","name":"瑞康藥師藥局","id":"5907370053","tel":"075718985","addr":"高雄市旗津區中洲三路597號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"藥局販售口罩時間，依藥局門口公告時間為主(售完為止)"},
