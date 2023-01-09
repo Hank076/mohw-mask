@@ -1810,6 +1810,7 @@ locations = [
 {"lng":"120.4339","lat":"23.4837","name":"竹圍藥局","id":"5922021006","tel":"052811233","addr":"嘉義市西區友愛路270、272號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.4436","lat":"23.45979","name":"理維藥局","id":"5922021024","tel":"052831110","addr":"嘉義市西區民生南路409號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.43871","lat":"23.4677","name":"一安藥局","id":"5922028596","tel":"052859275","addr":"嘉義市西區福民里興業西路311號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.4406","lat":"23.45687","name":"勝成藥局","id":"5922028783","tel":"052360247","addr":"嘉義市西區南京路126巷19號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.44456","lat":"23.46678","name":"益生堂藥局","id":"5922028863","tel":"052861415","addr":"嘉義市西區杭州三街30號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"平日（W一~W六）10:30"},
 {"lng":"120.44217","lat":"23.47291","name":"中興中西藥局","id":"5922028881","tel":"052353096","addr":"嘉義市西區垂楊路501號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.4452","lat":"23.4757","name":"健安藥局","id":"5922028925","tel":"052281219","addr":"嘉義市西區民族路626號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩:星期一至星期六9點-12點，15點-21點"},
