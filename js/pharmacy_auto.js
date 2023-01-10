@@ -3182,6 +3182,7 @@ locations = [
 {"lng":"120.715","lat":"24.24902","name":"誠品藥局","id":"5936012677","tel":"0425120495","addr":"臺中市豐原區中山路349號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.828525","lat":"24.25689","name":"劉藥局","id":"5936020035","tel":"0425873198","addr":"臺中市東勢區東安里豐勢路476號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.828558","lat":"24.256445","name":"仁生藥局","id":"5936020080","tel":"0425872245","addr":"臺中市東勢區東安里豐勢路421號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"以實際到貨為準*開始販售*售完為止！ （13:00-15:00 休息）週日有庫存會持續販售，均以現場為準！"},
+{"lng":"120.8279","lat":"24.258","name":"東生藥局","id":"5936020115","tel":"0425873647","addr":"臺中市東勢區中寧里豐勢路491號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"周一至周日上午9:00至12:00販售"},
 {"lng":"120.8312","lat":"24.24891","name":"千百岳大藥局","id":"5936021327","tel":"0425887639","addr":"臺中市東勢區豐勢路85號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"周一至周日早上8:40販售。若有時間異動，詳情關注FB:千百岳大藥局"},
 {"lng":"120.8292","lat":"24.25525","name":"小太陽藥局","id":"5936021363","tel":"0425773481","addr":"臺中市東勢區豐勢路412之1、416號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上7:30開始販售，週日公休"},
 {"lng":"120.647261","lat":"24.406345","name":"青三藥局","id":"5936030095","tel":"0426817301","addr":"臺中市大甲區青三路12巷38號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
