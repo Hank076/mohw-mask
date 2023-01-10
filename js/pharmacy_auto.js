@@ -1656,7 +1656,7 @@ locations = [
 {"lng":"120.635992","lat":"24.146986","name":"承諭藥局","id":"5917070355","tel":"0423849128","addr":"臺中市南屯區黎明路2段199號","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"快篩實名制9:點12點  下午14點~22點"},
 {"lng":"120.6495","lat":"24.15136","name":"得安藥局","id":"5917070382","tel":"0423234168","addr":"臺中市南屯區溝墘里大墩路596號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑早上10點開始販售，售完為止。"},
 {"lng":"120.6355","lat":"24.14863","name":"康元藥局","id":"5917070417","tel":"0422548622","addr":"臺中市南屯區黎明路2段281號1樓","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"星期一~星期六早上九點開始販售快篩試劑"},
-{"lng":"120.6355","lat":"24.15166","name":"長映藥局","id":"5917070462","tel":"0422510951","addr":"臺中市南屯區黎明路二段432號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩每日下午2點開賣，售完為止（庫存以現場為主）"},
+{"lng":"120.6355","lat":"24.15166","name":"長映藥局","id":"5917070462","tel":"0422510951","addr":"臺中市南屯區黎明路二段432號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.6515","lat":"24.13873","name":"裕登藥局","id":"5917070515","tel":"0424715280","addr":"臺中市南屯區大墩二街91號1F","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"固定周一到周日早上9:00開始販賣快篩."},
 {"lng":"120.6157","lat":"24.15096","name":"德安藥局","id":"5917070659","tel":"0423894920","addr":"臺中市南屯區文山里忠勇路115-6號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩實名制：週一至週六，下午1點販賣 （限量78份）"},
 {"lng":"120.61195","lat":"24.135546","name":"康得美專業藥局","id":"5917070677","tel":"0423801185","addr":"臺中市南屯區忠勇路12之26號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩周一至周六開賣  周日公休"},
