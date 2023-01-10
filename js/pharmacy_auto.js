@@ -1337,6 +1337,7 @@ locations = [
 {"lng":"120.3089","lat":"22.66223","name":"明自丁丁藥局","id":"5907300908","tel":"075568902","addr":"高雄市左營區自由二路152號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.320128","lat":"22.687681","name":"高鐵藥局","id":"5907300926","tel":"073452797","addr":"高雄市左營區華夏路1322.1326號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.2972","lat":"22.67167","name":"左營藥局","id":"5907300944","tel":"075501017","addr":"高雄市左營區華夏路325號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.2953","lat":"22.68921","name":"翔生藥局","id":"5907300953","tel":"075827329","addr":"高雄市左營區左營大路514號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制早上9點開賣"},
 {"lng":"120.2896","lat":"22.6806","name":"健勝藥局","id":"5907300971","tel":"075811169","addr":"高雄市左營區勝利路127-1號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"正常情況於每日上午九點開始販售"},
 {"lng":"120.287699","lat":"22.681303","name":"大路藥局","id":"5907300980","tel":"075851001","addr":"高雄市左營區左營大路55-2號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.3084","lat":"22.66541","name":"杏一左營自由藥局","id":"5907301021","tel":"075509511","addr":"高雄市左營區自由二路397號","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"周一-周日販賣時間下午兩點"},
