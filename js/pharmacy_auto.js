@@ -825,6 +825,7 @@ locations = [
 {"lng":"120.6648","lat":"24.06008","name":"皇昇藥局","id":"5903180053","tel":"0423397749","addr":"臺中市霧峰區四德路556號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.6992","lat":"24.07002","name":"霧峰安德藥局","id":"5903180062","tel":"0423300365","addr":"臺中市霧峰區中正路1135號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩代售時間14:00-21:00止。13:40發號碼牌，過號即代表放棄。"},
 {"lng":"120.6989","lat":"24.06597","name":"永合藥局","id":"5903180115","tel":"0423391910","addr":"臺中市霧峰區中正路965號","business_week":"OOOOOXOOOOOOXOOOOOOXO"},
+{"lng":"120.6987","lat":"24.06244","name":"峰正藥局","id":"5903180142","tel":"0423303353","addr":"臺中市霧峰區中正路830號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.701889","lat":"24.14817","name":"藥源藥局","id":"5903190022","tel":"0423955108","addr":"臺中市太平區中山路4段220號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"營業時間9：00~21：30，星期日公休"},
 {"lng":"120.729725","lat":"24.15021","name":"八醫健保藥局","id":"5903190077","tel":"0423935050","addr":"臺中市太平區中山路2段357號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"公發篩檢試劑時間0830開始，售完為止(1人1次限購1份)"},
 {"lng":"120.7157","lat":"24.14758","name":"劍橋藥局","id":"5903190139","tel":"0422776619","addr":"臺中市太平區宜昌路552號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
