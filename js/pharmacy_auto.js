@@ -4068,7 +4068,7 @@ locations = [
 {"lng":"120.5023","lat":"22.68187","name":"佳美屏基健保藥局","id":"5943013308","tel":"087373766","addr":"屏東縣屏東市華山里大連路60之6號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"快篩早上8:00販售，售完為止（星期日公休）"},
 {"lng":"120.505114","lat":"22.683115","name":"福安新藥局","id":"5943013362","tel":"087377999","addr":"屏東縣屏東市華山里大連路40-15號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售時間週一至週日 8:30~22:00"},
 {"lng":"120.499629","lat":"22.689823","name":"弘英藥局","id":"5943013488","tel":"087366898","addr":"屏東縣屏東市中正路702-11號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上9:00開始販賣實名制快篩，售完為止。星期日店休無販售。"},
-{"lng":"120.498348","lat":"22.667051","name":"屏東啄木鳥藥局","id":"5943013639","tel":"087210684","addr":"屏東縣屏東市民生路79-24號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上8:30開始販賣口罩，售完為止"},
+{"lng":"120.498348","lat":"22.667051","name":"屏東啄木鳥藥局","id":"5943013639","tel":"087210684","addr":"屏東縣屏東市民生路79-24號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.4847","lat":"22.6877","name":"真心藥局","id":"5943013808","tel":"087334355","addr":"屏東縣屏東市廣東路1028號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.4827","lat":"22.63596","name":"永泰藥師藥局","id":"5943013817","tel":"087531880","addr":"屏東縣屏東市龍華路152號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩試劑代售時間上午09:00 開始到售完為止"},
 {"lng":"120.4787","lat":"22.66225","name":"大林崇大藥局","id":"5943013835","tel":"087517979","addr":"屏東縣屏東市崇武里華盛街7-5號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
