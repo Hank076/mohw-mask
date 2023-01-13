@@ -295,7 +295,7 @@ locations = [
 {"lng":"121.5917","lat":"25.08319","name":"桔子藥局","id":"5901113018","tel":"0227930052","addr":"臺北市內湖區內湖路2段333號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.590203","lat":"25.085935","name":"晟安藥局","id":"5901113027","tel":"0287919320","addr":"臺北市內湖區金龍路135號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩一~六早上10；00開始販售"},
 {"lng":"121.6118","lat":"25.07081","name":"宜昇優良藥局","id":"5901113081","tel":"0226327817","addr":"臺北市內湖區康寧路3段165巷10號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩代售時間:星期1-5，早上9:00；星期6.日.例假日，早上10:00"},
-{"lng":"121.5928","lat":"25.0701","name":"躍獅寶湖藥局","id":"5901113143","tel":"0287928335","addr":"臺北市內湖區民權東路6段123巷28號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩: 每日上午9:30 開始販售 現場排隊 售完為止 詳細細節請注意店內公告"},
+{"lng":"121.5928","lat":"25.0701","name":"躍獅寶湖藥局","id":"5901113143","tel":"0287928335","addr":"臺北市內湖區民權東路6段123巷28號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.589","lat":"25.0818","name":"傑昇藥局","id":"5901113198","tel":"0227925957","addr":"臺北市內湖區內湖路2段227號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5797","lat":"25.05466","name":"新安健保藥局","id":"5901113205","tel":"0227932289","addr":"臺北市內湖區新明路402號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"121.590993","lat":"25.081072","name":"大內湖藥局","id":"5901113250","tel":"0227956286","addr":"臺北市內湖區成功路3段164號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
