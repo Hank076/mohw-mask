@@ -3116,7 +3116,7 @@ locations = [
 {"lng":"120.818497","lat":"24.553999","name":"盛安藥局","id":"5935010213","tel":"037320145","addr":"苗栗縣苗栗市中正路748號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"快篩8點開始販售（除夕21號中午後休-30號初九開工）"},
 {"lng":"120.8273","lat":"24.57283","name":"正欣藥局","id":"5935010222","tel":"037264502","addr":"苗栗縣苗栗市清華里褔星街60號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"早上7點開始販賣快篩試劑"},
 {"lng":"120.830893","lat":"24.571671","name":"德鑫藥局","id":"5935010259","tel":"037261698","addr":"苗栗縣苗栗市清華里為公路348號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
-{"lng":"120.824574","lat":"24.5688","name":"天恩藥局","id":"5935011523","tel":"037277285","addr":"苗栗縣苗栗市中正路49號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩實名制，不發號碼牌，5／21日起每日早上8:00開始販售"},
+{"lng":"120.824574","lat":"24.5688","name":"天恩藥局","id":"5935011523","tel":"037277285","addr":"苗栗縣苗栗市中正路49號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩實名制，不發號碼牌，5／21日起每日早上8:00開始販售"},
 {"lng":"120.821","lat":"24.55742","name":"佳禾藥局","id":"5935011738","tel":"037373041","addr":"苗栗縣苗栗市青苗里建台街7號","business_week":"OOOXOOOOOXXOXXOOXXOXX","memo":"快篩試劑7:30開始販賣，販賣時段：營業時間至售完為止"},
 {"lng":"120.8201","lat":"24.55826","name":"芳鄰國際連鎖藥局","id":"5935011783","tel":"037330580","addr":"苗栗縣苗栗市中山路567號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販賣時段：AM09:00開始至PM21:00， 售完為止"},
 {"lng":"120.8186","lat":"24.5606","name":"廷安藥局","id":"5935011925","tel":"037356839","addr":"苗栗縣苗栗市府前路133號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩販賣時段:每日8點30-售完-星期日公休"},
