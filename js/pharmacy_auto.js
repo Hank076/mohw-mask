@@ -3011,7 +3011,7 @@ locations = [
 {"lng":"121.0306","lat":"24.8092","name":"文興藥局","id":"5933053354","tel":"036578772","addr":"新竹縣竹北市文興路一段318號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.9991","lat":"24.84149","name":"佑全竹北中正藥局","id":"5933053381","tel":"035556235","addr":"新竹縣竹北市中正西路176、178號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間，早上9點至晚上10點"},
 {"lng":"121.0106","lat":"24.8393","name":"方米藥局","id":"5933053407","tel":"035510015","addr":"新竹縣竹北市博愛街511號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間內開始販售；或快篩販售完畢，如有疑問請撥打：03-5510015，或+入LINE@（ID:@255gmzqw）詢問，謝謝您"},
-{"lng":"121.02589","lat":"24.81734","name":"合康連鎖藥局竹北二店","id":"5933053461","tel":"036583777","addr":"新竹縣竹北市福興東路一段373號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"8:30-22:30"},
+{"lng":"121.02589","lat":"24.81734","name":"合康連鎖藥局竹北二店","id":"5933053461","tel":"036583777","addr":"新竹縣竹北市福興東路一段373號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"8:30-22:00"},
 {"lng":"121.024826","lat":"24.816001","name":"佑全竹北自強南藥局","id":"5933053523","tel":"036681950","addr":"新竹縣竹北市自強南路160號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩每日1430開始發放， 0-6歲免費快篩10點開始發放"},
 {"lng":"121.026026","lat":"24.824909","name":"金竹藥局","id":"5933053532","tel":"036683215","addr":"新竹縣竹北市勝利六街68號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"","lat":"","name":"六家藥局","id":"5933053550","tel":"036578456","addr":"新竹縣竹北市六家一路一段163號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，每天16:00開始販售，售完為止。"},
