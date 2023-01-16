@@ -2436,6 +2436,7 @@ locations = [
 {"lng":"121.462187","lat":"25.083894","name":"愛佳健保藥局","id":"5931142858","tel":"0222825835","addr":"新北市蘆洲區長榮路75號1樓","business_week":"OOOOOOOOOOOOXOOOOOOXX","memo":"週一~週五晚上18:00開始販售實名制快篩，售完為止。週六週日不販售。"},
 {"lng":"121.4628","lat":"25.08114","name":"萊康中華健保藥局","id":"5931143051","tel":"0228486787","addr":"新北市蘆洲區中華街45-1號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"因業務繁忙人手不足 只有在星期日配發快篩 不便之處 敬請見諒"},
 {"lng":"121.4783","lat":"25.08678","name":"新信義藥局","id":"5931143104","tel":"0222885256","addr":"新北市蘆洲區信義路260號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"自費、公費、免費、快篩免排隊現貨中"},
+{"lng":"121.461575","lat":"25.084538","name":"德康藥局","id":"5931143257","tel":"0282851022","addr":"新北市蘆洲區長榮路132號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4605","lat":"25.08169","name":"中美永結藥局","id":"5931143266","tel":"0222887676","addr":"新北市蘆洲區長安街185號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.461116","lat":"25.093181","name":"大樹長榮藥局","id":"5931143319","tel":"0228480567","addr":"新北市蘆洲區長榮路61、61-1號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4699","lat":"25.08364","name":"全家藥粧藥局","id":"5931143328","tel":"0222811215","addr":"新北市蘆洲區光華路4號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
