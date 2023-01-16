@@ -3079,6 +3079,7 @@ locations = [
 {"lng":"120.9068","lat":"24.68432","name":"懷生中西藥局","id":"5935051849","tel":"037672357","addr":"苗栗縣頭份市中正路19號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販賣時段：早上10:00售完為止"},
 {"lng":"120.909446","lat":"24.689244","name":"樂田藥妝藥局","id":"5935051858","tel":"037598995","addr":"苗栗縣頭份市信東路135號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售時間:早上8點（實際狀況依臉書公告為準）"},
 {"lng":"120.910109","lat":"24.686933","name":"惠祐藥局","id":"5935051867","tel":"037668933","addr":"苗栗縣頭份市中正路165號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
+{"lng":"120.9032","lat":"24.69653","name":"森品藥局","id":"5935051947","tel":"037672378","addr":"苗栗縣頭份市建國路2段150、152、156號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間：9:00-22:30"},
 {"lng":"120.9046","lat":"24.69693","name":"頭份瑞士藥局","id":"5935051965","tel":"037683841","addr":"苗栗縣頭份市建國路二段100號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.8995","lat":"24.69356","name":"日康藥局","id":"5935051983","tel":"037660061","addr":"苗栗縣頭份市中央路402號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.8958","lat":"24.69637","name":"躍獅祐民藥局","id":"5935051992","tel":"037669387","addr":"苗栗縣頭份市信義路454號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
