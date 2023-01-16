@@ -3735,6 +3735,7 @@ locations = [
 {"lng":"120.502273","lat":"23.492748","name":"佑康藥局","id":"5940141243","tel":"052792226","addr":"嘉義縣竹崎鄉灣橋村五間厝3-2號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.504596","lat":"23.491359","name":"好鄰居藥局","id":"5940141289","tel":"052793899","addr":"嘉義縣竹崎鄉灣橋村灣橋341號","business_week":"OOOOOXOOOOOOXOOOOOOXO","memo":"快篩販賣時間為早上11點，星期六固定公休，5／8為下午5點開賣。"},
 {"lng":"120.5505","lat":"23.52135","name":"德勝藥局","id":"5940141298","tel":"052611016","addr":"嘉義縣竹崎鄉中山路184號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"120.489767","lat":"23.512726","name":"東義藥局","id":"5940141305","tel":"052110957","addr":"嘉義縣竹崎鄉獅埜村東義20-18號","business_week":"OOOOOOXOOOOOXXXXXXXXX"},
 {"lng":"120.548097","lat":"23.520551","name":"竹崎啄木鳥藥師藥局","id":"5940141314","tel":"052617786","addr":"嘉義縣竹崎鄉竹崎村中華路92號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"09:00~售罄"},
 {"lng":"120.558841","lat":"23.583087","name":"科有藥局","id":"5940150073","tel":"052621106","addr":"嘉義縣梅山鄉北興街12號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"10:00~售罄"},
 {"lng":"120.556875","lat":"23.584164","name":"橙新藥局","id":"5940151141","tel":"052622277","addr":"嘉義縣梅山鄉中山路285號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩販賣時間為晚上八點半，領完為止。周日休息。"},
