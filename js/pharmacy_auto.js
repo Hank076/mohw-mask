@@ -1192,7 +1192,7 @@ locations = [
 {"lng":"120.207509","lat":"23.012117","name":"和緯啄木鳥藥局","id":"5905350393","tel":"062519805","addr":"臺南市北區和緯路2段176號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名快篩販售時間：周一~周五14:00，周六周日11:00（若有變更，敬請見諒）門市另有販售非實名制快篩，歡迎洽詢"},
 {"lng":"120.2033","lat":"23.00268","name":"大正藥局","id":"5905350428","tel":"062226899","addr":"臺南市北區公園南路324號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑下午13:30發放~售完"},
 {"lng":"120.2077","lat":"22.99941","name":"大欣藥局","id":"5905350482","tel":"062236828","addr":"臺南市北區公園路203號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
-{"lng":"120.2069","lat":"23.01527","name":"育德保健藥局","id":"5905350508","tel":"062525360","addr":"臺南市北區富德里育德路530號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"120.2069","lat":"23.01527","name":"育德保健藥局","id":"5905350508","tel":"062525360","addr":"臺南市北區富德里育德路530號1樓","business_week":"OOOOOOXOOOOOXXOOOOOOX"},
 {"lng":"120.222641","lat":"23.008517","name":"開元台安藥局","id":"5905350535","tel":"062083172","addr":"臺南市北區開元路288號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.2067","lat":"23.01231","name":"康是美藥局和緯店","id":"5905350544","tel":"062519076","addr":"臺南市北區福德里和緯路二段238號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.192062","lat":"23.042496","name":"宜康藥局同安店","id":"5905370073","tel":"062470720","addr":"臺南市安南區同安路235號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
