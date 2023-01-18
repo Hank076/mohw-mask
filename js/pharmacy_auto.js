@@ -2855,6 +2855,7 @@ locations = [
 {"lng":"121.291","lat":"25.04902","name":"柏霖藥局","id":"5932052808","tel":"032120284","addr":"桃園市蘆竹區中正路359號2樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩試劑整天販售.售完為止."},
 {"lng":"121.259701","lat":"25.024704","name":"青新藥師藥局","id":"5932052826","tel":"033134328","addr":"桃園市蘆竹區南竹路五段251之1號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.292084","lat":"25.039993","name":"奇安藥局","id":"5932052853","tel":"032120207","addr":"桃園市蘆竹區南昌路269號","business_week":"OOOOOXXOOOOOOOOOOOOOO"},
+{"lng":"121.2913","lat":"25.04012","name":"政興藥局","id":"5932052871","tel":"033215544","addr":"桃園市蘆竹區南昌路254號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩試劑星期一~星期六販售 6／3上午營業，午晚休息，6／4全日營業，6／5全日休息"},
 {"lng":"121.2861","lat":"25.08533","name":"青青藥師藥局","id":"5932052924","tel":"033240338","addr":"桃園市蘆竹區南山路三段313號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販賣時段：週一至週日2:00起"},
 {"lng":"121.293249","lat":"25.048942","name":"天康南崁藥局","id":"5932052933","tel":"032122569","addr":"桃園市蘆竹區南崁路245號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販賣：週一~日14:00開賣通常30分鐘就售完不用再打電話問"},
 {"lng":"121.2891","lat":"25.03989","name":"安祐大藥局","id":"5932053001","tel":"032229195","addr":"桃園市蘆竹區忠孝西路192號","business_week":"OOOOOOXOXXOXOXOOOXOXX","memo":"販賣時段：一~五 9:00-21:00 六 9:00-16:00"},
