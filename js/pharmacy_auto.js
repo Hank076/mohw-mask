@@ -997,7 +997,7 @@ locations = [
 {"lng":"120.635255","lat":"24.150327","name":"百康健保藥局","id":"5903280521","tel":"0422547776","addr":"臺中市南屯區黎明路二段363號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業每日上午8:30到晚上22:30!"},
 {"lng":"120.6524","lat":"24.13579","name":"康總藥局","id":"5903280567","tel":"0424735285","addr":"臺中市南屯區南屯路二段101號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"周一到周日每日上午收到貨立即發送，發完為止（營業時間到晚上10:00）。"},
 {"lng":"120.6359","lat":"24.14816","name":"佑全黎明藥局","id":"5903280576","tel":"0423805560","addr":"臺中市南屯區黎明路2段266號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩9:00~21:00"},
-{"lng":"120.6354","lat":"24.14623","name":"康得藥局","id":"5903280585","tel":"0423820981","addr":"臺中市南屯區向上路三段45號","business_week":"OOOOOXXOOOOOOXOOOOOOX"},
+{"lng":"120.6354","lat":"24.14623","name":"康得藥局","id":"5903280585","tel":"0423820981","addr":"臺中市南屯區向上路三段45號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.64953","lat":"24.155145","name":"方昇藥局","id":"5903280601","tel":"0423288818","addr":"臺中市南屯區大墩路813號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"星期一至星期六上午9:30開始販售實名制快篩試劑，星期日休息"},
 {"lng":"120.6345","lat":"24.1526","name":"澄光人文藥局","id":"5903280647","tel":"0422530303","addr":"臺中市南屯區干城街305號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩周一~六下午8:30-22:00販售，售完為止"},
 {"lng":"120.6369","lat":"24.15208","name":"熊大心藥局","id":"5903280656","tel":"0422516252","addr":"臺中市南屯區河南路四段376號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"周一至周六售實名制快篩，12:00-15:00休息勿電詢。"},
