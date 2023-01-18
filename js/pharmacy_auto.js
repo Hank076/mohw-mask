@@ -1509,7 +1509,7 @@ locations = [
 {"lng":"121.724016","lat":"25.121592","name":"宏仁藥局","id":"5911060088","tel":"0224321739","addr":"基隆市安樂區安樂路2段130號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.71074","lat":"25.141186","name":"長春藥局","id":"5911060131","tel":"0224344550","addr":"基隆市安樂區基金一路174號之20","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.7216","lat":"25.12079","name":"立登藥局","id":"5911061272","tel":"0224334477","addr":"基隆市安樂區麥金路197號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"藥局快篩劑代售15:00開始販售 現場排隊"},
-{"lng":"121.7246","lat":"25.12235","name":"羅森堡藥局","id":"5911061281","tel":"0224319869","addr":"基隆市安樂區安和一街2巷22號","business_week":"OOOOOOOOOOOOXXOOOOOXX","memo":"08:40開賣（周日09:40）"},
+{"lng":"121.7246","lat":"25.12235","name":"羅森堡藥局","id":"5911061281","tel":"0224319869","addr":"基隆市安樂區安和一街2巷22號","business_week":"OOOOOOOOOOOOXXOOOOOXX"},
 {"lng":"121.7107","lat":"25.14024","name":"宏基藥局","id":"5911061307","tel":"0224319498","addr":"基隆市安樂區武嶺街64號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.7115","lat":"25.14021","name":"基金藥局","id":"5911061343","tel":"0224332953","addr":"基隆市安樂區基金一路133-6號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"國定假日8:30~12:00"},
 {"lng":"121.7548","lat":"25.12912","name":"信安藥局","id":"5911070011","tel":"0224238551","addr":"基隆市信義區信二路99號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩實名制-早上8點30開始販售--中午1-3點午休"},
