@@ -1862,7 +1862,7 @@ locations = [
 {"lng":"120.43426","lat":"23.48026","name":"友愛藥局","id":"5922020527","tel":"052330599","addr":"嘉義市西區福全里友愛路170號","business_week":"OOOOOXXOOOOOOOOOOOOOO"},
 {"lng":"120.443","lat":"23.46984","name":"信康藥局","id":"5922020563","tel":"052161680","addr":"嘉義市西區翠岱里仁愛路226號","business_week":"OOOOOXXOOOOOOXOOOOOXX"},
 {"lng":"120.4409","lat":"23.47535","name":"杏安藥局","id":"5922020581","tel":"052271727","addr":"嘉義市西區書院里民族路786號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
-{"lng":"120.44725","lat":"23.47984","name":"利安藥局","id":"5922020634","tel":"052225756","addr":"嘉義市西區番社里中山路344號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
+{"lng":"120.44725","lat":"23.47984","name":"利安藥局","id":"5922020634","tel":"052225756","addr":"嘉義市西區番社里中山路344號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.440434","lat":"23.466406","name":"大向藥局","id":"5922020643","tel":"052354605","addr":"嘉義市西區美源里新民路636號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.4284","lat":"23.48403","name":"四維啄木鳥藥局","id":"5922020652","tel":"052810598","addr":"嘉義市西區德安路160號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.4435","lat":"23.47554","name":"大正藥局","id":"5922020661","tel":"052285812","addr":"嘉義市西區書院里民族路702號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
