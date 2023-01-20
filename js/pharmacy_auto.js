@@ -416,7 +416,7 @@ locations = [
 {"lng":"121.520766","lat":"25.110468","name":"佳祈健保藥局","id":"5901163269","tel":"0228232535","addr":"臺北市北投區明德路144號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5087","lat":"25.11521","name":"天禧大藥局","id":"5901163296","tel":"0228213558","addr":"臺北市北投區實踐街35號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4672","lat":"25.12214","name":"萬信藥局","id":"5901163330","tel":"0228583083","addr":"臺北市北投區知行路305號(實際使用1樓)","business_week":"OOOOOOXOOOOOOOOOOOOXO"},
-{"lng":"121.501126","lat":"25.131345","name":"北投春天藥局","id":"5901163376","tel":"0228916668","addr":"臺北市北投區中央南路1段76號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.501126","lat":"25.131345","name":"北投春天藥局","id":"5901163376","tel":"0228916668","addr":"臺北市北投區中央南路1段76號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩下午三點開始"},
 {"lng":"121.508","lat":"25.11551","name":"尊賢藥局","id":"5901163410","tel":"0228270505","addr":"臺北市北投區尊賢街212號","business_week":"OOOOOXXOOOOOOXOOOOOOX"},
 {"lng":"121.508","lat":"25.11854","name":"漢藥局","id":"5901163438","tel":"0228236598","addr":"臺北市北投區吉利街146號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩實名制領取時間：周一至周六下午2點現場排隊"},
 {"lng":"121.4847","lat":"25.13785","name":"振生大藥局","id":"5901163465","tel":"0228977292","addr":"臺北市北投區中央北路3段61號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上8:30點開始販售 週日公休"},
