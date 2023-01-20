@@ -78,7 +78,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.558051","lat":"25.050861","name":"泰安親親家庭診所","id":"3501015106","tel":"0227605036","addr":"臺北市松山區光復北路97號","business_week":"OOOOOOXOOOOOXXOOOOOXO"},
 {"lng":"121.544663","lat":"25.028469","name":"劉耳鼻喉科診所","id":"3501020161","tel":"0227546060","addr":"臺北市大安區復興南路二段151巷27號","business_week":"OOOOOOXOOOOOXXXXXXXXX"},
 {"lng":"121.553878","lat":"25.043365","name":"萬通耳鼻喉科診所","id":"3501022825","tel":"0227518909","addr":"臺北市大安區延吉街64-2號1樓","business_week":"OOOOOOOOOOOOXXOOOOOXO"},
-{"lng":"121.513461","lat":"25.06509","name":"施小兒科診所","id":"3501090458","tel":"0225941935","addr":"臺北市大同區重慶北路三段28號","business_week":"OOXXOOXOOXOOOXOOXOOOX"},
+{"lng":"121.513461","lat":"25.06509","name":"施小兒科診所","id":"3501090458","tel":"0225941935","addr":"臺北市大同區重慶北路三段28號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.512854","lat":"25.059677","name":"建順診所","id":"3501093584","tel":"0225573250","addr":"臺北市大同區甘州街51號","business_week":"OOOOOOOXXXXXXXOOOOOOO","memo":"可電0921544331預約下午門診"},
 {"lng":"121.513575","lat":"25.071148","name":"大同耳鼻喉科診所","id":"3501093940","tel":"0225975833","addr":"臺北市大同區重慶北路三段250之4號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.548329","lat":"25.082041","name":"大直診所","id":"3501103272","tel":"0225332339","addr":"臺北市中山區北安路595巷2弄2號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"門診時間：早上八點至晚上十點"},
