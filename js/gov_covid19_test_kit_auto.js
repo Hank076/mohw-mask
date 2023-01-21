@@ -375,7 +375,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.630743","lat":"25.065073","name":"福德診所","id":"3531112618","tel":"0226959877","addr":"新北市汐止區福德二路171號","business_week":"OOOOOOXOOXOOXXOOXOOXX","memo":"早上08:30-11:40；晚上16:00-20:50；週三週六下午晚上休診"},
 {"lng":"121.662328","lat":"25.070246","name":"育和診所","id":"3531113366","tel":"0226486803","addr":"新北市汐止區中正路31號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"早上0800-1200，下午1500-1800，晚上1800-2030"},
 {"lng":"121.806679","lat":"25.1077","name":"簡診所","id":"3531120076","tel":"0224972350","addr":"新北市瑞芳區明燈路三段39之3號","business_week":"OOOOOOXXXOXOOXOXXXXOX"},
-{"lng":"121.805246","lat":"25.108235","name":"詠安診所","id":"3531120183","tel":"0224960683","addr":"新北市瑞芳區明燈路三段79號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"112-01-01：08：00~12：00早上看珍；1／21除夕只看診早上"},
+{"lng":"121.805246","lat":"25.108235","name":"詠安診所","id":"3531120183","tel":"0224960683","addr":"新北市瑞芳區明燈路三段79號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"112-01-01：08：00~12：00早上看珍；        1／21除夕、大年初四只看診早上"},
 {"lng":"121.806528","lat":"25.107678","name":"康橋診所","id":"3531121528","tel":"0224974128","addr":"新北市瑞芳區明燈路三段39-7號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.464656","lat":"24.985811","name":"莊京憲耳鼻喉科診所","id":"3531132334","tel":"0282603171","addr":"新北市土城區明德路一段2號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.440678","lat":"24.973188","name":"祐生耳鼻喉科診所","id":"3531132478","tel":"0282614588","addr":"新北市土城區中央路二段223之9號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
