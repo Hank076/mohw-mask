@@ -478,7 +478,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.994546","lat":"24.874811","name":"羅世績診所","id":"3533080226","tel":"035593399","addr":"新竹縣新豐鄉建興路一段154-10號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.99672","lat":"24.870322","name":"吳家仁小兒科診所","id":"3533080299","tel":"035575302","addr":"新竹縣新豐鄉新興路245號","business_week":"OOOOOOOOOOOOXOOOOOOXO","memo":"01／01早午看診01／02早午看診01／03早午晚看診"},
 {"lng":"121.75556","lat":"24.755669","name":"曹天德診所","id":"3534010522","tel":"039353267","addr":"宜蘭縣宜蘭市舊城東路3-1號","business_week":"OOOOOOXOOOXOXXOOOOOXX","memo":"12／31早上開診，下午.晚上休診.112／1／21-112／1／26休診"},
-{"lng":"121.753591","lat":"24.761606","name":"林耳鼻喉科診所","id":"3534010657","tel":"039311234","addr":"宜蘭縣宜蘭市中山路三段233號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"111／12／31正常門診、112／01／01只看早上門診、112／01／02正常門診"},
+{"lng":"121.753591","lat":"24.761606","name":"林耳鼻喉科診所","id":"3534010657","tel":"039311234","addr":"宜蘭縣宜蘭市中山路三段233號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"1／21只看早上門診、1／22~1／24休診、1／25正常門診"},
 {"lng":"121.76879","lat":"24.673138","name":"藍正州小兒科診所","id":"3534021954","tel":"039531168","addr":"宜蘭縣羅東鎮南門路20號","business_week":"OOOOOOOOOOOOXOOOOOOXO","memo":"1月1日上午開診午晚診暫停"},
 {"lng":"121.763784","lat":"24.679748","name":"劉醫師小兒科診所","id":"3534022102","tel":"039518121","addr":"宜蘭縣羅東鎮純精路二段229號","business_week":"OOOOOOOOOOOOXXOOOOOXX","memo":"111／10／8，111／10／9，111／10／10上午開診"},
 {"lng":"121.86523","lat":"24.583103","name":"吳昌達診所","id":"3534031503","tel":"039955976","addr":"宜蘭縣蘇澳鎮海邊路141號","business_week":"OOOOOOXOOOOOXXXXXXXXX"},
