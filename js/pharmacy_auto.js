@@ -715,7 +715,7 @@ locations = [
 {"lng":"120.3082","lat":"22.58819","name":"慈濟健保藥局","id":"5902092956","tel":"078159788","addr":"高雄市前鎮區鎮州路211號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天早上8點開始賣.售完為止藥局販售口罩時間，依藥局門口公告時間為主(售完為止)"},
 {"lng":"120.2705","lat":"22.61096","name":"旗后藥局","id":"5902100033","tel":"075715838","addr":"高雄市旗津區中洲三路715號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.2736","lat":"22.60608","name":"千佑藥局","id":"5902100042","tel":"075712619","addr":"高雄市旗津區復興里中洲三路513號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"1月1日-1月31日早上08.31至10.30為販賣快篩時間"},
-{"lng":"120.3477","lat":"22.56534","name":"鳳明中西大藥局","id":"5902110093","tel":"078011846","addr":"高雄市小港區二苓路247號","business_week":"OOOOOOOOOOOOOXOOOOOOO"},
+{"lng":"120.3477","lat":"22.56534","name":"鳳明中西大藥局","id":"5902110093","tel":"078011846","addr":"高雄市小港區二苓路247號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.3359","lat":"22.56386","name":"大裕藥局","id":"5902110299","tel":"078211467","addr":"高雄市小港區小港里小港路261號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩星期一到六早上九點販售 星期日休息"},
 {"lng":"120.3588","lat":"22.51445","name":"臨生藥局","id":"5902110422","tel":"078711290","addr":"高雄市小港區鳳鳴路146-4號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"上午9時開始販售快篩劑售完為止。"},
 {"lng":"120.3464","lat":"22.52635","name":"慈林藥局","id":"5902110593","tel":"078718087","addr":"高雄市小港區鳳林路93號","business_week":"OOOOOOXXXXXXXXOOOXOXX","memo":"早上9:00開始販售，售完為止，周日不販售（10:30~12:00）（18:30~20:00）較忙碌，需稍作等待."},
