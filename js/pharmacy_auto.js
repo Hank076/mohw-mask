@@ -1,6 +1,7 @@
 locations = [
 {"lng":"119.9492","lat":"26.16084","name":"連江縣立醫院","id":"0291010010","tel":"083623995","addr":"連江縣南竿鄉復興村217號","business_week":"OOOOOOXOOOOOOXXXXXXXX"},
 {"lng":"121.7095","lat":"24.93592","name":"新北市坪林區衛生所","id":"2331200010","tel":"0226656272","addr":"新北市坪林區坪林街104號","business_week":"OOOOOXXXXXXXXXXXXXXXX","memo":"防疫快篩劑販售服務時間，星期一至五09:00-12:00 。（倘若遇政府規定補班日，仍會提供販售服務）"},
+{"lng":"120.7577","lat":"24.5578","name":"苗栗縣西湖鄉衛生所","id":"2335140015","tel":"037921211","addr":"苗栗縣西湖鄉龍洞村1鄰16號","business_week":"OOOOOOXOOOOOOXXXXXXXX"},
 {"lng":"121.2592","lat":"24.25678","name":"臺中市和平區梨山衛生所","id":"2336210034","tel":"0425989540","addr":"臺中市和平區中正路12號1樓、68號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"提供24小時急診待診服務，快篩販售時段周一至五0900-12:00，六日及國定假日0900-1100"},
 {"lng":"120.7019","lat":"23.4666","name":"嘉義縣阿里山鄉衛生所","id":"2340180012","tel":"052561573","addr":"嘉義縣阿里山鄉樂野村3鄰97-2號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"阿里山遊樂區"},
 {"lng":"120.3582","lat":"23.09859","name":"臺南市山上區衛生所","id":"2341220015","tel":"065781013","addr":"臺南市山上區山上里35-2號","business_week":"OOOOOXXXXXXXXXXXXXXXX"},
