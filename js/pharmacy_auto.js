@@ -1663,6 +1663,7 @@ locations = [
 {"lng":"121.5386","lat":"24.95636","name":"仁淵藥局","id":"5931050033","tel":"0229128204","addr":"新北市新店區北宜路1段77號","business_week":"OOOOOOXOOOOOOXOOOOOOO","memo":"實名制快篩每日早上9點開始販售 . 謝謝大家"},
 {"lng":"121.5432","lat":"24.97978","name":"耀生中西藥局","id":"5931050211","tel":"0229118598","addr":"新北市新店區文化路21巷6號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.515943","lat":"24.965937","name":"瑞欣藥局","id":"5931050364","tel":"0222112723","addr":"新北市新店區吉安街33號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩現場直接開始販售無發號碼牌，售完為止 （星期日無販售）週一到週六營業"},
+{"lng":"121.5417","lat":"24.98174","name":"世明藥局","id":"5931050417","tel":"0229122139","addr":"新北市新店區北新路3段120號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.515","lat":"24.96385","name":"信龍大藥局","id":"5931051558","tel":"0222115533","addr":"新北市新店區安康路2段56號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩15:00發放號碼牌，並同步販售，每人限持1卡購買1份，請備妥零鈔"},
 {"lng":"121.539117","lat":"24.978853","name":"益生大藥局","id":"5931051585","tel":"0229177961","addr":"新北市新店區建國路132號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5401","lat":"24.97361","name":"昇旺藥局","id":"5931051601","tel":"0286659233","addr":"新北市新店區建國路10-1號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
