@@ -983,6 +983,7 @@ locations = [
 {"lng":"120.2953","lat":"22.68921","name":"翔生藥局","id":"5907300953","tel":"075827329","addr":"高雄市左營區左營大路514號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制早上9點開賣"},
 {"lng":"120.2896","lat":"22.6806","name":"健勝藥局","id":"5907300971","tel":"075811169","addr":"高雄市左營區勝利路127-1號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"正常情況於每日上午九點開始販售"},
 {"lng":"120.287699","lat":"22.681303","name":"大路藥局","id":"5907300980","tel":"075851001","addr":"高雄市左營區左營大路55-2號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.3084","lat":"22.66541","name":"杏一左營自由藥局","id":"5907301021","tel":"075509511","addr":"高雄市左營區自由二路397號","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"周一-周日販賣時間下午兩點"},
 {"lng":"120.311","lat":"22.6707","name":"丁丁藥局北高雄店","id":"5907301030","tel":"073453680","addr":"高雄市左營區自由三路148號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制早上9點開始販售"},
 {"lng":"120.3296","lat":"22.72617","name":"安健藥局","id":"5907310173","tel":"073520167","addr":"高雄市楠梓區鳳楠路250號","business_week":"OOOOOOOOOOOOXXOOOOOOO","memo":"2\/06起營業日早上8點開始販賣，周六日早上8:30 .售完為止"},
 {"lng":"120.291818","lat":"22.712723","name":"大樹楠梓藥局","id":"5907310262","tel":"073632322","addr":"高雄市楠梓區軍校路908號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
