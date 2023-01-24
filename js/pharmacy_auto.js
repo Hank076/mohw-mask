@@ -1778,6 +1778,7 @@ locations = [
 {"lng":"121.3699","lat":"24.93598","name":"祥祐藥局","id":"5931091696","tel":"0226738080","addr":"新北市三峽區文化路125號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩下午2點開始販售"},
 {"lng":"121.37338","lat":"24.93084","name":"誠祐藥局","id":"5931091712","tel":"0226746211","addr":"新北市三峽區光明路22號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.3727","lat":"24.9378","name":"誠美藥局","id":"5931091810","tel":"0226718131","addr":"新北市三峽區復興路106號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"星期1~6早上9點現場排隊購買口罩，4\/4~4\/5不販售防疫口罩"},
+{"lng":"121.3742","lat":"24.9454","name":"有新藥局","id":"5931091829","tel":"0226710769","addr":"新北市三峽區學勤路18號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩發放時間為下午1點至下午3點"},
 {"lng":"121.3774","lat":"24.94638","name":"大新藥局","id":"5931091865","tel":"0286713204","addr":"新北市三峽區大義路259號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩領取販售時間為上午9點至晚上9點"},
 {"lng":"121.375","lat":"24.9438","name":"盛台藥局","id":"5931091874","tel":"0226722730","addr":"新北市三峽區大學路108號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.3757","lat":"24.93321","name":"三峽藥局","id":"5931091892","tel":"0226738868","addr":"新北市三峽區介壽路1段27號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
