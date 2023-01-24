@@ -3092,6 +3092,7 @@ locations = [
 {"lng":"120.3495","lat":"22.62562","name":"一仁藥局","id":"5942010812","tel":"077425004","addr":"高雄市鳳山區自由路200號","business_week":"XXXXXXXOOOOOOOOOOOOOX","memo":"實名快篩（周一至周日）12:00 -21:00"},
 {"lng":"120.3603","lat":"22.62131","name":"福特藥局","id":"5942010894","tel":"077463533","addr":"高雄市鳳山區中山路73-4號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上07點50分營業"},
 {"lng":"120.3563","lat":"22.63765","name":"陳明仁藥局","id":"5942010974","tel":"077762551","addr":"高雄市鳳山區文衡路123-3號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"營業日08:30~21:30"},
+{"lng":"120.3565","lat":"22.61923","name":"頂好藥師藥局","id":"5942011480","tel":"077430834","addr":"高雄市鳳山區光華東路15號","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"自2\/11日~2\/29日，營業日10:00~21:00為販賣口罩時間，售完為止"},
 {"lng":"120.355293","lat":"22.638558","name":"建保藥局","id":"5942011579","tel":"077762100","addr":"高雄市鳳山區八德路201號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"6／13（一）喬遷至鳳山八德路201號營業"},
 {"lng":"120.351362","lat":"22.602051","name":"見康藥局","id":"5942011766","tel":"077535158","addr":"高雄市鳳山區中崙路578號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"自2\/11日~2\/29日，營業日8:00發號碼牌12:00~22:00為販賣口罩時間，售完為止，"},
 {"lng":"120.3671","lat":"22.64001","name":"福德中西藥局","id":"5942011800","tel":"077465530","addr":"高雄市鳳山區鳳北路36之1號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
