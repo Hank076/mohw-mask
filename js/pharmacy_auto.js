@@ -1025,6 +1025,7 @@ locations = [
 {"lng":"120.3192","lat":"22.62323","name":"北京藥局林泉店","id":"5907350659","tel":"077263030","addr":"高雄市苓雅區林泉里3鄰林泉街35號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間08:00~23:00，快篩上午8點30分開始販售"},
 {"lng":"120.3099","lat":"22.61142","name":"順康健保藥局","id":"5907360226","tel":"075364438","addr":"高雄市前鎮區一心二路67號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.3155","lat":"22.5849","name":"有承中西藥局","id":"5907360324","tel":"078120880","addr":"高雄市前鎮區德昌路257號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"配合政府實名制快篩，早上09:00開始服務 （若有異動以現場為主）"},
+{"lng":"120.3151","lat":"22.60991","name":"親親藥局","id":"5907360360","tel":"073391078","addr":"高雄市前鎮區天山路10巷6號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"周日休假 親親診所正後方"},
 {"lng":"120.3115","lat":"22.59249","name":"金服安藥局","id":"5907360379","tel":"078150061","addr":"高雄市前鎮區鎮興路191號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日下午2-9點販賣快篩試劑"},
 {"lng":"120.3226","lat":"22.57903","name":"益源藥局","id":"5907360413","tel":"078412120","addr":"高雄市前鎮區草衙二路418號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.3073","lat":"22.59003","name":"隆德藥局","id":"5907360440","tel":"078216030","addr":"高雄市前鎮區前鎮街170號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天早上八點營業.快篩劑要09:00後才開賣"},
