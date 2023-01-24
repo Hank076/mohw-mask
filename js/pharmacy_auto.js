@@ -2274,6 +2274,7 @@ locations = [
 {"lng":"121.0124","lat":"24.83101","name":"林保郎藥師藥局","id":"5933050317","tel":"035586879","addr":"新竹縣竹北市光明一路392號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"周一至週五8:00~20:00販售實名制快篩。周日8:00~18:00販售實名制快篩"},
 {"lng":"121.0058","lat":"24.83243","name":"良美藥局","id":"5933051958","tel":"035520460","addr":"新竹縣竹北市博愛街174號","business_week":"OOOOOOOOOOOXXXOOOOOXX"},
 {"lng":"121.0261","lat":"24.82122","name":"無尾熊藥師藥局","id":"5933052099","tel":"036577535","addr":"新竹縣竹北市莊敬五街6號","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"快篩販賣時段：星期一~六收到快篩即開賣，現場排隊"},
+{"lng":"121.0156","lat":"24.83066","name":"長康藥師藥局","id":"5933052384","tel":"036572696","addr":"新竹縣竹北市光明一路212號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.0238","lat":"24.81364","name":"振元藥師藥局","id":"5933052517","tel":"036587052","addr":"新竹縣竹北市自強南路201號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.0254","lat":"24.80966","name":"阿姆斯壯藥局","id":"5933052660","tel":"036589178","addr":"新竹縣竹北市六家五路一段125號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩營業時間皆有販售 售完為止"},
 {"lng":"121.012403","lat":"24.836958","name":"竹仁藥師藥局","id":"5933052777","tel":"035528947","addr":"新竹縣竹北市仁和街6號1樓","business_week":"OOOOOOOXOOOOXXOOOOOOO","memo":"8:00-20:30販賣公費快篩&領取0-6歲，65免費快篩"},
