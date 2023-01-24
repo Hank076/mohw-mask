@@ -1017,6 +1017,7 @@ locations = [
 {"lng":"121.4798","lat":"25.08763","name":"芯聯藥局","id":"5931142778","tel":"0282866803","addr":"新北市蘆洲區民族路210號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩 早上9:30開始販售 售完為止"},
 {"lng":"121.460652","lat":"25.081576","name":"乙安藥局","id":"5931142796","tel":"0222888277","addr":"新北市蘆洲區長安街179號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.462187","lat":"25.083894","name":"愛佳健保藥局","id":"5931142858","tel":"0222825835","addr":"新北市蘆洲區長榮路75號1樓","business_week":"OOOOOOOOOOOOXOOOOOOXX","memo":"週一~週五晚上18:00開始販售實名制快篩，售完為止。週六週日不販售。"},
+{"lng":"121.4628","lat":"25.08114","name":"萊康中華健保藥局","id":"5931143051","tel":"0228486787","addr":"新北市蘆洲區中華街45-1號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"因業務繁忙人手不足 只有在星期日配發快篩 不便之處 敬請見諒"},
 {"lng":"121.4783","lat":"25.08678","name":"新信義藥局","id":"5931143104","tel":"0222885256","addr":"新北市蘆洲區信義路260號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"自費、公費、免費、快篩免排隊現貨中"},
 {"lng":"121.4624","lat":"25.09199","name":"蘆洲丁丁藥局","id":"5931143202","tel":"0282851962","addr":"新北市蘆洲區三民路559號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"春節假期全年無休！營業時段請參考官網，丁丁藥局關心您！"},
 {"lng":"121.461575","lat":"25.084538","name":"德康藥局","id":"5931143257","tel":"0282851022","addr":"新北市蘆洲區長榮路132號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
