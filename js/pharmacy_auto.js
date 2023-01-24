@@ -2764,6 +2764,7 @@ locations = [
 {"lng":"120.8572","lat":"24.04147","name":"佑全藥局","id":"5938100018","tel":"0492722998","addr":"南投縣國姓鄉中興路103號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩7:30開始販賣，隨到隨買"},
 {"lng":"120.854019","lat":"23.815675","name":"人人藥局","id":"5938110032","tel":"0492770166","addr":"南投縣水里鄉中央村中正路78號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"星期一~日快篩試劑販賣時間早上08:00 ，售完為止"},
 {"lng":"120.8543","lat":"23.81587","name":"立特藥局","id":"5938110078","tel":"0492775837","addr":"南投縣水里鄉中央村中正路68號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"121.1324","lat":"24.02249","name":"永康藥局","id":"5938130016","tel":"0492802730","addr":"南投縣仁愛鄉大同村仁和路84號","business_week":"OOOOOXXOOOOOXXXXXXXXX"},
 {"lng":"120.529836","lat":"23.702154","name":"尚陽中西藥局","id":"5939010068","tel":"055370248","addr":"雲林縣斗六市鎮西里雲林路二段250號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩實名制早上8:30開始販售（周日公休）"},
 {"lng":"120.548587","lat":"23.711075","name":"東京大藥局","id":"5939010399","tel":"055348073","addr":"雲林縣斗六市文化路79號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑每天早上8點30開始（售完為止）"},
 {"lng":"120.5392","lat":"23.70849","name":"怡康健保藥局","id":"5939011734","tel":"055334585","addr":"雲林縣斗六市西平路42-1號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
