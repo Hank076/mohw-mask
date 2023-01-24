@@ -3170,6 +3170,7 @@ locations = [
 {"lng":"120.4506","lat":"22.46791","name":"健人藥局","id":"5943031619","tel":"088333828","addr":"屏東縣東港鎮中正路142號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑:週一 ~ 週六，販售時間 13:00~20:00，週日不販售"},
 {"lng":"120.448926","lat":"22.464092","name":"嘉蓮藥局","id":"5943031673","tel":"088350620","addr":"屏東縣東港鎮東隆街40之2號","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"實名制快篩：營業時間均有販售。"},
 {"lng":"120.4553","lat":"22.46833","name":"東港好厝邊藥局","id":"5943031708","tel":"088338233","addr":"屏東縣東港鎮成功路252號1樓","business_week":"OOOOOOXOOOXOXXOOOOOXX","memo":"口罩販售時間:上午9:00開始，售完為止，週日店休"},
+{"lng":"120.4594","lat":"22.47111","name":"愛樂活藥局","id":"5943031735","tel":"088312388","addr":"屏東縣東港鎮長春一路113-1號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.4523","lat":"22.47022","name":"東港藥局","id":"5943031771","tel":"088325133","addr":"屏東縣東港鎮中正路257˙257-1號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.4642","lat":"22.47816","name":"東港啄木鳥藥局","id":"5943031833","tel":"088327125","addr":"屏東縣東港鎮興東二街16號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"上午09:30"},
 {"lng":"120.4463","lat":"22.46862","name":"大眾藥局","id":"5943031851","tel":"088354752","addr":"屏東縣東港鎮朝隆路76號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售時間:早上7:30至晚上10:30"},
