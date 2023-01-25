@@ -500,6 +500,7 @@ locations = [
 {"lng":"120.6803","lat":"24.17105","name":"英全藥局","id":"5903290803","tel":"0422345179","addr":"臺中市北屯區北平路三段34號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間早上8點到晚上23點"},
 {"lng":"120.7195","lat":"24.17982","name":"軍功啄木鳥藥局","id":"5903290867","tel":"0422390160","addr":"臺中市北屯區軍功路二段175號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩每日9點至售完為止"},
 {"lng":"120.7193","lat":"24.17513","name":"北屯軍功藥局","id":"5903290876","tel":"0424375111","addr":"臺中市北屯區軍功路一段752號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.687","lat":"24.1674","name":"德寶健保藥局","id":"5903290947","tel":"0422325511","addr":"臺中市北屯區熱河路一段70號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩試劑九點開始銷售賣完為止"},
 {"lng":"120.684964","lat":"24.169617","name":"崇德藥局","id":"5903290965","tel":"0422361331","addr":"臺中市北屯區崇德路二段31號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.6944","lat":"24.17431","name":"興安永佳藥局","id":"5903290974","tel":"0422437876","addr":"臺中市北屯區興安路一段333號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天上午10:00至晚間21:00販售，售完為止"},
 {"lng":"120.6829","lat":"24.1917","name":"益川健保藥局","id":"5903290992","tel":"0424213696","addr":"臺中市北屯區昌平路二段47-1號1樓","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"快篩試劑隨時現場販售，售完為止，星期日下午3點半開始販售"},
