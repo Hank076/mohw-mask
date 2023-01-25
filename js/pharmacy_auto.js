@@ -2468,6 +2468,7 @@ locations = [
 {"lng":"121.5765","lat":"23.9926","name":"保康藥局","id":"5945010136","tel":"038579760","addr":"花蓮縣花蓮市建國路2段340號","business_week":"XXXXXXOXXXXXXOXXXXXXO","memo":"服務時段早8點半－晚9點半，星期六到晚9點星期日公休，快篩實名制全天販售至售完為止"},
 {"lng":"121.6246","lat":"23.99018","name":"郭藥局","id":"5945010154","tel":"038230761","addr":"花蓮縣花蓮市中美路95號之3","business_week":"OOOOOXXOOOOOXXOOOOOOO"},
 {"lng":"121.6029","lat":"23.97418","name":"吉康藥局","id":"5945010252","tel":"038331208","addr":"花蓮縣花蓮市中正路360號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
+{"lng":"121.604473","lat":"23.975465","name":"易生藥局","id":"5945010289","tel":"038322927","addr":"花蓮縣花蓮市中正路443號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.608226","lat":"23.982406","name":"晉嘉藥局","id":"5945011795","tel":"038347329","addr":"花蓮縣花蓮市明禮路71-9號1樓","business_week":"OOOOOOOXXXXXXXOOOOOOO"},
 {"lng":"121.601","lat":"23.98409","name":"華康藥局","id":"5945012069","tel":"038328366","addr":"花蓮縣花蓮市建國路196號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"每日1300-1400休息"},
 {"lng":"121.5996","lat":"23.97499","name":"信康藥局","id":"5945012087","tel":"038320358","addr":"花蓮縣花蓮市中華路295號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每星期一至星期六上午9:30開賣，至晚上9:00，星期日11:00開賣，至晚上8:00"},
