@@ -1745,6 +1745,7 @@ locations = [
 {"lng":"121.3964","lat":"24.93584","name":"一大藥局","id":"5931092040","tel":"0286766677","addr":"新北市三峽區橫溪路23號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.3709","lat":"24.93626","name":"禾雅藥局","id":"5931092095","tel":"0226718621","addr":"新北市三峽區文化路130號(1樓)","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.3719","lat":"24.93627","name":"立雅藥局","id":"5931092111","tel":"0226712601","addr":"新北市三峽區文化路84號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.3799","lat":"24.92895","name":"福澤清福藥局","id":"5931092184","tel":"0277136586","addr":"新北市三峽區介壽路1段282號1樓","business_week":"OOOOOOOOOOOOOOOXOXOXX"},
 {"lng":"","lat":"","name":"北大藥局","id":"5931092219","tel":"0226738535","addr":"新北市三峽區大義路9號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOO","memo":"中午12:30-13:30休息星期日休假快篩隨到隨領發放規則依政府規定"},
 {"lng":"121.444","lat":"25.17006","name":"邱藥局","id":"5931100074","tel":"0226214255","addr":"新北市淡水區中山路27號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.4473","lat":"25.16892","name":"尚運藥局","id":"5931100154","tel":"0226225149","addr":"新北市淡水區學府路51巷1弄20號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
