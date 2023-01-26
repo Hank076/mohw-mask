@@ -1775,6 +1775,7 @@ locations = [
 {"lng":"121.404718","lat":"25.016189","name":"立欣藥局","id":"5931071916","tel":"0226764728","addr":"新北市樹林區三福街166號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"快篩販售時間:禮拜一~五 14:00~17:00"},
 {"lng":"121.4272","lat":"24.99462","name":"樹新藥局","id":"5931071934","tel":"0226821080","addr":"新北市樹林區樹新路30-3號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.417633","lat":"24.998564","name":"保康藥局","id":"5931071970","tel":"0286875503","addr":"新北市樹林區保安街1段364號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"1／21休至1／25"},
+{"lng":"121.403","lat":"25.01614","name":"琉璃水藥師藥局","id":"5931072066","tel":"0226764262","addr":"新北市樹林區龍興街21號1樓","business_week":"OOOOOXOXXXXXXXOOOOOXO"},
 {"lng":"121.4159","lat":"24.98048","name":"樹林健業藥局","id":"5931072217","tel":"0286851736","addr":"新北市樹林區東華街89號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4264","lat":"24.99772","name":"彰安藥局","id":"5931072244","tel":"0226827341","addr":"新北市樹林區千歲街82號","business_week":"OOOOOOXOOOOOOXOOOOOOO"},
 {"lng":"121.4154","lat":"24.9823","name":"小蜜蜂中西健保藥局","id":"5931072299","tel":"0286853677","addr":"新北市樹林區東榮街118號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑發售時間：基本為早上八點   PS：如政府配送不及，發售時間會現場另行公告。"},
