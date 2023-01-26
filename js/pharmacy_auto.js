@@ -1343,6 +1343,7 @@ locations = [
 {"lng":"120.4553","lat":"23.48162","name":"秉榮藥局","id":"5922010263","tel":"052224320","addr":"嘉義市東區東仁里中山路189號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.4502","lat":"23.47683","name":"壽生堂藥局","id":"5922010361","tel":"052225058","addr":"嘉義市東區府路里延平街280號","business_week":"OOOOOOOXOXOXOOOOOOOOO","memo":"周一至周日上午09:00起，至20:00或售鑿為止。"},
 {"lng":"120.4553","lat":"23.4643","name":"信輝藥局","id":"5922010405","tel":"052252415","addr":"嘉義市東區安寮里吳鳳南路353號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.4517","lat":"23.48096","name":"穎川保健藥局","id":"5922010441","tel":"052223609","addr":"嘉義市東區仁武里中山路204號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.4551","lat":"23.47807","name":"乙展藥局","id":"5922010496","tel":"052279556","addr":"嘉義市東區蘭井里蘭井街70號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.4566","lat":"23.47649","name":"安泰藥局","id":"5922010718","tel":"052294202","addr":"嘉義市東區民族路181號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.4618","lat":"23.48392","name":"松柏藥局","id":"5922010754","tel":"052780909","addr":"嘉義市東區東平里民權路87號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
