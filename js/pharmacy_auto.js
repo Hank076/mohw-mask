@@ -1363,6 +1363,7 @@ locations = [
 {"lng":"120.4469","lat":"23.48185","name":"佑安藥局","id":"5922020796","tel":"052278298","addr":"嘉義市西區民權路423號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩上午九點開始販售"},
 {"lng":"120.44263","lat":"23.47052","name":"明興藥局","id":"5922020821","tel":"052365938","addr":"嘉義市西區仁愛路247號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.4421","lat":"23.48389","name":"大統藥局","id":"5922020858","tel":"052330230","addr":"嘉義市西區慶安里北興街136號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
+{"lng":"120.4468","lat":"23.48856","name":"庭一藥局","id":"5922020867","tel":"052325900","addr":"嘉義市西區文化路442號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.4443","lat":"23.46856","name":"平良藥局","id":"5922020894","tel":"052235220","addr":"嘉義市西區致遠里興業西路84號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"初一~初三（休息）         除夕`初四 :早上"},
 {"lng":"120.43398","lat":"23.48268","name":"苰安藥局","id":"5922020910","tel":"052910585","addr":"嘉義市西區竹圍里友愛路236號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.442","lat":"23.47654","name":"仁愛弘安藥局","id":"5922020938","tel":"052239000","addr":"嘉義市西區仁愛路393號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
