@@ -591,7 +591,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.228954","lat":"23.015964","name":"蔡尚均小兒科診所","id":"3541312960","tel":"063020188","addr":"臺南市永康區中華路675之1號","business_week":"OOOOOOXOOOOOXOOXOXOXX","memo":"星期日家庭醫師會員急診"},
 {"lng":"120.35708","lat":"22.625003","name":"台安診所","id":"3542011211","tel":"077410268","addr":"高雄市鳳山區雙慈街26號","business_week":"OOOOOXOXXXXXXXOOOOOXX"},
 {"lng":"120.355006","lat":"22.640205","name":"文衡診所","id":"3542011551","tel":"077768185","addr":"高雄市鳳山區文衡路344號","business_week":"OOOOOOXXXXXXXXOOOOOXX"},
-{"lng":"120.362213","lat":"22.62618","name":"林誓揚診所","id":"3542012469","tel":"077482228","addr":"高雄市鳳山區經武路18號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"1／21 ~ 1／25 停診"},
+{"lng":"120.362213","lat":"22.62618","name":"林誓揚診所","id":"3542012469","tel":"077482228","addr":"高雄市鳳山區經武路18號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"1／21 ~ 1／25 停診， 1／26恢復正常"},
 {"lng":"120.355496","lat":"22.639757","name":"祐幼小兒科診所","id":"3542013840","tel":"077769977","addr":"高雄市鳳山區八德路296巷28號","business_week":"OXOOOOXOOOOOXXOOOOOXX"},
 {"lng":"120.35029","lat":"22.641076","name":"陳柏蒼耳鼻喉科診所","id":"3542013984","tel":"077775388","addr":"高雄市鳳山區文衡路480號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.350668","lat":"22.629114","name":"陳重志聯合診所","id":"3542014098","tel":"077427329","addr":"高雄市鳳山區光復路一段139號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"春節期間看診時段請電洽診所"},
