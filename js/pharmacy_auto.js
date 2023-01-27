@@ -3060,6 +3060,7 @@ locations = [
 {"lng":"120.6769","lat":"23.91728","name":"明安大藥局","id":"5938011730","tel":"0492248922","addr":"南投縣南投市復興路487、489號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"早上9:30開始領快篩"},
 {"lng":"120.686297","lat":"23.909608","name":"健美藥局","id":"5938011785","tel":"0492207785","addr":"南投縣南投市民權街98號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"禮拜一到六早上10點開賣，禮拜日休假不賣。"},
 {"lng":"120.68729","lat":"23.909204","name":"南投丁丁藥局","id":"5938011810","tel":"0492245977","addr":"南投縣南投市三和里三和二路10號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"健保快篩早上8點開賣"},
+{"lng":"120.6879","lat":"23.90336","name":"和康藥局","id":"5938011829","tel":"0492227008","addr":"南投縣南投市復興路75-1號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.687","lat":"23.90573","name":"愛馨藥局","id":"5938011838","tel":"0492206006","addr":"南投縣南投市中山街14巷15號","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"9:00開始販售"},
 {"lng":"120.6905","lat":"23.90472","name":"南投啄木鳥藥局","id":"5938011847","tel":"0492241683","addr":"南投縣南投市中興路612號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一至周日每天10:00開始販賣快篩。"},
 {"lng":"120.6914","lat":"23.91003","name":"樂家藥局","id":"5938011883","tel":"0492207007","addr":"南投縣南投市民族路105號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"周日不販售 謝謝"},
