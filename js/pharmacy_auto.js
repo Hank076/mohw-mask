@@ -1,5 +1,6 @@
 locations = [
 {"lng":"119.9492","lat":"26.16084","name":"連江縣立醫院","id":"0291010010","tel":"083623995","addr":"連江縣南竿鄉復興村217號","business_week":"OOOOOOXOOOOOOXXXXXXXX"},
+{"lng":"121.7365","lat":"25.02469","name":"新北市平溪區衛生所","id":"2331240014","tel":"0224951015","addr":"新北市平溪區公園街17號1樓","business_week":"OOOOOXXXOXXOXXXXXXXXX","memo":"快篩試劑販售時間:週一至週五上午9:00至12:00 。視訊門診時間:週一至週五上午11:00至12:00 。"},
 {"lng":"121.1194","lat":"24.63184","name":"新竹縣五峰鄉衛生所","id":"2333140017","tel":"035851005","addr":"新竹縣五峰鄉大隘村六鄰99號","business_week":"OOOOOOOOOOOOOOXXXXOOO"},
 {"lng":"120.8643","lat":"24.63672","name":"苗栗縣造橋鄉衛生所","id":"2335150011","tel":"037542755","addr":"苗栗縣造橋鄉造橋村14鄰8-2號","business_week":"OXXOXXXXXXXXXXXXXXXXX","memo":"實名制快篩試劑販賣時段：周一至周五08:20-12:00；週六、日及國定假日無販售。"},
 {"lng":"121.2592","lat":"24.25678","name":"臺中市和平區梨山衛生所","id":"2336210034","tel":"0425989540","addr":"臺中市和平區中正路12號1樓、68號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"提供24小時急診待診服務，快篩販售時段周一至五0900-12:00，六日及國定假日0900-1100"},
@@ -905,6 +906,7 @@ locations = [
 {"lng":"120.28744","lat":"22.967624","name":"大樹青青藥局","id":"5905280109","tel":"062300301","addr":"臺南市歸仁區中山路三段12號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.296","lat":"22.9676","name":"悅橙歸仁藥局","id":"5905280136","tel":"062396660","addr":"臺南市歸仁區大通路43號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"實名制Covid-19快篩15:00開始現場販售至售完"},
 {"lng":"120.293","lat":"22.96419","name":"喜樂藥局","id":"5905280154","tel":"062305101","addr":"臺南市歸仁區辜厝里中正南路一段114號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"120.2861","lat":"22.96753","name":"歸仁丁丁藥局","id":"5905280163","tel":"062300767","addr":"臺南市歸仁區中山路三段73號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.3272","lat":"22.96109","name":"大樹關廟藥局","id":"5905290034","tel":"065965889","addr":"臺南市關廟區中央路263號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.236916","lat":"23.04132","name":"鹽行健保藥局","id":"5905310184","tel":"062435112","addr":"臺南市永康區中正南路861號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.2356","lat":"23.01609","name":"睿禾藥局","id":"5905310237","tel":"063023868","addr":"臺南市永康區東橋一路13號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"中午12-14點不販售。週日公休。"},
