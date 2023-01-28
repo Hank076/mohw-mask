@@ -3054,6 +3054,7 @@ locations = [
 {"lng":"120.4971","lat":"24.10759","name":"丁丁藥局和美店","id":"5937031667","tel":"047576322","addr":"彰化縣和美鎮道周路312號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"5／12起周一至周日上午10:00開始發放號碼牌，發完後即開始販賣快篩。"},
 {"lng":"120.494","lat":"24.10896","name":"大樹和美藥局","id":"5937031747","tel":"047550090","addr":"彰化縣和美鎮道周路501號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.4925","lat":"24.11452","name":"永元藥局","id":"5937031756","tel":"047550045","addr":"彰化縣和美鎮和線路91號","business_week":"OOOXOOXOXOXOOXOOOOOXX","memo":"固定週一至週六早上8點開始販賣，星期四晚上19點才販售（每週日公休）"},
+{"lng":"120.4979","lat":"24.10855","name":"慧佑中西藥局","id":"5937031774","tel":"047575327","addr":"彰化縣和美鎮仁美路188號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩試劑販售時間星期一至星期五早上09:00開始販售慧佑中西藥局祝大家平安健康"},
 {"lng":"","lat":"","name":"和美啄木鳥藥局","id":"5937031783","tel":"047552924","addr":"彰化縣和美鎮德美路270號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天早上10點發快篩.只有週三是下午14點發快篩"},
 {"lng":"120.5243","lat":"23.87364","name":"北斗仁和藥局","id":"5937040148","tel":"048880163","addr":"彰化縣北斗鎮光復里光復路182號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"周一至周日0900當場排隊發放號碼牌，售完為止"},
 {"lng":"120.5211","lat":"23.87211","name":"九和藥局","id":"5937041172","tel":"048875039","addr":"彰化縣北斗鎮西德里斗苑路一段290號","business_week":"OOOXOOOOOOXOOXOOOXOOX","memo":"早上09:00代售實名制快篩"},
