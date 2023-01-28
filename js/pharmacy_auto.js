@@ -3377,6 +3377,7 @@ locations = [
 {"lng":"120.355","lat":"23.76155","name":"立洲藥局","id":"5939121164","tel":"056969331","addr":"雲林縣崙背鄉正義路291、293號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"120.378","lat":"23.75106","name":"元美藥局","id":"5939121173","tel":"056962496","addr":"雲林縣崙背鄉港尾村61-2號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"7:50~9:30"},
 {"lng":"120.3585","lat":"23.75958","name":"詠大藥局","id":"5939121208","tel":"056967990","addr":"雲林縣崙背鄉南陽村中山路109-2號","business_week":"OOOOOOXOOOOOOOOOOOOOX"},
+{"lng":"120.359478","lat":"23.76132","name":"昀橙藥局","id":"5939121262","tel":"056969089","addr":"雲林縣崙背鄉東明村正義路120-1號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.3548","lat":"23.76012","name":"崙背台丞藥局","id":"5939121271","tel":"056966789","addr":"雲林縣崙背鄉建國路56號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週日公休，早上8：0０開賣，售完為止。"},
 {"lng":"120.278345","lat":"23.796286","name":"見春藥局","id":"5939130029","tel":"056912265","addr":"雲林縣麥寮鄉橋頭村仁德路74號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.250048","lat":"23.750735","name":"中崙保健藥局","id":"5939130047","tel":"056935697","addr":"雲林縣麥寮鄉中山路440號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
