@@ -3405,7 +3405,7 @@ locations = [
 {"lng":"120.225614","lat":"23.634449","name":"大家藥局","id":"5939181231","tel":"057877435","addr":"雲林縣四湖鄉中正路433號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"0730-1930(12:00~14:00休息)"},
 {"lng":"120.223688","lat":"23.637799","name":"威仁藥局","id":"5939181339","tel":"057875041","addr":"雲林縣四湖鄉中山西路70號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"周一至周六營業時間上午八點到晚上八點，周日上午八點至中午12點"},
 {"lng":"120.1901","lat":"23.54536","name":"呂藥師藥局","id":"5939190025","tel":"057907472","addr":"雲林縣口湖鄉梧南村文光路12號","business_week":"OXXXXXXXXXXXXXXXXXXXX","memo":"不固定營業時間，請先電話洽詢"},
-{"lng":"120.1903","lat":"23.5426","name":"盟生藥局","id":"5939190061","tel":"057907159","addr":"雲林縣口湖鄉梧南村文光路95之6號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩實名制販售時間:週一~週六早上7:30售完為止    周日公休（春節遇禮拜日有上班）"},
+{"lng":"120.1903","lat":"23.5426","name":"盟生藥局","id":"5939190061","tel":"057907159","addr":"雲林縣口湖鄉梧南村文光路95之6號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩實名制販售時間:週一~週六早上7:30售完為止    周日公休"},
 {"lng":"120.1811","lat":"23.58524","name":"順生藥局","id":"5939191326","tel":"057895799","addr":"雲林縣口湖鄉口湖村口湖路324號","business_week":"OOOOOXOOOOOOXOXXXXXXX","memo":"早上10點開放購買快篩試劑 賣完為止（星期六休息）"},
 {"lng":"120.164921","lat":"23.617505","name":"亞洲藥局","id":"5939191380","tel":"057991108","addr":"雲林縣口湖鄉崙東村中山路78-2號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.247","lat":"23.57205","name":"優生藥局","id":"5939200011","tel":"057856307","addr":"雲林縣水林鄉水林路99巷2號","business_week":"OOOOOOXOOOOOXXXXXXXXX"},
