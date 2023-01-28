@@ -2507,6 +2507,7 @@ locations = [
 {"lng":"121.184783","lat":"24.91776","name":"中美藥局","id":"5932040255","tel":"034822483","addr":"桃園市楊梅區埔心里中興路77號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"隨到隨領"},
 {"lng":"121.1452","lat":"24.9076","name":"弘大藥局","id":"5932040308","tel":"034751858","addr":"桃園市楊梅區大華街十三號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.1699","lat":"24.90855","name":"佑健藥師藥局","id":"5932042124","tel":"034315478","addr":"桃園市楊梅區中山北路二段一O八號一樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販賣時段上午9點開始現場排隊， 售完為止"},
+{"lng":"121.0829","lat":"24.93497","name":"德美藥局","id":"5932042339","tel":"032821668","addr":"桃園市楊梅區中正路8號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"口罩販售時間：售完為止"},
 {"lng":"121.146617","lat":"24.901638","name":"得康美藥局","id":"5932042679","tel":"034788128","addr":"桃園市楊梅區環南路128號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上10:00-11:00 （28份）／下午16:00-17:00（25份）／ 晚上20:00-21:00（25份）**現場過健保卡收500*現場發快篩5入"},
 {"lng":"121.169031","lat":"24.908149","name":"合康美藥局","id":"5932042820","tel":"034812598","addr":"桃園市楊梅區中山北路二段79號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.147167","lat":"24.908299","name":"天乙藥局","id":"5932042866","tel":"034756916","addr":"桃園市楊梅區新成路201號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"周一至周六早上8:00開始販售實名制快篩，週日不販售，請自備零錢"},
