@@ -819,6 +819,7 @@ locations = [
 {"lng":"120.6373","lat":"24.17723","name":"全成西屯藥局","id":"5903270918","tel":"0424512290","addr":"臺中市西屯區黎明路三段221、223號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日下午3點開始販售實名制快篩"},
 {"lng":"120.6485","lat":"24.17477","name":"河南小林健保藥局","id":"5903270927","tel":"0424512830","addr":"臺中市西屯區河南路二段298號1樓","business_week":"OXOXOXOOOOOOOXXOXOXOX"},
 {"lng":"120.6659","lat":"24.17267","name":"新元藥局","id":"5903270936","tel":"0423121383","addr":"臺中市西屯區文心路三段532號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"1／21-1／26為春節公休，請電洽04-23121383"},
+{"lng":"120.6425","lat":"24.17735","name":"西屯青育藥師藥局","id":"5903271004","tel":"0427077898","addr":"臺中市西屯區西屯路二段295-3號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.621","lat":"24.18716","name":"西屯藥局","id":"5903271022","tel":"0424621822","addr":"臺中市西屯區西屯路三段150-45號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.616539","lat":"24.183301","name":"安德藥局","id":"5903271059","tel":"0424638302","addr":"臺中市西屯區福康路17號1樓","business_week":"XXXXXXXOOOOOOOXXXXXXX","memo":"實名制快篩下午2:00開始販售(請排隊自備現金不找零)"},
 {"lng":"120.618","lat":"24.18603","name":"常春藤藥局","id":"5903271086","tel":"0424619296","addr":"臺中市西屯區福康路80號1樓","business_week":"OOOOOOOOOOOOOOXOOOOOX","memo":"每日販賣防疫家用快篩"},
