@@ -518,6 +518,7 @@ locations = [
 {"lng":"120.3399","lat":"22.64276","name":"明皇藥局","id":"5902051240","tel":"073860121","addr":"高雄市三民區寶國里義華路181號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"藥局販售口罩時間，依藥局門口公告時間為主(售完為止)"},
 {"lng":"120.318532","lat":"22.636473","name":"上正藥師藥局","id":"5902051268","tel":"072223355","addr":"高雄市三民區憲政路255號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"每天早上9點販售政府實名制快篩試劑，周日不販售"},
 {"lng":"120.2982","lat":"22.63706","name":"億生藥局","id":"5902051786","tel":"072873436","addr":"高雄市三民區南台路200號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"「藥局販售口罩時間，依藥局門口公告時間為主(售完為止)」"},
+{"lng":"120.3253","lat":"22.65318","name":"久大藥局","id":"5902051866","tel":"073858116","addr":"高雄市三民區本文里立忠路32號1F","business_week":"OOOOOOOOOOOOXXOOOOOXX"},
 {"lng":"120.3068","lat":"22.64818","name":"建銘藥局","id":"5902053833","tel":"073133460","addr":"高雄市三民區吉林街262號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"0900營業時間販賣口罩.售完為止"},
 {"lng":"120.3332","lat":"22.64339","name":"善全藥局","id":"5902054689","tel":"073960269","addr":"高雄市三民區義華路391號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"開始營業即販售，售完為止，其它看休息公告."},
 {"lng":"120.3197","lat":"22.66521","name":"勝發藥局","id":"5902054858","tel":"073474780","addr":"高雄市三民區金鼎路350號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"營業日08:00為販賣快篩試劑時間.售完為止"},
