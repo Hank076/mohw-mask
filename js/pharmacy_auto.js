@@ -967,6 +967,7 @@ locations = [
 {"lng":"120.2344","lat":"22.99818","name":"中華台安藥局","id":"5905320608","tel":"062092622","addr":"臺南市東區中華東路一段4號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.2298","lat":"22.99522","name":"晉大藥局","id":"5905320635","tel":"062092580","addr":"臺南市東區東平路134號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.2291","lat":"22.98105","name":"東門台安藥局","id":"5905320653","tel":"062904377","addr":"臺南市東區中華東路三段2號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"120.2247","lat":"22.97262","name":"恆大藥局","id":"5905320699","tel":"062905586","addr":"臺南市東區崇明路590號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上九時開業，晚上九時結束營業"},
 {"lng":"120.2264","lat":"22.97833","name":"令和藥局","id":"5905320715","tel":"062673578","addr":"臺南市東區崇善路269號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.2147","lat":"22.99538","name":"榮記藥健康藥局","id":"5905320742","tel":"062760588","addr":"臺南市東區成大里育樂街156-4號底層","business_week":"OOOOOOXOOOOOOXXXXXXXX","memo":"上午9點開放刷實名制快篩試劑，售完為止。"},
 {"lng":"120.2329","lat":"22.97181","name":"安麗兒藥局仁和店","id":"5905320779","tel":"062908000","addr":"臺南市東區仁和路105-1號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
