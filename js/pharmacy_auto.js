@@ -2388,6 +2388,7 @@ locations = [
 {"lng":"121.3118","lat":"24.99697","name":"榮生藥師藥局","id":"5932017096","tel":"033396120","addr":"桃園市桃園區民生路275號一樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩販賣時段：星期一到星期五上午10點開始-售完為止 週六，週日沒賣"},
 {"lng":"121.290071","lat":"25.018739","name":"全安藥師藥局","id":"5932017112","tel":"033023107","addr":"桃園市桃園區寶慶路429號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩實名制10:00起販售~售完"},
 {"lng":"121.3058","lat":"25.0269","name":"保安藥師藥局","id":"5932018520","tel":"033578722","addr":"桃園市桃園區春日路一三七二號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"121.2994","lat":"25.00081","name":"新永安藥師藥局","id":"5932018539","tel":"033471180","addr":"桃園市桃園區永安路466號","business_week":"OOOOOOOOOOOOOOOOOOOXO","memo":"快篩實名制星期一~星期日早上8:30開賣，賣完為止，謝謝!"},
 {"lng":"121.3107","lat":"24.99424","name":"五代全民藥局","id":"5932018548","tel":"033355001","addr":"桃園市桃園區中山路九十七號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"快篩購買時間08:00起"},
 {"lng":"121.311821","lat":"24.982609","name":"品一藥局","id":"5932018593","tel":"033638510","addr":"桃園市桃園區建新街76號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.3172","lat":"25.01231","name":"均安藥局","id":"5932018940","tel":"033581695","addr":"桃園市桃園區寶山街61號","business_week":"OOXOOOXOOXOOOXOOXOOXX","memo":"實名制快篩營業時段可買"},
