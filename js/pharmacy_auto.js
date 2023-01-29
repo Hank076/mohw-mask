@@ -379,6 +379,7 @@ locations = [
 {"lng":"121.5234","lat":"25.04061","name":"慶安藥局","id":"5901183396","tel":"0223582385","addr":"臺北市中正區徐州路26號","business_week":"OOOXOOXXXXXXOXOOOOOXX","memo":"快篩販售時間：◆週一到週三09:00 ◆週四17:00 ◆週五到週六09:00。"},
 {"lng":"121.5237","lat":"25.02236","name":"怡誠藥局","id":"5901183510","tel":"0223626905","addr":"臺北市中正區汀州路2段212號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.5116","lat":"25.02692","name":"達昌藥局","id":"5901183529","tel":"0223390109","addr":"臺北市中正區汀州路1段207號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"口罩配發時間 每日下午13:00開始"},
+{"lng":"121.5243","lat":"25.02189","name":"大愛生活藥局","id":"5901183645","tel":"0223661155","addr":"臺北市中正區汀州路2段232號","business_week":"OOOOOXOOOOOOXOOOOOOXO","memo":"下午14:30開始發放快篩（不發號碼牌直接買）~~不要太早開始排隊啊啊啊啊"},
 {"lng":"121.5184","lat":"25.02513","name":"佑康大藥局","id":"5901183789","tel":"0223683602","addr":"臺北市中正區汀州路2段115號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩隨時都能來買！阿妮亞萬歲"},
 {"lng":"121.5169","lat":"25.04448","name":"佳和藥局","id":"5901183798","tel":"0223117102","addr":"臺北市中正區黎明里公園路30號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"121.5096","lat":"25.0249","name":"進達健保藥局","id":"5901184071","tel":"0223039829","addr":"臺北市中正區中華路2段453號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
