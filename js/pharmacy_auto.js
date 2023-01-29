@@ -292,6 +292,7 @@ locations = [
 {"lng":"121.516637","lat":"25.117921","name":"川秀藥局","id":"5901160197","tel":"0228270702","addr":"臺北市北投區石牌路2段99巷9號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4668","lat":"25.11935","name":"新祥藥局","id":"5901160222","tel":"0228582551","addr":"臺北市北投區知行路208號-1","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩下午1:30分發放號碼牌，隨後依照號碼牌發售，周日休息"},
 {"lng":"121.4692","lat":"25.12843","name":"昌源藥局","id":"5901160286","tel":"0228928695","addr":"臺北市北投區中央北路4段485號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"121.4672","lat":"25.12134","name":"世全藥局","id":"5901160400","tel":"0228585378","addr":"臺北市北投區知行路273號","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"早0000-0100，午0000-0000晚17:30-2400"},
 {"lng":"121.5199","lat":"25.11231","name":"名山藥局","id":"5901160562","tel":"0228226101","addr":"臺北市北投區東陽街475號1樓","business_week":"OOOOOOXOOOOOXXOOXOOXX"},
 {"lng":"121.5015","lat":"25.13156","name":"明華藥局","id":"5901160704","tel":"0228971056","addr":"臺北市北投區清江路8號(實際使用:1樓)","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"實名制快篩上午9:00現場販售"},
 {"lng":"121.5196","lat":"25.1094","name":"美康藥局","id":"5901160802","tel":"0228281176","addr":"臺北市北投區明德路90號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"營業時間:10:30~22:00；13:30開始販售快篩"},
