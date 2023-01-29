@@ -1043,6 +1043,7 @@ locations = [
 {"lng":"120.215121","lat":"23.027304","name":"宜康安和藥局","id":"5905370448","tel":"062521250","addr":"臺南市安南區安和路一段68號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"1／21 - 1／24 營業時間AM10:00-PM:10:00"},
 {"lng":"120.2036","lat":"23.04256","name":"大樹北安藥局","id":"5905370466","tel":"062553633","addr":"臺南市安南區北安路三段158號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"","lat":"","name":"安中台安藥局","id":"5905370484","tel":"062470015","addr":"臺南市安南區北安路2段363之24號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.1719","lat":"22.99676","name":"安平藥局","id":"5905380051","tel":"062970551","addr":"臺南市安平區國平路566號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"年休1／22-1／29 慢箋處方箋領取.健康益友送藥到府.快篩早上9:00 開始.週日公休不營業."},
 {"lng":"120.1701","lat":"22.99098","name":"宜康永華藥局","id":"5905380097","tel":"062930119","addr":"臺南市安平區國平里永華路二段785號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩領取；每天午4點-22點，"},
 {"lng":"120.1793","lat":"22.99272","name":"信美藥局","id":"5905380140","tel":"062980142","addr":"臺南市安平區建平里平通路142號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.174","lat":"22.98438","name":"怡家藥局","id":"5905380239","tel":"062970519","addr":"臺南市安平區國平里華平路79號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"5／22週日早上8點加賣快篩，週一及六早0900~1100，週二、四、五晚1800~2000"},
