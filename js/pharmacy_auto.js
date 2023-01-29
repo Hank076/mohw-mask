@@ -2841,6 +2841,7 @@ locations = [
 {"lng":"120.88","lat":"24.68714","name":"快樂藥局","id":"5935040033","tel":"037474158","addr":"苗栗縣竹南鎮照南里中山路178號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.8795","lat":"24.68657","name":"和安藥局","id":"5935040257","tel":"037472332","addr":"苗栗縣竹南鎮竹南里博愛街15號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"快篩販售時段:上午8:00起至售完為止（周六到中午／日無）"},
 {"lng":"120.8741","lat":"24.68686","name":"鴻仁大藥局","id":"5935040266","tel":"037462396","addr":"苗栗縣竹南鎮竹南里博愛街181號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.8797","lat":"24.68677","name":"明志藥局","id":"5935040328","tel":"037472341","addr":"苗栗縣竹南鎮照南里博愛街4號","business_week":"OOOOOOXOOOOOOXOOOOOXO","memo":"快篩賣時間:早上6:30~22:00。週六，周日照常。"},
 {"lng":"120.879572","lat":"24.688741","name":"光復藥局","id":"5935040408","tel":"037476286","addr":"苗栗縣竹南鎮光復路216號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.8793","lat":"24.68492","name":"昇暉藥局","id":"5935041450","tel":"037464347","addr":"苗栗縣竹南鎮民治街18號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"120.8761","lat":"24.68696","name":"林新藥局","id":"5935041610","tel":"037471556","addr":"苗栗縣竹南鎮博愛街124號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
