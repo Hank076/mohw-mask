@@ -1611,7 +1611,7 @@ locations = [
 {"lng":"120.4506","lat":"23.48235","name":"聖安藥局","id":"5922012285","tel":"052222941","addr":"嘉義市東區仁武里民權路365號1樓","business_week":"OOOXOOOOOOXOOOOOOXOOO"},
 {"lng":"120.464","lat":"23.48889","name":"振安藥局","id":"5922012383","tel":"052756541","addr":"嘉義市東區王田里林森東路300號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩:周一至周日10:00開始販售，售完為止"},
 {"lng":"120.4663","lat":"23.47685","name":"維康藥局","id":"5922012392","tel":"052757663","addr":"嘉義市東區短竹里大雅路二段567號1樓","business_week":"OOOOOOOOOOOOOOOOOOOXX"},
-{"lng":"120.45531","lat":"23.49526","name":"德和藥局","id":"5922012552","tel":"052789940","addr":"嘉義市東區新生路703號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOO"},
+{"lng":"120.45531","lat":"23.49526","name":"德和藥局","id":"5922012552","tel":"052789940","addr":"嘉義市東區新生路703號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"星期日不定期支援機構 支援時無法對外營業"},
 {"lng":"120.45095","lat":"23.500299","name":"保健藥局","id":"5922012669","tel":"052712959","addr":"嘉義市東區義教里保建街161號","business_week":"OOOOOOXOOOOOXXXXXXXXX"},
 {"lng":"120.455484","lat":"23.469317","name":"誠泰藥師藥局","id":"5922012712","tel":"052168905","addr":"嘉義市東區安寮里興業東路56號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.4571","lat":"23.47653","name":"民族弘安藥局","id":"5922012856","tel":"052240101","addr":"嘉義市東區朝陽里民族路165號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"周一至周日快篩早上08:00開始販售快篩，至售完為止."},
