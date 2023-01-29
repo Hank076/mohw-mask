@@ -370,6 +370,7 @@ locations = [
 {"lng":"121.5303","lat":"25.01654","name":"中心藥局","id":"5901180224","tel":"0223689889","addr":"臺北市中正區汀州路3段121號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩實名制目前0-6歲兒童，第六輪（12月份）可免費領取一盒；65歲以上，第四輪（12月份）可免費領取一盒"},
 {"lng":"121.527","lat":"25.03545","name":"祥全藥局","id":"5901180304","tel":"0223939339","addr":"臺北市中正區信義路2段79巷15-8號1F","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期一至六下午2點開始賣快篩試劑"},
 {"lng":"121.5174","lat":"25.03086","name":"南昌大藥局","id":"5901180322","tel":"0223510322","addr":"臺北市中正區南昌路1段86號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"121.5068","lat":"25.02999","name":"永興藥局","id":"5901182068","tel":"0223050986","addr":"臺北市中正區汀州路1段92巷28號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.53","lat":"25.01673","name":"東華藥局","id":"5901182111","tel":"0223640852","addr":"臺北市中正區汀州路3段113號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期日店休   星期一至星期六 下午15點開始販售快篩試劑"},
 {"lng":"121.5129","lat":"25.04221","name":"合泰大藥局","id":"5901182228","tel":"0223899977","addr":"臺北市中正區衡陽路26號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩代售時間自09:00；現場排隊"},
 {"lng":"121.5234","lat":"25.04061","name":"慶安藥局","id":"5901183396","tel":"0223582385","addr":"臺北市中正區徐州路26號","business_week":"OOOXOOXXXXXXOXOOOOOXX","memo":"快篩販售時間：◆週一到週三09:00 ◆週四17:00 ◆週五到週六09:00。"},
