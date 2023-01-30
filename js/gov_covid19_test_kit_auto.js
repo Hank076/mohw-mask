@@ -295,7 +295,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.488916","lat":"25.080276","name":"健福診所","id":"3531025610","tel":"0289851660","addr":"新北市三重區溪尾街171號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"1／21、4／5、6／22、9／29僅上午看診"},
 {"lng":"121.490831","lat":"25.084696","name":"惟新診所","id":"3531025674","tel":"0228572559","addr":"新北市三重區五華街145號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.496547","lat":"25.06624","name":"益安診所","id":"3531025861","tel":"0289828775","addr":"新北市三重區正義北路152號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"1／21、4／5、6／22、9／29僅上午看診"},
-{"lng":"121.493291","lat":"25.081921","name":"宏生診所","id":"3531025889","tel":"0229819948","addr":"新北市三重區五華街72號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"1／1看診半天，1／21除夕看診半天，1／22~1／25休診"},
+{"lng":"121.493291","lat":"25.081921","name":"宏生診所","id":"3531025889","tel":"0229819948","addr":"新北市三重區五華街72號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"2／28為國定假日休診一天"},
 {"lng":"121.495659","lat":"25.069716","name":"介壽耳鼻喉科診所","id":"3531025987","tel":"0229810089","addr":"新北市三重區正義北路255號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.476844","lat":"25.069638","name":"大有診所","id":"3531026233","tel":"0229834567","addr":"新北市三重區中正北路374號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"1／21上午看診1／22-24春節期間休診1／25上午看診"},
 {"lng":"121.494617","lat":"25.071697","name":"華貞診所","id":"3531026288","tel":"0229716626","addr":"新北市三重區三和路三段80號","business_week":"OOOOOOXOXXXOXXOOOOOXX","memo":"1／21、4／5、6／22、9／29僅上午看診"},
