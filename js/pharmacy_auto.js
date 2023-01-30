@@ -2558,6 +2558,7 @@ locations = [
 {"lng":"121.2975","lat":"25.01898","name":"聖昌藥師藥局","id":"5932012402","tel":"033266654","addr":"桃園市桃園區莊敬里中正路1238號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.3067","lat":"24.99277","name":"禾安連鎖藥局","id":"5932012457","tel":"033318966","addr":"桃園市桃園區中山路254號","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"營業時間: 星期一~五 08:30~21:00 星期六&日 08:30~16:00"},
 {"lng":"121.3141","lat":"24.98537","name":"吉生藥局","id":"5932012493","tel":"033626220","addr":"桃園市桃園區延平路32號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.2948","lat":"24.96505","name":"悅藥坊人文藥局","id":"5932012573","tel":"033761688","addr":"桃園市桃園區桃智路6號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩若有到貨，販售時段為：（一）~（六）17:00-19:00；（日）中午12:30"},
 {"lng":"121.3104","lat":"24.99586","name":"美德藥師藥局","id":"5932012671","tel":"033354160","addr":"桃園市桃園區中正路230號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩販售時間下午01:00開始"},
 {"lng":"121.2887","lat":"24.99146","name":"益兒康藥局","id":"5932012742","tel":"033798851","addr":"桃園市桃園區國際路二段40號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"實名制快篩販售時間:周一至周六08:00開始販售，售完為止"},
 {"lng":"121.298427","lat":"25.011825","name":"桃園大興藥局","id":"5932012813","tel":"033013222","addr":"桃園市桃園區大興西路二段76巷3號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
