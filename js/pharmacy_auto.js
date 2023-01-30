@@ -1986,6 +1986,7 @@ locations = [
 {"lng":"121.5075","lat":"25.01393","name":"保安藥局","id":"5931033363","tel":"0229277623","addr":"新北市永和區保安路212號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩販售時間 09:00-12:00，15:00-18:00，19:00-21:30"},
 {"lng":"121.5122","lat":"25.00749","name":"常安中西藥局","id":"5931033461","tel":"0229283530","addr":"新北市永和區保平路26號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"有實名制快篩 不分單雙號"},
 {"lng":"121.524378","lat":"24.999302","name":"大欣安藥局","id":"5931033541","tel":"0229450808","addr":"新北市永和區得和路370號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間9:00~22:00"},
+{"lng":"121.5073","lat":"25.00839","name":"悅美保健藥局","id":"5931033578","tel":"0222323515","addr":"新北市永和區保生路22巷21號1樓","business_week":"OOOOOXXOOOOOOXOOOOOOX","memo":"周一至周六 上午11點到晚上10點（周六下午一點開始）"},
 {"lng":"121.5209","lat":"25.00911","name":"安安藥局","id":"5931033603","tel":"0289263651","addr":"新北市永和區竹林路203號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"09:00-22:00"},
 {"lng":"121.517541","lat":"24.998052","name":"敦品民治藥局","id":"5931033649","tel":"0229494150","addr":"新北市永和區民治街81號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩下午2點-4點半現場購買"},
 {"lng":"121.515","lat":"25.00699","name":"九州藥局","id":"5931033676","tel":"0229226879","addr":"新北市永和區自由街5號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
