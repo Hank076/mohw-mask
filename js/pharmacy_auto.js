@@ -2831,6 +2831,7 @@ locations = [
 {"lng":"121.2958","lat":"24.95941","name":"成大藥局","id":"5932084622","tel":"033661575","addr":"桃園市八德區廣福路141號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.2999","lat":"24.96304","name":"嘉家藥局","id":"5932084640","tel":"033749192","addr":"桃園市八德區介壽路一段782號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩領取時間以當天到貨狀況為主"},
 {"lng":"121.2958","lat":"24.93121","name":"奕成健保大藥局","id":"5932084668","tel":"033732113","addr":"桃園市八德區興豐路673號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上10:30發放39份、晚上9:30發放39份  （六、日無放快篩）"},
+{"lng":"121.3003","lat":"24.96305","name":"杏一八德介壽藥局","id":"5932084677","tel":"033665542","addr":"桃園市八德區介壽路一段771號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"假日及國定假日不賣快篩.平日9-17 開始賣"},
 {"lng":"121.2971","lat":"24.95494","name":"康馥藥局","id":"5932084695","tel":"033749620","addr":"桃園市八德區金和路53號1樓","business_week":"OOOOOXXOOOOOXOOOOOOXO","memo":"口罩販賣時段：15:00 ， 週日14:30開始營業；星期六公休。"},
 {"lng":"121.295","lat":"24.92466","name":"元冠大藥局","id":"5932084739","tel":"033657868","addr":"桃園市八德區豐德路17號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"固定販售時間 早上8:00 發號碼牌 發完為止 感謝您"},
 {"lng":"121.2992","lat":"24.95842","name":"井三原健保藥局","id":"5932084748","tel":"032184078","addr":"桃園市八德區介壽路1段956號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩週一至週六販售，週日不販售，實際庫存依現場為主"},
