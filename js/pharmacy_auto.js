@@ -3268,7 +3268,7 @@ locations = [
 {"lng":"120.5399","lat":"24.07555","name":"康橋藥局","id":"5937013150","tel":"047278288","addr":"彰化縣彰化市民族路429號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.5483","lat":"24.09616","name":"彰化啄木鳥藥局","id":"5937013196","tel":"047330661","addr":"彰化縣彰化市茄南里金馬路2段27號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.545172","lat":"24.085797","name":"全成藥局","id":"5937013230","tel":"047263018","addr":"彰化縣彰化市民生里三民路320號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩 早上0900~晚上2100《售完為止，庫存以現場為準》"},
-{"lng":"120.5385","lat":"24.08752","name":"大仁藥局","id":"5937013285","tel":"047282678","addr":"彰化縣彰化市忠孝里辭修路80號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"2月份5.12.19.26休診"},
+{"lng":"120.5385","lat":"24.08752","name":"大仁藥局","id":"5937013285","tel":"047282678","addr":"彰化縣彰化市忠孝里辭修路80號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"2月份5.12.19.26休診4.18.晚上休診11.25.下午晚上休診"},
 {"lng":"120.5361","lat":"24.073","name":"彰安藥局","id":"5937013338","tel":"047281095","addr":"彰化縣彰化市彰安里曉陽路235號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩"},
 {"lng":"120.5322","lat":"24.07063","name":"康禾藥局","id":"5937013347","tel":"047624077","addr":"彰化縣彰化市崙平里建和街52號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"快篩試劑週一到週五早上9點到下午6點售完為止"},
 {"lng":"120.5406","lat":"24.07783","name":"大心藥局","id":"5937013383","tel":"047282797","addr":"彰化縣彰化市中央里民族路517號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"星期日公休"},
