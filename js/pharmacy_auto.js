@@ -210,6 +210,7 @@ locations = [
 {"lng":"121.5259","lat":"25.06703","name":"晏晟藥局","id":"5901101161","tel":"0225851445","addr":"臺北市中山區林森北路625號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.548838","lat":"25.082728","name":"大直藥局","id":"5901101205","tel":"0225320522","addr":"臺北市中山區北安路617號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.523274","lat":"25.051364","name":"美日藥局","id":"5901101250","tel":"0225631662","addr":"臺北市中山區天津街66號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"121.5401","lat":"25.06607","name":"文德藥局","id":"5901101321","tel":"0225181178","addr":"臺北市中山區龍江路356巷19號1樓","business_week":"XXXXXXXOOOOOOXOOOOOOX"},
 {"lng":"121.5483","lat":"25.08192","name":"永直藥局","id":"5901101509","tel":"0285098059","addr":"臺北市中山區北安路595巷2弄6號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"（現場販售）周一至周六下午2點到晚上8點，周日不販售"},
 {"lng":"121.531711","lat":"25.054728","name":"展佑藥局","id":"5901101536","tel":"0225232803","addr":"臺北市中山區長春路146-1號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5391","lat":"25.05845","name":"蓁榛健康生活藥局","id":"5901101607","tel":"0225099333","addr":"臺北市中山區合江街100-2號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"實名制快篩每日（周一至周日）早上11:00開始販售"},
