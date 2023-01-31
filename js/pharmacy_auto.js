@@ -2123,6 +2123,7 @@ locations = [
 {"lng":"121.5095","lat":"24.99025","name":"躍獅天晴藥局","id":"5931044580","tel":"0229491931","addr":"新北市中和區和平街9號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5109","lat":"24.99733","name":"奕采藥局","id":"5931044624","tel":"0229429770","addr":"新北市中和區宜安路77號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一至週六09:00~22:00販售實名制快篩（週日停售）"},
 {"lng":"121.5133","lat":"25.00397","name":"貞心藥局","id":"5931044642","tel":"0229203865","addr":"新北市中和區永貞路280之1號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.4998","lat":"24.99183","name":"以法蓮藥局","id":"5931044679","tel":"0222438983","addr":"新北市中和區中興街154號1樓","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"實名制快篩下午3點開始過卡販售，不發號碼牌直接排隊，每人限持一卡（任何異動依現場公告為準）"},
 {"lng":"121.5001","lat":"24.99102","name":"惠民藥局","id":"5931044704","tel":"0222475303","addr":"新北市中和區中興街153號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"121.4817","lat":"25.00103","name":"民樂健保藥局","id":"5931044768","tel":"0222228999","addr":"新北市中和區民樂路2號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"13:30-16:00.21:30-22；00"},
 {"lng":"121.4777","lat":"25.00531","name":"皇秦大藥局","id":"5931044802","tel":"0222269636","addr":"新北市中和區中山路3段39之1號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
