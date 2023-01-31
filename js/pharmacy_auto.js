@@ -3099,6 +3099,7 @@ locations = [
 {"lng":"120.653159","lat":"24.441045","name":"德徽藥局","id":"5935021207","tel":"037869253","addr":"苗栗縣苑裡鎮南興路125號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩發售時間:星期一~六早上9點~售完為止"},
 {"lng":"120.65524","lat":"24.440862","name":"永信藥師藥局","id":"5935021261","tel":"037857069","addr":"苗栗縣苑裡鎮和平路72-1號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.6546","lat":"24.44612","name":"國豐藥師藥局","id":"5935021323","tel":"037866516","addr":"苗栗縣苑裡鎮苑北里2鄰天下路186號","business_week":"XXXXXXXOOOOOOOOOOOOOO","memo":"營業時間內都可領快篩 請自備剛好金額"},
+{"lng":"120.6532","lat":"24.44033","name":"安康藥局","id":"5935021403","tel":"037856591","addr":"苗栗縣苑裡鎮新興路78號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"快篩試劑星期一至六08:00開始販售，售完為止，星期日休息。"},
 {"lng":"120.654","lat":"24.44252","name":"信和大心藥局","id":"5935021412","tel":"037861352","addr":"苗栗縣苑裡鎮為公路34-3號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間皆有販售"},
 {"lng":"120.6561","lat":"24.44071","name":"苑裡啄木鳥藥局","id":"5935021421","tel":"037854589","addr":"苗栗縣苑裡鎮世界路一段25號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"各醫院診所慢性處方箋、牙科處方皆可免費領藥，全年無休。"},
 {"lng":"120.6541","lat":"24.44247","name":"苑裡藥局","id":"5935021430","tel":"037851331","addr":"苗栗縣苑裡鎮為公路32-1號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
