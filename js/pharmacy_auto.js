@@ -120,6 +120,7 @@ locations = [
 {"lng":"121.5465","lat":"25.04833","name":"杏一台北台安藥局","id":"5901013700","tel":"0287728295","addr":"臺北市松山區八德路2段399號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制販售時間為每天下午15:00，開賣前10分鐘發放號碼牌，售完為止"},
 {"lng":"121.5601","lat":"25.05878","name":"大樹松山藥局","id":"5901013719","tel":"0227562226","addr":"臺北市松山區民生東路5段107號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.546812","lat":"25.053739","name":"康麗藥局","id":"5901013728","tel":"0227174117","addr":"臺北市松山區南京東路3段303巷20號(1樓)","business_week":"OOOOOXXOOOOOOXOOOOOOX"},
+{"lng":"121.5442","lat":"25.05104","name":"全欣藥局","id":"5901013737","tel":"0287729066","addr":"臺北市松山區復興北路73號2樓","business_week":"OOOOOOXOOOOOXOOOOOOXX"},
 {"lng":"","lat":"","name":"富景藥局","id":"5901013746","tel":"0227455666","addr":"臺北市松山區三民路145號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5461","lat":"25.03619","name":"宏恩藥局","id":"5901020303","tel":"0227000956","addr":"臺北市大安區大安路1段181號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"1月20日及1月30.31日，營業時間10:00~18:00"},
 {"lng":"121.5429","lat":"25.02254","name":"靜園藥局","id":"5901020376","tel":"0227336390","addr":"臺北市大安區和平東路2段118巷57之1號","business_week":"OOOOOXXOOOOOOOOOOOOOO","memo":"實名制快篩每日下午2:00開始代售，售完為止"},
