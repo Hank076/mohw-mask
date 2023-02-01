@@ -2526,6 +2526,7 @@ locations = [
 {"lng":"121.379406","lat":"25.082933","name":"一家好藥局","id":"5931171680","tel":"0226028270","addr":"新北市林口區中山路500號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.3695","lat":"25.0713","name":"榮新藥局","id":"5931171706","tel":"0226089789","addr":"新北市林口區忠孝路383號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.3695","lat":"25.07226","name":"林康藥局","id":"5931171724","tel":"0226088869","addr":"新北市林口區文化二路1段222號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"121.3894","lat":"25.07908","name":"長欣藥局","id":"5931171733","tel":"0226013171","addr":"新北市林口區中山路188號1樓之3","business_week":"OOOOOOXOOOOOXXXXOXOXX","memo":"快篩開賣時間早上9點10分 周日公休 端午節6／3.6／4營業至中午12點"},
 {"lng":"121.376785","lat":"25.071508","name":"唯恩藥局","id":"5931171742","tel":"0226005805","addr":"新北市林口區麗園一街9巷1號1樓之2","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.3708","lat":"25.07028","name":"全球忠孝藥局","id":"5931171779","tel":"0226092139","addr":"新北市林口區忠孝路497號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間:9:00-22:00"},
 {"lng":"121.3653","lat":"25.07438","name":"力行藥局","id":"5931171813","tel":"0226080711","addr":"新北市林口區文化3路1段423、425號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
