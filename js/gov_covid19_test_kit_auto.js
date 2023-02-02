@@ -204,7 +204,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.979828","lat":"24.807053","name":"林安復耳鼻喉科診所","id":"3512010126","tel":"035355890","addr":"新竹市東區中華路二段159號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.973597","lat":"24.808684","name":"彭耳鼻喉科診所","id":"3512011132","tel":"035428888","addr":"新竹市東區中央路195號","business_week":"OOOOOOOOOOOOOXOOOOOXX"},
 {"lng":"120.977604","lat":"24.808036","name":"廖明厚小兒科診所","id":"3512011150","tel":"035316665","addr":"新竹市東區民族路130號","business_week":"OOOOOOXOOOXOOXOOOOOXX","memo":"急 門診 特休日早上看診 107年9月起星期四下午休診"},
-{"lng":"120.998682","lat":"24.795555","name":"英慈耳鼻喉科診所","id":"3512011356","tel":"035722846","addr":"新竹市東區立功里光復路二段308號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"1月2日上午有門診。"},
+{"lng":"120.998682","lat":"24.795555","name":"英慈耳鼻喉科診所","id":"3512011356","tel":"035722846","addr":"新竹市東區立功里光復路二段308號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"2／25， 2／27 與2／28 都有上午門診。"},
 {"lng":"120.994977","lat":"24.801621","name":"城佑耳鼻喉科診所","id":"3512013010","tel":"035748329","addr":"新竹市東區建中路59號","business_week":"OOOOOOOOOOXOXOOOOOOXX"},
 {"lng":"121.017581","lat":"24.783526","name":"謝德貴兒童診所","id":"3512013645","tel":"036686666","addr":"新竹市東區光復路一段360-2號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"12／31上午開診.1／2上午開診下午開診晚上開診"},
 {"lng":"121.0026186","lat":"24.7805151","name":"新竹科學工業園區員工診所","id":"3512013681","tel":"036669996","addr":"新竹市東區科園里工業東二路2號","business_week":"OOOOOXXOOOOOXXXXXXXXX"},
