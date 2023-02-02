@@ -3903,6 +3903,7 @@ locations = [
 {"lng":"120.258","lat":"23.02602","name":"和康藥局","id":"5941312166","tel":"062325144","addr":"臺南市永康區永康里中山北路32號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.2324","lat":"23.00858","name":"大正藥局","id":"5941312308","tel":"063021599","addr":"臺南市永康區中華二路298號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售時間：星期一~星期日 08:00-售完為止"},
 {"lng":"120.2501","lat":"22.9985","name":"仁杏藥師藥局","id":"5941312460","tel":"062731702","addr":"臺南市永康區復興路11號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"120.247205","lat":"23.014913","name":"仙輝藥局","id":"5941312504","tel":"062030188","addr":"臺南市永康區復華七街92號1樓","business_week":"OOOOOXOOOOOOXOOOOOOXO"},
 {"lng":"120.222183","lat":"23.020181","name":"維康藥局奇美店","id":"5941312540","tel":"062814441","addr":"臺南市永康區正新街65號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"實名制快篩販賣時間:週一至週五08:00-17:00 （售完為止） ／ 12:00-13:30休息，週六09:00-12:00，週日不販售。"},
 {"lng":"120.2678","lat":"23.00756","name":"麗生藥師藥局","id":"5941312577","tel":"062737099","addr":"臺南市永康區大灣路280號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午14:30-16:00兌換快篩"},
 {"lng":"120.2369","lat":"23.01122","name":"北安藥局","id":"5941312586","tel":"063024933","addr":"臺南市永康區中山東路226號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
