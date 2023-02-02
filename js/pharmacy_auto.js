@@ -3342,6 +3342,7 @@ locations = [
 {"lng":"120.4324","lat":"24.05808","name":"杏文藥局","id":"5937021769","tel":"047766326","addr":"彰化縣鹿港鎮順興里中山路354號1樓","business_week":"OOOOOOXXXXXXXXOOOOOXX","memo":"口罩販賣時間:早上08:00現場排隊，不發號碼牌。"},
 {"lng":"120.4372","lat":"24.05799","name":"中山藥局","id":"5937021778","tel":"047750686","addr":"彰化縣鹿港鎮永安里復興路362號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.4353","lat":"24.05296","name":"新永吉藥局","id":"5937021821","tel":"047770940","addr":"彰化縣鹿港鎮中山路127號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.4405","lat":"24.05491","name":"大樹鹿港藥局","id":"5937021849","tel":"047772226","addr":"彰化縣鹿港鎮中正路193號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.4377","lat":"24.05747","name":"柚子藥局","id":"5937021858","tel":"047785066","addr":"彰化縣鹿港鎮復興路338號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週一至周六 8:30 開始販售，星期天休息"},
 {"lng":"120.4359","lat":"24.05718","name":"康好藥局鹿港店","id":"5937021885","tel":"047772877","addr":"彰化縣鹿港鎮民權路134號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.436705","lat":"24.056028","name":"淳安藥局","id":"5937021894","tel":"047783989","addr":"彰化縣鹿港鎮民族路53號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"星期一至星期六早上8:30發售，售完為止"},
