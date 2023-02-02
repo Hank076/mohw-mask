@@ -3757,6 +3757,7 @@ locations = [
 {"lng":"120.4566","lat":"23.60291","name":"光佑藥局","id":"5940031340","tel":"052649239","addr":"嘉義縣大林鎮東林里平和街31之3號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"周一至周六0800-2100周日0800-1200"},
 {"lng":"120.4613","lat":"23.60269","name":"家寶藥局","id":"5940031359","tel":"052649000","addr":"嘉義縣大林鎮平林里中興路264號","business_week":"OOOOOOXOOXOOXXOOXOOXX","memo":"08:00~售罄"},
 {"lng":"120.4527","lat":"23.60447","name":"大樹大林藥局","id":"5940031386","tel":"052641800","addr":"嘉義縣大林鎮祥和路192號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.4528","lat":"23.60129","name":"信沅中西藥局","id":"5940031402","tel":"052656377","addr":"嘉義縣大林鎮西林里011鄰中正路420號","business_week":"XXXXXXXXXXXXXXOOOOOOO"},
 {"lng":"120.4313","lat":"23.55643","name":"七星藥局","id":"5940040045","tel":"052261977","addr":"嘉義縣民雄鄉東榮村中樂路16號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.466","lat":"23.50698","name":"昇平藥局","id":"5940040063","tel":"052206835","addr":"嘉義縣民雄鄉大崎村十四甲18-7號","business_week":"OOOOOXXOOOOOOOOOOOOOO"},
 {"lng":"120.4413","lat":"23.52544","name":"惠民藥局","id":"5940040081","tel":"052211466","addr":"嘉義縣民雄鄉福樂村埤角102號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
