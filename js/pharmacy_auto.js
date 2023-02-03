@@ -1899,6 +1899,7 @@ locations = [
 {"lng":"121.4618","lat":"25.01025","name":"中山大藥局","id":"5931012131","tel":"0229575029","addr":"新北市板橋區中山路1段107號","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"口罩配發時間.星期一~六早上9點開始.星期日下午1點開始"},
 {"lng":"121.456334","lat":"25.005318","name":"南雅藥局","id":"5931012140","tel":"0222725358","addr":"新北市板橋區南雅南路1段5巷22號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩全天皆有販售 08:00~23:00"},
 {"lng":"121.4789","lat":"25.0142","name":"信昌藥局","id":"5931012239","tel":"0229510784","addr":"新北市板橋區三民路2段202-9號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"防疫快篩依據每天到貨時間，另行公告"},
+{"lng":"121.4613","lat":"25.02851","name":"谷全藥局","id":"5931013389","tel":"0222561856","addr":"新北市板橋區裕民街49號","business_week":"OOOOOOOOOOOOXXOOOOOOX"},
 {"lng":"121.4632","lat":"25.0009","name":"擎天藥局","id":"5931013441","tel":"0289525981","addr":"新北市板橋區重慶路235號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"每日早上9點開始賣快篩"},
 {"lng":"121.4622","lat":"25.02879","name":"富盛藥局","id":"5931013478","tel":"0222596016","addr":"新北市板橋區四維路291巷4弄24號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩試劑.早上9點販售預防群聚 滾動式調整時間.請勿打電話詢問.謝謝"},
 {"lng":"121.4604","lat":"25.002","name":"合泰藥局","id":"5931013692","tel":"0229572437","addr":"新北市板橋區忠孝路19號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
