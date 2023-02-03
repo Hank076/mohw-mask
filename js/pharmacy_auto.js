@@ -3667,6 +3667,7 @@ locations = [
 {"lng":"120.4367","lat":"23.70816","name":"新生松藥局","id":"5939032144","tel":"056326562","addr":"雲林縣虎尾鎮民生路37-5號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"實名制快篩販賣時間:周一到周五早上9:30販賣，周六，日休息"},
 {"lng":"120.4289","lat":"23.70476","name":"惠眾藥局","id":"5939032546","tel":"056363350","addr":"雲林縣虎尾鎮林森路二段169號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日販售，售完為止"},
 {"lng":"120.4343","lat":"23.70917","name":"福瑞藥局","id":"5939032555","tel":"056365190","addr":"雲林縣虎尾鎮仁愛路90號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
+{"lng":"120.43","lat":"23.70645","name":"林森瑞安藥局","id":"5939032564","tel":"056328034","addr":"雲林縣虎尾鎮林森路二段89號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.432","lat":"23.70698","name":"林藥師藥局","id":"5939032626","tel":"056334135","addr":"雲林縣虎尾鎮中正路207號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.4306","lat":"23.70567","name":"康是美虎尾藥局","id":"5939032644","tel":"056328411","addr":"雲林縣虎尾鎮中正路258.258-1號","business_week":"XXXXXXXOOOOOOOOOOOOOO"},
 {"lng":"120.4387","lat":"23.71498","name":"林森啄木鳥藥局","id":"5939032715","tel":"056320417","addr":"雲林縣虎尾鎮明正東路8號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售時間：早上9點~售完為止。周末（六、日）無販售"},
