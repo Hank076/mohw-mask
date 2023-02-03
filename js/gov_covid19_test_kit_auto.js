@@ -192,7 +192,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.785946","lat":"25.135677","name":"博群診所","id":"3511010702","tel":"0224601356","addr":"基隆市中正區新豐街446號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.795815","lat":"25.139437","name":"八斗子診所","id":"3511012117","tel":"0224698789","addr":"基隆市中正區北寧路378之1號2樓","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"121.760744","lat":"25.142776","name":"安瀾診所","id":"3511012224","tel":"0224623389","addr":"基隆市中正區中正路197號","business_week":"OOOOOOXXXXXXOXOOOOOXX","memo":"2／12（星期日）開上午門診."},
-{"lng":"121.712748","lat":"25.095765","name":"紀醫師診所","id":"3511020226","tel":"0224551482","addr":"基隆市七堵區開元路83號","business_week":"OOOOOOOOOOOOXOOOOOOXX","memo":"1／21除夕上午看診11點半，1／22~24春節連假休診，1／25正常上班"},
+{"lng":"121.712748","lat":"25.095765","name":"紀醫師診所","id":"3511020226","tel":"0224551482","addr":"基隆市七堵區開元路83號","business_week":"OOOOOOOOOOOOXOOOOOOXX","memo":"2／25~2／28連假，2／28晚上休診，其他時段正常看診"},
 {"lng":"121.695477","lat":"25.081966","name":"西華診所","id":"3511020333","tel":"0224512942","addr":"基隆市七堵區百三街29號","business_week":"OOOOOOXOOOOOOXOOOXOXX"},
 {"lng":"121.715813","lat":"25.098154","name":"泰安內科診所","id":"3511021572","tel":"0224552305","addr":"基隆市七堵區明德一路93號","business_week":"OOOOOOXOOOOOOXOXOXOXX","memo":"固定休周日，其餘全年無休。"},
 {"lng":"121.757513","lat":"25.099426","name":"碇內診所","id":"3511031247","tel":"0224595878","addr":"基隆市暖暖區源遠路323號","business_week":"OOOOOOOOOOOOOXOOOOOXX"},
