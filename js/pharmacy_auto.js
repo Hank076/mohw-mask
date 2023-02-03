@@ -2782,6 +2782,7 @@ locations = [
 {"lng":"121.147167","lat":"24.908299","name":"天乙藥局","id":"5932042866","tel":"034756916","addr":"桃園市楊梅區新成路201號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"周一至周六早上8:00開始販售實名制快篩，週日不販售，請自備零錢"},
 {"lng":"121.1841","lat":"24.91921","name":"埔心藥局","id":"5932043121","tel":"034311539","addr":"桃園市楊梅區永美路225號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.157111","lat":"24.910052","name":"宜康美藥局","id":"5932043130","tel":"034883805","addr":"桃園市楊梅區環東路452號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販賣時段：早上09:30~10:30（20份）下午15:30~16:30（38份）晚上19:30~20:30（20份）"},
+{"lng":"121.144932","lat":"24.913408","name":"資生楊梅大藥局","id":"5932043309","tel":"032889590","addr":"桃園市楊梅區楊新路100號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"每日快篩代售時間14:00-17:00"},
 {"lng":"121.179692","lat":"24.914883","name":"全球埔心大藥局","id":"5932043327","tel":"034824839","addr":"桃園市楊梅區永美路395號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.1458","lat":"24.91148","name":"楊梅藥局","id":"5932043336","tel":"034880776","addr":"桃園市楊梅區大成路148、150號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.174","lat":"24.92149","name":"樂健烘焙藥局","id":"5932043363","tel":"034965428","addr":"桃園市楊梅區青山一街135號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
