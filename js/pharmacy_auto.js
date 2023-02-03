@@ -1357,6 +1357,7 @@ locations = [
 {"lng":"120.3205","lat":"22.66711","name":"新高橋藥局天祥店","id":"5907320179","tel":"073102683","addr":"高雄市三民區天祥一路117號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售到晚上10:00售完為止"},
 {"lng":"120.3273","lat":"22.65994","name":"明誠藥局","id":"5907320259","tel":"073108636","addr":"高雄市三民區明誠一路172號","business_week":"OOOOOOOOOOOOOXOOOOOOO"},
 {"lng":"120.3461","lat":"22.64438","name":"新高橋藥局澄清店","id":"5907320295","tel":"073815186","addr":"高雄市三民區澄和路2號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午1:30開始販售口罩"},
+{"lng":"120.322607","lat":"22.660458","name":"新高橋藥局明誠店","id":"5907320302","tel":"073107072","addr":"高雄市三民區明誠一路492號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午2:30開始販售"},
 {"lng":"120.322","lat":"22.65771","name":"聖一健保藥局","id":"5907320375","tel":"073959300","addr":"高雄市三民區鼎山街363號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.3173","lat":"22.6478","name":"東京藥局","id":"5907320428","tel":"073874567","addr":"高雄市三民區建工路685號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售時間: 每日10:00-晚上20:00"},
 {"lng":"120.325311","lat":"22.669284","name":"金鼎大藥局","id":"5907320437","tel":"073473271","addr":"高雄市三民區鼎力路376及378號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"販售時間依到貨時間決定"},
