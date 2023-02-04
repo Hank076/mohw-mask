@@ -537,7 +537,7 @@ locations = [
 {"lng":"121.5003","lat":"25.02626","name":"萬華藥局","id":"5901192975","tel":"0223012221","addr":"臺北市萬華區萬大路248號實際營業地址1樓、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5006","lat":"25.02649","name":"榮勝藥局","id":"5901193070","tel":"0223331121","addr":"臺北市萬華區萬大路233號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5016","lat":"25.04017","name":"安誠貴陽藥局","id":"5901193105","tel":"0223812190","addr":"臺北市萬華區貴陽街2段148號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
-{"lng":"121.5034","lat":"25.04152","name":"千誠北護藥局","id":"5901193123","tel":"0223123530","addr":"臺北市萬華區內江街114號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.5034","lat":"25.04152","name":"千誠北護藥局","id":"5901193123","tel":"0223123530","addr":"臺北市萬華區內江街114號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.4988","lat":"25.03543","name":"日森人文藥局","id":"5901193150","tel":"0223082100","addr":"臺北市萬華區和平西路3段149號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5017","lat":"25.02944","name":"柏祥藥局","id":"5901193169","tel":"0223018272","addr":"臺北市萬華區西藏路141號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5064","lat":"25.02708","name":"正盛藥局","id":"5901193221","tel":"0223050386","addr":"臺北市萬華區中華路2段434-1號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"【自費快篩+血氧機到貨!!】1.目前人潮【少】:【全天候隨到隨買】"},
