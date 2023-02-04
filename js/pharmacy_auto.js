@@ -2741,6 +2741,7 @@ locations = [
 {"lng":"121.258869","lat":"24.973884","name":"福德藥局","id":"593202A360","tel":"034511208","addr":"桃園市中壢區福德路30號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時段：8:00~"},
 {"lng":"121.2318","lat":"24.95388","name":"君安藥局","id":"593202A833","tel":"034685484","addr":"桃園市中壢區中北路二段390號","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"快篩販售，週一至週五8:30-12:00，15:00-21:30，週六8:30-12:00，15:00-18:00，週日8:30-12:00"},
 {"lng":"121.2573","lat":"24.96345","name":"佳佑藥局","id":"593202A931","tel":"034356190","addr":"桃園市中壢區環中東路二四一號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩販賣時段：09:00以後發號碼牌，售完為止"},
+{"lng":"121.2255","lat":"24.95742","name":"幸福藥局","id":"593202B054","tel":"034223092","addr":"桃園市中壢區中光路3號","business_week":"OXXOXOOOOXOOOXOOXOOXX","memo":"口罩販賣時段：六日一三8:30~售完為止 \/二五14:30~售完為止\/四10:00~售完為止"},
 {"lng":"121.2277","lat":"24.95526","name":"健康生活藥局","id":"593202B349","tel":"034272729","addr":"桃園市中壢區中山路二五號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩8:30"},
 {"lng":"121.166994","lat":"24.95824","name":"永豐藥局","id":"593202B394","tel":"034205339","addr":"桃園市中壢區民族路五段四六O號","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"快篩販賣時段：隨到隨賣，售完為止!9／1起0-6歲，65歲可免費領取一份!"},
 {"lng":"121.2611","lat":"24.96974","name":"佳音健保藥局","id":"593202B401","tel":"034516813","addr":"桃園市中壢區興仁路一段144號2樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩販賣時段：全天"},
