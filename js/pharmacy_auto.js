@@ -151,6 +151,7 @@ locations = [
 {"lng":"121.5415","lat":"25.02493","name":"好安心藥局","id":"5901024114","tel":"0223772166","addr":"臺北市大安區和平東路2段98之2號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.5389","lat":"25.04188","name":"誠心藥局","id":"5901024178","tel":"0227527520","addr":"臺北市大安區忠孝東路3段199-1號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5549","lat":"25.02085","name":"安居藥局","id":"5901024221","tel":"0223773537","addr":"臺北市大安區安居街19號","business_week":"OOOOOOXXXXXXXXOOOOOXX","memo":"領快篩注意事項:週一到週六早上8:30-12:00 週一到週五晚上5:30-9:00 直接排隊購買 .週日不營業"},
+{"lng":"121.5362","lat":"25.02566","name":"躍獅新生藥局","id":"5901024310","tel":"0223623367","addr":"臺北市大安區和平東路2段20號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩發放時間0900-1800。星期一到星期日皆販售"},
 {"lng":"121.552568","lat":"25.030627","name":"博大藥局","id":"5901024347","tel":"0227027858","addr":"臺北市大安區安和路2段65號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"若有配給．下午兩點開始販售。"},
 {"lng":"121.5469","lat":"25.03821","name":"博昱仁愛藥局","id":"5901024427","tel":"0287739258","addr":"臺北市大安區仁愛路4段65號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩每周一~五，上午9點開賣.售完為止.婉謝零錢"},
 {"lng":"121.5444","lat":"25.04357","name":"忠孝康承健保藥局","id":"5901024472","tel":"0287733378","addr":"臺北市大安區復興南路1段107巷4號","business_week":"XOOOOOOXOOOOOOXOOOOOO","memo":"周一公休"},
