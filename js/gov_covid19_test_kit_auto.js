@@ -182,7 +182,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.32017","lat":"22.664784","name":"鼎真診所","id":"3507320526","tel":"073103130","addr":"高雄市三民區金鼎路325號","business_week":"OOOOOOXOOXOOXXOOOOOXX"},
 {"lng":"120.317583","lat":"22.647044","name":"緯立診所","id":"3507321247","tel":"073850785","addr":"高雄市三民區建元路30號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXO"},
 {"lng":"120.292716","lat":"22.62732","name":"大郭診所","id":"3507340199","tel":"072412233","addr":"高雄市前金區成功一路412號","business_week":"OOOOOOXOOOOOXXOXOOXXX","memo":"111／12／31上午開診 112／01／01休診 1／2早上開診 下午開診 晚上開診"},
-{"lng":"120.333015","lat":"22.63022","name":"立佳診所","id":"3507350024","tel":"077710966","addr":"高雄市苓雅區輔仁路149號","business_week":"OOOOOOXOOXOOOXOOOOOOO","memo":"2023／01／22~2023／01／24休診"},
+{"lng":"120.333015","lat":"22.63022","name":"立佳診所","id":"3507350024","tel":"077710966","addr":"高雄市苓雅區輔仁路149號","business_week":"OOOOOOXOOXOOOXOOOOOOO","memo":"2023／02／27~2023／02／28休診"},
 {"lng":"120.311436","lat":"22.613467","name":"祥全診所","id":"3507360066","tel":"073340393","addr":"高雄市前鎮區復興三路393號2樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"111／12／31照常看診，112／01／02全天休診"},
 {"lng":"120.311409","lat":"22.613382","name":"南隆小兒科診所","id":"3507360413","tel":"073382967","addr":"高雄市前鎮區復興三路391號","business_week":"OOOOOOOOOOOOOOOOOOOXO","memo":"本院早午晚全日看診，全年無休（除週六晚上及農曆過年外）"},
 {"lng":"120.308751","lat":"22.609642","name":"傳家家庭醫學科診所","id":"3507360628","tel":"073344117","addr":"高雄市前鎮區一德路59號","business_week":"OOXOOOXXXXXXXXXXXXXXX","memo":"2／25看診2／26.2／27.2／28休診"},
