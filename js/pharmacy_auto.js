@@ -2020,7 +2020,7 @@ locations = [
 {"lng":"121.4844","lat":"25.07422","name":"永吉藥局","id":"5931025932","tel":"0222860432","addr":"新北市三重區車路頭街91號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4842","lat":"25.07005","name":"忠孝德榮藥局","id":"5931025987","tel":"0229800297","addr":"新北市三重區忠孝路2段97號1樓","business_week":"OOOOOXXOOOOOOOOOOOOOO","memo":"*實名制快篩* 週一至週五8:30開始代售.週六至週日12:00開始代售."},
 {"lng":"121.485366","lat":"25.070556","name":"信義忠孝藥局","id":"5931025996","tel":"0289813529","addr":"新北市三重區忠孝路2段40號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
-{"lng":"121.4871","lat":"25.08201","name":"芮櫟溪尾大藥局","id":"5931026055","tel":"0222809009","addr":"新北市三重區仁愛街516號1樓","business_week":"XXOOOXXXXXXXXXXXXXXXX","memo":"領實聯制快篩同營業時間 早上9點-晚上10點"},
+{"lng":"121.4871","lat":"25.08201","name":"芮櫟溪尾大藥局","id":"5931026055","tel":"0222809009","addr":"新北市三重區仁愛街516號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"領實聯制快篩同營業時間 早上9點-晚上10點"},
 {"lng":"121.493223","lat":"25.072282","name":"重陽藥局","id":"5931026073","tel":"0229880456","addr":"新北市三重區重陽路4段36、38號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4763","lat":"25.07013","name":"大有藥局","id":"5931026082","tel":"0229885771","addr":"新北市三重區中正北路213號1、2樓及215號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"","lat":"","name":"重新藥局","id":"5931026091","tel":"0229742700","addr":"新北市三重區重新路4段12號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
