@@ -607,6 +607,7 @@ locations = [
 {"lng":"120.3244","lat":"22.73812","name":"合德中西藥師藥局","id":"5902042492","tel":"073581291","addr":"高雄市楠梓區楠梓路486號","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"快篩實名制09:00開始販售"},
 {"lng":"120.292196","lat":"22.717185","name":"天健藥局","id":"5902042563","tel":"073634179","addr":"高雄市楠梓區後昌路1087號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上九點販售快篩"},
 {"lng":"120.294","lat":"22.71109","name":"元春中西藥師藥局","id":"5902042661","tel":"073605656","addr":"高雄市楠梓區後昌路837巷37號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"周1~周6早上開賣快篩，售完為止"},
+{"lng":"120.2917","lat":"22.71844","name":"家安藥局","id":"5902042769","tel":"073600066","addr":"高雄市楠梓區後昌新路13號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"120.34406","lat":"22.644806","name":"明曜藥局","id":"5902050092","tel":"073803807","addr":"高雄市三民區澄和路96號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業日13:30販售快篩當場排隊.當場販售.售完為止"},
 {"lng":"120.3352","lat":"22.64301","name":"瑞鶴藥局","id":"5902050298","tel":"073862757","addr":"高雄市三民區寶德里義德路25號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"下午2:00至4:30午休勿擾，每日08:30至21:00發售快篩。"},
 {"lng":"120.3241","lat":"22.64741","name":"日星藥局","id":"5902050350","tel":"073845188","addr":"高雄市三民區寶龍里惠德街38號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"快篩口罩時間:星期一至五16:00-21:00；星期六09:00-11:30，售完為止"},
