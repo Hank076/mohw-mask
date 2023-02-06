@@ -968,6 +968,7 @@ locations = [
 {"lng":"120.6354","lat":"24.14623","name":"康得藥局","id":"5903280585","tel":"0423820981","addr":"臺中市南屯區向上路三段45號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.64953","lat":"24.155145","name":"方昇藥局","id":"5903280601","tel":"0423288818","addr":"臺中市南屯區大墩路813號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"星期一至星期六上午9:30開始販售實名制快篩試劑，星期日休息"},
 {"lng":"120.6345","lat":"24.1526","name":"澄光人文藥局","id":"5903280647","tel":"0422530303","addr":"臺中市南屯區干城街305號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩周一~六下午8:30-22:00販售，售完為止"},
+{"lng":"120.6369","lat":"24.15208","name":"熊大心藥局","id":"5903280656","tel":"0422516252","addr":"臺中市南屯區河南路四段376號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"周一至周六售實名制快篩，12:00-15:00休息勿電詢。"},
 {"lng":"120.636896","lat":"24.150089","name":"詠悅藥局","id":"5903280683","tel":"0422515012","addr":"臺中市南屯區大墩十二街637號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩實名制販售時間:周一~周六早上9點開賣，售完為止"},
 {"lng":"120.6508","lat":"24.15401","name":"樂活藥局","id":"5903280718","tel":"0423106301","addr":"臺中市南屯區大聖街332號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.6529","lat":"24.13688","name":"亨宇藥局","id":"5903280745","tel":"0424711206","addr":"臺中市南屯區東興路二段29-2號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
