@@ -3365,6 +3365,7 @@ locations = [
 {"lng":"120.5704","lat":"23.95526","name":"家家藥局","id":"5937052497","tel":"048367007","addr":"彰化縣員林市惠來街87號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.5714","lat":"23.96324","name":"佑全員林中正藥局","id":"5937052504","tel":"048368669","addr":"彰化縣員林市中正路135,137號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.5756","lat":"23.95263","name":"龍溢藥局","id":"5937052522","tel":"048366032","addr":"彰化縣員林市中正路140號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期一~六9:00~21:00 星期日公休"},
+{"lng":"120.5668","lat":"23.95171","name":"莒光啄木鳥藥局","id":"5937052540","tel":"048399625","addr":"彰化縣員林市中山路一段454號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.5788","lat":"23.95965","name":"知心健康藥局","id":"5937052559","tel":"048396161","addr":"彰化縣員林市三民東街196號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.4797","lat":"23.95677","name":"鴻明藥局","id":"5937060051","tel":"048820185","addr":"彰化縣溪湖鎮大竹里平和街196號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩試劑販賣時間:早上9點"},
 {"lng":"120.4858","lat":"23.95663","name":"合生大藥局","id":"5937060088","tel":"048851560","addr":"彰化縣溪湖鎮湖東里員鹿路二段406號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上7.00開始販售快篩劑"},
