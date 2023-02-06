@@ -1003,6 +1003,7 @@ locations = [
 {"lng":"120.6897","lat":"24.19282","name":"惠登藥局","id":"5903291104","tel":"0424225682","addr":"臺中市北屯區昌平路一段434號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.6949","lat":"24.1762","name":"興安藥局","id":"5903291140","tel":"0422460369","addr":"臺中市北屯區興安路二段52號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.7308","lat":"24.17096","name":"均福藥局","id":"5903291159","tel":"0424391169","addr":"臺中市北屯區軍福十三路100號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩實名制規則:晚上七點依現場排隊順序發號碼牌 （周日公休不販售）"},
+{"lng":"120.7188","lat":"24.17102","name":"日初藥局","id":"5903291168","tel":"0424363150","addr":"臺中市北屯區軍功路一段482-3號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩販售：周一~周日10點起開始販售"},
 {"lng":"120.677","lat":"24.177","name":"大連何藥局","id":"5903291177","tel":"0422930895","addr":"臺中市北屯區山西路二段274號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.6941","lat":"24.16607","name":"好心情藥局","id":"5903291202","tel":"0422335663","addr":"臺中市北屯區昌平路一段17之3號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"營業時間皆有販售，血氧機到貨"},
 {"lng":"120.7131","lat":"24.18216","name":"愛樂芬兒童藥局","id":"5903291211","tel":"0424363660","addr":"臺中市北屯區松竹路一段929號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"每日上午9時開始販售"},
