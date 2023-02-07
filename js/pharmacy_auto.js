@@ -3383,6 +3383,7 @@ locations = [
 {"lng":"120.5753","lat":"23.96302","name":"愛康生活保健中西藥局","id":"5937051794","tel":"048328826","addr":"彰化縣員林市靜修東路34號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"星期一到星期日-早上9:00開始販售政府快篩，售完為止。（全年無休）"},
 {"lng":"120.5724","lat":"23.95817","name":"天一藥局","id":"5937051847","tel":"048384875","addr":"彰化縣員林市光明里中正路441號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"固定周一到周六，早上14:30開始販賣防疫口罩(現場排隊)。"},
 {"lng":"120.5841","lat":"23.95512","name":"萬年藥局","id":"5937051865","tel":"048366522","addr":"彰化縣員林市員水路2段209號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"販售時間請來電，或參照快篩地圖的庫存量。請勿排隊，降低群聚風險。感謝合作。"},
+{"lng":"120.5988","lat":"23.96424","name":"東山永安藥局","id":"5937051963","tel":"048311471","addr":"彰化縣員林市南東里山腳路4段31號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑販賣，上午8點30分開賣."},
 {"lng":"120.5646","lat":"23.96301","name":"康美藥局","id":"5937051981","tel":"048395172","addr":"彰化縣員林市南平里南平街26號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.599122","lat":"23.963554","name":"天天藥局","id":"5937052031","tel":"048385573","addr":"彰化縣員林市鎮興里員東路一段55號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"固定周一到周六上午8:30發放號碼牌，8:30開始販售口罩。"},
 {"lng":"120.5719","lat":"23.95464","name":"華衛藥局","id":"5937052059","tel":"048397503","addr":"彰化縣員林市惠來里南昌路96號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
