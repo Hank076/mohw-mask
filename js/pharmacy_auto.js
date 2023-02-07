@@ -3627,7 +3627,7 @@ locations = [
 {"lng":"120.5391","lat":"23.70427","name":"禾民藥局","id":"5939012455","tel":"055342486","addr":"雲林縣斗六市中山路213、215號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.5513","lat":"23.71129","name":"二水鄭家藥局","id":"5939012464","tel":"055323788","addr":"雲林縣斗六市文化路234號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"120.5532","lat":"23.71162","name":"世明中西藥局","id":"5939012526","tel":"055333109","addr":"雲林縣斗六市文化路324-1號","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"快篩試劑販售:於周一到周六營業時間開賣~售完為止"},
-{"lng":"120.536927","lat":"23.705344","name":"元大藥局","id":"5939012535","tel":"055329179","addr":"雲林縣斗六市民生南路42號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間早上9:00到晚上10:00 快篩實名制早上9:00開始販售 售完為止 若配送延遲則以到貨後販售 *門市有販售自費快篩試劑*"},
+{"lng":"120.536927","lat":"23.705344","name":"元大藥局","id":"5939012535","tel":"055329179","addr":"雲林縣斗六市民生南路42號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.547782","lat":"23.709008","name":"上好藥局","id":"5939012571","tel":"055331780","addr":"雲林縣斗六市永安路72號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑  目前為上午8：30販售  售完為止"},
 {"lng":"120.5495","lat":"23.70354","name":"林博彥藥師藥局","id":"5939012580","tel":"055361258","addr":"雲林縣斗六市莊敬路65號","business_week":"OOOOOXXOOOOOOXOOOOOOX"},
 {"lng":"120.534","lat":"23.70477","name":"斗六藥局","id":"5939012599","tel":"055372300","addr":"雲林縣斗六市雲林路二段113號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
