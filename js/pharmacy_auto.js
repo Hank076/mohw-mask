@@ -804,6 +804,7 @@ locations = [
 {"lng":"120.545659","lat":"24.150836","name":"必安藥局","id":"5903160088","tel":"0426992116","addr":"臺中市大肚區沙田路二段634號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"120.580812","lat":"24.17289","name":"安昌藥局","id":"5903160097","tel":"0426913890","addr":"臺中市大肚區遊園路二段176號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天晚上19:00點開始現場排隊販賣快篩試劑."},
 {"lng":"120.595297","lat":"24.186694","name":"理想藥局","id":"5903170020","tel":"0426521597","addr":"臺中市龍井區國際街121號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"120.5835","lat":"24.18225","name":"開心果藥局","id":"5903170119","tel":"0426315252","addr":"臺中市龍井區新興路112號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.5248","lat":"24.21176","name":"向陽藥師連鎖藥局","id":"5903170146","tel":"0426390500","addr":"臺中市龍井區中央路三段37號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩當天陽性需求領完才開賣，營業時間:0930~2130慢箋領藥.長照特約.更年期.糖尿病.孕期保健.小兒營養"},
 {"lng":"120.6648","lat":"24.06008","name":"皇昇藥局","id":"5903180053","tel":"0423397749","addr":"臺中市霧峰區四德路556號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.6992","lat":"24.07002","name":"霧峰安德藥局","id":"5903180062","tel":"0423300365","addr":"臺中市霧峰區中正路1135號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩代售時間14:00-21:00止。13:40發號碼牌，過號即代表放棄。"},
