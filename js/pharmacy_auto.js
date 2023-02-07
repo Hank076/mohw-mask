@@ -869,6 +869,7 @@ locations = [
 {"lng":"120.7104","lat":"24.14464","name":"東區小林健保藥局","id":"5903230227","tel":"0422135148","addr":"臺中市東區十甲路485號1樓","business_week":"OOOOOOXOOOOOXOXXXXXXX"},
 {"lng":"120.6881","lat":"24.13635","name":"佳境藥局","id":"5903230236","tel":"0422211395","addr":"臺中市東區大智路1-1號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"營業時間：W1-W6 09:30-22:00，周日休息 （建議快篩盡量於14:00-16:30到店領取以免久候）"},
 {"lng":"120.6615","lat":"24.13783","name":"嶸曜藥局","id":"5903240090","tel":"0423782478","addr":"臺中市西區美村路1段592號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週一至週六11:30至21:30販賣實名制快篩，售完為止"},
+{"lng":"120.6758","lat":"24.13714","name":"利民藥局","id":"5903240143","tel":"0422292931","addr":"臺中市西區四維街23號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"平日營業時間11-20，周六11-15，周日休。實名制快篩營業時間販售至售完或營業結束。"},
 {"lng":"120.6601","lat":"24.14977","name":"陽光藥局","id":"5903240152","tel":"0423020711","addr":"臺中市西區中美街305號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.661468","lat":"24.148754","name":"美村全成藥局","id":"5903240170","tel":"0423014006","addr":"臺中市西區美村路1段222號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩  販售時間 : 每天早上10點~晚上9點"},
 {"lng":"120.67","lat":"24.14767","name":"鑫祐藥局","id":"5903240198","tel":"0423027778","addr":"臺中市西區民權路302-5號","business_week":"OOOOOOOOOOOOOOOOOOOXX"},
