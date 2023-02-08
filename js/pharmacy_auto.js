@@ -736,6 +736,7 @@ locations = [
 {"lng":"","lat":"","name":"隔壁藥局","id":"5903010609","tel":"0425231527","addr":"臺中市豐原區一心路240之2號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.83179","lat":"24.247785","name":"國良豐藥局","id":"5903020034","tel":"0425885778","addr":"臺中市東勢區豐勢路21號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑全天販售"},
 {"lng":"120.829","lat":"24.25586","name":"東勢福倫藥局","id":"5903020052","tel":"0425876118","addr":"臺中市東勢區豐勢路438號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"＜快篩＞ 早上09:00開賣.賣完為止"},
+{"lng":"120.8302","lat":"24.25113","name":"新明通藥局","id":"5903020089","tel":"0425873969","addr":"臺中市東勢區豐勢路232號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.622","lat":"24.34851","name":"康好藥局","id":"5903030012","tel":"0426802149","addr":"臺中市大甲區三民路132-2號","business_week":"OOOXOOOOOOXOOOOOOXOXX","memo":"每天早上8-12點.下午14:30至售完為止.星期四不銷售. 星期日只銷售前日剩餘口罩"},
 {"lng":"120.6195","lat":"24.34722","name":"大甲健康藥局","id":"5903030030","tel":"0426805833","addr":"臺中市大甲區蔣公路242-1號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.6189","lat":"24.34749","name":"康達藥局","id":"5903030058","tel":"0426862001","addr":"臺中市大甲區蔣公路266號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
