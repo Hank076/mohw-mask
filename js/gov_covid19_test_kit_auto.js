@@ -3,7 +3,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.606207","lat":"23.98214","name":"花蓮縣身心健康及成癮防治所","id":"2245010013","tel":"038351885","addr":"花蓮縣花蓮市林森路391號","business_week":"XOOOOXXOOOOOXXXXXXXXX","memo":"下午採約診方式"},
 {"lng":"121.458327","lat":"25.023316","name":"新北市板橋區衛生所","id":"2331010016","tel":"0222586606","addr":"新北市板橋區英士路192號","business_week":"XOXOOXXXXXXXXXXXXXXXX","memo":"非假日期間週二週四、五早上，新冠視訊看診週一、三、五早上"},
 {"lng":"121.491392","lat":"25.061191","name":"新北市三重區衛生所","id":"2331020012","tel":"0229825233","addr":"新北市三重區新北大道一段1號","business_week":"OOOOOXXXXXXXXXXXXXXXX"},
-{"lng":"121.516232","lat":"25.004971","name":"新北市永和區衛生所","id":"2331030018","tel":"0232332780","addr":"新北市永和區秀朗路1段137號","business_week":"OOOOXXXOXXXXXXXXXXXXX"},
+{"lng":"121.516232","lat":"25.004971","name":"新北市永和區衛生所","id":"2331030018","tel":"0232332780","addr":"新北市永和區秀朗路1段137號","business_week":"OOOOXXXOXXXXXXXXXXXXX","memo":"連假期間皆休診"},
 {"lng":"121.501638","lat":"24.998691","name":"新北市中和區衛生所","id":"2331040014","tel":"0222491936","addr":"新北市中和區南山路4巷3號","business_week":"OOOOOXXXXXXXXXXXXXXXX","memo":"112／02／25~112／02／28 和平紀念日連續假期休診"},
 {"lng":"121.541669","lat":"24.967645","name":"新北市新店區衛生所","id":"2331050010","tel":"0229113984","addr":"新北市新店區北新路一段 86 號 12樓","business_week":"OXOXOXXXXXXXXXXXXXXXX"},
 {"lng":"121.452248","lat":"25.036408","name":"新北市新莊區衛生所","id":"2331060016","tel":"0229967123","addr":"新北市新莊區中華路一段2號","business_week":"OXOOOXXXXXXXXXXXXXXXX"},
