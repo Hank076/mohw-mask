@@ -2684,6 +2684,7 @@ locations = [
 {"lng":"121.2585","lat":"24.96527","name":"辰鴻藥局","id":"5932023021","tel":"034638639","addr":"桃園市中壢區環中東路110號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"營業時間都有供應"},
 {"lng":"121.227467","lat":"24.949433","name":"福澤健行藥局","id":"5932023058","tel":"034681988","addr":"桃園市中壢區健行路139號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"家用快篩販賣時段15:30至售完為止"},
 {"lng":"121.217593","lat":"24.962847","name":"中壢民權藥局","id":"5932023094","tel":"034014961","addr":"桃園市中壢區民權路326、328號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實聯制快篩每天78份週一至週六下午1350拿取號碼牌1400開始販售.依序入場販售.過號視同放棄"},
+{"lng":"121.20334","lat":"25.007593","name":"聖康藥局","id":"5932023192","tel":"032871491","addr":"桃園市中壢區洽溪里永平街63號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩販售時段:周一至週六 上午10:00 ~下午05:00止。"},
 {"lng":"121.2266","lat":"24.96106","name":"博鈞藥局","id":"5932023254","tel":"034256093","addr":"桃園市中壢區元化路226號2樓","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"121.260485","lat":"24.969451","name":"裕翔藥局","id":"5932023281","tel":"034355499","addr":"桃園市中壢區榮民路48號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間均有販售"},
 {"lng":"121.225","lat":"24.96565","name":"晟康健保藥局","id":"5932023307","tel":"034950218","addr":"桃園市中壢區永光里環北路4號1樓桃園市中壢區民權路二段34號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
