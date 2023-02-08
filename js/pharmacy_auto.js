@@ -1827,6 +1827,7 @@ locations = [
 {"lng":"120.4375","lat":"23.4726","name":"勝華藥局","id":"5922020376","tel":"052856642","addr":"嘉義市西區垂楊路623號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週一至週六早上 8:00 開始販售 快篩試劑.週日休息."},
 {"lng":"120.4488","lat":"23.48298","name":"啄木鳥藥局","id":"5922020456","tel":"052226497","addr":"嘉義市西區國華里文化路253號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.43477","lat":"23.48739","name":"逢春藥局","id":"5922020483","tel":"052326990","addr":"嘉義市西區竹圍里北興街417號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"120.4392","lat":"23.46776","name":"全德藥局","id":"5922020509","tel":"052854263","addr":"嘉義市西區福民里興業西路289號","business_week":"XXXXXXXXXXXXXXOOOOOOX","memo":"快篩 販售時間：19 :30~20:30星期日停售"},
 {"lng":"120.4344","lat":"23.47431","name":"永安藥局","id":"5922020518","tel":"052358368","addr":"嘉義市西區西平里信義路49之1號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"口罩：星期一至星期日9點販售，售完為止，現場排隊"},
 {"lng":"120.43426","lat":"23.48026","name":"友愛藥局","id":"5922020527","tel":"052330599","addr":"嘉義市西區福全里友愛路170號","business_week":"OOOOOXXOOOOOOOOOOOOOO"},
 {"lng":"120.443","lat":"23.46984","name":"信康藥局","id":"5922020563","tel":"052161680","addr":"嘉義市西區翠岱里仁愛路226號","business_week":"OOOOOXXOOOOOOXOOOOOXX"},
