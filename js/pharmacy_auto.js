@@ -1987,6 +1987,7 @@ locations = [
 {"lng":"121.4819","lat":"25.0716","name":"名成藥局","id":"5931022959","tel":"0229847828","addr":"新北市三重區力行路1段182號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.496","lat":"25.06827","name":"重德藥局","id":"5931023018","tel":"0289816164","addr":"新北市三重區正義北路246號2樓","business_week":"OOOOOOOOOOOOOXOOOOOXX"},
 {"lng":"121.4951","lat":"25.07004","name":"成立藥局","id":"5931023198","tel":"0289852355","addr":"新北市三重區正義北路310-1號2樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"第二輪快曬試劑 早上8:30開賣"},
+{"lng":"121.48361","lat":"25.062671","name":"迪化藥局","id":"5931023349","tel":"0229834445","addr":"新北市三重區中華路77號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩每日早上九點"},
 {"lng":"121.494543","lat":"25.081058","name":"正大藥局","id":"5931023401","tel":"0289815931","addr":"新北市三重區五華街39號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"星期六09:00~18:00，國定假日另公告"},
 {"lng":"121.492091","lat":"25.07944","name":"寶貝藥局","id":"5931023563","tel":"0229802190","addr":"新北市三重區仁愛街302-1號","business_week":"OOOOOOXXXXXXOXOOOOOXX","memo":"星期日公休"},
 {"lng":"121.4991","lat":"25.07552","name":"忠信藥局","id":"5931023830","tel":"0229762963","addr":"新北市三重區仁興街32號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩若有庫存，則星期日也販售。"},
