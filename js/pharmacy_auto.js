@@ -3715,6 +3715,7 @@ locations = [
 {"lng":"120.2866","lat":"23.46104","name":"長安藥局","id":"5940011704","tel":"053625009","addr":"嘉義縣朴子市嘉朴路西段91號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.236694","lat":"23.463778","name":"朴子啄木鳥藥局","id":"5940011777","tel":"053208028","addr":"嘉義縣朴子市永和里應菜埔29-3號","business_week":"OOOOOXXOOOOOXXXXXXXXX"},
 {"lng":"120.2462","lat":"23.46436","name":"華信藥局","id":"5940011875","tel":"053705889","addr":"嘉義縣朴子市平和里市東路28號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"120.1586","lat":"23.37867","name":"進發藥局","id":"5940021086","tel":"053470388","addr":"嘉義縣布袋鎮興中里後寮路72巷27號","business_week":"XOOOOOXOOOOOXXOXOXOXX"},
 {"lng":"120.1627","lat":"23.37915","name":"王藥師健保藥局","id":"5940021139","tel":"053470703","addr":"嘉義縣布袋鎮興中里上海路161號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.1676","lat":"23.37901","name":"康富藥師藥局","id":"5940021157","tel":"053470511","addr":"嘉義縣布袋鎮博愛二街22號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"雨天全天現場發售 售完為止平時下午3點後 星期日10點後 中午12-14點休息"},
 {"lng":"120.1676","lat":"23.37761","name":"懷恩藥局","id":"5940021166","tel":"053478211","addr":"嘉義縣布袋鎮太平東路465號","business_week":"OOOXOOXOOOOOXXXXXXXXX","memo":"雙週六看診"},
