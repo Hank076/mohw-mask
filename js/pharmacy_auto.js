@@ -1993,6 +1993,7 @@ locations = [
 {"lng":"121.4939","lat":"25.06661","name":"裕福藥局","id":"5931020866","tel":"0229831769","addr":"新北市三重區長壽西街144號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售早上9點30分開始；現場排隊"},
 {"lng":"121.487","lat":"25.05652","name":"東裕藥局","id":"5931020919","tel":"0229773255","addr":"新北市三重區重新路4段122號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"實名制快篩販售時間:AM9:00開始現場排隊，售完為止.(星期日休息)"},
 {"lng":"121.485545","lat":"25.068743","name":"穗元大藥局","id":"5931020964","tel":"0229827688","addr":"新北市三重區力行路1段149號1樓、151號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天0830開始販售"},
+{"lng":"121.5009","lat":"25.06616","name":"久洲藥局","id":"5931020991","tel":"0229783515","addr":"新北市三重區中正南路18號1樓","business_week":"XOOOOOXXOOOOOXXXXXXXX"},
 {"lng":"121.4943","lat":"25.0564","name":"鴻成藥局","id":"5931021014","tel":"0229727025","addr":"新北市三重區同安街113號","business_week":"OOOOOOXOOOOOOXOOOOOOO"},
 {"lng":"121.4942","lat":"25.06421","name":"義中藥局","id":"5931021023","tel":"0229815088","addr":"新北市三重區大同北路107號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.4901","lat":"25.07853","name":"禮隆藥局","id":"5931021167","tel":"0229894735","addr":"新北市三重區自強路4段64號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑早上九點開始發號碼牌，發完為止"},
