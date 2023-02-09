@@ -2507,6 +2507,7 @@ locations = [
 {"lng":"121.4699","lat":"25.08364","name":"全家藥粧藥局","id":"5931143328","tel":"0222811215","addr":"新北市蘆洲區光華路4號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.4793","lat":"25.08936","name":"昭陽藥局","id":"5931143355","tel":"0282867077","addr":"新北市蘆洲區復興路230號1樓","business_week":"XOOOOOOXOOOOOOXOOOOOO","memo":"可以領健保快篩試劑"},
 {"lng":"121.4734","lat":"25.08868","name":"光禾藥局","id":"5931143364","tel":"0228480050","addr":"新北市蘆洲區民權路122號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.4354","lat":"25.07308","name":"成泰藥局","id":"5931150065","tel":"0222924305","addr":"新北市五股區成泰路1段143號","business_week":"OOOOOOXOOOOOOOOOOOOOO"},
 {"lng":"121.4336","lat":"25.06674","name":"德泰藥局","id":"5931150163","tel":"0229095927","addr":"新北市五股區成泰路1段9號","business_week":"OXOXOOXOOOOOOXOOOOOXX"},
 {"lng":"121.4336","lat":"25.07236","name":"永任藥局","id":"5931151277","tel":"0222911093","addr":"新北市五股區水碓路9號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.438166","lat":"25.083691","name":"宏安藥局","id":"5931151302","tel":"0222915932","addr":"新北市五股區成泰路2段136號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
