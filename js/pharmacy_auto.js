@@ -2542,6 +2542,7 @@ locations = [
 {"lng":"121.3898","lat":"25.07869","name":"存明藥局","id":"5931170012","tel":"0226011618","addr":"新北市林口區中山路91號","business_week":"OOOOOXXOOOOOXXOOOOOXX"},
 {"lng":"121.3982","lat":"25.07874","name":"士昌藥局","id":"5931170021","tel":"0226018863","addr":"新北市林口區工六路36號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOO"},
 {"lng":"121.3887","lat":"25.07776","name":"宏宇藥局","id":"5931170067","tel":"0226031948","addr":"新北市林口區中正路288號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.3766","lat":"25.07012","name":"麗園藥局","id":"5931170129","tel":"0226009405","addr":"新北市林口區麗園一街6巷1-4號1F","business_week":"OOOXOOXOOOOOOXOOOOOOX"},
 {"lng":"121.3665","lat":"25.06762","name":"喜樂藥師藥局","id":"5931171251","tel":"0226005566","addr":"新北市林口區麗林里公園路15號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.3841","lat":"25.07552","name":"林口啄木鳥藥局","id":"5931171313","tel":"0226027547","addr":"新北市林口區仁愛路2段80號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.374794","lat":"25.077698","name":"家欣藥師藥局","id":"5931171340","tel":"0226025368","addr":"新北市林口區文化二路1段567號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
