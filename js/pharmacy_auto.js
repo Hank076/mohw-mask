@@ -1324,7 +1324,7 @@ locations = [
 {"lng":"120.3204","lat":"22.68777","name":"明禾藥局","id":"5907300588","tel":"073493734","addr":"高雄市左營區華夏路1732號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩販賣時間早上10點開始"},
 {"lng":"120.311746","lat":"22.664187","name":"新高橋藥局河堤店","id":"5907300613","tel":"075582806","addr":"高雄市左營區裕誠路144號1樓及地下1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午1:30開始販售口罩至下午5:30"},
 {"lng":"120.3112","lat":"22.67415","name":"大樹孟子藥局","id":"5907300631","tel":"073461772","addr":"高雄市左營區孟子路226、228號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
-{"lng":"120.3216","lat":"22.6809","name":"維康藥局高榮店","id":"5907300659","tel":"073494540","addr":"高雄市左營區榮總路163號、165號","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"平常日0900-1700假日1000-1800"},
+{"lng":"120.3216","lat":"22.6809","name":"維康藥局高榮店","id":"5907300659","tel":"073494540","addr":"高雄市左營區榮總路105號1樓","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"平常日0900-1700假日1000-1800"},
 {"lng":"120.3127","lat":"22.67563","name":"禾順左營藥局","id":"5907300702","tel":"073592582","addr":"高雄市左營區自由三路410號2樓","business_week":"OOOOOOXOOOOOXXOOOOOOX","memo":"星期一~星期六 實名制快篩劑發放時間  8:00~21:30 （周日公休）"},
 {"lng":"120.3038","lat":"22.67145","name":"富元聯合健康藥局","id":"5907300711","tel":"073488585","addr":"高雄市左營區博愛三路37號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.2871","lat":"22.6976","name":"翔生藥局合群店","id":"5907300748","tel":"075880055","addr":"高雄市左營區緯六路256號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"實名制快篩販售時間：星期一至星期五，售完為止"},
