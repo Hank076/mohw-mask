@@ -667,6 +667,7 @@ locations = [
 {"lng":"120.331294","lat":"22.643561","name":"必好藥局","id":"5902057920","tel":"073851751","addr":"高雄市三民區義華路460號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上九點開始販售快篩，售完為止。"},
 {"lng":"120.341036","lat":"22.638707","name":"朝陽健保藥局","id":"5902057939","tel":"073839886","addr":"高雄市三民區陽明路57號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"每日上午09:00為販賣快篩時間，售完為止，若有異動依藥局門口公告時間為主"},
 {"lng":"120.300311","lat":"22.628501","name":"連作藥局","id":"5902060025","tel":"072154716","addr":"高雄市新興區大同一路203-1號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"120.3027","lat":"22.62084","name":"永明藥局","id":"5902060150","tel":"072619832","addr":"高雄市新興區仁智街223號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"政府實名制快篩劑販售中。營業時間: 週一至週六 上午10:30 ~ 晚上9:30"},
 {"lng":"120.3159","lat":"22.63223","name":"長青藥局","id":"5902061540","tel":"072223969","addr":"高雄市新興區六合路114號","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"快篩9點"},
 {"lng":"120.3149","lat":"22.63186","name":"元盛藥局","id":"5902061899","tel":"072228183","addr":"高雄市新興區六合路153號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩早上8點販售 週日公休.國慶連假休三天"},
 {"lng":"120.297518","lat":"22.634368","name":"岩生藥局","id":"5902071528","tel":"072863608","addr":"高雄市前金區自立一路15-1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間為24小時 健保快篩兌換時間早上8:00-晚上10:00"},
