@@ -935,6 +935,7 @@ locations = [
 {"lng":"120.6886","lat":"24.15399","name":"莒光藥局","id":"5903260912","tel":"0422336663","addr":"臺中市北區錦南街12號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.6726","lat":"24.17165","name":"大西洋藥局","id":"5903260930","tel":"0422932469","addr":"臺中市北區北平路2段28號1樓","business_week":"OOOOOOXOOOOOOOOOOOOOO"},
 {"lng":"120.6868","lat":"24.16444","name":"正尚藥局","id":"5903260967","tel":"0422350347","addr":"臺中市北區榮華街166號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"周六營業至20:00"},
+{"lng":"120.6764","lat":"24.15074","name":"森川健保藥局","id":"5903260985","tel":"0978157008","addr":"臺中市北區五權路251號1樓","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"快篩試劑存貨充足，隨時開賣！（APP上面的庫存數是準的）"},
 {"lng":"120.6726","lat":"24.16703","name":"台中大樹藥局","id":"5903261008","tel":"0422981113","addr":"臺中市北區漢口路三段261號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.6753","lat":"24.16558","name":"多倫多藥局","id":"5903261017","tel":"0422980210","addr":"臺中市北區太原路二段11號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上09:00~晚上22:00"},
 {"lng":"120.6418","lat":"24.17795","name":"大心藥局","id":"5903270230","tel":"0424528355","addr":"臺中市西屯區西屯路2段295-19號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩，早上9:00開始販售（售完為止），星期日固定公休"},
