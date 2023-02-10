@@ -207,6 +207,7 @@ locations = [
 {"lng":"121.5347","lat":"25.05145","name":"滿順藥局","id":"5901100422","tel":"0225075283","addr":"臺北市中山區伊通街54號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5313","lat":"25.06207","name":"長生藥局","id":"5901100431","tel":"0225816210","addr":"臺北市中山區松江路362巷55號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.524223","lat":"25.057935","name":"優豐藥局","id":"5901100440","tel":"0225602565","addr":"臺北市中山區民生東路1段32號","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"下午3點現場作業不分發號碼牌"},
+{"lng":"121.532","lat":"25.06039","name":"貢玄藥局","id":"5901100628","tel":"0225637847","addr":"臺北市中山區錦州街207號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"中午12點30分開始發號碼牌.下午1點領快篩."},
 {"lng":"121.5342","lat":"25.06039","name":"阿里藥局","id":"5901100664","tel":"0225020638","addr":"臺北市中山區錦州街251號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上9:15開始營業."},
 {"lng":"121.521567","lat":"25.063669","name":"良佑藥局","id":"5901100771","tel":"0225916402","addr":"臺北市中山區撫順街6-2號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.5349","lat":"25.05317","name":"武璋大藥局","id":"5901100959","tel":"0225072026","addr":"臺北市中山區伊通街97號之2","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩實名制販售時間：9:00AM  （六、日 無配發販售）"},
