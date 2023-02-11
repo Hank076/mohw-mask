@@ -2380,6 +2380,7 @@ locations = [
 {"lng":"121.4423","lat":"25.17631","name":"文川藥局","id":"5931101937","tel":"0286319033","addr":"新北市淡水區中山北路1段93號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.4401","lat":"25.1823","name":"伯宇藥局","id":"5931101955","tel":"0226236006","addr":"新北市淡水區新春街103號-8","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一至週日實名制快篩如有到貨均有販售"},
 {"lng":"121.461734","lat":"25.137807","name":"躍獅竹圍藥局","id":"5931102078","tel":"0228090565","addr":"新北市淡水區民生路46號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上10點銷售快篩，售完為止"},
+{"lng":"121.4468","lat":"25.18314","name":"四季寶健保藥局","id":"5931102103","tel":"0226283199","addr":"新北市淡水區新市一路3段117-1號(含夾層)","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.423","lat":"25.18144","name":"淡海藥師藥局","id":"5931102121","tel":"0228052668","addr":"新北市淡水區淡海路85號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4484","lat":"25.16998","name":"佳藥長照藥局","id":"5931102265","tel":"0226211321","addr":"新北市淡水區學府路75號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4619","lat":"25.12951","name":"憲立藥局","id":"5931102309","tel":"0228092212","addr":"新北市淡水區自強路295號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩星期一至六 早上09:30發放號碼牌 現場等待領取"},
