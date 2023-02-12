@@ -2799,6 +2799,7 @@ locations = [
 {"lng":"121.2111","lat":"25.00479","name":"青埔辰安藥局","id":"5932062519","tel":"032873274","addr":"桃園市大園區致遠一路1號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.1791","lat":"25.02585","name":"全球菓林藥局","id":"5932062528","tel":"033831247","addr":"桃園市大園區?林路248號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間:9:00-22:00"},
 {"lng":"121.3363","lat":"24.99315","name":"輝安大藥局","id":"5932070164","tel":"033290636","addr":"桃園市龜山區中原街3號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"星期一至五中午12點，星期六日早上10點，開賣."},
+{"lng":"121.3241","lat":"24.98942","name":"福民藥局","id":"5932070208","tel":"033207779","addr":"桃園市龜山區山鶯路108號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"口罩販賣時段：原則上週一至週六早上9點-11點，以藥局當天公告為主"},
 {"lng":"121.3237","lat":"24.99004","name":"高田藥師藥局","id":"5932070253","tel":"033336363","addr":"桃園市龜山區山鶯路76號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時段：14:30"},
 {"lng":"121.355792","lat":"25.045312","name":"德佑藥局","id":"5932071009","tel":"033283556","addr":"桃園市龜山區大崗里新興街293號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑販賣為每日營業時段09:30~~21:30"},
 {"lng":"121.4035","lat":"25.01723","name":"安得福藥局","id":"5932076255","tel":"0282001467","addr":"桃園市龜山區萬壽路一段281號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時段：13：00開始發號碼牌排隊領取過號重排"},
