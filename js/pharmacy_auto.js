@@ -1104,6 +1104,7 @@ locations = [
 {"lng":"120.2369","lat":"22.98302","name":"群安健保藥局","id":"5905320260","tel":"062690652","addr":"臺南市東區復興里自由路三段151、153號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期一~星期六上午9點販售實名制快篩試劑"},
 {"lng":"120.2322","lat":"22.96171","name":"高福藥局","id":"5905320331","tel":"062904668","addr":"臺南市東區大智里德東街168號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.2215","lat":"22.97337","name":"巴克禮中西藥局","id":"5905320368","tel":"063361100","addr":"臺南市東區中華東路三段377巷8號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
+{"lng":"120.2253","lat":"22.97603","name":"佑全中華藥局","id":"5905320466","tel":"062906386","addr":"臺南市東區中華東路三段215號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"星期一-六09:00-22:00"},
 {"lng":"120.2367","lat":"22.96862","name":"美生藥局","id":"5905320475","tel":"062670035","addr":"臺南市東區德高里自由路一段161號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.2168","lat":"22.99104","name":"舒惠藥局","id":"5905320537","tel":"062087052","addr":"臺南市東區青年路432-6號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"120.233322","lat":"22.985446","name":"佑丞藥局","id":"5905320546","tel":"062902709","addr":"臺南市東區中華東路二段129號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
