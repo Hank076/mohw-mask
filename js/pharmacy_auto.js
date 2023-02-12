@@ -4177,6 +4177,7 @@ locations = [
 {"lng":"121.215795","lat":"23.122375","name":"開心藥局","id":"5946101127","tel":"089861151","addr":"臺東縣池上鄉中山路136號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"118.320671","lat":"24.432807","name":"大賀藥局","id":"5990010515","tel":"082327678","addr":"金門縣金城鎮北門里民生路3號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"118.316316","lat":"24.433547","name":"康總藥局","id":"5990010524","tel":"082316053","addr":"金門縣金城鎮西門里莒光路156號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑販售時段：每日早上08:30分開始販售，售完為止。"},
+{"lng":"118.3183","lat":"24.43167","name":"金志忠藥局","id":"5990010533","tel":"082325813","addr":"金門縣金城鎮東門里莒光路11號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩購買部分繼續販售，免費部分1／10~2／28開啟新的一輪免費領用"},
 {"lng":"118.3195","lat":"24.4347","name":"大森藥局","id":"5990010631","tel":"082325100","addr":"金門縣金城鎮民生路28、30號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"118.413","lat":"24.48834","name":"大金藥局","id":"5990020020","tel":"082355382","addr":"金門縣金沙鎮汶沙里五福街1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"(以上口罩餘額很不準 詳情請洽藥局)每日早上8:00發號碼牌並於下午13:30後再來領口罩"},
 {"lng":"118.4163","lat":"24.44123","name":"仁愛復興藥局","id":"5990030044","tel":"082332368","addr":"金門縣金湖鎮新市里復興路40號","business_week":"OOOOOOOOOOOOOOOOOOOXX"},
