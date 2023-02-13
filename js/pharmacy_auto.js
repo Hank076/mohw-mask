@@ -1783,6 +1783,7 @@ locations = [
 {"lng":"120.4497","lat":"23.50018","name":"杏一嘉基藥局","id":"5922013013","tel":"052786577","addr":"嘉義市東區忠孝路543-1號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.459","lat":"23.45639","name":"佑全嘉義吳鳳南藥局","id":"5922013068","tel":"052399311","addr":"嘉義市東區吳鳳南路585、587號","business_week":"OOOOOOXOOOOOOXXXXXXXX"},
 {"lng":"120.4594","lat":"23.45511","name":"後庄藥局","id":"5922013102","tel":"052391233","addr":"嘉義市東區吳鳳南路649號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.4609","lat":"23.48419","name":"富善藥局","id":"5922013111","tel":"052759559","addr":"嘉義市東區新生路234號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"實名制快篩早上9:30-12:00 領取"},
 {"lng":"120.4714","lat":"23.47751","name":"大雅藥局","id":"5922013120","tel":"052778237","addr":"嘉義市東區大雅路二段487號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.458688","lat":"23.456598","name":"後庄弘安藥局","id":"5922013148","tel":"052305678","addr":"嘉義市東區吳鳳南路298號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.46","lat":"23.45571","name":"軍輝健康幸福藥局","id":"5922013157","tel":"052395789","addr":"嘉義市東區軍輝路192號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
