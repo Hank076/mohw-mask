@@ -1778,6 +1778,7 @@ locations = [
 {"lng":"120.4582","lat":"23.49167","name":"仁藥集藥局","id":"5922012721","tel":"052755533","addr":"嘉義市東區太平里新生路539號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.4571","lat":"23.47653","name":"民族弘安藥局","id":"5922012856","tel":"052240101","addr":"嘉義市東區朝陽里民族路165號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"周一至周日快篩早上08:00開始販售快篩，至售完為止."},
 {"lng":"120.4547","lat":"23.49514","name":"德風藥局","id":"5922012874","tel":"052716233","addr":"嘉義市東區仁義里台林街108-4號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOO"},
+{"lng":"120.4663","lat":"23.47719","name":"大明藥局","id":"5922012945","tel":"052760958","addr":"嘉義市東區大雅路二段682號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.4602","lat":"23.48088","name":"百佑藥局","id":"5922012972","tel":"052757387","addr":"嘉義市東區公明路82號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.4497","lat":"23.50018","name":"杏一嘉基藥局","id":"5922013013","tel":"052786577","addr":"嘉義市東區忠孝路543-1號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.459","lat":"23.45639","name":"佑全嘉義吳鳳南藥局","id":"5922013068","tel":"052399311","addr":"嘉義市東區吳鳳南路585、587號","business_week":"OOOOOOXOOOOOOXXXXXXXX"},
