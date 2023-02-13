@@ -348,7 +348,7 @@ locations = [
 {"lng":"121.5103","lat":"25.0899","name":"光榮藥局","id":"5901153272","tel":"0228136060","addr":"臺北市士林區社中街118號","business_week":"OOOOOOOOOOOOXOOOOOOXX"},
 {"lng":"121.518","lat":"25.08888","name":"大南春天生活藥局","id":"5901153432","tel":"0228882196","addr":"臺北市士林區大南路317、319號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"本藥局可領慢箋 快篩是下午3點開始販售 售完為止（物流無配送&配送不及例外）"},
 {"lng":"121.5041","lat":"25.09242","name":"和謙藥局","id":"5901153487","tel":"0228165678","addr":"臺北市士林區社中街362號","business_week":"OOOOOOOOOOOOOXOOOOOXX"},
-{"lng":"121.5314","lat":"25.10594","name":"躍獅忠誠藥局","id":"5901153496","tel":"0228387948","addr":"臺北市士林區忠義街70號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"販售視到貨情況，售完門口會告示"},
+{"lng":"121.5314","lat":"25.10594","name":"躍獅忠誠藥局","id":"5901153496","tel":"0228387948","addr":"臺北市士林區忠義街70號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5067","lat":"25.08751","name":"祥新藥局","id":"5901153503","tel":"0228110906","addr":"臺北市士林區社子街65號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"實名制快篩周一到周六全天販賣 1200-1500及1800-1845休息"},
 {"lng":"121.5262","lat":"25.11835","name":"天母台安藥局","id":"5901153521","tel":"0228728017","addr":"臺北市士林區天母西路34號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日上午9點開賣至晚上9點（售完為止）"},
 {"lng":"121.5195","lat":"25.08359","name":"華齡春天生活藥局","id":"5901153567","tel":"0228882156","addr":"臺北市士林區華齡街36、38號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日下午三點開始兌換快篩!敬請配合!!"},
