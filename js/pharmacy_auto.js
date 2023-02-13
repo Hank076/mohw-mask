@@ -940,6 +940,7 @@ locations = [
 {"lng":"120.621","lat":"24.18716","name":"西屯藥局","id":"5903271022","tel":"0424621822","addr":"臺中市西屯區西屯路三段150-45號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.616539","lat":"24.183301","name":"安德藥局","id":"5903271059","tel":"0424638302","addr":"臺中市西屯區福康路17號1樓","business_week":"XXXXXXXOOOOOOOXXXXXXX","memo":"實名制快篩下午2:00開始販售(請排隊自備現金不找零)"},
 {"lng":"120.618","lat":"24.18603","name":"常春藤藥局","id":"5903271086","tel":"0424619296","addr":"臺中市西屯區福康路80號1樓","business_week":"OOOOOOOOOOOOOOXOOOOOX","memo":"每日販賣防疫家用快篩"},
+{"lng":"120.6438","lat":"24.17032","name":"杏東美藥局","id":"5903271102","tel":"0424523798","addr":"臺中市西屯區智惠街156號1樓","business_week":"XXXXXOXOOOOOOXOOOOOOX","memo":"販售實名制快篩"},
 {"lng":"120.6547","lat":"24.1644","name":"百吉藥局","id":"5903271139","tel":"0423135698","addr":"臺中市西屯區青海路一段71號1樓","business_week":"OOOOOXOOOOOOXOOOOOOXO","memo":"周六休息"},
 {"lng":"120.6563","lat":"24.16628","name":"重慶美得康藥局","id":"5903271148","tel":"0423111789","addr":"臺中市西屯區重慶路139號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.6652","lat":"24.17026","name":"富康家健保藥局","id":"5903271157","tel":"0423174741","addr":"臺中市西屯區漢成四街8號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
