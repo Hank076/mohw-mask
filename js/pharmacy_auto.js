@@ -1437,7 +1437,7 @@ locations = [
 {"lng":"121.739945","lat":"25.130903","name":"捷登藥局","id":"5911041949","tel":"0224237888","addr":"基隆市仁愛區孝三路92號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"國定假日有提供藥事調劑服務"},
 {"lng":"121.741284","lat":"25.128289","name":"百福仁愛專業藥局","id":"5911041958","tel":"0224266699","addr":"基隆市仁愛區仁四路50號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.7369","lat":"25.1316","name":"吉安藥局","id":"5911050037","tel":"0224260229","addr":"基隆市中山區安一路32號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
-{"lng":"121.7369","lat":"25.13137","name":"日星藥局","id":"5911050064","tel":"0224222090","addr":"基隆市中山區安一路25號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"十二點開始販賣"},
+{"lng":"121.7369","lat":"25.13137","name":"日星藥局","id":"5911050064","tel":"0224222090","addr":"基隆市中山區安一路25號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"十二點開始販賣"},
 {"lng":"121.7355","lat":"25.13184","name":"隆泰藥局","id":"5911050153","tel":"0224225889","addr":"基隆市中山區西定路12號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.7405","lat":"25.13786","name":"錦泰藥局","id":"5911050162","tel":"0224228523","addr":"基隆市中山區中山二路43號","business_week":"XXXXXXXXXXXXOOOOOOOXX","memo":"快篩販賣時間星期一至五晚上7點，星期六，星期日下午5點"},
 {"lng":"121.717","lat":"25.14982","name":"大慶大藥局","id":"5911051365","tel":"0224378640","addr":"基隆市中山區中和路168巷3弄20號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
