@@ -255,7 +255,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.45134","lat":"23.480499","name":"葉弘貴小兒科診所","id":"3522011028","tel":"052253863","addr":"嘉義市東區中山路253號","business_week":"OOOOOOXOOOOOOXOOXOOXX"},
 {"lng":"120.45746","lat":"23.4743","name":"許小兒科診所","id":"3522013086","tel":"052280858","addr":"嘉義市東區垂楊路139號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"120.45338","lat":"23.47701","name":"林育興耳鼻喉科診所","id":"3522013399","tel":"052288568","addr":"嘉義市東區吳鳳北路133號","business_week":"OOOOOOOOOXXOOXOOXOOXX","memo":"1月1日（日）上午看診、1月2日（一）上午看診、下午看診、晚上看診"},
-{"lng":"120.45362","lat":"23.47728","name":"大心診所","id":"3522013586","tel":"052279237","addr":"嘉義市東區吳鳳北路116號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"112年1月1日（日）全日休診，112年1月2日（一）全日正常看診"},
+{"lng":"120.45362","lat":"23.47728","name":"大心診所","id":"3522013586","tel":"052279237","addr":"嘉義市東區吳鳳北路116號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.434929","lat":"23.48751","name":"陳明煌診所","id":"3522021364","tel":"052337036","addr":"嘉義市西區北興街442號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"星期四下午04:30~06:00"},
 {"lng":"120.445049","lat":"23.47569","name":"黃思超小兒科診所","id":"3522023902","tel":"052163232","addr":"嘉義市西區民族路632號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"112／01／01早上看診 112／01／02早上 下午 晚上 全日看診"},
 {"lng":"120.441599","lat":"23.468319","name":"嘉祐耳鼻喉科診所","id":"3522024089","tel":"052350860","addr":"嘉義市西區興業西路156號","business_week":"OOOOOOXXXXXXXXOOXOOXX"},
