@@ -3716,6 +3716,7 @@ locations = [
 {"lng":"120.460167","lat":"23.452505","name":"株一藥局","id":"5940131292","tel":"052397739","addr":"嘉義縣中埔鄉和興村中山路五段909號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.4935","lat":"23.44639","name":"宏達藥局","id":"5940131354","tel":"052399786","addr":"嘉義縣中埔鄉金蘭村頂山門44-1號1樓","business_week":"OOOOOOXOOOOOOXXXXXXXX"},
 {"lng":"120.4618","lat":"23.45158","name":"和睦藥局","id":"5940131363","tel":"052395283","addr":"嘉義縣中埔鄉中山路5段821號1樓","business_week":"OOOOOOXXOOXOXXOXXOXXX"},
+{"lng":"120.5042","lat":"23.49156","name":"邱藥局","id":"5940140068","tel":"052791199","addr":"嘉義縣竹崎鄉灣橋村363號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.5592","lat":"23.48528","name":"保健藥局","id":"5940140077","tel":"052541226","addr":"嘉義縣竹崎鄉內埔村元興路119之1號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"07:00~售罄"},
 {"lng":"120.5499","lat":"23.51987","name":"仁壽藥局","id":"5940140148","tel":"052612328","addr":"嘉義縣竹崎鄉竹崎村中山路189號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"120.502273","lat":"23.492748","name":"佑康藥局","id":"5940141243","tel":"052792226","addr":"嘉義縣竹崎鄉灣橋村五間厝3-2號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
