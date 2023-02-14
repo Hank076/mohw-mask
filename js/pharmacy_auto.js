@@ -3772,6 +3772,7 @@ locations = [
 {"lng":"120.2507","lat":"23.18354","name":"安安藥局","id":"5941040049","tel":"065727475","addr":"臺南市麻豆區興中路88號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間：上午8:00-晚上10:00"},
 {"lng":"120.2488","lat":"23.18378","name":"平安藥局","id":"5941040076","tel":"065721225","addr":"臺南市麻豆區興中路11號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"家用快篩，免費、購買 ，每日早上8:00開始"},
 {"lng":"120.2478","lat":"23.18357","name":"麻豆王藥局","id":"5941040129","tel":"065721001","addr":"臺南市麻豆區穀興里中山路11之2號","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"星期一到星期五 8:30-21:00 ，星期日 15:00-21:00"},
+{"lng":"120.2505","lat":"23.18212","name":"台灣藥局","id":"5941041297","tel":"065726126","addr":"臺南市麻豆區信義路11之13號","business_week":"OOOOOOOOOOOOOOOXOOOOO","memo":"每日早上8點販售"},
 {"lng":"120.2541","lat":"23.18173","name":"紘信藥局","id":"5941041322","tel":"065711289","addr":"臺南市麻豆區民生路36之7號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXO","memo":"早上8~12點 下午 3~9點  周六下午 3~5:30   周日 下午 5~9點"},
 {"lng":"120.174609","lat":"23.163275","name":"佳晟藥局","id":"5941050045","tel":"067220732","addr":"臺南市佳里區安西里光復路265號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"禮拜一~日 8:00-售完"},
 {"lng":"120.1794","lat":"23.16106","name":"新生藥局","id":"5941050063","tel":"067224563","addr":"臺南市佳里區新生路80號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩時段:早上9:00~晚上8:00全時段。星期日公休"},
