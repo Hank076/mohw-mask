@@ -1981,6 +1981,7 @@ locations = [
 {"lng":"121.4995","lat":"25.06825","name":"義榮藥局","id":"5931024097","tel":"0229727598","addr":"新北市三重區三和路2段142號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩早上09:10發放   每周日公休停止發放"},
 {"lng":"121.482375","lat":"25.078898","name":"合康健保藥局","id":"5931024168","tel":"0222869999","addr":"新北市三重區三和路4段384號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑販售時間每日早上0900"},
 {"lng":"121.4961","lat":"25.06658","name":"天賜藥局","id":"5931024355","tel":"0229856852","addr":"新北市三重區自強路1段85號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"每周日固定公休； 除夕~初四休息； 初七~初八休息"},
+{"lng":"121.498","lat":"25.06794","name":"予康藥局","id":"5931024373","tel":"0289858789","addr":"新北市三重區文化北路198號1樓","business_week":"OOOOOXXOOOOOOXOOOOOOX","memo":"（星期日休息） 快篩早上10:00開始"},
 {"lng":"121.498","lat":"25.06459","name":"信承藥局","id":"5931024499","tel":"0229866476","addr":"新北市三重區信義西街44號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上9:30快篩開賣 現場排隊為主 周日公休"},
 {"lng":"121.4858","lat":"25.06293","name":"陳藥局","id":"5931024515","tel":"0229848601","addr":"新北市三重區三民街77號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"實名制快篩販售時間: 周一到周六 10:00開始販售，星期天公休"},
 {"lng":"121.4897","lat":"25.06325","name":"樂活處方箋藥局","id":"5931024551","tel":"0229805182","addr":"新北市三重區中正北路99號1樓","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"六日休"},
