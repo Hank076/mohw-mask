@@ -3604,6 +3604,7 @@ locations = [
 {"lng":"120.3578","lat":"23.70522","name":"祐安藥局","id":"5939051247","tel":"056655938","addr":"雲林縣土庫鎮馬光路39-1號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.3012","lat":"23.57199","name":"慶輝藥局","id":"5939060111","tel":"057835078","addr":"雲林縣北港鎮華勝里大同路232號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"服務時間：早上8:30起至晚上9:00。健康咨詢請洽經驗學養豐富的老藥師。"},
 {"lng":"120.3027","lat":"23.56495","name":"民生藥局","id":"5939060120","tel":"057822476","addr":"雲林縣北港鎮民生路70號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"上午8:30-晚上9:30，週末請先電話洽詢"},
+{"lng":"120.3023","lat":"23.57082","name":"家庭藥局","id":"5939060255","tel":"057826739","addr":"雲林縣北港鎮文化路101號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩劑販售時間:早上10:30"},
 {"lng":"120.3028","lat":"23.57434","name":"益安大藥局","id":"5939060317","tel":"057730779","addr":"雲林縣北港鎮華勝里公園路18之2號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"篩劑...每天早上8:00開始販售..賣完為止"},
 {"lng":"120.3037","lat":"23.56877","name":"南方藥局","id":"5939061501","tel":"057832178","addr":"雲林縣北港鎮共榮里博愛路119號","business_week":"OOOOOOXOOOOOXXXXXXXXX"},
 {"lng":"120.297156","lat":"23.574941","name":"大元藥局","id":"5939061583","tel":"057833636","addr":"雲林縣北港鎮民樂路72號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"販賣口罩時間:如營業時間"},
