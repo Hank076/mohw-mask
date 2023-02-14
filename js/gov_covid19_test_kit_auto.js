@@ -546,7 +546,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.687481","lat":"23.90483","name":"陳加偉耳鼻喉科診所","id":"3538011810","tel":"0492200679","addr":"南投縣南投市復興路109號","business_week":"OOOOOOXOOOOOXXXXXXXXX"},
 {"lng":"120.687527","lat":"23.90859","name":"幼安小兒科診所","id":"3538012086","tel":"0492206706","addr":"南投縣南投市民族路243號","business_week":"OOOOXOOOOOOXOOOOOOXOO","memo":"元旦連假111／12／31早午診正常看診， 112／1／1（日）， 112／1／2（一）全日看診"},
 {"lng":"120.690844","lat":"23.909966","name":"黃子卿小兒科診所","id":"3538012095","tel":"0492200623","addr":"南投縣南投市民族路123號1、2樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
-{"lng":"120.968566","lat":"23.966472","name":"安麗小兒科內科診所","id":"3538022331","tel":"0492991030","addr":"南投縣埔里鎮中山路二段262號","business_week":"OOOOOOXOOXOXOXOOXOOXX","memo":"112／2／25~ 112／2／26  休診2天"},
+{"lng":"120.968566","lat":"23.966472","name":"安麗小兒科內科診所","id":"3538022331","tel":"0492991030","addr":"南投縣埔里鎮中山路二段262號","business_week":"OOOOOOXOOXOXOXOOXOOXX","memo":"2／25~ 2／26 休診；  3／25-3／26 休診"},
 {"lng":"120.964449","lat":"23.966339","name":"陳宏麟診所","id":"3538022537","tel":"0492900303","addr":"南投縣埔里鎮南昌街221號","business_week":"OOOOOOXOOOOOXXXXXXXXX"},
 {"lng":"120.945633","lat":"24.002844","name":"普仁診所","id":"3538022751","tel":"0492930373","addr":"南投縣埔里鎮東峰路19號","business_week":"OOOOOOXOOOOOOXXXXXXXX","memo":"周一至周五上午08:30-11:30下午13:30-16:30，隔周六上午下午"},
 {"lng":"120.682605","lat":"23.975121","name":"洪瑞成小兒科診所","id":"3538033012","tel":"0492323151","addr":"南投縣草屯鎮中山街38號","business_week":"OOOXOOOOOOXOOXOOOXOXX","memo":"1／1上午開診1／2上午開診下午開診晚上開診"},
