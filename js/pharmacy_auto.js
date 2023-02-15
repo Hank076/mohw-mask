@@ -2216,6 +2216,7 @@ locations = [
 {"lng":"121.4543","lat":"25.04863","name":"宏泰藥局","id":"5931069792","tel":"0229964649","addr":"新北市新莊區自信街37號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.452","lat":"25.05105","name":"環球藥局","id":"593106A093","tel":"0229901934","addr":"新北市新莊區中港路436號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間8-23，全年無休**實名制快篩領取時間8-22**"},
 {"lng":"121.4248","lat":"25.0186","name":"日榮藥局","id":"593106A155","tel":"0222051523","addr":"新北市新莊區龍安路461號1樓","business_week":"OOOOOOXOXOXOXXOXOXOXX","memo":"快篩還有 不用問 早上可以直接來買 快篩販賣平日 8:30 周六 9點開賣 限早上"},
+{"lng":"121.4341","lat":"25.03294","name":"輔大美康藥局","id":"593106A379","tel":"0229013056","addr":"新北市新莊區中正路510號之1,1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"121.4261","lat":"25.0151","name":"明仁健保藥局","id":"593106A511","tel":"0222085175","addr":"新北市新莊區民安西路195號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.449296","lat":"25.037661","name":"全鎵藥局","id":"593106A600","tel":"0222761550","addr":"新北市新莊區建中街22號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"0900-2300販售快篩試劑"},
 {"lng":"121.4245","lat":"25.02524","name":"薇妮藥妝藥局","id":"593106A637","tel":"0282010817","addr":"新北市新莊區民安路99號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"無"},
