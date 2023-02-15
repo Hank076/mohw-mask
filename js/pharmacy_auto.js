@@ -1895,7 +1895,7 @@ locations = [
 {"lng":"121.4565","lat":"25.00706","name":"醫安藥局","id":"5931017010","tel":"0229692588","addr":"新北市板橋區南雅南路1段11號1樓及2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週日休，下午3點開始販售，依現場排隊為主"},
 {"lng":"121.4433","lat":"25.00094","name":"永欣藥師藥局","id":"5931017047","tel":"0229687120","addr":"新北市板橋區龍興街46號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.454","lat":"25.00184","name":"迦佰麗藥局","id":"5931017056","tel":"0229648498","addr":"新北市板橋區南雅南路2段11-24號(1樓)","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"營業時間10:30-22:30 （星期日休息）"},
-{"lng":"121.467","lat":"25.02025","name":"正康新埔藥局","id":"5931017261","tel":"0282595882","addr":"新北市板橋區介壽街4號(1樓)","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"1／2營業時間為10-18"},
+{"lng":"121.467","lat":"25.02025","name":"正康新埔藥局","id":"5931017261","tel":"0282595882","addr":"新北市板橋區介壽街4號(1樓)","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"2／27，2／28營業時間為10-18"},
 {"lng":"121.4637","lat":"25.02386","name":"躍獅新埔藥局","id":"5931017270","tel":"0222543932","addr":"新北市板橋區陽明街47號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.460255","lat":"25.001779","name":"板橋大樹藥局","id":"5931017289","tel":"0229555551","addr":"新北市板橋區忠孝路28號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.45613","lat":"25.018042","name":"台安藥局","id":"5931017341","tel":"0229663600","addr":"新北市板橋區中正路204號1樓、2樓、3樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售時間08-23"},
