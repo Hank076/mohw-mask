@@ -3761,6 +3761,7 @@ locations = [
 {"lng":"120.1768","lat":"23.16277","name":"佳佳藥局","id":"5941051453","tel":"067227639","addr":"臺南市佳里區中山路386號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"禮拜一~六08:00售完"},
 {"lng":"120.1767","lat":"23.15936","name":"雅倫藥局","id":"5941051499","tel":"067229488","addr":"臺南市佳里區建南街165號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"禮拜一~六 8:00售完"},
 {"lng":"120.171","lat":"23.16887","name":"黃藥師藥局","id":"5941051542","tel":"067217033","addr":"臺南市佳里區忠孝路293號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
+{"lng":"120.177926","lat":"23.163246","name":"永星藥局","id":"5941051579","tel":"067234300","addr":"臺南市佳里區文化路176號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.3073","lat":"23.03796","name":"富傑藥局","id":"5941060014","tel":"065907185","addr":"臺南市新化區觀音里中正路545號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩實名制早上7點開始販售，週日不營業"},
 {"lng":"120.3048","lat":"23.03582","name":"千福藥局","id":"5941061306","tel":"065905862","addr":"臺南市新化區中山路424號1樓","business_week":"OOOOOOXOOOOOXXXXXXXXX"},
 {"lng":"120.3045","lat":"23.03802","name":"安麗兒藥局新化店","id":"5941061342","tel":"065986029","addr":"臺南市新化區忠孝路116之3號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩星期一至星期日下午2點~7點"},
