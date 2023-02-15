@@ -3143,7 +3143,7 @@ locations = [
 {"lng":"120.786838","lat":"24.486048","name":"仁興藥局","id":"5935100025","tel":"037983792","addr":"苗栗縣銅鑼鄉銅鑼村中正路97號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販賣時段：07:00-售完"},
 {"lng":"120.8522","lat":"24.57524","name":"裕祥藥局","id":"5935120027","tel":"037253553","addr":"苗栗縣頭屋鄉頭屋村尖豐路85號","business_week":"OOOOOOOOOOOOOXOOOOOOO"},
 {"lng":"120.772","lat":"24.41316","name":"民享藥局","id":"5935130023","tel":"037871498","addr":"苗栗縣三義鄉廣盛村中正路134號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"口罩販賣時段：早上7點開始到售完"},
-{"lng":"120.7698","lat":"24.41377","name":"安康藥局","id":"5935131075","tel":"037875958","addr":"苗栗縣三義鄉廣盛中正路114號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩早上8:20開始銷售，售完快篩地圖會歸零"},
+{"lng":"120.7698","lat":"24.41377","name":"安康藥局","id":"5935131075","tel":"037875958","addr":"苗栗縣三義鄉廣盛中正路114號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.708","lat":"24.2396","name":"合裕藥局","id":"5936010020","tel":"0425238988","addr":"臺中市豐原區合作街96-1號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.723893","lat":"24.247178","name":"裕安藥局","id":"5936010039","tel":"0425223494","addr":"臺中市豐原區南陽路南陽市場11號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"每日早上8:00開始販售"},
 {"lng":"120.722049","lat":"24.239058","name":"信惠藥局","id":"5936010146","tel":"0425263861","addr":"臺中市豐原區豐田里田心路二段225號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"週一至週六上午7:30左右開始發售.週日8:00"},
