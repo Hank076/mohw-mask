@@ -907,6 +907,7 @@ locations = [
 {"lng":"120.6818","lat":"24.15927","name":"喜悅健保藥局","id":"5903260314","tel":"0422333988","addr":"臺中市北區健行路414號1樓","business_week":"OOOOOXXOOOOOOXOOOOOOX","memo":"星期一到星期五早上10點到晚上9點半，星期六中午12點到晚上6點半."},
 {"lng":"120.6711","lat":"24.16703","name":"台中漢口藥局","id":"5903260341","tel":"0422936166","addr":"臺中市北區漢口路3段183、185號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售時間每天10:00~19:30"},
 {"lng":"120.664172","lat":"24.162352","name":"忠明小林健保藥局","id":"5903260421","tel":"0422013666","addr":"臺中市北區忠明路161號","business_week":"OXOXOOXOOOOOXOXOXOXXX","memo":"無"},
+{"lng":"120.677","lat":"24.1529","name":"喜樂藥局","id":"5903260449","tel":"0422060423","addr":"臺中市北區中清路1段31號","business_week":"OOOOOOOOOOOOOOOOOXOXX","memo":"快篩實名制，每日早上9:30開始販售，售完為止。"},
 {"lng":"120.67566","lat":"24.171644","name":"康媞藥局","id":"5903260476","tel":"0422925388","addr":"臺中市北區北平路二段128號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.679516","lat":"24.15763","name":"瑞鋒藥師藥局","id":"5903260501","tel":"0422020786","addr":"臺中市北區育德路16號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩周一至五14:30開始"},
 {"lng":"120.679656","lat":"24.159308","name":"源順大藥局","id":"5903260547","tel":"0422072651","addr":"臺中市北區健行路484號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
