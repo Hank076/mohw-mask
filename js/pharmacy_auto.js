@@ -878,6 +878,7 @@ locations = [
 {"lng":"120.6717","lat":"24.14626","name":"大樹五權藥局","id":"5903240447","tel":"0422022910","addr":"臺中市西區五權路97-1號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.6615","lat":"24.14825","name":"杏一台中美村藥局","id":"5903240456","tel":"0423013310","addr":"臺中市西區美村路一段242、246號1樓","business_week":"XXXXXXXOOOOOOXOOOOOOX","memo":"快篩服務時間12:00~19:00（或售完為止），週日及國定假日不販售"},
 {"lng":"120.6549","lat":"24.14949","name":"德恩藥師藥局","id":"5903240465","tel":"0423102358","addr":"臺中市西區精誠路252號1樓","business_week":"OOOOOOXOOOOOOOOOOOOOO"},
+{"lng":"120.6559","lat":"24.14688","name":"佑全台中向上藥局","id":"5903240474","tel":"0423204732","addr":"臺中市西區向上路一段386、388號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"因政府配貨時間不一，依照門市現場公告時間為主"},
 {"lng":"120.6732","lat":"24.14209","name":"名華藥局","id":"5903240483","tel":"0422231187","addr":"臺中市西區中華路一段7號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩，0-6歲和滿65歲領免費快篩。週一至週日正常販售。"},
 {"lng":"120.661092","lat":"24.147974","name":"好好誠美藥局","id":"5903240492","tel":"0423022838","addr":"臺中市西區向上北路186號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.6631","lat":"24.12549","name":"小林健保藥局","id":"5903250041","tel":"0422622099","addr":"臺中市南區美村路2段182號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"固定周一到周日，早上8:00發號碼牌，下午4:30開始販賣防疫口罩"},
