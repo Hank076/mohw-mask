@@ -2597,6 +2597,7 @@ locations = [
 {"lng":"121.313","lat":"24.99472","name":"躍獅民生藥局","id":"5932014291","tel":"033362359","addr":"桃園市桃園區民生路228號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售中"},
 {"lng":"121.2697","lat":"24.97836","name":"躍獅省桃藥局","id":"5932014317","tel":"033791488","addr":"桃園市桃園區龍壽街24號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日實名制快篩販售時間10:00-12:00，沒發號碼牌"},
 {"lng":"121.3054","lat":"25.00388","name":"闔新藥局","id":"5932014326","tel":"033317279","addr":"桃園市桃園區中正路576號1樓","business_week":"OOOOOOOOOOOOOOOOOOXOO","memo":"營業時間:9:00-22:00，實名制快篩領取時間14:30-21:30，現場排隊"},
+{"lng":"121.2943","lat":"24.98954","name":"豐藝藥局","id":"5932014344","tel":"032200977","addr":"桃園市桃園區泰昌三街23號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.3065","lat":"25.01545","name":"杏一桃園敏盛藥局","id":"5932014371","tel":"033254973","addr":"桃園市桃園區經國路118號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"藥師諮詢服務時間平日10:00-19:00。"},
 {"lng":"121.2976","lat":"24.99813","name":"悅藥坊敦陽藥局","id":"5932014406","tel":"033367068","addr":"桃園市桃園區力行路385巷17號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.3022","lat":"25.01946","name":"多多藥局","id":"5932014415","tel":"033162133","addr":"桃園市桃園區南平路183號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
