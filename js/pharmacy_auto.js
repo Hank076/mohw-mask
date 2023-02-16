@@ -3610,6 +3610,7 @@ locations = [
 {"lng":"120.4343","lat":"23.70917","name":"福瑞藥局","id":"5939032555","tel":"056365190","addr":"雲林縣虎尾鎮仁愛路90號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.43","lat":"23.70645","name":"林森瑞安藥局","id":"5939032564","tel":"056328034","addr":"雲林縣虎尾鎮林森路二段89號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.432","lat":"23.70698","name":"林藥師藥局","id":"5939032626","tel":"056334135","addr":"雲林縣虎尾鎮中正路207號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
+{"lng":"120.4306","lat":"23.70567","name":"康是美虎尾藥局","id":"5939032644","tel":"056328411","addr":"雲林縣虎尾鎮中正路258.258-1號","business_week":"XXXXXXXOOOOOOOOOOOOOO"},
 {"lng":"120.4387","lat":"23.71498","name":"林森啄木鳥藥局","id":"5939032715","tel":"056320417","addr":"雲林縣虎尾鎮明正東路8號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售時間：早上9點~售完為止。周末（六、日）無販售"},
 {"lng":"120.4605","lat":"23.80032","name":"一元藥局","id":"5939040164","tel":"055879987","addr":"雲林縣西螺鎮福興路175號","business_week":"OOOOOOOOOOOOOOXXXXXXX"},
 {"lng":"120.4396","lat":"23.78882","name":"福安藥局","id":"5939040253","tel":"055871281","addr":"雲林縣西螺鎮福田里社口路83號","business_week":"OOOOOOOOOXOOOOOOXOOOO","memo":"快篩販售時間自早上7點起至售完為止，晚上8點下班休息"},
