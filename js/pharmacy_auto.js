@@ -3974,6 +3974,7 @@ locations = [
 {"lng":"120.4966","lat":"22.68527","name":"廣東藥局","id":"5943014145","tel":"087362210","addr":"屏東縣屏東市廣東路682-2.684號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.5038","lat":"22.66399","name":"屏大藥局","id":"5943014234","tel":"087220369","addr":"屏東縣屏東市民生路57-21號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.482","lat":"22.66275","name":"萬年啄木鳥藥局","id":"5943014298","tel":"087516458","addr":"屏東縣屏東市建南路182號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.4969","lat":"22.68635","name":"信慷藥局","id":"5943014305","tel":"087361727","addr":"屏東縣屏東市民富街61號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.4898","lat":"22.67023","name":"信安藥局","id":"5943014314","tel":"087322332","addr":"屏東縣屏東市漢口街11號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"0830-2100 無人排隊時  隨到隨領"},
 {"lng":"120.4867","lat":"22.67045","name":"千甲台安藥局","id":"5943014332","tel":"087330663","addr":"屏東縣屏東市武廟里逢甲路92號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日快篩資訊和重要事項公告於LINE社群:https:／／reurl.cc／M0b5VX（每日早上08:00販售--晚上23:00）"},
 {"lng":"120.4785","lat":"22.66651","name":"和平藥局","id":"5943014341","tel":"087556696","addr":"屏東縣屏東市和平路35號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
