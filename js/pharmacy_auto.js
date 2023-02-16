@@ -1101,6 +1101,7 @@ locations = [
 {"lng":"120.2471","lat":"23.02099","name":"台南永康藥局","id":"5905311127","tel":"062020201","addr":"臺南市永康區中山南路816、816─1、2、3號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.2338","lat":"23.01167","name":"佑心藥局","id":"5905311154","tel":"063022516","addr":"臺南市永康區振興路46號1樓","business_week":"OOOOOOXOXOOOOXOOOOOXX","memo":"8:30-12:00；15:00-17:30；18:30-21:00"},
 {"lng":"120.240606","lat":"23.041381","name":"美日新藥局","id":"5905311172","tel":"062420980","addr":"臺南市永康區?行里中正北路62號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.259463","lat":"23.00127","name":"和德藥局大灣店","id":"5905311190","tel":"062735049","addr":"臺南市永康區崑山里永大路二段9號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"","lat":"","name":"安生堂藥局","id":"5905311225","tel":"062725265","addr":"臺南市永康區南灣里大灣路429號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.22963","lat":"22.973306","name":"台和群康藥局","id":"5905320091","tel":"062891360","addr":"臺南市東區崇善路470號1樓","business_week":"OOOOOOOOOOOOOOOOOOOXX"},
 {"lng":"120.2268","lat":"22.9857","name":"安麗兒藥局裕農店","id":"5905320135","tel":"062377378","addr":"臺南市東區裕農路100號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
