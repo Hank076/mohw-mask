@@ -1779,6 +1779,7 @@ locations = [
 {"lng":"120.458","lat":"23.48361","name":"普羅藥局","id":"5922010147","tel":"052754836","addr":"嘉義市東區民權路114號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"平日08:00至21:00.週六19:00止.週日休息"},
 {"lng":"120.4553","lat":"23.48162","name":"秉榮藥局","id":"5922010263","tel":"052224320","addr":"嘉義市東區東仁里中山路189號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.4553","lat":"23.4643","name":"信輝藥局","id":"5922010405","tel":"052252415","addr":"嘉義市東區安寮里吳鳳南路353號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.4517","lat":"23.48096","name":"穎川保健藥局","id":"5922010441","tel":"052223609","addr":"嘉義市東區仁武里中山路204號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.4551","lat":"23.47807","name":"乙展藥局","id":"5922010496","tel":"052279556","addr":"嘉義市東區蘭井里蘭井街70號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.4566","lat":"23.47649","name":"安泰藥局","id":"5922010718","tel":"052294202","addr":"嘉義市東區民族路181號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.4665","lat":"23.49007","name":"全民藥局","id":"5922010736","tel":"052777900","addr":"嘉義市東區新店里林森東路289 號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"實名制快篩試劑：週一至週六，營業時間 皆有販售。週日店休。"},
