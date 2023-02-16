@@ -35,7 +35,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.217776","lat":"24.945929","name":"桃園市平鎮區衛生所","id":"2332100019","tel":"034576624","addr":"桃園市平鎮區新富里振興路1號","business_week":"OOOOOOXOOOOOOXXXXXXXX"},
 {"lng":"121.13928","lat":"24.717562","name":"新竹縣橫山鄉衛生所","id":"2333070010","tel":"035932004","addr":"新竹縣橫山鄉新興街141巷10號","business_week":"OOOOOXXOOOOOXXXXXXXXX"},
 {"lng":"120.994859","lat":"24.766908","name":"新竹縣寶山鄉衛生所","id":"2333100013","tel":"035203054","addr":"新竹縣寶山鄉雙園路二段273號","business_week":"OOOOXXXXXXXXXXXXXXXXX","memo":"快篩試劑於星期一~星期六8:30-9:30販售"},
-{"lng":"121.202274","lat":"24.70562","name":"新竹縣尖石鄉衛生所","id":"2333130011","tel":"035841011","addr":"新竹縣尖石鄉嘉樂村2鄰61號","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"無急診；112／01／20至112／01／29農曆春節連假停診。"},
+{"lng":"121.202274","lat":"24.70562","name":"新竹縣尖石鄉衛生所","id":"2333130011","tel":"035841011","addr":"新竹縣尖石鄉嘉樂村2鄰61號","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"無急診；112／02／25至112／02／28 二二八連假停診。"},
 {"lng":"120.824894","lat":"24.565957","name":"苗栗縣苗栗市衛生所","id":"2335010012","tel":"037277129","addr":"苗栗縣苗栗市建民街28號","business_week":"OOOOOXXOOXXXXXXXXXXXX","memo":"無急診"},
 {"lng":"120.682016","lat":"24.490403","name":"苗栗縣通霄鎮衛生所","id":"2335030014","tel":"037752048","addr":"苗栗縣通霄鎮中正路16-2號","business_week":"OOOOOXXOOXOOXXXXXXXXX"},
 {"lng":"120.872536","lat":"24.687723","name":"苗栗縣竹南鎮衛生所","id":"2335040010","tel":"037470152","addr":"苗栗縣竹南鎮大營路209號","business_week":"OOOOOXXOOOOOXXXXXXXXX"},
