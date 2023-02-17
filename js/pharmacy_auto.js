@@ -3641,6 +3641,7 @@ locations = [
 {"lng":"120.466","lat":"23.50698","name":"昇平藥局","id":"5940040063","tel":"052206835","addr":"嘉義縣民雄鄉大崎村十四甲18-7號","business_week":"OOOOOXXOOOOOOOOOOOOOO"},
 {"lng":"120.4413","lat":"23.52544","name":"惠民藥局","id":"5940040081","tel":"052211466","addr":"嘉義縣民雄鄉福樂村埤角102號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.439","lat":"23.52336","name":"健安藥局","id":"5940040170","tel":"052211797","addr":"嘉義縣民雄鄉興南村頭橋45號","business_week":"OOOOOOXOOOOOOXOOOOOOO","memo":"營業:上午9點至下午9點.週日下午6點至9點"},
+{"lng":"120.4103","lat":"23.51833","name":"鈞安藥局","id":"5940040232","tel":"052218622","addr":"嘉義縣民雄鄉山中村187之5號","business_week":"OOOOOXXOOOOOXXOOOOOXX"},
 {"lng":"120.4259","lat":"23.55737","name":"上安藥局","id":"5940040321","tel":"052261216","addr":"嘉義縣民雄鄉西安路46-23號","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"上午0830開賣-售罄為止"},
 {"lng":"120.4304","lat":"23.55706","name":"正道藥局","id":"5940040349","tel":"052268345","addr":"嘉義縣民雄鄉中樂村復興路38號","business_week":"OOOOOOOOOOOOOXOOOOOXX"},
 {"lng":"120.4303","lat":"23.55781","name":"嘉方藥局","id":"5940041435","tel":"052066747","addr":"嘉義縣民雄鄉中樂村昇平路58號","business_week":"OOOOOOOOOOOOOXOOOXOXX"},
