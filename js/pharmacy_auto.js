@@ -3306,6 +3306,7 @@ locations = [
 {"lng":"120.528388","lat":"23.872861","name":"維德藥局","id":"5937041449","tel":"048889033","addr":"彰化縣北斗鎮復興路18號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期日公休"},
 {"lng":"120.5165","lat":"23.87406","name":"丁丁藥局北斗店","id":"5937041476","tel":"048873032","addr":"彰化縣北斗鎮斗苑路二段30號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"過年期間營業時間：除夕，早上8點至下午6點；初一初二，早上10點到晚上9點；其它營業時間照常，早上8至晚上9點55分。"},
 {"lng":"120.528032","lat":"23.878219","name":"北斗啄木鳥藥局","id":"5937041485","tel":"048875611","addr":"彰化縣北斗鎮復興路269號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.5241","lat":"23.87407","name":"台丞藥局","id":"5937041501","tel":"048873311","addr":"彰化縣北斗鎮光復路197號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"實名制快篩開賣周一到周五，販售時間下午2點30~5點"},
 {"lng":"120.575034","lat":"23.969082","name":"信昇藥局","id":"5937050135","tel":"048358827","addr":"彰化縣員林市大同路二段182-1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑販售時間-每日上午9點開始.售完為止"},
 {"lng":"120.5754","lat":"23.9623","name":"東禾藥局","id":"5937050313","tel":"048350030","addr":"彰化縣員林市仁美里和平東街62-1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天早上八點半開始販售，售完為止"},
 {"lng":"120.5733","lat":"23.95618","name":"金鴻安大藥局","id":"5937050331","tel":"048344210","addr":"彰化縣員林市中正路323號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上7點至晚上10點，民眾可持健保卡買快篩"},
