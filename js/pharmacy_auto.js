@@ -1355,6 +1355,7 @@ locations = [
 {"lng":"120.331379","lat":"22.652944","name":"康圓藥局","id":"5907320982","tel":"073909978","addr":"高雄市三民區大豐二路359.361號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.3164","lat":"22.65139","name":"諾亞藥局","id":"5907321005","tel":"073929966","addr":"高雄市三民區鼎華路14號1樓","business_week":"OOOOOOXOOOOOXXXXXXXXX"},
 {"lng":"120.322346","lat":"22.660457","name":"三民明誠藥局","id":"5907321032","tel":"073493137","addr":"高雄市三民區明誠一路500號1-2F及502號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.3199","lat":"22.66719","name":"鼎安健保藥局","id":"5907321041","tel":"073509939","addr":"高雄市三民區鼎中路418號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩實名制營業日早上10點開始販售，售完為止。"},
 {"lng":"120.3176","lat":"22.64095","name":"桂林活力藥局九如店","id":"5907321069","tel":"073981009","addr":"高雄市三民區懷安街112號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.3061","lat":"22.64365","name":"振源藥局","id":"5907321078","tel":"073112541","addr":"高雄市三民區熱河一街355號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩隨到隨領，六日皆有營業"},
 {"lng":"120.324366","lat":"22.650151","name":"建工丁丁藥局","id":"5907321096","tel":"073830841","addr":"高雄市三民區建工路568號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制早上9點開始販售"},
