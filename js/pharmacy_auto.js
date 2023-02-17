@@ -3087,6 +3087,7 @@ locations = [
 {"lng":"120.9095","lat":"24.68911","name":"民昌藥局","id":"5935050182","tel":"037673 232","addr":"苗栗縣頭份市忠孝里信東路130號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.925899","lat":"24.686474","name":"三峰藥局","id":"5935050208","tel":"037668239","addr":"苗栗縣頭份市新華里中正一路78號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩：週一至週六下午1點排隊直接購買；週日休息。"},
 {"lng":"120.907305","lat":"24.68299","name":"泉興藥局","id":"5935050253","tel":"037664367","addr":"苗栗縣頭份市仁愛里民族路28號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑販賣時段：07:00-23:00"},
+{"lng":"120.9582","lat":"24.6834","name":"李藥局","id":"5935050280","tel":"037601248","addr":"苗栗縣頭份市珊湖里中正三路218號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑販賣時段：07:30-開始 營業期間 售完為止"},
 {"lng":"120.908896","lat":"24.6865999","name":"康利藥局","id":"5935050306","tel":"037666101","addr":"苗栗縣頭份市忠孝里仁愛路86號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩於週一至週六早上八點開始販售~售完為止，週日公休。"},
 {"lng":"120.9075","lat":"24.68572","name":"富優藥局","id":"5935051545","tel":"037681635","addr":"苗栗縣頭份市中華路930號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩販賣時段：14:30至售完"},
 {"lng":"120.9068","lat":"24.68561","name":"康寧藥局","id":"5935051616","tel":"037594173","addr":"苗栗縣頭份市中華路997號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩販售時間為每日08:10開始， 星期日休息"},
