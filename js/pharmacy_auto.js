@@ -885,6 +885,7 @@ locations = [
 {"lng":"120.6841","lat":"24.12652","name":"旭康藥局","id":"5903250550","tel":"0422857372","addr":"臺中市南區台中路380號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩每天早上8點販售"},
 {"lng":"120.6583","lat":"24.12491","name":"樂碩藥局","id":"5903250578","tel":"0422601288","addr":"臺中市南區建國南路一段259號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售，售完為止"},
 {"lng":"120.6698","lat":"24.11692","name":"俊達藥師藥局","id":"5903250587","tel":"0422650023","addr":"臺中市南區五權南路529號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"120.6564","lat":"24.11572","name":"白金藥局","id":"5903250596","tel":"0422609879","addr":"臺中市南區復興路一段380號4樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.6666","lat":"24.11516","name":"尚尚藥局","id":"5903250603","tel":"0422606831","addr":"臺中市南區美村南路197號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一至週六下午3點販售實名制快篩，週日休診"},
 {"lng":"120.683","lat":"24.1339","name":"杏一南區台中藥局","id":"5903250612","tel":"0422220652","addr":"臺中市南區台中路66、68號1樓","business_week":"XXXXXXXOOOOOOOXXXXXXX","memo":"每日下午4點開始販售實名制快篩，售完為止。一人一卡一盒"},
 {"lng":"120.6592","lat":"24.11688","name":"澄光工學藥局","id":"5903250630","tel":"0422620606","addr":"臺中市南區工學路159號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
