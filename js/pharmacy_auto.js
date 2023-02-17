@@ -3464,6 +3464,7 @@ locations = [
 {"lng":"120.965601","lat":"23.965186","name":"埔里能安藥局","id":"5938022126","tel":"0492986578","addr":"南投縣埔里鎮西安路一段66號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.9658","lat":"23.96401","name":"草新健保藥局","id":"5938022135","tel":"0492901689","addr":"南投縣埔里鎮中山路二段390號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販售時間：週一到週日早上九點半開始販售，沒有發放號碼牌，售完為止。"},
 {"lng":"120.963","lat":"23.97257","name":"誠光藥局","id":"5938022153","tel":"0492987721","addr":"南投縣埔里鎮中正路599號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期1-6發放實名制快篩，時間依快篩到貨時間調整，星期日公休。"},
+{"lng":"120.9942","lat":"23.93519","name":"博今藥局","id":"5938022171","tel":"0492926689","addr":"南投縣埔里鎮東潤路20號","business_week":"OOOOOOOOOOOOOXXXXXXXX"},
 {"lng":"120.682801","lat":"23.978534","name":"萬壽堂藥局","id":"5938030057","tel":"0492333570","addr":"南投縣草屯鎮中山街211號","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"販售時間：週一 至 週六 早上8:00【萬壽堂 祝您 順心"},
 {"lng":"120.6839","lat":"23.98232","name":"國聖藥局","id":"5938030084","tel":"0492305685","addr":"南投縣草屯鎮芬草路1段35號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"執業時間銷售家用快篩，售完為止"},
 {"lng":"120.6845","lat":"23.98124","name":"環球大藥局","id":"5938030100","tel":"0492356485","addr":"南投縣草屯鎮中正路753號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"*0-6歲幼兒免費快篩跟實名制快篩 周一至周日全天 販售 售完為止"},
