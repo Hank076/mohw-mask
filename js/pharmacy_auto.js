@@ -2121,6 +2121,7 @@ locations = [
 {"lng":"121.474157","lat":"25.002649","name":"順儷民享藥局","id":"5931045505","tel":"0222222825","addr":"新北市中和區民享街53號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售時間每日09:30-21:30"},
 {"lng":"121.5054","lat":"24.98444","name":"富康活力華興藥局","id":"5931045541","tel":"0229450988","addr":"新北市中和區興南路2段92號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5386","lat":"24.95636","name":"仁淵藥局","id":"5931050033","tel":"0229128204","addr":"新北市新店區北宜路1段77號","business_week":"OOOOOOXOOOOOOXOOOOOOO","memo":"實名制快篩每日早上9點開始販售 . 謝謝大家"},
+{"lng":"121.5412","lat":"24.981","name":"再生藥局","id":"5931050131","tel":"0229113781","addr":"新北市新店區北新路3段65巷9號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5432","lat":"24.97978","name":"耀生中西藥局","id":"5931050211","tel":"0229118598","addr":"新北市新店區文化路21巷6號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.515943","lat":"24.965937","name":"瑞欣藥局","id":"5931050364","tel":"0222112723","addr":"新北市新店區吉安街33號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩現場直接開始販售無發號碼牌，售完為止 （星期日無販售）週一到週六營業"},
 {"lng":"121.5417","lat":"24.98174","name":"世明藥局","id":"5931050417","tel":"0229122139","addr":"新北市新店區北新路3段120號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
