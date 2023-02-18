@@ -3975,7 +3975,7 @@ locations = [
 {"lng":"120.5796","lat":"22.69815","name":"繁華藥局","id":"5943061144","tel":"087626055","addr":"屏東縣長治鄉繁華路269號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業日7:30~8:30; 15:00~20:00為販賣口罩時間. 週六7:30-9:00"},
 {"lng":"120.57614","lat":"22.703361","name":"宏大健保藥局繁華店","id":"5943061153","tel":"087620695","addr":"屏東縣長治鄉繁隆村中山路30號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間8:00-20:00，一年365天全年無休"},
 {"lng":"120.528085","lat":"22.652774","name":"泰安藥局","id":"5943070027","tel":"087221543","addr":"屏東縣麟洛鄉麟頂村民生路26號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"7:30--21:00  7:30開始"},
-{"lng":"120.524681","lat":"22.652512","name":"立登藥局","id":"5943071088","tel":"087213590","addr":"屏東縣麟洛鄉中山路256之1號","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"星期一到星期日早上8點開始販售"},
+{"lng":"120.524681","lat":"22.652512","name":"立登藥局","id":"5943071088","tel":"087213590","addr":"屏東縣麟洛鄉中山路256之1號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"星期一到星期日早上8點開始販售"},
 {"lng":"120.4888","lat":"22.73183","name":"穎昇藥局","id":"5943081146","tel":"087393672","addr":"屏東縣九如鄉九如路二段131號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"販賣實名制快篩時間，中午12點開始至售完為止。"},
 {"lng":"120.4888","lat":"22.7316","name":"信昌藥局","id":"5943081155","tel":"087397337","addr":"屏東縣九如鄉九如路2段119號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"自5／6起實名制快篩販賣時間:早上8:30開始.售完為止"},
 {"lng":"120.4893","lat":"22.73311","name":"九如藥局","id":"5943081164","tel":"087397777","addr":"屏東縣九如鄉九如路二段230號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
