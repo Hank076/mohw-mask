@@ -3520,6 +3520,7 @@ locations = [
 {"lng":"120.5996","lat":"23.70252","name":"保健藥局","id":"5939012179","tel":"055576037","addr":"雲林縣斗六市梅林路283號","business_week":"OOOOOXXOOOOOXXOOOOOXX"},
 {"lng":"120.5417","lat":"23.71444","name":"上海啄木鳥藥局","id":"5939012188","tel":"055374296","addr":"雲林縣斗六市上海路234號","business_week":"OOOOOOOOOOOOOOXXXXXXX"},
 {"lng":"120.5369","lat":"23.69934","name":"啄木鳥藥局","id":"5939012222","tel":"055344030","addr":"雲林縣斗六市民生南路262號","business_week":"OOOOOOOOOOOOOOXXXXXXX"},
+{"lng":"120.5311","lat":"23.70307","name":"究安藥局","id":"5939012240","tel":"055375697","addr":"雲林縣斗六市雲林路二段202號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"今日快篩發貨，請到現場拿貨.，不要電話諮詢，人力不夠"},
 {"lng":"120.5419","lat":"23.71457","name":"北友藥局","id":"5939012302","tel":"055349507","addr":"雲林縣斗六市上海路242號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.544639","lat":"23.710215","name":"瑞安藥局","id":"5939012320","tel":"055373085","addr":"雲林縣斗六市中正路15號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"快篩發放時間：早上8:30點 ~ 發完為止"},
 {"lng":"120.542","lat":"23.70989","name":"永光藥局","id":"5939012339","tel":"055379939","addr":"雲林縣斗六市中山路9號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"※供貨正常，早上八點開始販售，售完為止。"},
