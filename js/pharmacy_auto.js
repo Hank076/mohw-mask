@@ -978,6 +978,7 @@ locations = [
 {"lng":"120.684964","lat":"24.169617","name":"崇德藥局","id":"5903290965","tel":"0422361331","addr":"臺中市北屯區崇德路二段31號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.6944","lat":"24.17431","name":"興安永佳藥局","id":"5903290974","tel":"0422437876","addr":"臺中市北屯區興安路一段333號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天上午10:00至晚間21:00販售，售完為止"},
 {"lng":"120.6829","lat":"24.1917","name":"益川健保藥局","id":"5903290992","tel":"0424213696","addr":"臺中市北屯區昌平路二段47-1號1樓","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"快篩試劑隨時現場販售，售完為止，星期日下午3點半開始販售"},
+{"lng":"120.6863","lat":"24.18001","name":"五和健保藥局","id":"5903291006","tel":"0422415533","addr":"臺中市北屯區崇德路二段460號1樓","business_week":"OOOOOXOOOOOOXOOOOOOXO","memo":"週六公休 。周一至周五 14:30 發號碼牌 14:40販售； 週日 8:30發號碼牌 隨後販售"},
 {"lng":"120.7004","lat":"24.17913","name":"全成北屯藥局","id":"5903291042","tel":"0422463518","addr":"臺中市北屯區北屯路439-11號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.6895","lat":"24.18192","name":"大樹北屯藥局","id":"5903291060","tel":"0422422262","addr":"臺中市北屯區松竹路二段411號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.6947","lat":"24.17686","name":"富丘藥局","id":"5903291079","tel":"0422477301","addr":"臺中市北屯區興安路二段77號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩試劑早上08:30販售"},
