@@ -3810,6 +3810,7 @@ locations = [
 {"lng":"120.3901","lat":"22.50328","name":"金高泰藥局","id":"5942051546","tel":"076429592","addr":"高雄市林園區東林西路210號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.3964","lat":"22.50372","name":"健人藥師藥局","id":"5942051555","tel":"076463158","addr":"高雄市林園區東林里東林東路20號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制防疫快篩販售時間:周一 ~六:下午2點~4點，周日不販售"},
 {"lng":"120.3964","lat":"22.6036","name":"福民藥局","id":"5942060027","tel":"077816570","addr":"高雄市大寮區鳳林三路408號之1","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"1／22 1／23中午12:00~16:00休息"},
+{"lng":"120.4215","lat":"22.641","name":"德恩藥局","id":"5942060054","tel":"076513778","addr":"高雄市大寮區義和路192號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制早上七點開始販售 售完為止"},
 {"lng":"120.3936","lat":"22.63664","name":"洋洋藥局","id":"5942060152","tel":"077034256","addr":"高雄市大寮區中庄里鳳屏一路512號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.3979","lat":"22.6013","name":"信元藥師藥局","id":"5942060161","tel":"077836313","addr":"高雄市大寮區鳳林三路329號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"政府實名制及0~6歲幼兒、65歲以上免費快篩為全天販售，售完為止"},
 {"lng":"120.3835","lat":"22.61913","name":"金發藥局","id":"5942060278","tel":"077862818","addr":"高雄市大寮區中興里鳳林四路268號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"連續處方免費領藥"},
