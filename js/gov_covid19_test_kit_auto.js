@@ -599,7 +599,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.295132","lat":"22.797674","name":"黃耳鼻喉科診所","id":"3542020130","tel":"076230011","addr":"高雄市岡山區岡山路347-1號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"02／28上午看診下午晚上休診."},
 {"lng":"120.288569","lat":"22.794696","name":"黃子育診所","id":"3542020676","tel":"076270101","addr":"高雄市岡山區前峰路39號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期日不看診＞ 星期一至星期六 （早上8:00 12:00下午4:00晚上9:00）"},
 {"lng":"120.298665","lat":"22.793821","name":"吳宗慶診所","id":"3542020738","tel":"076229828","addr":"高雄市岡山區中山北路47號","business_week":"OOOOOOOOOOOOOXOOOOOOO"},
-{"lng":"120.294884","lat":"22.790766","name":"黃仲達診所","id":"3542022303","tel":"076297895","addr":"高雄市岡山區柳橋東路9-2號","business_week":"OOOOOOOOXOXOXXOXOXOOO","memo":"112／02／12星期日晚上休診"},
+{"lng":"120.294884","lat":"22.790766","name":"黃仲達診所","id":"3542022303","tel":"076297895","addr":"高雄市岡山區柳橋東路9-2號","business_week":"OOOOOOOOXOXOXXOXOXOOO","memo":"112／03／05及112／03／12兩天全日休診"},
 {"lng":"120.395045","lat":"22.50769","name":"黃英豪診所","id":"3542050361","tel":"076412134","addr":"高雄市林園區林園北路188號","business_week":"OOOOOOOOOOOOXXXXXXXXX","memo":"早上8點到12點，下午2點到6點（星期六.日上午11-12點防疫特別門診）星期日休診＞"},
 {"lng":"120.396568","lat":"22.50376","name":"建芳診所","id":"3542052034","tel":"076467666","addr":"高雄市林園區東林東路28號","business_week":"OOOOOOXOOOOOXXOXXXOXX"},
 {"lng":"120.397711","lat":"22.601503","name":"宜和內兒科診所","id":"3542060189","tel":"077816825","addr":"高雄市大寮區鳳林三路341號","business_week":"OOOOOOOOOOOOXXOOXOOXX"},
