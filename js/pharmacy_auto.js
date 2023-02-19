@@ -682,6 +682,7 @@ locations = [
 {"lng":"120.3247","lat":"22.60678","name":"晏昇藥局","id":"5902092643","tel":"077235136","addr":"高雄市前鎮區凱旋三路81號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"快篩代售時間:早上8:30"},
 {"lng":"120.3346","lat":"22.60931","name":"廣泰藥局","id":"5902092896","tel":"077162166","addr":"高雄市前鎮區瑞北路56號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩實名制早上11點販賣  星期日停賣"},
 {"lng":"120.3165","lat":"22.61293","name":"健家藥局","id":"5902092910","tel":"073389986","addr":"高雄市前鎮區二聖二路45號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"周一至周六，早上9:00營業"},
+{"lng":"120.3082","lat":"22.58819","name":"慈濟健保藥局","id":"5902092956","tel":"078159788","addr":"高雄市前鎮區鎮州路211號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天早上8點開始賣.售完為止藥局販售口罩時間，依藥局門口公告時間為主(售完為止)"},
 {"lng":"120.2705","lat":"22.61096","name":"旗后藥局","id":"5902100033","tel":"075715838","addr":"高雄市旗津區中洲三路715號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.2736","lat":"22.60608","name":"千佑藥局","id":"5902100042","tel":"075712619","addr":"高雄市旗津區復興里中洲三路513號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"2月1日-2月28日早上08.31至10.30為販賣快篩時間"},
 {"lng":"120.3477","lat":"22.56534","name":"鳳明中西大藥局","id":"5902110093","tel":"078011846","addr":"高雄市小港區二苓路247號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
