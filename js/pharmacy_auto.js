@@ -1193,6 +1193,7 @@ locations = [
 {"lng":"120.3025","lat":"22.79689","name":"大德藥局","id":"5907020085","tel":"076221456","addr":"高雄市岡山區大德一路98號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.2967","lat":"22.78913","name":"大樹岡山藥局","id":"5907020094","tel":"076219477","addr":"高雄市岡山區岡山路136號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.48199","lat":"22.88873","name":"睛好活力藥局","id":"5907030090","tel":"076625119","addr":"高雄市旗山區湄洲里中山路127號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.4828","lat":"22.87904","name":"旗山啄木鳥藥局","id":"5907030134","tel":"076625728","addr":"高雄市旗山區中華路1050號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，早上10:30開始販售（若當天配送延誤，時間另行公布"},
 {"lng":"120.484082","lat":"22.880268","name":"旗山藥局","id":"5907030152","tel":"076621158","addr":"高雄市旗山區中華路23號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.5393","lat":"22.90148","name":"寶樹藥局","id":"5907040014","tel":"076812323","addr":"高雄市美濃區中山路1段88號","business_week":"OOOOOOXOOOOOOXXXXXXXX","memo":"營業日08:00~19:00"},
 {"lng":"120.5704","lat":"22.87774","name":"大佳藥局","id":"5907040023","tel":"076852988","addr":"高雄市美濃區獅山里中華路59-7號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"營業日 08:30  販售快篩，售完為止。"},
