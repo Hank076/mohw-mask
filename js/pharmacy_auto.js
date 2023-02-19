@@ -3458,6 +3458,7 @@ locations = [
 {"lng":"120.6836","lat":"23.75612","name":"博愛藥局","id":"5938041845","tel":"0492642748","addr":"南投縣竹山鎮雲林路35號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"0830AM開始販售，售完為止"},
 {"lng":"120.6834","lat":"23.75737","name":"明仁藥局","id":"5938041881","tel":"0492659650","addr":"南投縣竹山鎮集山路三段948-2號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"防疫口罩販售時間：每日上午9時至12時"},
 {"lng":"120.6862","lat":"23.7596","name":"耀聖藥局","id":"5938041925","tel":"0492652267","addr":"南投縣竹山鎮集山路三段816之5號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"10點開始販售快篩，售完為止"},
+{"lng":"120.7513","lat":"23.83479","name":"永明藥局","id":"5938050077","tel":"0492781456","addr":"南投縣集集鎮田寮里龍泉巷6-1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"1月10日起65歲以上長輩6歲以下領一盒免費快篩! 請來電!祝大家平安!"},
 {"lng":"120.779","lat":"23.82647","name":"家禾藥局","id":"5938050120","tel":"0492760565","addr":"南投縣集集鎮民生路237號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩代售：w1~w5 下午2：00（當場發放號碼牌，而後當場代售）"},
 {"lng":"120.7881","lat":"23.8287","name":"省安藥局","id":"5938050139","tel":"0492763442","addr":"南投縣集集鎮民生路31號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"上午09-10至12點  下午3~7點  晚上7:30~8:00"},
 {"lng":"120.7034","lat":"23.83741","name":"召安藥局","id":"5938060180","tel":"0492737976","addr":"南投縣名間鄉彰南路30之1號","business_week":"OOOOOXOOOOOOXOOOOOOXO","memo":"實名制快篩週日~週五早上8:40開賣 . 週六店休停賣"},
