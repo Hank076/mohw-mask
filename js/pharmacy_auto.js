@@ -2553,6 +2553,7 @@ locations = [
 {"lng":"121.2394","lat":"24.95276","name":"日進藥局","id":"5932020360","tel":"034569132","addr":"桃園市中壢區中山東路二段156號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"營業時間每日0800~2130 週日下午休"},
 {"lng":"121.2587","lat":"24.97445","name":"禾安藥局","id":"5932020502","tel":"034627066","addr":"桃園市中壢區福德路52號1F","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩實名制:早上八點營業（售完為止）週日公休"},
 {"lng":"121.2162","lat":"24.95848","name":"生富藥師藥局","id":"5932020548","tel":"034941475","addr":"桃園市中壢區新明里中央西路二段76號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.1939","lat":"24.97931","name":"國泰藥局","id":"5932020575","tel":"034937136","addr":"桃園市中壢區中正路342號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.2508","lat":"24.97918","name":"崧德堂藥局","id":"5932020691","tel":"034555035","addr":"桃園市中壢區文化路362號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販賣時段：5／6 日起.早上約8點開始領取."},
 {"lng":"121.2603","lat":"24.94865","name":"廣怡藥局","id":"5932021036","tel":"034366885","addr":"桃園市中壢區華勛街256號","business_week":"OOOOOXOOOOOOXXOOOOOOX","memo":"快篩販賣時段：開賣時間周一~周日 早上８開賣"},
 {"lng":"121.2233","lat":"24.94962","name":"井田藥局","id":"5932021045","tel":"034572003","addr":"桃園市中壢區東興里中北路二段八號一樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩快篩販賣時段：等有空閒就賣"},
