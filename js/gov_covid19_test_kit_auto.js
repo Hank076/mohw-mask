@@ -128,7 +128,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.315601","lat":"22.685597","name":"福山診所","id":"3502033297","tel":"073482323","addr":"高雄市左營區重愛路218號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.307306","lat":"22.666858","name":"富誠診所","id":"3502033420","tel":"075560925","addr":"高雄市左營區富國路355號1樓","business_week":"OOOOOXOOOOOOXOOOOOOXO"},
 {"lng":"120.303945","lat":"22.726113","name":"陳顯明診所","id":"3502040667","tel":"073648127","addr":"高雄市楠梓區德賢路265號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"02／25上午看診，02／27全天看診，02／28 早午看診，晚上休診"},
-{"lng":"120.28898","lat":"22.715042","name":"康東原診所","id":"3502040685","tel":"073610115","addr":"高雄市楠梓區右昌街376號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"1／2 元旦補假 全日看診 1／1 1／8 1／15 1／29 週日 上午門診"},
+{"lng":"120.28898","lat":"22.715042","name":"康東原診所","id":"3502040685","tel":"073610115","addr":"高雄市楠梓區右昌街376號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.298573","lat":"22.724916","name":"長義診所","id":"3502042296","tel":"073640553","addr":"高雄市楠梓區惠民路46號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.321659","lat":"22.648641","name":"蕭瑞榮小兒科診所","id":"3502051375","tel":"073867121","addr":"高雄市三民區建工路533號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"1／21上午開診、1／22、1／23、1／24全日休診、1／25上午開診、1／26上午開診"},
 {"lng":"120.318738","lat":"22.640239","name":"儲昭仁耳鼻喉科診所","id":"3502052345","tel":"073890470","addr":"高雄市三民區九如一路854號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
