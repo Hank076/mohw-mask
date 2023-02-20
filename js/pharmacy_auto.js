@@ -3495,6 +3495,7 @@ locations = [
 {"lng":"120.478","lat":"23.67642","name":"庚辛藥局","id":"5939021490","tel":"055953776","addr":"雲林縣斗南鎮中正路139-1號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週一~週六早上8:30開始販售，售完為止。週日早上8:30~中午12:00販售，週日中午過後公休。"},
 {"lng":"120.4771","lat":"23.68043","name":"感恩藥局","id":"5939021534","tel":"055955216","addr":"雲林縣斗南鎮中山路223號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.4786","lat":"23.67841","name":"惠宏藥局","id":"5939021543","tel":"055953727","addr":"雲林縣斗南鎮延平路2段264號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"0-6歲免費快篩下午2點販售"},
+{"lng":"120.4789","lat":"23.67575","name":"民安藥局","id":"5939021552","tel":"055972076","addr":"雲林縣斗南鎮中山路89號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"過年期間營業時間:08:00~12:00 14:30~20:00"},
 {"lng":"120.4788","lat":"23.6732","name":"聖安藥局","id":"5939021561","tel":"055954652","addr":"雲林縣斗南鎮南昌里南昌路130號","business_week":"OOOOOOOOOOOOOOOOOOOXO"},
 {"lng":"120.479","lat":"23.67382","name":"他里霧藥局","id":"5939021570","tel":"055950560","addr":"雲林縣斗南鎮民權路19號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"120.4781","lat":"23.67661","name":"沈藥局","id":"5939021623","tel":"055972748","addr":"雲林縣斗南鎮中正路176號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"[免費領用、購買實名制快篩] （一）~（五）7:30AM-21:30PM；（六）（日）8:00AM-21:30PM"},
