@@ -1699,6 +1699,7 @@ locations = [
 {"lng":"120.2015","lat":"22.99942","name":"吉安藥局","id":"5921050094","tel":"062227394","addr":"臺南市中西區薘壺里成功路289號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.2108","lat":"22.98881","name":"金德藥局","id":"5921050138","tel":"062149082","addr":"臺南市中西區府前路1段33號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"星期一-日08:00-23:00"},
 {"lng":"120.2008","lat":"22.99758","name":"春天藥局","id":"5921050174","tel":"062221562","addr":"臺南市中西區民族路2段274號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"上午10 :00開始，售完為止，周日停售。"},
+{"lng":"120.2045","lat":"22.99468","name":"吉仁大藥局","id":"5921050423","tel":"062263777","addr":"臺南市中西區白金里民權路2段86號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.2095","lat":"22.99747","name":"丞功藥局","id":"5921051582","tel":"062287641","addr":"臺南市中西區成功路31號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.2046","lat":"23.0272","name":"翰昌藥局","id":"5921060072","tel":"062596372","addr":"臺南市安南區溪東里北安路二段119號","business_week":"OOOOOOXOOOOOOXOOXOOXX"},
 {"lng":"120.2189","lat":"23.06309","name":"守利藥局","id":"5921060116","tel":"063559347","addr":"臺南市安南區卅南里安和路4段616號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩實名制 星期一~六  9:00~售完"},
