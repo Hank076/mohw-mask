@@ -655,6 +655,7 @@ locations = [
 {"lng":"120.3195","lat":"22.61858","name":"功安中西大藥局","id":"5902080803","tel":"077215949","addr":"高雄市苓雅區三多二路291號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.2983","lat":"22.6131","name":"福興藥局","id":"5902080858","tel":"073331862","addr":"高雄市苓雅區成功一路52號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"營業時間9-21.2／16.2／17兩天9-12時特休13時開始營業."},
 {"lng":"120.3253","lat":"22.61276","name":"明群藥局","id":"5902081015","tel":"077254953","addr":"高雄市苓雅區英明路54號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"午休時間13:00~~14:30"},
+{"lng":"120.3315","lat":"22.62306","name":"寶麒藥局","id":"5902081186","tel":"077610355","addr":"高雄市苓雅區三多一路144號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.3313","lat":"22.62258","name":"東信藥局","id":"5902081328","tel":"077613309","addr":"高雄市苓雅區三多一路189號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上8:30開始發送號碼牌販售口罩，售完為止，假日正常販售"},
 {"lng":"120.2969","lat":"22.61696","name":"順一藥局","id":"5902083457","tel":"073330011","addr":"高雄市苓雅區田西里成功一路210號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"營業時間早上8點30 至12點下午3點至9點(12點至3點休息)"},
 {"lng":"120.3192","lat":"22.62258","name":"健智藥局","id":"5902083582","tel":"077249153","addr":"高雄市苓雅區四維二路96之2號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業日8:30~12:00為販賣快篩時間.售完為止"},
