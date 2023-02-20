@@ -2042,6 +2042,7 @@ locations = [
 {"lng":"121.4651","lat":"24.99646","name":"捷勝藥師藥局","id":"5931043690","tel":"0229646225","addr":"新北市中和區華順街122號〈1樓〉","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.5091","lat":"24.99895","name":"宜安健康人生藥局","id":"5931043770","tel":"0229224648","addr":"新北市中和區宜安路162號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5176","lat":"24.99222","name":"永成藥局","id":"5931043798","tel":"0229407619","addr":"新北市中和區景平路156號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.4833","lat":"24.99555","name":"良安藥局","id":"5931043921","tel":"0222225798","addr":"新北市中和區連城路477巷1號1樓","business_week":"XXXXXXXOOOOOXXOOOOOXX"},
 {"lng":"121.5038","lat":"24.99671","name":"詠邑藥局","id":"5931043976","tel":"0222445630","addr":"新北市中和區南華路43號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.4696","lat":"25.00398","name":"宥元藥局","id":"5931044044","tel":"0289535473","addr":"新北市中和區德光路62號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週一至周六10:30-22:00發放快篩"},
 {"lng":"121.5109","lat":"24.98843","name":"康富力藥局","id":"5931044133","tel":"0229429896","addr":"新北市中和區仁愛街32號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩代售時間：周一至周五9:30、週末14:00"},
