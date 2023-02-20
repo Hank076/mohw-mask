@@ -2816,6 +2816,7 @@ locations = [
 {"lng":"121.084691","lat":"24.736779","name":"國豐大藥局","id":"5933031741","tel":"035960360","addr":"新竹縣竹東鎮長春路三段6號","business_week":"XXXOXXXXXXOXXXXXXOXXX"},
 {"lng":"121.0882","lat":"24.73729","name":"仁愛藥局","id":"5933031750","tel":"035953458","addr":"新竹縣竹東鎮商華街33號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"星期日不定期營業。口罩販賣時段：星期一至六10:00-12:00"},
 {"lng":"121.0916","lat":"24.73705","name":"樂安藥師藥局","id":"5933031778","tel":"035101941","addr":"新竹縣竹東鎮東林路89號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"實名制快篩販售時間 星期一-六14:00，星期日不販售"},
+{"lng":"121.0886","lat":"24.73365","name":"順佳藥局","id":"5933031830","tel":"035957908","addr":"新竹縣竹東鎮工業一路6-5號","business_week":"XOXOOOXXOXOOOXOOOOOXX","memo":"實名制快篩，每日上午9:00開始。"},
 {"lng":"121.09126","lat":"24.736829","name":"東林藥局","id":"5933031885","tel":"035961321","addr":"新竹縣竹東鎮東林路80號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.9968","lat":"24.84255","name":"健新藥局","id":"5933050102","tel":"035527300","addr":"新竹縣竹北市中正西路271號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩6歲以下65歲以上免費領.營業時間9-21領售...免排隊購買..."},
 {"lng":"121.002758","lat":"24.840274","name":"六久藥局","id":"5933050111","tel":"035557485","addr":"新竹縣竹北市新社里華興街148號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩，週一至週日營業時間內皆有販售."},
