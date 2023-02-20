@@ -4028,6 +4028,7 @@ locations = [
 {"lng":"121.5945","lat":"23.98501","name":"小叮噹藥局","id":"5945051271","tel":"038576886","addr":"花蓮縣吉安鄉建國路1段63號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"星期一至星期六早上8:30左右開始領購快篩"},
 {"lng":"121.5743","lat":"23.99297","name":"荃安藥局","id":"5945051388","tel":"038579317","addr":"花蓮縣吉安鄉建國路二段277-1號","business_week":"OOOOOOXOOOOOXXOOOOOOX"},
 {"lng":"121.5708","lat":"23.97767","name":"洄瀾藥局","id":"5945051520","tel":"038525217","addr":"花蓮縣吉安鄉中山路三段279號","business_week":"OOOOOOXOOXOOXXOOXOOXX"},
+{"lng":"121.585","lat":"23.97395","name":"宜康藥局","id":"5945051575","tel":"038512980","addr":"花蓮縣吉安鄉中華路二段134號","business_week":"OOOOOOXXXXXXXXOOOOOXX"},
 {"lng":"121.5939","lat":"23.98513","name":"安欣藥局","id":"5945051584","tel":"038563186","addr":"花蓮縣吉安鄉建國路一段79號","business_week":"OOOOOOXXXXXXXXOOOOOOX"},
 {"lng":"121.5712","lat":"23.97783","name":"仁愛藥局","id":"5945051619","tel":"038511635","addr":"花蓮縣吉安鄉慶豐村中山路三段280號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"121.5915","lat":"23.98574","name":"花蓮建國藥局","id":"5945051646","tel":"038461699","addr":"花蓮縣吉安鄉建國路1段137-1號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
