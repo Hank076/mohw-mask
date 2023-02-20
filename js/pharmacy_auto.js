@@ -1779,6 +1779,7 @@ locations = [
 {"lng":"120.4452","lat":"23.4757","name":"健安藥局","id":"5922028925","tel":"052281219","addr":"嘉義市西區民族路626號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩:星期一至星期六9點-12點，15點-21點"},
 {"lng":"120.44904","lat":"23.47605","name":"萬泰藥師藥局","id":"592202A054","tel":"052168605","addr":"嘉義市西區民族路494號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.44352","lat":"23.47554","name":"秉原藥局","id":"592202A296","tel":"052285811","addr":"嘉義市西區書院里民族路700號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.4443","lat":"23.49355","name":"力健藥局","id":"592202A349","tel":"052323217","addr":"嘉義市西區文化路591號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間為早上8:00至中午13:00，下午2:30至晚上9:30，口罩發放從早上8:30至售完為止"},
 {"lng":"120.4386","lat":"23.4854","name":"國豐藥局","id":"592202A358","tel":"052318473","addr":"嘉義市西區北興街245-2號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"週一至週六上午8:30開始販售，無號碼牌（週六下午及例假日停售）"},
 {"lng":"120.4421","lat":"23.47842","name":"廣元藥局","id":"592202A465","tel":"052252733","addr":"嘉義市西區民安里中正路697號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"5／6（五）起，實名制快篩早上8:30開賣~售完為止!"},
 {"lng":"120.4306","lat":"23.48982","name":"徠的安藥師藥局","id":"592202A518","tel":"052318532","addr":"嘉義市西區保安里世賢路1段6鄰549號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
