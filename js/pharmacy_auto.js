@@ -23,6 +23,7 @@ locations = [
 {"lng":"120.7657","lat":"23.881","name":"南投縣中寮鄉衛生所","id":"2338080016","tel":"0492691404","addr":"南投縣中寮鄉永平村永昌街102號","business_week":"OOOOOXXXXXXXXXXXXXXXX"},
 {"lng":"120.85472","lat":"23.696529","name":"南投縣信義鄉衛生所","id":"2338120015","tel":"0492791148","addr":"南投縣信義鄉明德村玉山路45號","business_week":"OOOOOXOOOOOOXOOOOOXOO","memo":"快篩試劑販售時間星期一至星期五上午09：00-11：00，現場排隊發售，國定假日不販賣。增加販售點請至本所網站參閱。"},
 {"lng":"120.5928","lat":"23.29397","name":"嘉義縣大埔鄉衛生所","id":"2340170016","tel":"052521214","addr":"嘉義縣大埔鄉大埔村53-1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"屆時依現場公告休診時間為主"},
+{"lng":"120.7019","lat":"23.4666","name":"嘉義縣阿里山鄉衛生所","id":"2340180012","tel":"052561573","addr":"嘉義縣阿里山鄉樂野村3鄰97-2號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"阿里山遊樂區"},
 {"lng":"120.2624","lat":"23.23154","name":"臺南市下營區衛生所","id":"2341120010","tel":"066892149","addr":"臺南市下營區營前里中山路二段137號","business_week":"XOXOXXXXXXXXXXXXXXXXX"},
 {"lng":"120.3582","lat":"23.09859","name":"臺南市山上區衛生所","id":"2341220015","tel":"065781013","addr":"臺南市山上區山上里35-2號","business_week":"OOOOOOXXXXXXXXXXXXXXX"},
 {"lng":"120.4859","lat":"23.17477","name":"臺南市楠西區衛生所","id":"2341240017","tel":"065751006","addr":"臺南市楠西區楠西里中正路226號","business_week":"OOOOOXXOOXOXXXXXXXXXX","memo":"購買及發放快篩劑為每周一 至五上午10:30-12:00、228連假休診"},
