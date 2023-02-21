@@ -2216,6 +2216,7 @@ locations = [
 {"lng":"121.4272","lat":"24.99462","name":"樹新藥局","id":"5931071934","tel":"0226821080","addr":"新北市樹林區樹新路30-3號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.3842","lat":"24.94905","name":"綠蘋果藥局","id":"5931071961","tel":"0289706050","addr":"新北市樹林區學勤路597號1樓","business_week":"OOOOOOXOOXOOXXOOOOOXX"},
 {"lng":"121.417633","lat":"24.998564","name":"保康藥局","id":"5931071970","tel":"0286875503","addr":"新北市樹林區保安街1段364號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"1／21休至1／25"},
+{"lng":"121.403","lat":"25.01614","name":"琉璃水藥師藥局","id":"5931072066","tel":"0226764262","addr":"新北市樹林區龍興街21號1樓","business_week":"OOOOOXOXXXXXXXOOOOOXO"},
 {"lng":"121.403","lat":"25.01577","name":"生光堂藥局","id":"5931072191","tel":"0226896504","addr":"新北市樹林區龍興街36號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間販售，售完為止。"},
 {"lng":"121.4159","lat":"24.98048","name":"樹林健業藥局","id":"5931072217","tel":"0286851736","addr":"新北市樹林區東華街89號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4264","lat":"24.99772","name":"彰安藥局","id":"5931072244","tel":"0226827341","addr":"新北市樹林區千歲街82號","business_week":"OOOOOOXOOOOOOXOOOOOOO"},
