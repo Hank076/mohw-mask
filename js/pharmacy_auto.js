@@ -3858,6 +3858,7 @@ locations = [
 {"lng":"120.4787","lat":"22.66225","name":"大林崇大藥局","id":"5943013835","tel":"087517979","addr":"屏東縣屏東市崇武里華盛街7-5號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.4986","lat":"22.67217","name":"復順藥局","id":"5943013853","tel":"087215662","addr":"屏東縣屏東市公園東路84-2號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"自2／11日~12／31日，快篩貨量充足"},
 {"lng":"120.4935","lat":"22.67267","name":"人和藥局","id":"5943013871","tel":"087663883","addr":"屏東縣屏東市林森路54-1號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩試劑每日早上八點開始販售，售完為止"},
+{"lng":"120.484","lat":"22.68769","name":"一二藥局","id":"5943013880","tel":"087324688","addr":"屏東縣屏東市廣東路1094號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"營業時間AM9:30~~PM8:40"},
 {"lng":"120.5092","lat":"22.67687","name":"怡安生活藥粧藥局","id":"5943013915","tel":"087377162","addr":"屏東縣屏東市大連里瑞光路2段138號1樓","business_week":"XXXXXXOOOOOOOOXXXXXXX","memo":"快篩販售時間：週一至週日上午10點販售.現場排隊售完為止，一次僅限一人入場購買。"},
 {"lng":"120.4924","lat":"22.67133","name":"大林藥師藥局","id":"5943013951","tel":"087320680","addr":"屏東縣屏東市平和里仁愛路59號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"平日14:00~21:00為販賣快篩時間，售完為止"},
 {"lng":"120.4838","lat":"22.66998","name":"台大藥師藥局","id":"5943014029","tel":"087330587","addr":"屏東縣屏東市光復路140-3、142號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
