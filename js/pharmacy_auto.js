@@ -1630,7 +1630,7 @@ locations = [
 {"lng":"120.1898","lat":"22.98486","name":"吉祥藥局","id":"5921020149","tel":"062632853","addr":"臺南市南區文南路117號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.18","lat":"22.94471","name":"全民藥局","id":"5921020167","tel":"062625814","addr":"臺南市南區喜東里喜樹路73之18號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"08:00-21:00"},
 {"lng":"120.18","lat":"22.94099","name":"安心藥局","id":"5921020185","tel":"062622570","addr":"臺南市南區喜東里喜樹路151巷33號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
-{"lng":"120.1869","lat":"22.96696","name":"鹽埕藥局","id":"5921020194","tel":"062651961","addr":"臺南市南區白雪里鹽埕路68號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"1／21營業到下午2點"},
+{"lng":"120.1869","lat":"22.96696","name":"鹽埕藥局","id":"5921020194","tel":"062651961","addr":"臺南市南區白雪里鹽埕路68號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"2／25營業到下午2點"},
 {"lng":"120.1761","lat":"22.94113","name":"久芳藥局","id":"5921020256","tel":"062625209","addr":"臺南市南區喜樹路340巷166號","business_week":"XXXXXXOXXXXXXOXXXXXXO","memo":"防疫口罩發放上午八點至下午八點"},
 {"lng":"120.1824","lat":"22.92162","name":"欣昌藥局","id":"5921020336","tel":"062623217","addr":"臺南市南區興南街115號","business_week":"OOOOOOXOOOOOOXOOOOOOO","memo":"週一~週六 早上8：30開始代售實名制快篩試劑"},
 {"lng":"120.1927","lat":"22.9659","name":"日大中西藥局","id":"5921020425","tel":"062612817","addr":"臺南市南區永興一街32號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日08:00~21:30"},
