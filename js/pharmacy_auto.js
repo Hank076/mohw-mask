@@ -1981,7 +1981,7 @@ locations = [
 {"lng":"121.5251","lat":"24.99943","name":"宸安藥局","id":"5931032133","tel":"0222328274","addr":"新北市永和區得和路385號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.513","lat":"25.00471","name":"原大藥局","id":"5931032188","tel":"0229272767","addr":"新北市永和區永和路1段20號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5163","lat":"24.9984","name":"威康藥局","id":"5931032302","tel":"0229461128","addr":"新北市永和區中正路153號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
-{"lng":"121.5177","lat":"25.00123","name":"友辰藥局","id":"5931032759","tel":"0229267131","addr":"新北市永和區中正路380號1樓","business_week":"OOOOOOXOOOOXXXOOOOXXX"},
+{"lng":"121.5177","lat":"25.00123","name":"友辰藥局","id":"5931032759","tel":"0229267131","addr":"新北市永和區中正路380號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"121.5102","lat":"25.00667","name":"華特健康藥局","id":"5931032811","tel":"0229264391","addr":"新北市永和區永貞路362號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販賣時間13:00-15:00"},
 {"lng":"121.512807","lat":"25.013368","name":"上安藥局","id":"5931032875","tel":"0222328565","addr":"新北市永和區仁愛路80號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5171","lat":"25.01162","name":"博輝藥局","id":"5931032955","tel":"0289211766","addr":"新北市永和區中興街60號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"星期日提供急診服務"},
