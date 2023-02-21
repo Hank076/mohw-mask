@@ -1818,6 +1818,7 @@ locations = [
 {"lng":"121.4467","lat":"25.00246","name":"正康健保藥局","id":"5931015687","tel":"0222756681","addr":"新北市板橋區大觀路2段65號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"下午13:30依現場順序開始販售快篩，快篩配送絮亂庫存不準!!"},
 {"lng":"121.477795","lat":"25.027073","name":"新進發大藥局","id":"5931015721","tel":"0222593926","addr":"新北市板橋區大同街24號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.4289","lat":"24.98539","name":"家碩藥局","id":"5931015874","tel":"0226755715","addr":"新北市板橋區金門街300號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.4643","lat":"25.00437","name":"向康藥局","id":"5931015909","tel":"0229637248","addr":"新北市板橋區實踐路147號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.4543","lat":"24.99479","name":"德豐健保藥局","id":"5931015972","tel":"0289675880","addr":"新北市板橋區四川路2段47巷3弄1號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"121.460723","lat":"25.00523","name":"立安中西藥局","id":"5931015981","tel":"0229582241","addr":"新北市板橋區後埔街83號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4657","lat":"25.02457","name":"幸福健保藥局","id":"5931016237","tel":"0222530009","addr":"新北市板橋區四維路106號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
