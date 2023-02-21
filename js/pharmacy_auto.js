@@ -74,6 +74,7 @@ locations = [
 {"lng":"121.5471","lat":"25.05994","name":"萬泰藥局","id":"5901011975","tel":"0227135891","addr":"臺北市松山區敦化北路222巷38號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"每日早上9.00販售快篩試劑"},
 {"lng":"121.5447","lat":"25.05006","name":"博荃藥局","id":"5901012203","tel":"0227316736","addr":"臺北市松山區敦化北路4巷51號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"連假期間皆休診 !"},
 {"lng":"121.5585","lat":"25.05871","name":"家音藥局","id":"5901012409","tel":"0237652080","addr":"臺北市松山區民生東路5段73號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.5461","lat":"25.0562","name":"惠登藥局","id":"5901012516","tel":"0225472432","addr":"臺北市松山區民生東路3段130巷34號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.55355","lat":"25.047007","name":"松田藥局","id":"5901012561","tel":"0225798005","addr":"臺北市松山區延吉街9-6號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"121.5649","lat":"25.06119","name":"予志藥局","id":"5901012570","tel":"0227623522","addr":"臺北市松山區富錦街521號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"營業時間: 星期一到星期六早上9點到晚上9:30、星期天早上9點到晚上6點"},
 {"lng":"121.5766","lat":"25.05021","name":"婕登藥局","id":"5901012598","tel":"0227482893","addr":"臺北市松山區八德路4段699號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
