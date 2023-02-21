@@ -1866,7 +1866,7 @@ locations = [
 {"lng":"121.4637","lat":"25.02386","name":"躍獅新埔藥局","id":"5931017270","tel":"0222543932","addr":"新北市板橋區陽明街47號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.460255","lat":"25.001779","name":"板橋大樹藥局","id":"5931017289","tel":"0229555551","addr":"新北市板橋區忠孝路28號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.45613","lat":"25.018042","name":"台安藥局","id":"5931017341","tel":"0229663600","addr":"新北市板橋區中正路204號1樓、2樓、3樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售時間08-23"},
-{"lng":"121.46543","lat":"25.024992","name":"美康四維藥局","id":"5931017396","tel":"0222506616","addr":"新北市板橋區四維路122號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天提供78份快篩 星期一.三.五單號 二.四.六雙號 星期日不限"},
+{"lng":"121.46543","lat":"25.024992","name":"美康四維藥局","id":"5931017396","tel":"0222506616","addr":"新北市板橋區四維路122號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4748","lat":"25.0161","name":"光鹽藥局","id":"5931017556","tel":"0229552167","addr":"新北市板橋區中山路2段84之2號(2樓)","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.4672","lat":"25.00702","name":"福安藥局","id":"5931017574","tel":"0229540875","addr":"新北市板橋區國泰街76巷24、26號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4654","lat":"25.02222","name":"新埔健保藥局","id":"5931017618","tel":"0222558878","addr":"新北市板橋區自由路2號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
