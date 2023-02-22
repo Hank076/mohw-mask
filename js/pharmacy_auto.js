@@ -1549,6 +1549,7 @@ locations = [
 {"lng":"120.6712","lat":"24.11564","name":"侑民藥局","id":"5917040106","tel":"0422860146","addr":"臺中市南區興大路396巷49號1樓","business_week":"OOOOOOOOOOOOXXOOOOOOO","memo":"週一至週日上午9點販賣防疫快篩試劑"},
 {"lng":"120.670227","lat":"24.124562","name":"和益中西藥局","id":"5917040151","tel":"0422614237","addr":"臺中市南區江川里五權南路224號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"周一至周六早上8點30分開始販售快篩，視情況調整販售時間"},
 {"lng":"120.6702","lat":"24.11416","name":"元聖藥局","id":"5917040302","tel":"0422627468","addr":"臺中市南區積善里五權南路650號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一至週日上午8點 售完為止"},
+{"lng":"120.6665","lat":"24.11425","name":"陳信安藥局","id":"5917040464","tel":"0422619560","addr":"臺中市南區永興里高工路349號","business_week":"XXXXXXXOOOOOOXOOOOOOX"},
 {"lng":"120.6843","lat":"24.13114","name":"荃大藥局","id":"5917041765","tel":"0422858850","addr":"臺中市南區臺中路154號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"防疫快篩販售，早上09:10~10:00止...若貨運延誤，依門市公告販售時間"},
 {"lng":"120.666626","lat":"24.117251","name":"健康人生藥局","id":"5917041836","tel":"0422633936","addr":"臺中市南區美村南路131號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩 9:00開始販售 到20:30!"},
 {"lng":"120.67775","lat":"24.151685","name":"中心藥局","id":"5917050424","tel":"0422012985","addr":"臺中市北區五權路279號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩每日上午8:00發放號碼牌，依序販售。全年無休。"},
