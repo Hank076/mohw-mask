@@ -3185,6 +3185,7 @@ locations = [
 {"lng":"120.548002","lat":"24.074448","name":"原安大藥局","id":"5937013507","tel":"047272817","addr":"彰化縣彰化市南郭路一段180號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"周一至周日 早上8點-晚上10點營業（實名制9:00-21:00）"},
 {"lng":"120.536595","lat":"24.072829","name":"丁丁藥局彰化店","id":"5937013516","tel":"047236140","addr":"彰化縣彰化市曉陽路219號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"固定周一到周日9點開始發號碼牌販賣防疫口罩"},
 {"lng":"120.542352","lat":"24.085524","name":"康好藥局三民店","id":"5937013543","tel":"047281089","addr":"彰化縣彰化市三民路201號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天中午12點~下午2點販售快篩"},
+{"lng":"120.5658","lat":"24.08861","name":"芳澤藥局","id":"5937013552","tel":"047380381","addr":"彰化縣彰化市中山路三段434號","business_week":"OOOOOXXOOOOOXXOOOOOXX"},
 {"lng":"120.53757","lat":"24.084129","name":"友誼藥局彰化店","id":"5937013561","tel":"047288865","addr":"彰化縣彰化市辭修路191-2號","business_week":"OOOOOOOXXXXXXXXXXXXXX","memo":"早上10:30販賣快篩，友誼藥局免費領取連續處方簽，衛生所，牙科單"},
 {"lng":"120.5815","lat":"24.08487","name":"黎明藥局","id":"5937013598","tel":"047320995","addr":"彰化縣彰化市彰南路2段217號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩販售時間：上午8時至11時30分，下午2時30分至5時30分，晚上7時至9時"},
 {"lng":"120.5369","lat":"24.07728","name":"彰化福倫藥局","id":"5937013623","tel":"047233018","addr":"彰化縣彰化市中正路2段224號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"am8:20開始販售快篩，有異動另公布"},
