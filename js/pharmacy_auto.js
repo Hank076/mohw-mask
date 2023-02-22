@@ -603,6 +603,7 @@ locations = [
 {"lng":"120.3352","lat":"22.64301","name":"瑞鶴藥局","id":"5902050298","tel":"073862757","addr":"高雄市三民區寶德里義德路25號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"下午2:00至4:30午休勿擾，每日08:30至21:00發售快篩。"},
 {"lng":"120.3241","lat":"22.64741","name":"日星藥局","id":"5902050350","tel":"073845188","addr":"高雄市三民區寶龍里惠德街38號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"快篩口罩時間:星期一至五16:00-21:00；星期六09:00-11:30，售完為止"},
 {"lng":"120.300957","lat":"22.647659","name":"安成藥局","id":"5902050378","tel":"073229295","addr":"高雄市三民區察哈爾二街63號","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"AM8:30開始販售快篩實名制"},
+{"lng":"120.305551","lat":"22.637383","name":"春仁藥局","id":"5902050412","tel":"073962341","addr":"高雄市三民區覺民路225號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"2／1-2／28時間自9:00-22:30現場排隊.（賣完為止）"},
 {"lng":"120.3036","lat":"22.64137","name":"人禾藥局","id":"5902050467","tel":"073215681","addr":"高雄市三民區達仁里九如二路324號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.3445","lat":"22.64474","name":"澄和藥局","id":"5902050565","tel":"073923111","addr":"高雄市三民區澄和路66號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑- 販售時間自上午10:00起至售完為止"},
 {"lng":"120.310519","lat":"22.644774","name":"建昌藥局","id":"5902050592","tel":"073232356","addr":"高雄市三民區十全一路105號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"賣快篩時間：周一至週日下午1:00開始販售，售完為止。"},
