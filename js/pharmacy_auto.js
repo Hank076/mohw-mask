@@ -3125,6 +3125,7 @@ locations = [
 {"lng":"120.540561","lat":"24.079998","name":"日榮堂藥局","id":"5937010819","tel":"047222396","addr":"彰化縣彰化市光華里和平路50號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日15:30開始販售"},
 {"lng":"120.536861","lat":"24.089358","name":"日光堂藥局彰美分店","id":"5937010908","tel":"047236611","addr":"彰化縣彰化市彰美路1段235號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩週一至週六下午1點半至2點半或7點至8點 兩時段販售\/ 服務時段售完截止 \/ 週日公休"},
 {"lng":"120.5425","lat":"24.06841","name":"尚豪藥局","id":"5937010917","tel":"047113332","addr":"彰化縣彰化市大埔路695號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"周一到周六早上八點到晚上十點販售"},
+{"lng":"120.5455","lat":"24.09625","name":"全杏藥局","id":"5937010999","tel":"047363366","addr":"彰化縣彰化市茄苳路一段299號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期一至五早上8點半星期六早上10點至晚上8點半星期日休息"},
 {"lng":"120.5589","lat":"24.08606","name":"龍美藥局","id":"5937011021","tel":"047249816","addr":"彰化縣彰化市中山路三段228號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"周一至周六08:30-17:00販售   週日有開店才販售剩餘請見店外告示"},
 {"lng":"120.577039","lat":"24.085366","name":"大竹長生藥局","id":"5937011058","tel":"047384176","addr":"彰化縣彰化市彰南路二段8號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩代售全日"},
 {"lng":"120.5793","lat":"24.08538","name":"媽咪藥局","id":"5937012117","tel":"047321517","addr":"彰化縣彰化市彰南路2段115號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"實名制快篩販售"},
