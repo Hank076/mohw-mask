@@ -3186,6 +3186,7 @@ locations = [
 {"lng":"120.4359","lat":"24.05718","name":"康好藥局鹿港店","id":"5937021885","tel":"047772877","addr":"彰化縣鹿港鎮民權路134號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.436705","lat":"24.056028","name":"淳安藥局","id":"5937021894","tel":"047783989","addr":"彰化縣鹿港鎮民族路53號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"星期一至星期六早上8:30發售，售完為止"},
 {"lng":"120.533124","lat":"24.104466","name":"春生藥局新庄店","id":"5937031381","tel":"047330458","addr":"彰化縣和美鎮彰新路二段527、529號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期日停售"},
+{"lng":"120.4957","lat":"24.11575","name":"第一健保藥局","id":"5937031425","tel":"047568492","addr":"彰化縣和美鎮和北里彰美路六段202號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"週一到週五:上午8-12點 下午2-9:30  星期六:上午8-12點 下午2-6:30   星期日公休"},
 {"lng":"120.4931","lat":"24.11421","name":"和美和田藥局","id":"5937031434","tel":"047560377","addr":"彰化縣和美鎮和線路59號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"周一~周日，營業時間09:00開始即開賣公費快篩，售完為止。"},
 {"lng":"120.4965","lat":"24.11445","name":"和美福倫藥局","id":"5937031443","tel":"047569718","addr":"彰化縣和美鎮和北里彰美路6段133號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"周一到周日，早上九點開始販賣實名制快篩"},
 {"lng":"120.4995","lat":"24.1099","name":"春生藥局愛民店","id":"5937031452","tel":"047566092","addr":"彰化縣和美鎮愛民路106號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日早上十點販售快篩試劑，若到貨延遲，則另行公佈販售時間"},
