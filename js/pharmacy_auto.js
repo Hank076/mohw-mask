@@ -3519,6 +3519,7 @@ locations = [
 {"lng":"120.3004","lat":"23.57188","name":"大同瑞安藥局","id":"5939061903","tel":"057831720","addr":"雲林縣北港鎮大同路215號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"販賣快篩時間下午2點開始，售完為止"},
 {"lng":"120.298244","lat":"23.578768","name":"北港啄木鳥藥局","id":"5939061921","tel":"057822795","addr":"雲林縣北港鎮華勝路250號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.5608","lat":"23.64772","name":"廣醫藥局","id":"5939070162","tel":"055829703","addr":"雲林縣古坑鄉西平村中山路219號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
+{"lng":"120.5203","lat":"23.6351","name":"慈生藥局","id":"5939071276","tel":"055828222","addr":"雲林縣古坑鄉麻園村平和22號","business_week":"XXXXXXOXXOOXOOXOOOOOX"},
 {"lng":"120.5619","lat":"23.64612","name":"振明藥局","id":"5939071285","tel":"055821229","addr":"雲林縣古坑鄉中山路170號","business_week":"OOOOOOOOOOOOOOOOOOOXX"},
 {"lng":"120.562","lat":"23.64552","name":"禾安藥局","id":"5939071310","tel":"055828318","addr":"雲林縣古坑鄉朝陽村中山路136-1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩代售時間每日上午8:00發號碼販售，售完為止"},
 {"lng":"120.5675","lat":"23.68493","name":"光明藥局","id":"5939071329","tel":"055263736","addr":"雲林縣古坑鄉東和村文化路139-9號","business_week":"OOOOOXXOOOOOXXOOOOOXX"},
