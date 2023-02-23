@@ -3542,6 +3542,7 @@ locations = [
 {"lng":"120.4594","lat":"23.80118","name":"一生藥局","id":"5939041732","tel":"055862222","addr":"雲林縣西螺鎮延平路234號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間上午8時~下午9時"},
 {"lng":"120.4575","lat":"23.7991","name":"瑞大藥局","id":"5939041778","tel":"055873287","addr":"雲林縣西螺鎮平和路77-1號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.388","lat":"23.6739","name":"健康藥局","id":"5939050044","tel":"056622889","addr":"雲林縣土庫鎮順天里中正路11號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"代售口罩時間早上七點三十五分開始，現場排隊，售完為止"},
+{"lng":"120.3901","lat":"23.67548","name":"土庫台丞藥局","id":"5939051185","tel":"056626677","addr":"雲林縣土庫鎮中正路112號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.3543","lat":"23.706","name":"友杏健康健保藥局","id":"5939051194","tel":"056651758","addr":"雲林縣土庫鎮北平里民權路14號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.357","lat":"23.70561","name":"祥安藥局","id":"5939051229","tel":"056656610","addr":"雲林縣土庫鎮東平里馬光路38-1號","business_week":"OOOOOOXOOOOOXXOXOXOXX"},
 {"lng":"120.3578","lat":"23.70522","name":"祐安藥局","id":"5939051247","tel":"056655938","addr":"雲林縣土庫鎮馬光路39-1號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
