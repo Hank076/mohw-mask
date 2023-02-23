@@ -2048,6 +2048,7 @@ locations = [
 {"lng":"121.523561","lat":"24.991865","name":"吉立藥局","id":"5931040671","tel":"0229450561","addr":"新北市中和區自立路183號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩，每日販售時間早上08:30~賣完為止︿.︿"},
 {"lng":"121.4918","lat":"24.99076","name":"梓芳大藥局","id":"5931040724","tel":"0222405025","addr":"新北市中和區圓通路278號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5065","lat":"24.98507","name":"日發藥局","id":"5931040733","tel":"0229424926","addr":"新北市中和區興南路2段52-4號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"受理各大醫院診所處方籤調劑"},
+{"lng":"121.5216","lat":"24.99394","name":"千大藥局","id":"5931040840","tel":"0229441567","addr":"新北市中和區立人街13號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.494815","lat":"24.992678","name":"祥田藥局","id":"5931041070","tel":"0222452293","addr":"新北市中和區圓通路236號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"周日休息"},
 {"lng":"121.5021","lat":"24.99737","name":"慈光藥局","id":"5931042282","tel":"0222407700","addr":"新北市中和區南山路117號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上9:00營業，週日休息。"},
 {"lng":"121.511","lat":"24.99652","name":"璟福藥局","id":"5931042326","tel":"0229408669","addr":"新北市中和區安平路76號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上8點半開始賣快篩"},
