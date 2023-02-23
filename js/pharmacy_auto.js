@@ -266,6 +266,7 @@ locations = [
 {"lng":"121.6189","lat":"25.07015","name":"康健藥局","id":"5901112593","tel":"0226305825","addr":"臺北市內湖區康樂街80號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.617","lat":"25.06988","name":"富康東湖藥局","id":"5901112682","tel":"0226323222","addr":"臺北市內湖區東湖路119巷49弄16號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5841","lat":"25.0787","name":"樂康藥妝藥局","id":"5901112780","tel":"0226562110","addr":"臺北市內湖區文德路117號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"121.5932","lat":"25.08121","name":"思恩藥局","id":"5901112824","tel":"0227965808","addr":"臺北市內湖區成功路4段61巷26號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"快篩販售時間:禮拜一~五 14:00~17:00"},
 {"lng":"121.5877","lat":"25.06866","name":"展恩藥局","id":"5901112860","tel":"0227953041","addr":"臺北市內湖區民權東路6段136巷4號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩試劑販售時間:每周一至周六早上9:00開始販售，現場排隊，售完為止."},
 {"lng":"121.5996","lat":"25.08488","name":"壹零捌藥局","id":"5901112879","tel":"0227910061","addr":"臺北市內湖區成功路4段344號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.57627","lat":"25.075249","name":"瑞光藥局","id":"5901112977","tel":"0287513365","addr":"臺北市內湖區瑞光路212號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩：平日14:00~20:00；例假日14:00~17:00"},
