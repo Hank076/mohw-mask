@@ -2820,6 +2820,7 @@ locations = [
 {"lng":"121.211624","lat":"24.908268","name":"南勢長青藥師藥局","id":"5932100989","tel":"034030060","addr":"桃園市平鎮區中豐路南勢二段531號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩試劑，平日下午2:30過卡販售!"},
 {"lng":"121.2225","lat":"24.94303","name":"大天藥局","id":"5932101057","tel":"034570818","addr":"桃園市平鎮區金陵路二段6號","business_week":"OOOOOOXOOOOOOXOOOOOOO"},
 {"lng":"121.248564","lat":"24.915533","name":"佳仁藥局","id":"5932101084","tel":"034609335","addr":"桃園市平鎮區平東路243號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售時間週一~周六早上8點開始，週三早上9點30分開始，週日10點30分開始"},
+{"lng":"121.2533","lat":"24.91609","name":"夢田藥局","id":"5932101217","tel":"034601966","addr":"桃園市平鎮區東光路113號1樓","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"實名制快篩販售時間週一週五『早上08:30開始』，一人僅限一張健保卡，請自備500元，不收銅板。售完為止"},
 {"lng":"121.2109","lat":"24.90035","name":"平鎮中豐藥局","id":"5932101226","tel":"034690939","addr":"桃園市平鎮區中豐路山頂段164號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.2096","lat":"24.95077","name":"樂興藥局","id":"5932101235","tel":"034923885","addr":"桃園市平鎮區義興街23號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"","lat":"","name":"新大賀藥局","id":"5932101253","tel":"034927100","addr":"桃園市平鎮區新榮路259號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
