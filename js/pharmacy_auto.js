@@ -3383,6 +3383,7 @@ locations = [
 {"lng":"120.5895","lat":"23.89967","name":"張藥局","id":"5937190107","tel":"048734660","addr":"彰化縣社頭鄉社頭村清水岩路367號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"周一至周六營業時間早上8:00-晚上9:00，周日公休"},
 {"lng":"120.587129","lat":"23.900046","name":"順天藥局二店","id":"5937191131","tel":"048726901","addr":"彰化縣社頭鄉員集路2段297 號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.586599","lat":"23.897138","name":"好生藥局","id":"5937191159","tel":"048739508","addr":"彰化縣社頭鄉社斗路一段261號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩於每日9:00開始販售，下雨或排隊人龍過長稍微提早開始過卡"},
+{"lng":"120.5924","lat":"23.89976","name":"藥典大藥局","id":"5937191195","tel":"048732497","addr":"彰化縣社頭鄉清水岩路239號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"營業時間:早上8點至晚上9:30（週日公休）"},
 {"lng":"120.586846","lat":"23.900713","name":"佳和藥局","id":"5937191248","tel":"048731331","addr":"彰化縣社頭鄉社頭村員集路2段333號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.592","lat":"23.89981","name":"社頭榮生藥局","id":"5937191275","tel":"048732172","addr":"彰化縣社頭鄉清水岩路253號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.5846","lat":"23.89651","name":"社頭藥局","id":"5937191300","tel":"048720030","addr":"彰化縣社頭鄉社斗路一段373號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
