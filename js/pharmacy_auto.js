@@ -3733,6 +3733,7 @@ locations = [
 {"lng":"120.21658","lat":"23.140974","name":"厚真藥局","id":"5941161070","tel":"067962628","addr":"臺南市西港區營西里2鄰後營17號","business_week":"OOOOOOOOOOOOXOOOOOXXX"},
 {"lng":"120.158","lat":"23.20163","name":"年豐藥局","id":"5941181054","tel":"067946247","addr":"臺南市將軍區忠嘉里忠興42-10號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"星期一、四、五、六08:00~09:00 星期二~三08:30~09:30（5／11上午休息）買快篩時間"},
 {"lng":"120.1408","lat":"23.28727","name":"憲宗藥局","id":"5941190017","tel":"067864225","addr":"臺南市北門區東壁里704號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.290186","lat":"23.078825","name":"慶豐綜合藥局","id":"5941200045","tel":"065014888","addr":"臺南市新市區新和里民生路57號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.291845","lat":"23.076525","name":"安麗兒藥局新市店","id":"5941201161","tel":"065012699","addr":"臺南市新市區新和里中正路260號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.4623","lat":"23.12381","name":"玉井藥局","id":"5941230016","tel":"065742271","addr":"臺南市玉井區玉田里中華路47號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"星期一-日07:30-售完"},
 {"lng":"120.464019","lat":"23.125177","name":"博愛中西藥局","id":"5941230052","tel":"065743036","addr":"臺南市玉井區玉田里中正路238號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
