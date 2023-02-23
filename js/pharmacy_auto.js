@@ -1779,6 +1779,7 @@ locations = [
 {"lng":"120.43477","lat":"23.48739","name":"逢春藥局","id":"5922020483","tel":"052326990","addr":"嘉義市西區竹圍里北興街417號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.4344","lat":"23.47431","name":"永安藥局","id":"5922020518","tel":"052358368","addr":"嘉義市西區西平里信義路49之1號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"口罩：星期一至星期日9點販售，售完為止，現場排隊"},
 {"lng":"120.43426","lat":"23.48026","name":"友愛藥局","id":"5922020527","tel":"052330599","addr":"嘉義市西區福全里友愛路170號","business_week":"OOOOOXXOOOOOOOOOOOOOO"},
+{"lng":"120.443","lat":"23.46984","name":"信康藥局","id":"5922020563","tel":"052161680","addr":"嘉義市西區翠岱里仁愛路226號","business_week":"OOOOOXXOOOOOOXOOOOOXX"},
 {"lng":"120.4409","lat":"23.47535","name":"杏安藥局","id":"5922020581","tel":"052271727","addr":"嘉義市西區書院里民族路786號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.44725","lat":"23.47984","name":"利安藥局","id":"5922020634","tel":"052225756","addr":"嘉義市西區番社里中山路344號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.440434","lat":"23.466406","name":"大向藥局","id":"5922020643","tel":"052354605","addr":"嘉義市西區美源里新民路636號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
