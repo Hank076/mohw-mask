@@ -2926,6 +2926,7 @@ locations = [
 {"lng":"121.7703","lat":"24.69081","name":"新安藥局","id":"5934091072","tel":"039566377","addr":"宜蘭縣五結鄉中正路1段170號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOO","memo":"快篩實名制:週一至週六早上10:00 現排現領（週日未販售）"},
 {"lng":"121.7958","lat":"24.68437","name":"五結健保藥局","id":"5934091081","tel":"039503200","addr":"宜蘭縣五結鄉五結路二段437號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"周一二四五六8點開賣，週三14點開賣"},
 {"lng":"121.7977","lat":"24.68561","name":"平安藥局","id":"5934091090","tel":"039603265","addr":"宜蘭縣五結鄉五結中路2段23號","business_week":"OOOOOOXOOOXOXXXXXXXXX"},
+{"lng":"121.7768","lat":"24.68105","name":"安心藥局","id":"5934091125","tel":"039551670","addr":"宜蘭縣五結鄉禮運路38-1號","business_week":"OXOXOOXOOOXOXXXOXXOXX"},
 {"lng":"121.8207","lat":"24.66838","name":"松康藥局","id":"5934091134","tel":"039602700","addr":"宜蘭縣五結鄉親河路1段100號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"每月底之週六及每週日為固定休假日。"},
 {"lng":"121.6515","lat":"24.66588","name":"三星健保藥局","id":"5934100030","tel":"039895816","addr":"宜蘭縣三星鄉三星路5段51號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"快篩試劑禮拜一到六早上10點開始購買，現場排隊，售完為止"},
 {"lng":"120.8165","lat":"24.55566","name":"永佳藥局","id":"5935010017","tel":"037331860","addr":"苗栗縣苗栗市玉苗里光復路156號","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"快篩試劑販售時間早上9點開始"},
