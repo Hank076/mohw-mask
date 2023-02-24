@@ -2465,6 +2465,7 @@ locations = [
 {"lng":"121.2959","lat":"25.01191","name":"七加恩聯合藥局","id":"5932010328","tel":"033029302","addr":"桃園市桃園區中埔二街123號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.2875","lat":"24.98726","name":"均康藥局","id":"5932010560","tel":"032170172","addr":"桃園市桃園區中聖里國鼎一街27號1樓之4","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩販售時間 : 早上8:00"},
 {"lng":"121.3136","lat":"24.99548","name":"新華興清溪藥局","id":"5932010631","tel":"033330011","addr":"桃園市桃園區東門里中山東路10號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩早上09:30 開始"},
+{"lng":"121.2831","lat":"24.98969","name":"宏偉藥師藥局","id":"5932010659","tel":"033698551","addr":"桃園市桃園區上海路55號","business_week":"OOOOOXXOOOOOXXOOOOOXX"},
 {"lng":"121.307","lat":"25.00095","name":"大愛藥師藥局","id":"5932010908","tel":"033376771","addr":"桃園市桃園區中正路435號","business_week":"XXXXXXXOOOOOOOOOOOOOO","memo":"快篩販售時間:星期1~5"},
 {"lng":"121.2994","lat":"24.99316","name":"幸運草健保藥局","id":"5932010917","tel":"033379977","addr":"桃園市桃園區縣府路280號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩販售時間：平日8:00起售完為止，週六9:00開始"},
 {"lng":"121.2974","lat":"25.01048","name":"維格藥局","id":"5932011147","tel":"033016639","addr":"桃園市桃園區大興西路二段129號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"營業時間:8:30-12:00、14:00-22:00"},
