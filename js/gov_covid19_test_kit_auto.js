@@ -431,7 +431,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.290395","lat":"24.990915","name":"吳鎮宇親子耳鼻喉科診所","id":"3532014399","tel":"033787876","addr":"桃園市桃園區中山路824號1樓、826號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.314808","lat":"24.9843","name":"曹景雄小兒科診所","id":"3532014675","tel":"032183141","addr":"桃園市桃園區延平路113號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.295194","lat":"25.01789","name":"何翊菁診所","id":"3532014773","tel":"033551192","addr":"桃園市桃園區中埔六街123號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
-{"lng":"121.289171","lat":"24.989895","name":"李柏鋒診所","id":"3532014782","tel":"032207480","addr":"桃園市桃園區中山路807號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"1／27正常看診1／28正常看診1／29早上看診"},
+{"lng":"121.289171","lat":"24.989895","name":"李柏鋒診所","id":"3532014782","tel":"032207480","addr":"桃園市桃園區中山路807號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"2／27正常看診2／28正常看診"},
 {"lng":"121.298764","lat":"25.018514","name":"大順診所","id":"3532016713","tel":"033167585","addr":"桃園市桃園區南平路302之3號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"228連假:2／25正常開診，2／26早上開診，2／27.2／28正常開診"},
 {"lng":"121.290395","lat":"24.990915","name":"日出親子診所","id":"3532018137","tel":"033787876","addr":"桃園市桃園區中山路824號1樓、826號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"看診時間:上午:8:00-12:00，下午:14:30-18:00，晚上:18:00-21:30"},
 {"lng":"121.314787","lat":"25.011586","name":"寶順診所","id":"3532018217","tel":"033560127","addr":"桃園市桃園區寶山街239號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"228連假:2／25正常開診，2／26早上開診，2／27.2／28正常開診"},
