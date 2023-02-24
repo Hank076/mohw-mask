@@ -11,6 +11,7 @@ locations = [
 {"lng":"121.0214","lat":"24.68842","name":"新竹縣峨眉鄉衛生所","id":"2333120015","tel":"035800314","addr":"新竹縣峨眉鄉峨眉村峨眉街2鄰5號","business_week":"XOXOOXXOXXXXXXXXXXXXX","memo":"本所2月4日及18日補班上午看診，上班日快篩試劑販賣為中午12至13時，周六.周日及國定假日停賣快篩試劑和免費領取"},
 {"lng":"121.2023","lat":"24.70562","name":"新竹縣尖石鄉衛生所","id":"2333130011","tel":"035842356","addr":"新竹縣尖石鄉嘉樂村2鄰61號","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"無急診；112／02／25至112／02／28 二二八連假停診。"},
 {"lng":"121.1194","lat":"24.63184","name":"新竹縣五峰鄉衛生所","id":"2333140017","tel":"035851005","addr":"新竹縣五峰鄉大隘村六鄰99號","business_week":"OOOOOOOOOOOOOOXXXXOOO"},
+{"lng":"121.6088","lat":"24.67785","name":"宜蘭縣大同鄉衛生所","id":"2334110013","tel":"039801175","addr":"宜蘭縣大同鄉崙埤村朝陽40號","business_week":"OOOOOXXOOOOOXXXXXXXXX"},
 {"lng":"120.999979","lat":"24.597334","name":"苗栗縣南庄鄉衛生所","id":"2335110017","tel":"037822024","addr":"苗栗縣南庄鄉東村大同路17號","business_week":"XXXOXXXOOXOOXXXXXXXXX"},
 {"lng":"120.7577","lat":"24.5578","name":"苗栗縣西湖鄉衛生所","id":"2335140015","tel":"037921211","addr":"苗栗縣西湖鄉龍洞村1鄰16號","business_week":"OOOOOOXOOOOOOXXXXXXXX"},
 {"lng":"120.8643","lat":"24.63672","name":"苗栗縣造橋鄉衛生所","id":"2335150011","tel":"037542755","addr":"苗栗縣造橋鄉造橋村14鄰8-2號","business_week":"OXXOXXXXXXXXXXXXXXXXX","memo":"實名制快篩試劑販賣時段：周一至周五08:20-12:00；週六、日及國定假日無販售。"},
