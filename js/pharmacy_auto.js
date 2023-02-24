@@ -2499,6 +2499,7 @@ locations = [
 {"lng":"121.3054","lat":"25.01751","name":"經國藥局","id":"5932013874","tel":"033151959","addr":"桃園市桃園區經國路200號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩實名制於每周一至周六下午1點開始販售"},
 {"lng":"121.2971","lat":"25.02393","name":"莊敬長青藥師藥局","id":"5932013909","tel":"033587676","addr":"桃園市桃園區莊敬路一段323號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩早上9:30開始販售，售完為止"},
 {"lng":"121.2902","lat":"24.99093","name":"益壽藥局","id":"5932013918","tel":"033693100","addr":"桃園市桃園區中山路828、830、832、834、836號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.2886","lat":"24.99044","name":"合祥藥局","id":"5932013972","tel":"033703010","addr":"桃園市桃園區國際路二段8號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.2924","lat":"25.01812","name":"安慶藥局","id":"5932013981","tel":"033027267","addr":"桃園市桃園區安慶街91號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午兩點販售，現場排隊"},
 {"lng":"121.3118","lat":"25.01473","name":"福澤大業藥局","id":"5932013990","tel":"033563865","addr":"桃園市桃園區大業路1段422號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"家用快篩販賣時段15:30至售完為止"},
 {"lng":"121.294","lat":"25.01835","name":"同德辰安藥局","id":"5932014004","tel":"033012028","addr":"桃園市桃園區同德十街25號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間: 8:00~23:00。可領取及購買實名制快篩。"},
