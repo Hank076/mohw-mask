@@ -2658,6 +2658,7 @@ locations = [
 {"lng":"121.2913","lat":"25.05039","name":"英登藥局","id":"5932052004","tel":"032124606","addr":"桃園市蘆竹區南崁路三四四號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.297583","lat":"25.05671","name":"誠心藥局","id":"5932052013","tel":"032127369","addr":"桃園市蘆竹區中山路一四五號一樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.2885","lat":"25.03943","name":"誼康藥局","id":"5932052068","tel":"033129045","addr":"桃園市蘆竹區奉化路一二六號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"121.2934","lat":"25.04765","name":"明安藥局","id":"5932052077","tel":"033527087","addr":"桃園市蘆竹區南竹路一之六號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"販售時段；周一至周日下午2點"},
 {"lng":"121.2594","lat":"25.02454","name":"大竹藥師藥局","id":"5932052228","tel":"033232508","addr":"桃園市蘆竹區南竹路五段二五九號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販賣時段：14:30起可購買至售完為止"},
 {"lng":"121.2918","lat":"25.04607","name":"承昇藥局","id":"5932052433","tel":"033211085","addr":"桃園市蘆竹區桃園街86號","business_week":"OOOOOOXOOOOOOXOOOOOXO"},
 {"lng":"121.2859","lat":"25.08434","name":"喜多福藥局","id":"5932052442","tel":"033240083","addr":"桃園市蘆竹區山腳里南山路三段265號1樓","business_week":"OOOOOOXOOOOXOXOOOOXOX","memo":"星期一~星期六，早上8點開始販售"},
