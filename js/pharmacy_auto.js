@@ -1904,7 +1904,7 @@ locations = [
 {"lng":"121.4855","lat":"25.05893","name":"新迪化中西藥局","id":"5931020400","tel":"0229884755","addr":"新北市三重區三陽路27號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制中午12點開始販售，發號碼牌"},
 {"lng":"121.4964","lat":"25.07193","name":"久泰藥局","id":"5931020428","tel":"0229735880","addr":"新北市三重區仁愛街36號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.47929","lat":"25.075188","name":"玉美藥局","id":"5931020446","tel":"0222879836","addr":"新北市三重區力行路2段136巷49弄2號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩:現場販售.僅收現金沒有刷卡悠遊卡"},
-{"lng":"121.4972","lat":"25.06597","name":"合眾藥局","id":"5931020464","tel":"0229897379","addr":"新北市三重區文化北路102巷39號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩：星期一至六早上9點晚上9點 ★0-6歲及47年次以前 1／10 至2／28 可領取免費快篩乙盒★"},
+{"lng":"121.4972","lat":"25.06597","name":"合眾藥局","id":"5931020464","tel":"0229897379","addr":"新北市三重區文化北路102巷39號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩：星期一至六早上9點晚上9點 ★1／10 至2／28 止為【最後一輪】『免費』實名制快篩★"},
 {"lng":"121.4868","lat":"25.07266","name":"力健藥局","id":"5931020562","tel":"0229856255","addr":"新北市三重區自強路3段38號","business_week":"OOOOOOOOOOOOOXOOOOOOO"},
 {"lng":"121.4705","lat":"25.07205","name":"德林藥局","id":"5931020599","tel":"0229832019","addr":"新北市三重區中正北路572號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4955","lat":"25.06775","name":"新英藥師藥局","id":"5931020624","tel":"0229824840","addr":"新北市三重區雙園街37號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
