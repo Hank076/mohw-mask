@@ -639,7 +639,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.607485","lat":"23.982595","name":"民安復健科診所","id":"3545012372","tel":"038355586","addr":"花蓮縣花蓮市林森路258-3號","business_week":"OOOOOOXXXXXXXXOOOOOXX","memo":"227／228正常門診"},
 {"lng":"121.623555","lat":"23.988954","name":"陳建發耳鼻喉科診所","id":"3545012434","tel":"038246119","addr":"花蓮縣花蓮市中美路77之2號","business_week":"OOOOOOXOOOOOXXOOOOOXO","memo":"看診時段：上午0830-1200、下午4-6點、晚上6:30-9點"},
 {"lng":"121.606084","lat":"23.99237","name":"張淑華小兒科診所","id":"3545012470","tel":"038311031","addr":"花蓮縣花蓮市國聯四路75號","business_week":"XXXXXOXOOOOOXXOOOOOXX","memo":"午.晚診為15:00~19:00 早診只看星期六9:00~12:00"},
-{"lng":"121.621438","lat":"23.986454","name":"謝文億診所","id":"3545012523","tel":"038336635","addr":"花蓮縣花蓮市中美路63號","business_week":"XXXXXXOXXXXXXOXXXXXXO"},
+{"lng":"121.621438","lat":"23.986454","name":"謝文億診所","id":"3545012523","tel":"038336635","addr":"花蓮縣花蓮市中美路63號","business_week":"XXXXXOXXXXXXOXXXXXXOX"},
 {"lng":"121.598106","lat":"23.971005","name":"中正診所","id":"3545012578","tel":"038316655","addr":"花蓮縣花蓮市中正路172號","business_week":"OOOOOOXXXXXXXXOOOOOXO","memo":"星期一-五上午：8Am-12、晚上：4-8pm，星期日晚上：5-8pm"},
 {"lng":"121.602546","lat":"23.97558","name":"慈田診所","id":"3545012710","tel":"038316818","addr":"花蓮縣花蓮市中華路190號","business_week":"OOOOOOOXXXXXXXOOOOOOO"},
 {"lng":"121.59768","lat":"23.991696","name":"周耳鼻喉科診所","id":"3545012756","tel":"038568801","addr":"花蓮縣花蓮市中山路747號","business_week":"OOOOOOOXXXXXXXOOOOOOX","memo":"1／1上午開診1／2上午開診晚上開診"},
