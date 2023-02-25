@@ -2573,6 +2573,7 @@ locations = [
 {"lng":"121.2108","lat":"24.95947","name":"美佑康活力藥局","id":"5932022980","tel":"032810018","addr":"桃園市中壢區五福里中正路627號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.2625","lat":"24.95597","name":"鴻安中西藥局","id":"5932023012","tel":"034520615","addr":"桃園市中壢區新中北路二段191號1樓","business_week":"OOOOOOOXXXXXXXXXXXXXX","memo":"快篩1030開始。週一到周日都有。"},
 {"lng":"121.2585","lat":"24.96527","name":"辰鴻藥局","id":"5932023021","tel":"034638639","addr":"桃園市中壢區環中東路110號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"營業時間都有供應"},
+{"lng":"121.227467","lat":"24.949433","name":"福澤健行藥局","id":"5932023058","tel":"034681988","addr":"桃園市中壢區健行路139號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"家用快篩販賣時段15:30至售完為止"},
 {"lng":"121.217593","lat":"24.962847","name":"中壢民權藥局","id":"5932023094","tel":"034014961","addr":"桃園市中壢區民權路326、328號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實聯制快篩每天78份週一至週六下午1350拿取號碼牌1400開始販售.依序入場販售.過號視同放棄"},
 {"lng":"121.2565","lat":"24.97331","name":"康華藥局","id":"5932023174","tel":"034635353","addr":"桃園市中壢區忠孝路14號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"112／01／02 正常營業 ， 春節休假期間1／21（六）-1／29（日），01／30（一）恢復正常營業"},
 {"lng":"121.2266","lat":"24.96106","name":"博鈞藥局","id":"5932023254","tel":"034256093","addr":"桃園市中壢區元化路226號2樓","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
