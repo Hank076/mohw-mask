@@ -483,7 +483,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.763784","lat":"24.679748","name":"劉醫師小兒科診所","id":"3534022102","tel":"039518121","addr":"宜蘭縣羅東鎮純精路二段229號","business_week":"OOOOOOOOOOOOXXOOOOOXX","memo":"111／10／8，111／10／9，111／10／10上午開診"},
 {"lng":"121.86523","lat":"24.583103","name":"吳昌達診所","id":"3534031503","tel":"039955976","addr":"宜蘭縣蘇澳鎮海邊路141號","business_week":"OOOOOOXOOOOOXXXXXXXXX"},
 {"lng":"121.769659","lat":"24.818508","name":"岳成診所","id":"3534051292","tel":"039876586","addr":"宜蘭縣礁溪鄉中山路1段120號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"1／2只有早診。"},
-{"lng":"121.794291","lat":"24.631391","name":"徐診所","id":"3534080104","tel":"039590923","addr":"宜蘭縣冬山鄉照安路33巷32號","business_week":"OOOOOXOOOOOOOXOOOOOXX","memo":"週一至週五早上下午晚上皆看診；週六下午5:00-8:00PM看診；周日早上8:10-12:00看診； 10／8-10國慶連假照平常看診時段看診"},
+{"lng":"121.794291","lat":"24.631391","name":"徐診所","id":"3534080104","tel":"039590923","addr":"宜蘭縣冬山鄉照安路33巷32號","business_week":"OOOOOXOOOOOOXXOOOOOOX","memo":"週一至週五早上下午晚上皆看診；週六傍晚5:00-7:00PM看診；周日早上8:40-12:00看診；"},
 {"lng":"121.797583","lat":"24.685609","name":"吉祥診所","id":"3534091189","tel":"039604853","addr":"宜蘭縣五結鄉五結中路二段23-1號","business_week":"OOOOOOXOOOXOXXOOXXOXX","memo":"晚上時段為17:00-19:00"},
 {"lng":"120.821572","lat":"24.559566","name":"詹求孚診所","id":"3535010553","tel":"037320722","addr":"苗栗縣苗栗市中正路468號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.824523","lat":"24.568276","name":"吳昆展小兒科診所","id":"3535012173","tel":"037265532","addr":"苗栗縣苗栗市中正路71號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
