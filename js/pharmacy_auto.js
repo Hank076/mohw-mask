@@ -2601,6 +2601,7 @@ locations = [
 {"lng":"121.279197","lat":"24.897061","name":"大溪啄木鳥藥局","id":"5932031863","tel":"033809116","addr":"桃園市大溪區員林路1段173號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"09:00~21:00"},
 {"lng":"121.2886","lat":"24.8808","name":"大溪藥局","id":"5932031881","tel":"033873873","addr":"桃園市大溪區康莊路160號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.291926","lat":"24.882086","name":"福生藥局","id":"5932031890","tel":"033873533","addr":"桃園市大溪區民權東路103號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上八點開始發放快篩試劑"},
+{"lng":"121.2911","lat":"24.87917","name":"福澤大溪藥局","id":"5932031907","tel":"033884886","addr":"桃園市大溪區復興路105號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販賣時段早上8:00~中午12:00發號碼牌，下午3:00~10:00領取"},
 {"lng":"121.184783","lat":"24.91776","name":"中美藥局","id":"5932040255","tel":"034822483","addr":"桃園市楊梅區埔心里中興路77號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"隨到隨領"},
 {"lng":"121.1452","lat":"24.9076","name":"弘大藥局","id":"5932040308","tel":"034751858","addr":"桃園市楊梅區大華街十三號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.182","lat":"24.91713","name":"佳禾藥局","id":"5932042080","tel":"034827805","addr":"桃園市楊梅區永美路333號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
