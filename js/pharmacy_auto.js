@@ -339,6 +339,7 @@ locations = [
 {"lng":"121.5088","lat":"25.08788","name":"博信藥局","id":"5901152720","tel":"0228128295","addr":"臺北市士林區延平北路6段61號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期天休息"},
 {"lng":"121.508","lat":"25.0875","name":"芳圓藥局","id":"5901152739","tel":"0228168666","addr":"臺北市士林區社子街26-1號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"快篩販售時間，目前量能足夠，早上9點15分開賣"},
 {"lng":"121.5227","lat":"25.10506","name":"柏雅大藥局","id":"5901152748","tel":"0288664398","addr":"臺北市士林區德行西路64號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"每天早上10:30開始販售快篩試劑，星期日公休不販售。"},
+{"lng":"121.5214","lat":"25.09619","name":"信光藥局","id":"5901152793","tel":"0228366277","addr":"臺北市士林區文昌路68號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.528394","lat":"25.108121","name":"幸福藥局","id":"5901152873","tel":"0228346650","addr":"臺北市士林區德行東路109巷8號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制Covid-19快篩販售時間:每日早上8點至晚上10點販售（含星日（如果有貨））售完為止"},
 {"lng":"121.5215","lat":"25.08044","name":"誼安藥局","id":"5901153058","tel":"0228851899","addr":"臺北市士林區通河街42號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"營業時間周一至周五8:30至21點，12至14:30午休.周六8:30至12:00周日公休"},
 {"lng":"121.52","lat":"25.09056","name":"聖賢藥局","id":"5901153101","tel":"0228833046","addr":"臺北市士林區士商路58號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"2／28和平紀念日店休"},
