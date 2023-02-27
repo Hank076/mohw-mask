@@ -3842,6 +3842,7 @@ locations = [
 {"lng":"120.575326","lat":"22.756312","name":"安利藥局","id":"5943101107","tel":"087938969","addr":"屏東縣鹽埔鄉?中村勝利路71號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩領取時間8:00-20:00，周六8:00-17:00， 周日不營業"},
 {"lng":"120.5963","lat":"22.81845","name":"宏順藥局","id":"5943110044","tel":"087962136","addr":"屏東縣高樹鄉長榮村南昌路2-2號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業日上午9點開始販售家用快篩，售完為止"},
 {"lng":"120.601944","lat":"22.821809","name":"葉藥局","id":"5943110053","tel":"087967883","addr":"屏東縣高樹鄉高樹村南興路135號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販賣時間：早上7:30開始，售完為止"},
+{"lng":"120.613285","lat":"22.789632","name":"永昌藥局","id":"5943110062","tel":"087956087","addr":"屏東縣高樹鄉產業路163號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"販賣快篩時間上午8:00開始"},
 {"lng":"120.6015","lat":"22.82347","name":"武康健保藥局","id":"5943111158","tel":"087965826","addr":"屏東縣高樹鄉高樹村南興路97號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩試劑實名制販售時間：營業日上午八點開始"},
 {"lng":"120.625446","lat":"22.526397","name":"昕妙春藥局","id":"5943125125","tel":"087850153","addr":"屏東縣萬巒鄉新置村新隆路48號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.5701","lat":"22.57251","name":"國信藥局","id":"5943125161","tel":"087813689","addr":"屏東縣萬巒鄉萬全村褒忠路70號(B棟)","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩試劑到貨時間做彈性調整，販售至售完為止（星期日公休）"},
