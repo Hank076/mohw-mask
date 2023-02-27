@@ -524,6 +524,7 @@ locations = [
 {"lng":"121.538","lat":"25.00203","name":"萬隆大藥局","id":"5901202949","tel":"0229334580","addr":"臺北市文山區羅斯福路5段218巷15號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"9：00~22：30"},
 {"lng":"121.5706","lat":"25.00139","name":"杏一萬安藥局","id":"5901202958","tel":"0222302126","addr":"臺北市文山區萬安街15號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間0900-2200"},
 {"lng":"121.555001","lat":"25.000892","name":"大樹文山藥局","id":"5901203062","tel":"0229342226","addr":"臺北市文山區興隆路3段13號(1、2、3樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.5674","lat":"24.98861","name":"杏一木柵藥局","id":"5901203080","tel":"0229371839","addr":"臺北市文山區木柵路3段號116號(1樓)","business_week":"OOOOOOOOOOOOOOXXXXXXX","memo":"無休息"},
 {"lng":"121.5607","lat":"24.98426","name":"光明大藥局","id":"5901203106","tel":"0229390275","addr":"臺北市文山區忠順街1段66號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5505","lat":"25.00345","name":"福興藥局","id":"5901203124","tel":"0289313868","addr":"臺北市文山區福興路56號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5522","lat":"25.00022","name":"路加健康藥局","id":"5901203160","tel":"0229302336","addr":"臺北市文山區興隆路2段220巷39號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
