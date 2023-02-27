@@ -901,6 +901,7 @@ locations = [
 {"lng":"120.651","lat":"24.17065","name":"櫻嘉藥局","id":"5903271264","tel":"0423150255","addr":"臺中市西屯區櫻花路107號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.6641","lat":"24.17322","name":"西屯長安藥局","id":"5903271291","tel":"0422981221","addr":"臺中市西屯區成都路368號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.6447","lat":"24.17535","name":"祐生藥局","id":"5903271308","tel":"0424517169","addr":"臺中市西屯區文華路3之1號1樓","business_week":"XXXXXXXOOOOOOXOOOOOOX"},
+{"lng":"120.6480325","lat":"24.1555649","name":"成記大藥局","id":"5903280101","tel":"0423288877","addr":"臺中市南屯區黎明路二段60號1樓","business_week":"XXXXXXXOOOOOOXOOOOOOX","memo":"快篩實名制下午一點開始販售，現場排隊售完為止。"},
 {"lng":"120.6456","lat":"24.13754","name":"南屯福倫藥局","id":"5903280165","tel":"0424758018","addr":"臺中市南屯區南屯路2段317號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.649802","lat":"24.134965","name":"大墩何藥局","id":"5903280245","tel":"0424710655","addr":"臺中市南屯區大敦南路431號1.2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"防疫用快篩試劑上午9點開始販售，售完為止"},
 {"lng":"120.6336","lat":"24.15977","name":"亞洲連鎖大藥局","id":"5903280325","tel":"0423812886","addr":"臺中市南屯區黎明路二段135號1樓","business_week":"XXXXXXXOOOOOOOXXXXXXX","memo":"從 5月11日（星期三）開始， 改下午五點開始販售快篩， 售完為止!"},
