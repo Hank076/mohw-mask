@@ -22,7 +22,7 @@ locations = [
 {"lng":"120.7019","lat":"23.4666","name":"嘉義縣阿里山鄉衛生所","id":"2340180012","tel":"052561573","addr":"嘉義縣阿里山鄉樂野村3鄰97-2號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"阿里山遊樂區"},
 {"lng":"120.2624","lat":"23.23154","name":"臺南市下營區衛生所","id":"2341120010","tel":"066892149","addr":"臺南市下營區營前里中山路二段137號","business_week":"XOXOXXXXXXXXXXXXXXXXX"},
 {"lng":"120.3582","lat":"23.09859","name":"臺南市山上區衛生所","id":"2341220015","tel":"065781013","addr":"臺南市山上區山上里35-2號","business_week":"OOOOOOXXXXXXXXXXXXXXX"},
-{"lng":"120.4859","lat":"23.17477","name":"臺南市楠西區衛生所","id":"2341240017","tel":"065751006","addr":"臺南市楠西區楠西里中正路226號","business_week":"OOOOOXXOOXOXXXXXXXXXX","memo":"購買及發放快篩劑為每周一 至五上午10:30-12:00、228連假休診"},
+{"lng":"120.4859","lat":"23.17477","name":"臺南市楠西區衛生所","id":"2341240017","tel":"065751006","addr":"臺南市楠西區楠西里中正路226號","business_week":"OOOOOXXOOXOXXXXXXXXXX","memo":"購買及發放快篩劑為每周一 至五上午10:30-12:00"},
 {"lng":"120.4099","lat":"23.05631","name":"臺南市左鎮區衛生所","id":"2341260019","tel":"065731114","addr":"臺南市左鎮區中正里172之15號","business_week":"XXXXXXXXOXOXXXXXXXXXX"},
 {"lng":"120.3618","lat":"22.96521","name":"臺南市龍崎區衛生所","id":"2341300018","tel":"065941397","addr":"臺南市龍崎區崎頂里新市子158號","business_week":"OOOOOXXOXXOXXXXXXXXXX"},
 {"lng":"120.3594","lat":"22.87301","name":"高雄市田寮區衛生所","id":"2342130010","tel":"076361504","addr":"高雄市田寮區南安里崗北路32號","business_week":"XXXXXXXOXXOXXXXXXXXXX","memo":"巡迴醫療:每星期一、四下午及每月第一個有上班的星期三下午巡迴醫療"},
