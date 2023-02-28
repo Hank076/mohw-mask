@@ -3332,6 +3332,7 @@ locations = [
 {"lng":"120.5002","lat":"23.75753","name":"明泰藥局","id":"5939090146","tel":"055842824","addr":"雲林縣莿桐鄉莿桐村中山路106號","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"販賣口罩時間08:30至完售"},
 {"lng":"120.5194","lat":"23.77781","name":"西河藥局","id":"5939091170","tel":"055842950","addr":"雲林縣莿桐鄉饒平村饒平路102號","business_week":"OOOOOOOOOOOOOXOOOOXXX"},
 {"lng":"120.523586","lat":"23.776342","name":"禾季藥局","id":"5939091269","tel":"055713685","addr":"雲林縣莿桐鄉興貴村興北10之14號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
+{"lng":"120.5134","lat":"23.73695","name":"大美社區藥局","id":"5939091278","tel":"055848579","addr":"雲林縣莿桐鄉大美村23-1號","business_week":"OOOOOXXOOOOOXXXXXXXXX"},
 {"lng":"120.4991","lat":"23.75751","name":"莿桐台丞藥局","id":"5939091312","tel":"055840808","addr":"雲林縣莿桐鄉中正路166號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩實名制早上9:00開始販售，周日公休無販售"},
 {"lng":"120.574","lat":"23.76767","name":"禾萊藥局","id":"5939101108","tel":"055894790","addr":"雲林縣林內鄉重興村146-8號","business_week":"OOOOOOXOXOOOXXOXOXOXX","memo":"販賣快篩時間：08：00開始販賣至售完為止，星期二下午休息"},
 {"lng":"120.6139","lat":"23.75795","name":"昇陽大藥局","id":"5939101126","tel":"055899896","addr":"雲林縣林內鄉中西路17號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販賣:週一至週日下午13:00售完為止"},
