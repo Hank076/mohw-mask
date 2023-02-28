@@ -3205,6 +3205,7 @@ locations = [
 {"lng":"120.6879","lat":"23.90336","name":"和康藥局","id":"5938011829","tel":"0492227008","addr":"南投縣南投市復興路75-1號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.687","lat":"23.90573","name":"愛馨藥局","id":"5938011838","tel":"0492206006","addr":"南投縣南投市中山街14巷15號","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"9:00開始販售"},
 {"lng":"120.6905","lat":"23.90472","name":"南投啄木鳥藥局","id":"5938011847","tel":"0492241683","addr":"南投縣南投市中興路612號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一至周日每天10:00開始販賣快篩。"},
+{"lng":"120.6914","lat":"23.91003","name":"樂家藥局","id":"5938011883","tel":"0492207007","addr":"南投縣南投市民族路105號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"周日不販售 謝謝"},
 {"lng":"120.6845","lat":"23.90847","name":"彰南藥局","id":"5938011909","tel":"0492230005","addr":"南投縣南投市彰南路二段21號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.6744","lat":"23.92727","name":"聖宸健保藥局","id":"5938011918","tel":"0492251741","addr":"南投縣南投市彰南路三段162號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天早上9點銷售"},
 {"lng":"120.6852","lat":"23.90976","name":"詠聖專業藥局","id":"5938011927","tel":"0492226829","addr":"南投縣南投市中山街205號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"快篩販售時間：周一~周五，售完為止。"},
