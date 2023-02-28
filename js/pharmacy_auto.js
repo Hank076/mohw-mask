@@ -110,6 +110,7 @@ locations = [
 {"lng":"121.5101","lat":"25.05832","name":"慈仁藥局","id":"5901090074","tel":"0225572733","addr":"臺北市大同區歸綏街261號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"平日營業至晚上6點，星期六營業至下午2點，星期日公休"},
 {"lng":"121.5099","lat":"25.05581","name":"三銘大藥局","id":"5901090127","tel":"0225583392","addr":"臺北市大同區迪化街1段80號","business_week":"OOOOOOXOOOOOOXXXXXXXX","memo":"連假期間均休診"},
 {"lng":"121.5144","lat":"25.07452","name":"柯藥局","id":"5901090154","tel":"0225948515","addr":"臺北市大同區重慶北路3段335巷6號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"121.5191","lat":"25.05356","name":"時春藥局","id":"5901090181","tel":"0225597918","addr":"臺北市大同區赤峰街4號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"121.515","lat":"25.05485","name":"建祥藥局","id":"5901090243","tel":"0225556476","addr":"臺北市大同區寧夏路17號、17-1號","business_week":"OOOOOOXOOOOOOXXXXXXXX","memo":"10：00~18：00"},
 {"lng":"121.5146","lat":"25.07303","name":"泰元藥局","id":"5901090323","tel":"0225914592","addr":"臺北市大同區哈密街91號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5142","lat":"25.06874","name":"正中藥局","id":"5901090341","tel":"0225976937","addr":"臺北市大同區民族西路213號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
