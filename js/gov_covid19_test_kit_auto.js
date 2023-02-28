@@ -249,7 +249,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.208603","lat":"22.992137","name":"紀冠廷診所","id":"3521052678","tel":"062263931","addr":"臺南市中西區青年路119號","business_week":"OOOOOOXOOXOOXXOOXOOXX"},
 {"lng":"120.212543","lat":"23.03328","name":"魏大倫耳鼻喉科診所","id":"3521062389","tel":"062568119","addr":"臺南市安南區安和路一段356號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.191692","lat":"23.02494","name":"陳昱成耳鼻喉科診所","id":"3521062478","tel":"062800178","addr":"臺南市安南區海佃路一段196號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"111／01／01休診，111／01／02提供門診看診"},
-{"lng":"120.167862","lat":"22.998996","name":"石門診所","id":"3521070201","tel":"062242666","addr":"臺南市安平區安平路21號","business_week":"OOOOOXXXXXXXXXXOXOXXX","memo":"am 8:00-1pm（周一醫至 周五）， pm 4:00-7:00（周二 周四）"},
+{"lng":"120.167862","lat":"22.998996","name":"石門診所","id":"3521070201","tel":"062242666","addr":"臺南市安平區安平路21號","business_week":"OOOOOXXXOXOXXXXXXXXXX","memo":"am 8:00-1pm（周一醫至 周五）， pm 4:00-7:00（周二 周四）"},
 {"lng":"120.178932","lat":"22.993589","name":"吳國堯小兒科診所","id":"3521071520","tel":"062933358","addr":"臺南市安平區文平路438號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.45003","lat":"23.480219","name":"蔡耳鼻喉科診所","id":"3522010254","tel":"052222602","addr":"嘉義市東區中山路270號","business_week":"OOOOOOOOOOOOOXOOOOOOO"},
 {"lng":"120.45134","lat":"23.480499","name":"葉弘貴小兒科診所","id":"3522011028","tel":"052253863","addr":"嘉義市東區中山路253號","business_week":"OOOOOOXOOOOOOXOOXOOXX"},
