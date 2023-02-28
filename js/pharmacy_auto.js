@@ -2051,6 +2051,7 @@ locations = [
 {"lng":"121.4226","lat":"25.0215","name":"德翰藥局","id":"593106A922","tel":"0222025576","addr":"新北市新莊區四維路171巷1、3號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.410749","lat":"25.021065","name":"丹鳳藥局","id":"593106A977","tel":"0229065755","addr":"新北市新莊區中正路745、747號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4446","lat":"25.05226","name":"美德心藥局","id":"593106A995","tel":"0229989025","addr":"新北市新莊區中平路367號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.4553","lat":"25.04549","name":"家嘉藥局","id":"593106B036","tel":"0289926488","addr":"新北市新莊區自立街103號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.455369","lat":"25.04829","name":"依都勇藥局","id":"593106B090","tel":"0229901516","addr":"新北市新莊區自信街63號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.416511","lat":"25.027024","name":"樂安生活藥局","id":"593106B125","tel":"0229069899","addr":"新北市新莊區雙鳳路27號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4412","lat":"25.03785","name":"美康頭前藥局","id":"593106B189","tel":"0285219638","addr":"新北市新莊區化成路373之5號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
