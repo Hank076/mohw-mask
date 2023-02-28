@@ -3811,6 +3811,7 @@ locations = [
 {"lng":"121.5809","lat":"23.97329","name":"富一藥局","id":"5945050069","tel":"038531432","addr":"花蓮縣吉安鄉宜昌村中華路2段201號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩販售時間為上午8:30售完為止"},
 {"lng":"121.591","lat":"23.98591","name":"永和藥局","id":"5945050176","tel":"038573247","addr":"花蓮縣吉安鄉北昌村建國路1段145號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5773","lat":"23.97035","name":"祥安藥局","id":"5945051208","tel":"038549719","addr":"花蓮縣吉安鄉南昌村吉興路1段89號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"口罩販售時間:星期一至星期六上午8:30 營業時間內皆可，售完為止"},
+{"lng":"121.591711","lat":"23.965681","name":"仁里藥局","id":"5945051226","tel":"038512569","addr":"花蓮縣吉安鄉中正路1段163號","business_week":"OOOOOXXXXXXXXXOOOOOXX","memo":"快篩領購時間:下午6~9點（週六日休息）"},
 {"lng":"121.5945","lat":"23.98501","name":"小叮噹藥局","id":"5945051271","tel":"038576886","addr":"花蓮縣吉安鄉建國路1段63號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"星期一至星期六早上8:30左右開始領購快篩"},
 {"lng":"121.5743","lat":"23.99297","name":"荃安藥局","id":"5945051388","tel":"038579317","addr":"花蓮縣吉安鄉建國路二段277-1號","business_week":"OOOOOOXOOOOOXXOOOOOOX"},
 {"lng":"121.5708","lat":"23.97767","name":"洄瀾藥局","id":"5945051520","tel":"038525217","addr":"花蓮縣吉安鄉中山路三段279號","business_week":"OOOOOOXOOXOOXXOOXOOXX"},
