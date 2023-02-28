@@ -3768,6 +3768,7 @@ locations = [
 {"lng":"121.3151","lat":"23.3371","name":"仁德藥局","id":"5945031199","tel":"038882333","addr":"花蓮縣玉里鎮中華路140號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩試劑每日早上8:30販賣，每週日休息"},
 {"lng":"121.314","lat":"23.33083","name":"莊藥局","id":"5945031297","tel":"038882328","addr":"花蓮縣玉里鎮中城里27鄰成功街95號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.604032","lat":"24.033064","name":"黃藥局","id":"5945040036","tel":"038267211","addr":"花蓮縣新城鄉北埔村北埔路203號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"春節連假期間（1／21-1／29）公休"},
+{"lng":"121.6053","lat":"24.02983","name":"麗康藥局","id":"5945041051","tel":"038262836","addr":"花蓮縣新城鄉北埔路127號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"2／25~2／27連假公休"},
 {"lng":"121.5809","lat":"23.97329","name":"富一藥局","id":"5945050069","tel":"038531432","addr":"花蓮縣吉安鄉宜昌村中華路2段201號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩販售時間為上午8:30售完為止"},
 {"lng":"121.591","lat":"23.98591","name":"永和藥局","id":"5945050176","tel":"038573247","addr":"花蓮縣吉安鄉北昌村建國路1段145號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5773","lat":"23.97035","name":"祥安藥局","id":"5945051208","tel":"038549719","addr":"花蓮縣吉安鄉南昌村吉興路1段89號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"口罩販售時間:星期一至星期六上午8:30 營業時間內皆可，售完為止"},
