@@ -11,6 +11,7 @@ locations = [
 {"lng":"120.7057","lat":"22.18402","name":"屏東縣獅子鄉衛生所","id":"2343320018","tel":"088771324","addr":"屏東縣獅子鄉楓林村楓林二巷31號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"販售快篩試劑時間 :週一至週五0900~1200，1400~1700"},
 {"lng":"119.6138","lat":"23.74056","name":"澎湖縣白沙鄉吉貝衛生所","id":"2344030031","tel":"069911430","addr":"澎湖縣白沙鄉吉貝村8-13號","business_week":"OOOOOXOOOOOOOXOOOOOOX"},
 {"lng":"119.4972","lat":"23.36161","name":"澎湖縣望安鄉衛生所","id":"2344050015","tel":"069991036","addr":"澎湖縣望安鄉西安村36-7號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"夜間急診。快篩試劑販售時間為:每日08:00-12:00、13:30-17:30售完為止，如有餘數為離島未售出（東嶼坪、花嶼）。"},
+{"lng":"119.5216","lat":"23.3615","name":"澎湖縣望安鄉將軍衛生所","id":"2344050024","tel":"069902066","addr":"澎湖縣望安鄉將軍村12鄰將軍澳1之3號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"119.431","lat":"23.2041","name":"澎湖縣七美鄉衛生所","id":"2344060011","tel":"069971005","addr":"澎湖縣七美鄉中和村埔內54號","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"國定假日只有上午和下午診"},
 {"lng":"121.0881","lat":"22.78207","name":"台東縣卑南鄉衛生所","id":"2346040017","tel":"089382042","addr":"臺東縣卑南鄉太平村和平路132號","business_week":"OOOOOXXOOOOOXXXXXXXXX"},
 {"lng":"119.9991","lat":"26.22617","name":"連江縣北竿鄉衛生所","id":"2391020010","tel":"083655592","addr":"連江縣北竿鄉塘岐村281-6號","business_week":"OOOOOOXOOOOOXXXXXXXXX"},
