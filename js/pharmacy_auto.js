@@ -266,6 +266,7 @@ locations = [
 {"lng":"121.5469","lat":"25.13797","name":"陽明藥局","id":"5901150815","tel":"0228612863","addr":"臺北市士林區菁山路10號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上9點30到12點健保卡排隊.（作業時間2小時）下午1點到晚上9點領回口罩及健保卡"},
 {"lng":"121.522022","lat":"25.081072","name":"資生堂藥局","id":"5901152079","tel":"0228857588","addr":"臺北市士林區承德路4段40巷17號1F","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5087","lat":"25.08844","name":"安泰藥師藥局","id":"5901152293","tel":"0228166977","addr":"臺北市士林區延平北路六段83號(實際使用:1、2樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"星期一~星期六 下午2點30分 開始發快篩~"},
+{"lng":"121.5267","lat":"25.08878","name":"得安藥局","id":"5901152471","tel":"0228836336","addr":"臺北市士林區文林路140號","business_week":"XXXXXXXOOOOOOOOOOOOOO","memo":"星期一三五六下午3:30  星期二 四日下午5:00"},
 {"lng":"121.509901","lat":"25.088771","name":"達揚藥局","id":"5901152604","tel":"0288115559","addr":"臺北市士林區社正路36號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5083","lat":"25.08769","name":"仁大藥局","id":"5901152640","tel":"0288113793","addr":"臺北市士林區社子街13號1樓","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"週一至週六上午可領取快篩，週日公休。"},
 {"lng":"121.522772","lat":"25.084438","name":"和樹藥局","id":"5901152659","tel":"0228821188","addr":"臺北市士林區後港街45巷1號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週日公休，周一早上9:30"},
