@@ -1094,6 +1094,7 @@ locations = [
 {"lng":"120.3393","lat":"22.68489","name":"新高橋藥局八德中店","id":"5907080214","tel":"073485857","addr":"高雄市仁武區八卦里八德中路86、88、90號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"藥局電話 07-3736437"},
 {"lng":"120.3469","lat":"22.67811","name":"大樹仁武藥局","id":"5907080232","tel":"073744777","addr":"高雄市仁武區赤山里仁雄路80-9號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.3313","lat":"22.69072","name":"仁同藥局","id":"5907080250","tel":"073736142","addr":"高雄市仁武區八卦里永仁街706號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"可購買快篩試劑時間每日早上7:30到22:30"},
+{"lng":"120.3297","lat":"22.68191","name":"德杏藥局","id":"5907080321","tel":"073735936","addr":"高雄市仁武區永仁街20號1樓","business_week":"OOOOOOXOOOOOOXXXXXXXX","memo":"FB粉絲專頁會有即時公告喔@DEXINGPHARMACY ，也可以加入LINE:@618okfxh諮詢喔~"},
 {"lng":"120.353465","lat":"22.701096","name":"文武藥局","id":"5907080330","tel":"073733551","addr":"高雄市仁武區文武里中華路353號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.3471","lat":"22.73215","name":"金元發藥局","id":"5907090023","tel":"073542200","addr":"高雄市大社區中山路199號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制：08:00~21:30售完為止"},
 {"lng":"120.352592","lat":"22.731461","name":"上鼎藥師健保藥局","id":"5907090032","tel":"073531053","addr":"高雄市大社區中山路423號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間每日8:00至22:00，另快篩每日9:00開放民眾購買，售完為止。"},
