@@ -1449,6 +1449,7 @@ locations = [
 {"lng":"120.6984","lat":"24.18446","name":"佳家社區藥局","id":"5917083012","tel":"0422411678","addr":"臺中市北屯區松義街168號","business_week":"OOOOOOOOOOOOOXOOOOOOO","memo":"藥局營業時間8:30~22:00，週日下午公休."},
 {"lng":"120.6902","lat":"24.17986","name":"吉士康樂活藥局","id":"5917083021","tel":"0422410108","addr":"臺中市北屯區昌平路2段8-16號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"120.6663","lat":"24.18637","name":"你好聯合藥局","id":"5917083049","tel":"0422925759","addr":"臺中市北屯區陳平一街88號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期日公休， 星期一到六 快篩11點發售，"},
+{"lng":"120.7093","lat":"24.17085","name":"福益藥局","id":"5917083058","tel":"0424367031","addr":"臺中市北屯區東山路1段188-7號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期一~六:營業時間8:30~21:00"},
 {"lng":"120.681","lat":"24.19161","name":"北屯德康藥局","id":"5917083101","tel":"0424223378","addr":"臺中市北屯區四平路469號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天早上9點30分發售口罩；前往領藥前先電話洽詢"},
 {"lng":"120.6852","lat":"24.17423","name":"崇德啄木鳥藥局","id":"5917083209","tel":"0422410441","addr":"臺中市北屯區崇德路二段217號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天早上8點40分發放號碼牌發售口罩，當天領取。"},
 {"lng":"120.6932","lat":"24.16505","name":"建祐藥局","id":"5917083254","tel":"0422389809","addr":"臺中市北屯區太原路三段261號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"星期一-星期六10:30開始銷售；星期日休"},
