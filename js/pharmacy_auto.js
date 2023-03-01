@@ -3687,6 +3687,7 @@ locations = [
 {"lng":"121.141123","lat":"22.763546","name":"晃成藥局","id":"5946010229","tel":"089336981","addr":"臺東縣臺東市更生路494號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間8:00-22:30  快篩9:00AM開始"},
 {"lng":"121.1517","lat":"22.75654","name":"大東藥局","id":"5946011486","tel":"089349747","addr":"臺東縣臺東市中山路238號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"星期日不販售  星期一至星期五  早上8:30   下午15:30  販售   星期六早上8:30 販售"},
 {"lng":"121.139738","lat":"22.756263","name":"禾安藥局","id":"5946011780","tel":"089223111","addr":"臺東縣臺東市四維路3段2號、8號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一至週日9點快篩依序販售."},
+{"lng":"121.1354","lat":"22.74286","name":"中華藥局","id":"5946011931","tel":"089322389","addr":"臺東縣臺東市中華路二段345號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"快篩試劑早上8:10開始販賣。"},
 {"lng":"121.1364","lat":"22.76774","name":"強生幸福藥局","id":"5946012018","tel":"089235131","addr":"臺東縣臺東市更生路731號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩銷售（領取）時間：週一到週六早上8點，週日無。"},
 {"lng":"121.1543","lat":"22.75488","name":"采宏健保藥局","id":"5946012063","tel":"089330197","addr":"臺東縣臺東市中正路211號","business_week":"OOOOOOXOOOOOXXOXOXOXX","memo":"快篩發放時間10:00~12:00"},
 {"lng":"121.1423","lat":"22.76822","name":"聯美藥局","id":"5946012072","tel":"089237199","addr":"臺東縣臺東市仁五街75巷7-1號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"星期一至星期日.早上8點販售快篩，販售完為止。"},
