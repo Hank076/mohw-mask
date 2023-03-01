@@ -68,6 +68,7 @@ locations = [
 {"lng":"","lat":"","name":"富景藥局","id":"5901013746","tel":"0227455666","addr":"臺北市松山區三民路145號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5461","lat":"25.03619","name":"宏恩藥局","id":"5901020303","tel":"0227000956","addr":"臺北市大安區大安路1段181號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"1月20日及1月30.31日，營業時間10:00~18:00"},
 {"lng":"121.5429","lat":"25.02254","name":"靜園藥局","id":"5901020376","tel":"0227336390","addr":"臺北市大安區和平東路2段118巷57之1號","business_week":"OOOOOXXOOOOOOOOOOOOOO","memo":"實名制快篩每日下午2:00開始代售，售完為止"},
+{"lng":"121.5548","lat":"25.04066","name":"延吉大藥局","id":"5901020385","tel":"0227819227","addr":"臺北市大安區延吉街153號1樓","business_week":"OOOOOXXOOOOXXXOOOOXXX"},
 {"lng":"121.528509","lat":"25.02271","name":"師大藥局","id":"5901020554","tel":"0223623479","addr":"臺北市大安區師大路99號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩試劑開賣時間下午2:30現場排隊"},
 {"lng":"121.5426","lat":"25.04277","name":"施寶藥局","id":"5901020563","tel":"0227114175","addr":"臺北市大安區安東街50-5號1樓","business_week":"OOOOOXXOOOOOXXOOOOOXX"},
 {"lng":"121.545445","lat":"25.034014","name":"龍護大藥局","id":"5901020616","tel":"0223250686","addr":"臺北市大安區大安路1段224巷7號1F","business_week":"OOOOOOOOOOOOOXOOOOOOO"},
