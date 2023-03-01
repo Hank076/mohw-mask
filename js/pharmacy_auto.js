@@ -3483,6 +3483,7 @@ locations = [
 {"lng":"120.1842","lat":"22.89684","name":"明正藥局","id":"5942171043","tel":"076922049","addr":"高雄市茄萣區茄萣路一段391號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"2\/11~2\/29週一至週六上午08:30-12:00、下午14:30-21:00為販賣口罩時間，售完為止"},
 {"lng":"120.1839","lat":"22.90352","name":"安麗兒藥局","id":"5942171123","tel":"076906029","addr":"高雄市茄萣區嘉賜里仁愛路三段220號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.2453","lat":"22.785","name":"立達藥局","id":"5942190039","tel":"076179277","addr":"高雄市彌陀區中正西路259-2號","business_week":"OOOOOOOOOOOOXXOOOOOOO","memo":"春節期間請電洽門市"},
+{"lng":"120.2681","lat":"22.75929","name":"順成藥局","id":"5942200030","tel":"076172407","addr":"高雄市梓官區梓官路城隍巷31號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.253293","lat":"22.734546","name":"安麗兒藥局梓官店","id":"5942201199","tel":"076106189","addr":"高雄市梓官區嘉展路479號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.637","lat":"22.99552","name":"永昇藥局","id":"5942211122","tel":"076895522","addr":"高雄市六龜區太平路85號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩試劑每天早上8:00開始販售，售完為止"},
 {"lng":"120.5885","lat":"23.08291","name":"維康藥局","id":"5942220023","tel":"076752585","addr":"高雄市甲仙區西安里中正路22號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"自2\/11日~2\/29日，營業日07:00起為販賣口罩時間，售完為止"},
