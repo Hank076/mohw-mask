@@ -2734,6 +2734,7 @@ locations = [
 {"lng":"121.7893","lat":"24.63509","name":"杏東藥師藥局","id":"5934080024","tel":"039591024","addr":"宜蘭縣冬山鄉冬山路281號1樓","business_week":"OOOOOOOOOOOOOXOOOOOXX"},
 {"lng":"121.7907","lat":"24.63453","name":"威仁藥局","id":"5934081067","tel":"039595351","addr":"宜蘭縣冬山鄉冬山路219號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩"},
 {"lng":"121.7639","lat":"24.65465","name":"義成藥局","id":"5934081129","tel":"039588775","addr":"宜蘭縣冬山鄉義成路二段373號1樓","business_week":"OOOOOOXOOXOOXXOOXOOXX"},
+{"lng":"121.7914","lat":"24.63455","name":"康佑藥局","id":"5934081147","tel":"039591994","addr":"宜蘭縣冬山鄉冬山路132號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"121.7682","lat":"24.66745","name":"樂心藥局","id":"5934081156","tel":"039585950","addr":"宜蘭縣冬山鄉義成路3段502號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"每日08:00開賣，售完為止。星期日休息無販售，請勿來電詢問 感謝。"},
 {"lng":"121.748864","lat":"24.669697","name":"合康藥局","id":"5934081165","tel":"039616457","addr":"宜蘭縣冬山鄉廣興路213號","business_week":"OOOOOOOOOOOOOOOOOOOXX"},
 {"lng":"121.7676","lat":"24.66619","name":"和康藥局","id":"5934081174","tel":"039680650","addr":"宜蘭縣冬山鄉義成路3段351號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
