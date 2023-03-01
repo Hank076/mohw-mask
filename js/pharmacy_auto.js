@@ -2673,6 +2673,7 @@ locations = [
 {"lng":"121.0779","lat":"24.77693","name":"新華方西藥局","id":"5933090071","tel":"035926352","addr":"新竹縣芎林鄉文山路515號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"販售時間:07:00-21:00售完為止."},
 {"lng":"121.0803","lat":"24.77533","name":"暘光藥局","id":"5933091112","tel":"035121001","addr":"新竹縣芎林鄉文山路385號","business_week":"OOOOOXOOOOOOXOOOOOOXO","memo":"銷售快篩時間=營業時間"},
 {"lng":"121.0981","lat":"24.75059","name":"大銨藥局","id":"5933091121","tel":"035928018","addr":"新竹縣芎林鄉石潭村竹林路72之1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"無"},
+{"lng":"120.9901","lat":"24.76554","name":"寶唄藥局","id":"5933101088","tel":"035205028","addr":"新竹縣寶山鄉雙溪村雙豐路16號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"121.7542","lat":"24.74964","name":"永安藥局","id":"5934010013","tel":"039332039","addr":"宜蘭縣宜蘭市復興路61號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"快篩販售時間:周一~周六早上8:30-12:00；周一~周五下午2:30-晚上9:00售完為止（周日休息）"},
 {"lng":"121.75307","lat":"24.760056","name":"振芳藥局","id":"5934010022","tel":"039322369","addr":"宜蘭縣宜蘭市中山路3段179號","business_week":"OOOOOOXXXXXXXXOOOOOXX"},
 {"lng":"121.7568","lat":"24.75682","name":"華大藥局","id":"5934010077","tel":"039356412","addr":"宜蘭縣宜蘭市新民路64號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"上午8點30分賣出"},
