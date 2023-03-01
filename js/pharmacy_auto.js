@@ -160,6 +160,7 @@ locations = [
 {"lng":"121.540294","lat":"25.065913","name":"龍江藥局","id":"5901102560","tel":"0225023724","addr":"臺北市中山區龍江路356巷14號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5245","lat":"25.06501","name":"躍獅晴光藥局","id":"5901102579","tel":"0225951393","addr":"臺北市中山區農安街23之2號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售時間17:00，售完會提前結束"},
 {"lng":"121.53","lat":"25.06652","name":"德惠藥局","id":"5901102597","tel":"0225971131","addr":"臺北市中山區德惠街122號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
+{"lng":"121.5407","lat":"25.04843","name":"金生藥局","id":"5901102631","tel":"0287729808","addr":"臺北市中山區長安東路2段167-1號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"營業時間為週一~週五 09:00~21:00     週六09:00~14:00"},
 {"lng":"121.5214","lat":"25.05143","name":"興康源藥局","id":"5901102677","tel":"0225311248","addr":"臺北市中山區中山北路1段140巷8號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5496","lat":"25.08263","name":"富宥康藥局","id":"5901102686","tel":"0225325277","addr":"臺北市中山區北安路608巷5弄22號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5493","lat":"25.08191","name":"保德明水藥局","id":"5901102971","tel":"0285097769","addr":"臺北市中山區北安路608巷4弄1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"僅除夕營業到下午五點，其他都正常營業9:00-22:30，全年無休，可領／買快篩"},
