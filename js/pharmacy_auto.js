@@ -5,6 +5,7 @@ locations = [
 {"lng":"120.999979","lat":"24.597334","name":"苗栗縣南庄鄉衛生所","id":"2335110017","tel":"037822024","addr":"苗栗縣南庄鄉東村大同路17號","business_week":"XXXOXXXOOXOOXXXXXXXXX"},
 {"lng":"120.85472","lat":"23.696529","name":"南投縣信義鄉衛生所","id":"2338120015","tel":"0492791148","addr":"南投縣信義鄉明德村玉山路45號","business_week":"OOOOOXOOOOOOXOOOOOXOO","memo":"快篩試劑販售時間星期一至星期五上午09：00-11：00，現場排隊發售，國定假日不販賣。增加販售點請至本所網站參閱。"},
 {"lng":"120.7019","lat":"23.4666","name":"嘉義縣阿里山鄉衛生所","id":"2340180012","tel":"052561573","addr":"嘉義縣阿里山鄉樂野村3鄰97-2號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"阿里山遊樂區"},
+{"lng":"120.2624","lat":"23.23154","name":"臺南市下營區衛生所","id":"2341120010","tel":"066892149","addr":"臺南市下營區營前里中山路二段137號","business_week":"XOXOXXXXXXXXXXXXXXXXX"},
 {"lng":"120.4099","lat":"23.05631","name":"臺南市左鎮區衛生所","id":"2341260019","tel":"065731114","addr":"臺南市左鎮區中正里172之15號","business_week":"XXXXXXXXOXOXXXXXXXXXX"},
 {"lng":"120.5386","lat":"22.97693","name":"高雄市杉林區衛生所","id":"2342230015","tel":"076771319","addr":"高雄市杉林區上平里山仙路93巷2號","business_week":"OOOOOXXOOXOXXXXXXXXXX"},
 {"lng":"120.5496","lat":"22.41426","name":"屏東縣佳冬鄉衛生所","id":"2343210017","tel":"088662018","addr":"屏東縣佳冬鄉六根村佳和路87-1號","business_week":"OOOOOOXXOXOXXXXXXXXXX","memo":"販賣快篩試劑時間:週一至周五08:00-11:30"},
