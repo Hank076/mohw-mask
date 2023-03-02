@@ -2535,6 +2535,7 @@ locations = [
 {"lng":"121.295","lat":"24.92466","name":"元冠大藥局","id":"5932084739","tel":"033657868","addr":"桃園市八德區豐德路17號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"固定販售時間 早上8:00 發號碼牌 發完為止 感謝您"},
 {"lng":"121.2992","lat":"24.95842","name":"井三原健保藥局","id":"5932084748","tel":"032184078","addr":"桃園市八德區介壽路1段956號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩週一至週六販售，週日不販售，實際庫存依現場為主"},
 {"lng":"121.2981","lat":"24.95894","name":"康是美藥局廣福店","id":"5932084757","tel":"033610841","addr":"桃園市八德區廣福路30號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.2954","lat":"24.93085","name":"安平藥局","id":"5932084775","tel":"033732071","addr":"桃園市八德區興豐路652號1樓","business_week":"OOOOOOOOOOOOOOOOOOOXX"},
 {"lng":"121.328","lat":"24.97036","name":"美康健保藥局","id":"5932084793","tel":"033613624","addr":"桃園市八德區桃鶯路91號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.2935","lat":"24.93075","name":"瑞豐藥局","id":"5932084800","tel":"033681456","addr":"桃園市八德區興豐路577號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.3261","lat":"24.97167","name":"阿爾富山藥局","id":"5932084828","tel":"033763350","addr":"桃園市八德區桃鶯路4號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
