@@ -1202,6 +1202,7 @@ locations = [
 {"lng":"120.3176","lat":"22.64095","name":"桂林活力藥局九如店","id":"5907321069","tel":"073981009","addr":"高雄市三民區懷安街112號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.3061","lat":"22.64365","name":"振源藥局","id":"5907321078","tel":"073112541","addr":"高雄市三民區熱河一街355號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩隨到隨領，六日皆有營業"},
 {"lng":"120.324366","lat":"22.650151","name":"建工丁丁藥局","id":"5907321096","tel":"073830841","addr":"高雄市三民區建工路568號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制早上9點開始販售"},
+{"lng":"120.3045","lat":"22.64073","name":"九如順天藥局","id":"5907321121","tel":"073220706","addr":"高雄市三民區大連街9巷18號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"實名制快篩為營業時間皆開放領取，領完為止"},
 {"lng":"120.3263","lat":"22.65861","name":"大豐藥局","id":"5907321130","tel":"073980133","addr":"高雄市三民區大豐一路471號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.312","lat":"22.66176","name":"窩窩香藥局","id":"5907321158","tel":"073505883","addr":"高雄市三民區明哲路42-1號1樓","business_week":"OOOOOXXOOOOOOXOOOOOOO","memo":"周一~周六 14:00-20:00／周日20:00-21:00"},
 {"lng":"120.308363","lat":"22.629855","name":"健美藥局","id":"5907330031","tel":"072291108","addr":"高雄市新興區復興一路40之4號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"111／5／27開始快篩販售時間上午9:00~22:00"},
