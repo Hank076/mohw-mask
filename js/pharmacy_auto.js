@@ -2608,6 +2608,7 @@ locations = [
 {"lng":"121.0966","lat":"24.72171","name":"能安西藥局","id":"5933031643","tel":"035950515","addr":"新竹縣竹東鎮東峰路13號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午2點，星期日不販售"},
 {"lng":"121.0861","lat":"24.73988","name":"合康藥局","id":"5933031652","tel":"035103818","addr":"新竹縣竹東鎮興農街11號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.0542","lat":"24.76925","name":"好好藥局","id":"5933031698","tel":"035830678","addr":"新竹縣竹東鎮中興路三段276號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"販賣時段：星期一至星期日下午2:00開始購買"},
+{"lng":"121.0489","lat":"24.77287","name":"健康人生藥局","id":"5933031714","tel":"035910472","addr":"新竹縣竹東鎮中興路四段195號52館B116室","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"實名制快篩星期一到五14:00-16:00販賣"},
 {"lng":"121.0892","lat":"24.73607","name":"日榮堂藥局","id":"5933031723","tel":"035962335","addr":"新竹縣竹東鎮長春路一段281號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩代售：W1-W6於08:30-21:00過卡售完為止。星期日08:30開始販售，至12:00或售完為止。"},
 {"lng":"121.084691","lat":"24.736779","name":"國豐大藥局","id":"5933031741","tel":"035960360","addr":"新竹縣竹東鎮長春路三段6號","business_week":"XXXOXXXXXXOXXXXXXOXXX"},
 {"lng":"121.0882","lat":"24.73729","name":"仁愛藥局","id":"5933031750","tel":"035953458","addr":"新竹縣竹東鎮商華街33號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"星期日不定期營業。口罩販賣時段：星期一至六10:00-12:00"},
