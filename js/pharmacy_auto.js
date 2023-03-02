@@ -784,6 +784,7 @@ locations = [
 {"lng":"120.683262","lat":"24.153341","name":"佑全台中五權藥局","id":"5903260663","tel":"0422080702","addr":"臺中市北區五權路496號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.6678","lat":"24.15997","name":"立得藥局","id":"5903260734","tel":"0422080013","addr":"臺中市北區忠太西路11號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"周一至周六0900起販賣快篩試劑.售完為止"},
 {"lng":"120.6718","lat":"24.17295","name":"黎明安德藥局","id":"5903260743","tel":"0422956098","addr":"臺中市北區中清路1段852號1樓","business_week":"OOOXOOXOOOXOOOOOOXOOO","memo":"週四公休、週日下午2點開始營業。"},
+{"lng":"120.67","lat":"24.16267","name":"杏一北區忠明藥局","id":"5903260761","tel":"0422081273","addr":"臺中市北區忠明路442號1樓","business_week":"OOOOOOXOOOOOOXXXXXXXX","memo":"111／04／28實名制快篩每周一至周六12:00~18:00販售。每周日、國定假日因人力不足因素暫停販售"},
 {"lng":"120.6822","lat":"24.15278","name":"927達霖藥師藥局","id":"5903260878","tel":"0422060030","addr":"臺中市北區中華路二段201號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.6728","lat":"24.1678","name":"中清丁丁藥局","id":"5903260896","tel":"0422919866","addr":"臺中市北區中清路一段531號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制到貨後開始販售  facebook公告 賣完為止"},
 {"lng":"120.6886","lat":"24.15399","name":"莒光藥局","id":"5903260912","tel":"0422336663","addr":"臺中市北區錦南街12號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
