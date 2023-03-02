@@ -3146,6 +3146,7 @@ locations = [
 {"lng":"120.6813","lat":"23.96097","name":"康好藥局","id":"5938032300","tel":"0492358838","addr":"南投縣草屯鎮太平路一段225號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一至週日13:00-18:00購買及兌換快篩"},
 {"lng":"120.6819","lat":"23.97706","name":"和平藥局","id":"5938032373","tel":"0492310085","addr":"南投縣草屯鎮草溪路1026號1樓","business_week":"OOOOOOXOOXOOOXOOOOXXX","memo":"快篩發放 現場排隊 勿打電話 時間 週一至週五 晚上6:30-8:30 ， 週六下午3:30-5:00 .周日公休."},
 {"lng":"120.6871","lat":"23.96869","name":"虎山藥局","id":"5938032417","tel":"0492371389","addr":"南投縣草屯鎮虎山路489-1號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩販售時間：09:00-17:00 。每周日公休"},
+{"lng":"120.6848","lat":"23.98161","name":"順安藥局","id":"5938032435","tel":"0492333228","addr":"南投縣草屯鎮中正路768號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"實名制快篩每日營業開始販售，周日一樣有提供服務"},
 {"lng":"120.684663","lat":"23.977813","name":"福安藥局","id":"5938032453","tel":"0492333349","addr":"南投縣草屯鎮碧山路93號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"【★ 福 安 藥 局 ★】早上 0800 點之後現場販賣實名制快篩試劑"},
 {"lng":"120.649501","lat":"23.970538","name":"草屯藥局","id":"5938032480","tel":"0492362992","addr":"南投縣草屯鎮碧山路145、147號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.6821","lat":"23.97413","name":"佑全草屯中興藥局","id":"5938032524","tel":"0492323440","addr":"南投縣草屯鎮中興路78號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑販售時間:上午9點後"},
