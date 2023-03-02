@@ -127,8 +127,8 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.30224","lat":"22.677824","name":"華夏診所","id":"3502032325","tel":"073453961","addr":"高雄市左營區華夏路708號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"112／01／02晚上休診."},
 {"lng":"120.315601","lat":"22.685597","name":"福山診所","id":"3502033297","tel":"073482323","addr":"高雄市左營區重愛路218號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.307306","lat":"22.666858","name":"富誠診所","id":"3502033420","tel":"075560925","addr":"高雄市左營區富國路355號1樓","business_week":"OOOOOXOOOOOOXOOOOOOXO"},
-{"lng":"120.303945","lat":"22.726113","name":"陳顯明診所","id":"3502040667","tel":"073648127","addr":"高雄市楠梓區德賢路265號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"02／25上午看診，02／27全天看診，02／28 早午看診，晚上休診"},
-{"lng":"120.28898","lat":"22.715042","name":"康東原診所","id":"3502040685","tel":"073610115","addr":"高雄市楠梓區右昌街376號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"120.303945","lat":"22.726113","name":"陳顯明診所","id":"3502040667","tel":"073648127","addr":"高雄市楠梓區德賢路265號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
+{"lng":"120.28898","lat":"22.715042","name":"康東原診所","id":"3502040685","tel":"073610115","addr":"高雄市楠梓區右昌街376號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"4／1 4／3 4／4 4／5 全日門診"},
 {"lng":"120.298573","lat":"22.724916","name":"長義診所","id":"3502042296","tel":"073640553","addr":"高雄市楠梓區惠民路46號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.321659","lat":"22.648641","name":"蕭瑞榮小兒科診所","id":"3502051375","tel":"073867121","addr":"高雄市三民區建工路533號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"1／21上午開診、1／22、1／23、1／24全日休診、1／25上午開診、1／26上午開診"},
 {"lng":"120.318738","lat":"22.640239","name":"儲昭仁耳鼻喉科診所","id":"3502052345","tel":"073890470","addr":"高雄市三民區九如一路854號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
@@ -676,6 +676,6 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.227571","lat":"22.872983","name":"都蘭診所","id":"3546071071","tel":"089530021","addr":"臺東縣東河鄉都蘭村21鄰都蘭96號","business_week":"OOOOOOXOOOOOXXOXXXXXX","memo":"1／1、20、21、23、24、25、26、4／1休診"},
 {"lng":"118.319877","lat":"24.433705","name":"禾心診所","id":"3590011316","tel":"082322180","addr":"金門縣金城鎮北門里民生路9-7號","business_week":"OOOOOOXOXOOOXXOOOOOXX","memo":"兒科照常看診 骨科看診及復健請電話詢問"},
 {"lng":"118.410272","lat":"24.438943","name":"康橋診所","id":"3590030615","tel":"082330096","addr":"金門縣金湖鎮赤東路150號","business_week":"OOXOOOOOXXOOXXOXXOXXX"},
-{"lng":"121.537266","lat":"25.025172","name":"尹書田醫療財團法人書田泌尿科眼科診所","id":"4001020028","tel":"0223690211","addr":"臺北市大安區建國南路二段276號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"2／27，2／28正常開診"},
+{"lng":"121.537266","lat":"25.025172","name":"尹書田醫療財團法人書田泌尿科眼科診所","id":"4001020028","tel":"0223690211","addr":"臺北市大安區建國南路二段276號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"112／04／05早診僅泌尿科／內科／眼科開診"},
 {"lng":"120.339359","lat":"22.636811","name":"和平醫療社團法人進興診所","id":"4107320010","tel":"073869559","addr":"高雄市三民區九如一路171號","business_week":"OOOOOOXOOOOOOXOXOXOXX","memo":"111／09 月開始增每週1.3.5晚診，六增下午診"},
 ];
