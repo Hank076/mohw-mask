@@ -2592,6 +2592,7 @@ locations = [
 {"lng":"121.7682","lat":"24.66745","name":"樂心藥局","id":"5934081156","tel":"039585950","addr":"宜蘭縣冬山鄉義成路3段502號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"每日08:00開賣，售完為止。星期日休息無販售，請勿來電詢問 感謝。"},
 {"lng":"121.748864","lat":"24.669697","name":"合康藥局","id":"5934081165","tel":"039616457","addr":"宜蘭縣冬山鄉廣興路213號","business_week":"OOOOOOOOOOOOOOOOOOOXX"},
 {"lng":"121.7676","lat":"24.66619","name":"和康藥局","id":"5934081174","tel":"039680650","addr":"宜蘭縣冬山鄉義成路3段351號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
+{"lng":"121.7958","lat":"24.68437","name":"五結健保藥局","id":"5934091081","tel":"039503200","addr":"宜蘭縣五結鄉五結路二段437號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"周一二四五六8點開賣，週三14點開賣"},
 {"lng":"121.7977","lat":"24.68561","name":"平安藥局","id":"5934091090","tel":"039603265","addr":"宜蘭縣五結鄉五結中路2段23號","business_week":"OOOOOOXOOOXOXXXXXXXXX","memo":"【公告】3／3（五）下午、3／4（六）、3／5（日）休診，造成不便盡請見諒"},
 {"lng":"121.8207","lat":"24.66838","name":"松康藥局","id":"5934091134","tel":"039602700","addr":"宜蘭縣五結鄉親河路1段100號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"每月底之週六及每週日為固定休假日。"},
 {"lng":"121.6515","lat":"24.66588","name":"三星健保藥局","id":"5934100030","tel":"039895816","addr":"宜蘭縣三星鄉三星路5段51號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"快篩試劑禮拜一到六早上10點開始購買，現場排隊，售完為止"},
