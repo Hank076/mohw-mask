@@ -2271,6 +2271,7 @@ locations = [
 {"lng":"120.2536","lat":"23.67503","name":"義和堂中西藥局","id":"5939140061","tel":"056991028","addr":"雲林縣東勢鄉東南村東勢東路12號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日營業時段販售"},
 {"lng":"120.305822","lat":"23.692576","name":"召安大藥局","id":"5939150067","tel":"056976066","addr":"雲林縣褒忠鄉中勝村中正路450號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩發放每日下午約1:30"},
 {"lng":"120.3109","lat":"23.69352","name":"三民藥局","id":"5939151135","tel":"056975515","addr":"雲林縣褒忠鄉三民路15號","business_week":"OOOOOOOOXOXOOXXXXXXXX"},
+{"lng":"120.3134","lat":"23.69541","name":"正和藥局","id":"5939151162","tel":"056972776","addr":"雲林縣褒忠鄉三民路116號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.3124","lat":"23.64811","name":"嘉民藥局","id":"5939171039","tel":"057880513","addr":"雲林縣元長鄉長南村元南路62號","business_week":"OOOOOOXOOOOOXXXXXXXXX"},
 {"lng":"120.2216","lat":"23.63745","name":"仁安堂藥局","id":"5939180074","tel":"057875563","addr":"雲林縣四湖鄉中山西路185號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"0800-販售結束"},
 {"lng":"120.225614","lat":"23.634449","name":"大家藥局","id":"5939181231","tel":"057877435","addr":"雲林縣四湖鄉中正路433號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"0730-1930(12:00~14:00休息)"},
