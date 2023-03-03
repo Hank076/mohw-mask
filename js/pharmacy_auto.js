@@ -2915,6 +2915,7 @@ locations = [
 {"lng":"120.5898","lat":"23.982","name":"五行藥局","id":"5937151128","tel":"048527603","addr":"彰化縣大村鄉黃厝村12鄰山腳路2-26號","business_week":"OOOOOOXOOOOOXXOOOXOXX"},
 {"lng":"120.5856","lat":"23.98996","name":"萬來藥局","id":"5937151137","tel":"048535565","addr":"彰化縣大村鄉福興村山腳路80-9號","business_week":"OOOOOXOOOOOOXOOOOOOXX","memo":"星期六休息。星期日營業至下午五點三十分"},
 {"lng":"120.5455","lat":"23.99402","name":"福井藥局","id":"5937151155","tel":"048525328","addr":"彰化縣大村鄉中正西路398號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
+{"lng":"120.4768","lat":"23.99591","name":"埔鹽藥局","id":"5937161115","tel":"048659655","addr":"彰化縣埔鹽鄉埔鹽村彰水路二段8號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.4634","lat":"24.00005","name":"福氣藥局","id":"5937161124","tel":"048657735","addr":"彰化縣埔鹽鄉好修村中正路229號1樓","business_week":"OOOOOXXOOOOOXXOOXOOXX"},
 {"lng":"120.4225","lat":"23.98887","name":"石埤藥局","id":"5937161133","tel":"048655146","addr":"彰化縣埔鹽鄉石埤村番金路80之16號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一至週日早上08:00開始販賣快篩.售完為止。"},
 {"lng":"120.5417","lat":"23.95288","name":"安麗兒藥局埔心店","id":"5937171157","tel":"048295129","addr":"彰化縣埔心鄉義民村員鹿路2段434號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
