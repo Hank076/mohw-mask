@@ -2272,6 +2272,7 @@ locations = [
 {"lng":"121.2231","lat":"24.96495","name":"薰衣草藥局","id":"5932023987","tel":"034253330","addr":"桃園市中壢區新生路335號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩將於8／19到貨"},
 {"lng":"121.202248","lat":"25.006253","name":"青瑭藥局","id":"5932023996","tel":"032875901","addr":"桃園市中壢區民權路4段277號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.205667","lat":"25.003458","name":"全球青埔藥局","id":"5932024019","tel":"032873147","addr":"桃園市中壢區高鐵南路2段227號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間:9:00-22:00"},
+{"lng":"121.2292","lat":"24.9627","name":"天晟社區藥局","id":"5932024028","tel":"034629292","addr":"桃園市中壢區延平路153號1樓","business_week":"OOOOOOOOOOOOXXOOOOOXX"},
 {"lng":"121.2263","lat":"24.9616","name":"福安藥局","id":"5932024055","tel":"034266000","addr":"桃園市中壢區元化路232號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.221172","lat":"24.962699","name":"大和藥局","id":"5932024091","tel":"034260298","addr":"桃園市中壢區元化路2段66號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"政府快篩販售時間：每日14:00，直接開賣至售完為止"},
 {"lng":"121.2649","lat":"24.96438","name":"民生藥師藥局","id":"5932024126","tel":"033555008","addr":"桃園市中壢區興仁路2段289號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"不收零錢請不要拿10元5元1元來購買"},
