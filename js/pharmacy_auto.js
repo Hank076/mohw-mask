@@ -367,6 +367,7 @@ locations = [
 {"lng":"121.527","lat":"25.03545","name":"祥全藥局","id":"5901180304","tel":"0223939339","addr":"臺北市中正區信義路2段79巷15-8號1F","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期一至六下午2點開始賣快篩試劑"},
 {"lng":"121.5174","lat":"25.03086","name":"南昌大藥局","id":"5901180322","tel":"0223510322","addr":"臺北市中正區南昌路1段86號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5301","lat":"25.01667","name":"古亭藥局","id":"5901180368","tel":"0223683618","addr":"臺北市中正區汀州路3段117號","business_week":"OOOOOXXOOOOOOXOOOOOOX","memo":"星期六早上休息 星期日休息"},
+{"lng":"121.5079","lat":"25.03487","name":"國杏藥師示範藥局","id":"5901182086","tel":"0223811322","addr":"臺北市中正區延平南路171巷3號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.53","lat":"25.01673","name":"東華藥局","id":"5901182111","tel":"0223640852","addr":"臺北市中正區汀州路3段113號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期日店休   星期一至星期六 下午15點開始販售快篩試劑"},
 {"lng":"121.5129","lat":"25.04221","name":"合泰大藥局","id":"5901182228","tel":"0223899977","addr":"臺北市中正區衡陽路26號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩代售時間自09:00；現場排隊"},
 {"lng":"121.5237","lat":"25.02236","name":"怡誠藥局","id":"5901183510","tel":"0223626905","addr":"臺北市中正區汀州路2段212號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
