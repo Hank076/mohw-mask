@@ -2115,6 +2115,7 @@ locations = [
 {"lng":"121.4264","lat":"25.046","name":"健康藥師藥局","id":"5931160132","tel":"0222972121","addr":"新北市泰山區明志路2段323號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"周日公休"},
 {"lng":"121.432275","lat":"25.061941","name":"日泰藥局","id":"5931160141","tel":"0229095989","addr":"新北市泰山區泰林路2段227號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.425645","lat":"25.045158","name":"善耕藥局","id":"5931161282","tel":"0229086656","addr":"新北市泰山區明志路2段362號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.424219","lat":"25.039057","name":"仁安藥局","id":"5931161433","tel":"0229015586","addr":"新北市泰山區明志路3段174號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4331","lat":"25.05534","name":"苗園健保特約藥局","id":"5931161513","tel":"0222970736","addr":"新北市泰山區仁愛路92號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.4304","lat":"25.03971","name":"立赫輔大藥局","id":"5931161577","tel":"0229060306","addr":"新北市泰山區貴子路65號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"121.4336","lat":"25.06434","name":"全成藥局","id":"5931161602","tel":"0229093039","addr":"新北市泰山區明志路1段83號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
