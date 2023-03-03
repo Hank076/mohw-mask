@@ -932,6 +932,7 @@ locations = [
 {"lng":"120.1824","lat":"22.92566","name":"合樂藥局","id":"5905330220","tel":"062625016","addr":"臺南市南區灣裡路309號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"備有自費快篩（唾液、鼻腔）、血氧機、酒精"},
 {"lng":"120.1893","lat":"22.97767","name":"宏祐健保藥局","id":"5905330239","tel":"062632580","addr":"臺南市南區新孝路59號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.2138","lat":"22.97574","name":"太子藥局大同店","id":"5905330275","tel":"062158339","addr":"臺南市南區大同路二段348號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，若供貨正常一律平日早上9點，週末早上11點。"},
+{"lng":"120.1912","lat":"22.97556","name":"千薏台安藥局","id":"5905330337","tel":"062638265","addr":"臺南市南區金華路二段2號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.1913","lat":"22.97807","name":"繁華藥局","id":"5905330426","tel":"062656368","addr":"臺南市南區再興里金華路二段96號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.1917","lat":"22.98835","name":"麗欣健保藥局","id":"5905340075","tel":"062209393","addr":"臺南市中西區永華路一段194號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.1981","lat":"22.99075","name":"東北藥局","id":"5905340155","tel":"062226753","addr":"臺南市中西區福安里西門路二段14號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週一到週五早上9點到晚上10點，週六早上9點到晚上9點半"},
