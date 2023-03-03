@@ -25,6 +25,7 @@ locations = [
 {"lng":"119.5216","lat":"23.3615","name":"澎湖縣望安鄉將軍衛生所","id":"2344050024","tel":"069902066","addr":"澎湖縣望安鄉將軍村12鄰將軍澳1之3號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"119.431","lat":"23.2041","name":"澎湖縣七美鄉衛生所","id":"2344060011","tel":"069971005","addr":"澎湖縣七美鄉中和村埔內54號","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"國定假日只有上午和下午診"},
 {"lng":"121.379341","lat":"23.099896","name":"台東縣成功鎮衛生所","id":"2346020015","tel":"089851419","addr":"臺東縣成功鎮忠仁里中山東路64號","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"5月7日上午8:30發號碼牌9:00開賣"},
+{"lng":"121.1639","lat":"23.04957","name":"臺東縣關山鎮衛生所","id":"2346030011","tel":"089811042","addr":"臺東縣關山鎮中福里中華路78號","business_week":"OOOOXXXOOOOXXXXXXXXXX","memo":"週三上午幼兒預防接種、週二上午及週四上午遠距醫療門診"},
 {"lng":"121.0881","lat":"22.78207","name":"台東縣卑南鄉衛生所","id":"2346040017","tel":"089382042","addr":"臺東縣卑南鄉太平村和平路132號","business_week":"OOOOOXXOOOOOXXXXXXXXX"},
 {"lng":"121.4696","lat":"22.67319","name":"台東縣綠島鄉衛生所","id":"2346110014","tel":"089672511","addr":"臺東縣綠島鄉中寮村1-1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"家用快篩實名制，販售時段為08:30至12:00（周一至周五，遇國定假日暫停）"},
 {"lng":"119.9991","lat":"26.22617","name":"連江縣北竿鄉衛生所","id":"2391020010","tel":"083655592","addr":"連江縣北竿鄉塘岐村281-6號","business_week":"OOOOOOXOOOOOXXXXXXXXX"},
