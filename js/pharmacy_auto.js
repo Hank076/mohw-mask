@@ -350,6 +350,7 @@ locations = [
 {"lng":"121.5742","lat":"24.98784","name":"專品政大藥局","id":"5901203295","tel":"0222343010","addr":"臺北市文山區指南路2段8號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5396","lat":"24.99978","name":"躍獅景新藥局","id":"5901203393","tel":"0229356221","addr":"臺北市文山區羅斯福路6段30號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.559535","lat":"24.981532","name":"富康活力睦新藥局","id":"5901203400","tel":"0229393666","addr":"臺北市文山區木新路3段216號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.559","lat":"24.99779","name":"康宜庭興隆藥局","id":"5901203419","tel":"0222304866","addr":"臺北市文山區興隆路3段200號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.545","lat":"24.99524","name":"景華盛康藥局","id":"5901203446","tel":"0229310188","addr":"臺北市文山區景華街69號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5562","lat":"25.00024","name":"全球萬芳藥局","id":"5901203455","tel":"0289352147","addr":"臺北市文山區興隆路3段63號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間9:00~22:00"},
 {"lng":"121.576","lat":"24.98811","name":"晴天藥局","id":"5901203473","tel":"0229363131","addr":"臺北市文山區萬壽路15號(1樓)","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"慢性處方箋．寄單領藥 = 省時又方便 Line ID: 29363131 歡迎多加利用 :）"},
