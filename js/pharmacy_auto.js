@@ -2488,6 +2488,7 @@ locations = [
 {"lng":"120.6015","lat":"22.82347","name":"武康健保藥局","id":"5943111158","tel":"087965826","addr":"屏東縣高樹鄉高樹村南興路97號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩試劑實名制販售時間：營業日上午八點開始"},
 {"lng":"120.625446","lat":"22.526397","name":"昕妙春藥局","id":"5943125125","tel":"087850153","addr":"屏東縣萬巒鄉新置村新隆路48號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.569297","lat":"22.573316","name":"李藥局","id":"5943125198","tel":"087810625","addr":"屏東縣萬巒鄉褒忠路114號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"週一至週日早上8點販賣快篩。"},
+{"lng":"120.5705","lat":"22.57219","name":"萬巒健保藥局","id":"5943125205","tel":"087815919","addr":"屏東縣萬巒鄉褒忠路77號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"自2\/11日~2\/29日，營業日09:00發號碼牌，14:30~21:00為販賣口罩時間，售完為止。"},
 {"lng":"120.568","lat":"22.61096","name":"長生藥局","id":"5943130064","tel":"087792121","addr":"屏東縣內埔鄉仁和路7號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"週一至周五營業時間上午09:00到12:00 下午3:00到10點  周六週日公休"},
 {"lng":"120.5666","lat":"22.61241","name":"佳安藥局","id":"5943131427","tel":"087782938","addr":"屏東縣內埔鄉內田村廣濟路143號","business_week":"OOOOOOXOOOOOXXOOXOOXX","memo":"快篩試劑販售為早上8:00開始"},
 {"lng":"120.5653","lat":"22.61005","name":"東東藥局","id":"5943131436","tel":"087780183","addr":"屏東縣內埔鄉內田村廣濟路49號","business_week":"OOOOOOOOOOOOXXOOOOOXX"},
