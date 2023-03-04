@@ -336,6 +336,7 @@ locations = [
 {"lng":"121.561","lat":"24.98889","name":"建興藥局","id":"5901200105","tel":"0229399993","addr":"臺北市文山區木柵路2段81號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期一至星期日早上8時30分現場販售實名制快篩試劑"},
 {"lng":"121.5393","lat":"24.99512","name":"瑞安藥局","id":"5901200123","tel":"0229312888","addr":"臺北市文山區溪口街69-1號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上8:30開始營業.星期日休息.快篩劑早上8:30開始販賣."},
 {"lng":"121.552442","lat":"25.001482","name":"逸仙藥師藥局","id":"5901201540","tel":"0229312597","addr":"臺北市文山區興隆路2段218-1號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"9:00-10:00"},
+{"lng":"121.547","lat":"24.99952","name":"舒博威藥局","id":"5901201826","tel":"0229306805","addr":"臺北市文山區興隆路2段95巷3號","business_week":"OOOOOOXXXXXXXXOOOOOOX","memo":"早上8:30開始販售"},
 {"lng":"121.539844","lat":"24.991001","name":"佳醫景美藥局","id":"5901201871","tel":"0286636659","addr":"臺北市文山區羅斯福路6段290號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5478","lat":"24.99955","name":"華君藥局","id":"5901202047","tel":"0229319510","addr":"臺北市文山區興隆路2段60號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天12:00開始販售快篩"},
 {"lng":"121.5395","lat":"25.00115","name":"杏隆藥局","id":"5901202627","tel":"0229313151","addr":"臺北市文山區羅斯福路5段261號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
