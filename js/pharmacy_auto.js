@@ -1289,6 +1289,7 @@ locations = [
 {"lng":"121.4886","lat":"25.05131","name":"榮康藥局","id":"5931025192","tel":"0229772723","addr":"新北市三重區成功路81號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5009","lat":"25.06343","name":"鴻泰健保藥局","id":"5931025263","tel":"0229769055","addr":"新北市三重區重新路1段95號1樓","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"每月第一和第三周日公休"},
 {"lng":"121.4753","lat":"25.06803","name":"吉盛健保藥局","id":"5931025281","tel":"0229801666","addr":"新北市三重區頂崁街210巷46號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"121.4964","lat":"25.06783","name":"康新藥局","id":"5931025290","tel":"0229865982","addr":"新北市三重區正義北路185號2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制代售時段：下午2點到4點。請自備零錢，恕不找零。."},
 {"lng":"121.4974","lat":"25.06685","name":"利民藥局","id":"5931025432","tel":"0229852826","addr":"新北市三重區自強路1段171號、173號1樓及2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4791","lat":"25.06821","name":"吉康健保藥局","id":"5931025549","tel":"0289810122","addr":"新北市三重區三民街279號1樓","business_week":"OOOOOOXXXXXXXXOOOOOOX","memo":"早上9點開始販售"},
 {"lng":"121.4912","lat":"25.05856","name":"煜安健保藥局","id":"5931025656","tel":"0229768128","addr":"新北市三重區光明路23號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
