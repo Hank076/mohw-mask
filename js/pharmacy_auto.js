@@ -1544,6 +1544,7 @@ locations = [
 {"lng":"121.762","lat":"25.10079","name":"大埔藥局","id":"5931121279","tel":"0224587020","addr":"新北市瑞芳區大埔路128-3號1樓","business_week":"OOOOOOOOOOOOOXXXXXXXX","memo":"快篩劑代售  上午7:30~12:00（含周六日）"},
 {"lng":"121.8057","lat":"25.10812","name":"瑞芳藥局","id":"5931121466","tel":"0224966588","addr":"新北市瑞芳區明燈路3段59之1及59之2號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4463","lat":"24.98538","name":"博惠藥局","id":"5931130152","tel":"0222618337","addr":"新北市土城區中央路1段249巷20號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"14:00開始販售政府快篩，不發號碼牌"},
+{"lng":"121.4626","lat":"24.98825","name":"崇愛藥局","id":"5931130214","tel":"0222665506","addr":"新北市土城區永豐路17號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.4592","lat":"24.9809","name":"祥發藥局","id":"5931130349","tel":"0222655056","addr":"新北市土城區青雲路255號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩周一~周六上午8:30起販售，售完為止"},
 {"lng":"121.45163","lat":"24.984469","name":"學安藥師藥局","id":"5931130483","tel":"0222610565","addr":"新北市土城區學府路1段211號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4406","lat":"24.97626","name":"善淳藥師藥局","id":"5931132236","tel":"0282627371","addr":"新北市土城區福仁街19號1樓、B1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
