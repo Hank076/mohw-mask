@@ -506,7 +506,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.564747","lat":"24.24184","name":"真善美診所","id":"3536051718","tel":"0426656037","addr":"臺中市沙鹿區成功東街119號","business_week":"OOOOXOXOOOOOOXOOOOOXX"},
 {"lng":"120.558578","lat":"24.232405","name":"何秋燕皮膚科診所","id":"3536051754","tel":"0426362982","addr":"臺中市沙鹿區沙田路53之5號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.534901","lat":"24.249396","name":"安心診所","id":"3536061241","tel":"0426562059","addr":"臺中市梧棲區港埠路一段1115號","business_week":"OOOOOOXOXOOOOXOXOOOXX"},
-{"lng":"120.700407","lat":"24.214084","name":"佳佑診所","id":"3536091712","tel":"0425336888","addr":"臺中市潭子區勝利路319號","business_week":"OOOOOXOOOOOOXOOOOOOXO","memo":"112／2／25上午休診下午休診晚上休診、112／2／26、112／2／27、112／2／28上午看診下午看診晚上看診"},
+{"lng":"120.700407","lat":"24.214084","name":"佳佑診所","id":"3536091712","tel":"0425336888","addr":"臺中市潭子區勝利路319號","business_week":"OOOOOXOOOOOOXOOOOOOXO"},
 {"lng":"120.647465","lat":"24.225494","name":"林釗尚小兒科診所","id":"3536101482","tel":"0425600313","addr":"臺中市大雅區大雅路151號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.587641","lat":"24.181017","name":"康德耳鼻喉科診所","id":"3536170290","tel":"0426317903","addr":"臺中市龍井區新興路43號","business_week":"OOOOOOXXXXXXXXOOOOOXX","memo":"每日下午時段休診， 晚上門診時間六點五十分至八點五十分止."},
 {"lng":"120.715258","lat":"24.127119","name":"建志耳鼻喉科診所","id":"3536192509","tel":"0422766899","addr":"臺中市太平區中興路110號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
