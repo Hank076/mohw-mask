@@ -2168,6 +2168,7 @@ locations = [
 {"lng":"120.4344","lat":"23.70764","name":"良方藥局","id":"5939031576","tel":"056312106","addr":"雲林縣虎尾鎮中山路57號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.4368","lat":"23.71237","name":"端發藥局","id":"5939031996","tel":"056314168","addr":"雲林縣虎尾鎮林森路一段329號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.4289","lat":"23.70476","name":"惠眾藥局","id":"5939032546","tel":"056363350","addr":"雲林縣虎尾鎮林森路二段169號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.43","lat":"23.70645","name":"林森瑞安藥局","id":"5939032564","tel":"056328034","addr":"雲林縣虎尾鎮林森路二段89號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.432","lat":"23.70698","name":"林藥師藥局","id":"5939032626","tel":"056334135","addr":"雲林縣虎尾鎮中正路207號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.4387","lat":"23.71498","name":"林森啄木鳥藥局","id":"5939032715","tel":"056320417","addr":"雲林縣虎尾鎮明正東路8號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售時間：早上9點~售完為止。周末（六、日）無販售"},
 {"lng":"120.4605","lat":"23.80032","name":"一元藥局","id":"5939040164","tel":"055879987","addr":"雲林縣西螺鎮福興路175號","business_week":"OOOOOOXOOOOOOXXXXXXXX"},
