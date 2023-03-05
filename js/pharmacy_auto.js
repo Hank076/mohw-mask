@@ -382,6 +382,7 @@ locations = [
 {"lng":"120.3079","lat":"22.62172","name":"幸福藥師藥局","id":"5902085308","tel":"075368701","addr":"高雄市苓雅區青年一路167-3號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.316606","lat":"22.617774","name":"全國大藥局","id":"5902090032","tel":"073346525","addr":"高雄市前鎮區三多二路403號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制10點開始..賣完為止"},
 {"lng":"120.3374","lat":"22.60991","name":"意文藥局","id":"5902090121","tel":"077226570","addr":"高雄市前鎮區瑞華里武營路183號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"每天8點營業 立即販賣"},
+{"lng":"120.3122","lat":"22.6163","name":"勝惠藥局","id":"5902090167","tel":"073354766","addr":"高雄市前鎮區忠孝里三多三路71號","business_week":"XXXXXOOXXXXXOOXXXXXOO"},
 {"lng":"120.32245","lat":"22.578078","name":"博平藥局","id":"5902090827","tel":"078311814","addr":"高雄市前鎮區草衙二路377號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.3325","lat":"22.60923","name":"佳加藥局","id":"5902091100","tel":"077228112","addr":"高雄市前鎮區瑞北路114號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上8:00開始銷售快篩  售完為止， 星期日正常營業 春節期間看診時段請電洽診所（藥局）"},
 {"lng":"120.3322","lat":"22.60291","name":"北京藥局","id":"5902091128","tel":"077113100","addr":"高雄市前鎮區公正路31號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"發放方式，8；00現場過卡"},
