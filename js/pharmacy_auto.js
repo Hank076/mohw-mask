@@ -1584,6 +1584,7 @@ locations = [
 {"lng":"121.258033","lat":"24.943625","name":"華勛藥局","id":"5932023889","tel":"034161881","addr":"桃園市中壢區華勛街112、114號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.2295","lat":"24.94529","name":"美康中壢藥局","id":"5932023898","tel":"034590668","addr":"桃園市中壢區龍岡路二段117號、後興路二段551巷3號、4號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩15:00發放"},
 {"lng":"121.2566","lat":"24.97338","name":"內壢忠孝藥局","id":"5932023914","tel":"034636641","addr":"桃園市中壢區忠孝路36號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.222696","lat":"24.960439","name":"朝日藥局","id":"5932023923","tel":"032805882","addr":"桃園市中壢區新生路129號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.202248","lat":"25.006253","name":"青瑭藥局","id":"5932023996","tel":"032875901","addr":"桃園市中壢區民權路4段277號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.205667","lat":"25.003458","name":"全球青埔藥局","id":"5932024019","tel":"032873147","addr":"桃園市中壢區高鐵南路2段227號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間:9:00-22:00"},
 {"lng":"121.2292","lat":"24.9627","name":"天晟社區藥局","id":"5932024028","tel":"034629292","addr":"桃園市中壢區延平路153號1樓","business_week":"OOOOOOOOOOOOXXOOOOOXX"},
