@@ -2175,6 +2175,7 @@ locations = [
 {"lng":"120.4294","lat":"23.55555","name":"大方藥局","id":"5940041677","tel":"052268560","addr":"嘉義縣民雄鄉中樂村民族路40-2號","business_week":"OOOOOOOOOOOOOXOOOOOXX"},
 {"lng":"120.4318","lat":"23.55674","name":"春森藥局","id":"5940041695","tel":"052266957","addr":"嘉義縣民雄鄉東榮村9鄰和平路37號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"08:00~售罄"},
 {"lng":"120.4282","lat":"23.55087","name":"民雄丁丁藥局","id":"5940041828","tel":"052260990","addr":"嘉義縣民雄鄉文化路3-7號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一~週日於早上08:00開始販售實名制快篩試劑!丁丁藥局關心您!"},
+{"lng":"120.3966","lat":"23.60433","name":"滋元藥局","id":"5940051100","tel":"052696287","addr":"嘉義縣溪口鄉中正路109之3號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"周一  周六(0800~1930)、周日(0800~1200)"},
 {"lng":"120.3468","lat":"23.55654","name":"黃莉雅藥局","id":"5940060056","tel":"053747329","addr":"嘉義縣新港鄉宮前村新民路16號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.291989","lat":"23.49489","name":"良信藥局","id":"5940071102","tel":"053805085","addr":"嘉義縣六腳鄉蒜頭村190-5號","business_week":"OOOOOOXOOOOOXXXXXXXXX"},
 {"lng":"120.1405","lat":"23.45356","name":"長生健保藥局","id":"5940080058","tel":"053732557","addr":"嘉義縣東石鄉東石村東石村260號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩每天上午8點發號碼牌，週1-5下午2-7點購買領取，週六日上午10-12點購買領取"},
