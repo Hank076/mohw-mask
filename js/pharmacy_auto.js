@@ -1066,6 +1066,7 @@ locations = [
 {"lng":"120.46","lat":"23.45571","name":"軍輝健康幸福藥局","id":"5922013157","tel":"052395789","addr":"嘉義市東區軍輝路192號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.4604","lat":"23.48374","name":"民權藥局","id":"5922013193","tel":"052775322","addr":"嘉義市東區民權路155號1樓、157號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.4366","lat":"23.46751","name":"興業藥局","id":"5922020116","tel":"052861880","addr":"嘉義市西區福民里興業西路381號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.43496","lat":"23.47573","name":"照安藥局","id":"5922020125","tel":"052332883","addr":"嘉義市西區福全里博愛路2段361號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日早上8:00開始販售實名制快篩。"},
 {"lng":"120.4427","lat":"23.45504","name":"新宏祥藥局","id":"5922020303","tel":"052355588","addr":"嘉義市西區湖內里民生南路574號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"羅氏家用快篩:每日早上8點開始販售.售完為止"},
 {"lng":"120.4375","lat":"23.4726","name":"勝華藥局","id":"5922020376","tel":"052856642","addr":"嘉義市西區垂楊路623號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週一至週六早上 8:00 開始販售 快篩試劑.週日休息."},
 {"lng":"120.4488","lat":"23.48298","name":"啄木鳥藥局","id":"5922020456","tel":"052226497","addr":"嘉義市西區國華里文化路253號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
