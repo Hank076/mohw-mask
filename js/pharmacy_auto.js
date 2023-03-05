@@ -177,7 +177,7 @@ locations = [
 {"lng":"121.6167","lat":"25.05175","name":"湳港藥局","id":"5901121734","tel":"0227892200","addr":"臺北市南港區研究院路1段101巷10號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.6205","lat":"25.03985","name":"健涵藥局","id":"5901121850","tel":"0227837285","addr":"臺北市南港區舊莊街1段147號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.6119","lat":"25.05536","name":"南港藥局","id":"5901121869","tel":"0227829137","addr":"臺北市南港區南港路一段166號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
-{"lng":"121.5924","lat":"25.05434","name":"景星藥局","id":"5901121903","tel":"0227838816","addr":"臺北市南港區南港路3段26號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"第4輪 每日快篩實名制 不限時間"},
+{"lng":"121.5924","lat":"25.05434","name":"景星藥局","id":"5901121903","tel":"0227838816","addr":"臺北市南港區南港路3段26號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"第4輪 每日快篩實名制 不限時間"},
 {"lng":"121.588","lat":"25.03948","name":"小藥師健保藥局","id":"5901121930","tel":"0227867002","addr":"臺北市南港區福德街320之1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售時間，每天早上10點開始販售，售完為止"},
 {"lng":"121.5818","lat":"25.04692","name":"心亮藥局","id":"5901121958","tel":"0227881677","addr":"臺北市南港區玉成街66之7號","business_week":"OOOOOXXOOOOOXXOOOOOXX"},
 {"lng":"121.621117","lat":"25.039491","name":"勝安藥局","id":"5901121985","tel":"0227828450","addr":"臺北市南港區舊莊街1段165號","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"星期天下午3點半營業"},
