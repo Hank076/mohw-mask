@@ -1754,6 +1754,7 @@ locations = [
 {"lng":"","lat":"","name":"新大賀藥局","id":"5932101253","tel":"034927100","addr":"桃園市平鎮區新榮路259號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.214","lat":"24.94629","name":"晨安藥局","id":"5932108305","tel":"034925202","addr":"桃園市平鎮區振興西路99號","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"販售時段:早上8:00..... 22:00販賣"},
 {"lng":"121.2229","lat":"24.94747","name":"建德藥局","id":"5932108430","tel":"034686662","addr":"桃園市平鎮區北勢里金陵路103號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"121.2032","lat":"24.95127","name":"天健示範藥局","id":"5932108574","tel":"034937169","addr":"桃園市平鎮區文化街252號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制每天9點販售，售完為止"},
 {"lng":"121.2139","lat":"24.9538","name":"優達藥局","id":"5932109955","tel":"034943488","addr":"桃園市平鎮區廣明路六六號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩9點賣"},
 {"lng":"121.2163","lat":"24.94219","name":"新英藥局","id":"5932109973","tel":"034687729","addr":"桃園市平鎮區中豐路208號1樓","business_week":"OOOOOOXOOXOOXXOOOOOXX","memo":"快篩銷售時段:  營業時段內均有銷售 祝大家平安健康"},
 {"lng":"121.2091","lat":"24.95658","name":"美樂蒂藥局","id":"593210A238","tel":"034023131","addr":"桃園市平鎮區民族路二三七號二樓","business_week":"OOOOOOOOOOOOOXOOOOOXX"},
