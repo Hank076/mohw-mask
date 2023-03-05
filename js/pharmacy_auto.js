@@ -727,6 +727,7 @@ locations = [
 {"lng":"120.3409","lat":"22.62906","name":"鳳山服安藥局","id":"5907011273","tel":"077406330","addr":"高雄市鳳山區忠義里中山西路380號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售時間早上9：30至賣完為止"},
 {"lng":"120.3475","lat":"22.61494","name":"凱旋藥局","id":"5907011317","tel":"077671181","addr":"高雄市鳳山區國隆里新富路373號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.3498","lat":"22.64513","name":"佑全鳳山藥局","id":"5907011362","tel":"077801568","addr":"高雄市鳳山區文德里青年路二段463號1-2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.3278","lat":"22.59317","name":"大樹五甲藥局","id":"5907011371","tel":"078224926","addr":"高雄市鳳山區福祥里五甲三路24號1-2樓.26號1-2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.3418","lat":"22.61265","name":"佑家藥師藥局","id":"5907011399","tel":"077673298","addr":"高雄市鳳山區新強里新富路288號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.3562","lat":"22.61968","name":"長青連鎖藥局大士店","id":"5907011406","tel":"077104618","addr":"高雄市鳳山區五甲一路139號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.2915","lat":"22.79249","name":"鑫德昌藥局","id":"5907020030","tel":"076233338","addr":"高雄市岡山區溪東路38號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩 兒童免費快篩 販售時間 14:30-16:00"},
