@@ -2075,6 +2075,7 @@ locations = [
 {"lng":"120.6845","lat":"23.90847","name":"彰南藥局","id":"5938011909","tel":"0492230005","addr":"南投縣南投市彰南路二段21號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.6744","lat":"23.92727","name":"聖宸健保藥局","id":"5938011918","tel":"0492251741","addr":"南投縣南投市彰南路三段162號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天早上9點銷售"},
 {"lng":"120.9631","lat":"23.96619","name":"仁和藥局","id":"5938020079","tel":"0492985470","addr":"南投縣埔里鎮薰化里中山路三段97號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"固定周一至周日上午8.00快篩開賣，至晚上9.00售完為止"},
+{"lng":"120.9656","lat":"23.96338","name":"新仁壽藥局","id":"5938020104","tel":"0492983210","addr":"南投縣埔里鎮南門里南榮路13號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"星期日無休。家用快篩每天販售。"},
 {"lng":"120.966258","lat":"23.964625","name":"吉生藥局","id":"5938020159","tel":"0492982966","addr":"南投縣埔里鎮南門里南昌街145號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日上午8:00販售快篩.售完為止"},
 {"lng":"120.9517","lat":"23.97306","name":"德林藥局","id":"5938020257","tel":"0492915293","addr":"南投縣埔里鎮大城路206號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"每日10點開始販售快篩試劑，直至當日應售數量完畢或店休為止。"},
 {"lng":"120.9678","lat":"23.96446","name":"欣欣藥局","id":"5938021745","tel":"0492421931","addr":"南投縣埔里鎮中正路385號","business_week":"OOOOOOOOOOOOOOOXOOOOO","memo":"早上8:30開始販賣實名制快篩，週二11：00開始販售"},
