@@ -127,6 +127,7 @@ locations = [
 {"lng":"121.5488","lat":"25.08241","name":"大直小太陽藥局","id":"5901103334","tel":"0285093208","addr":"臺北市中山區北安路607之1號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.549","lat":"25.08243","name":"美康正康藥局","id":"5901103352","tel":"0225323077","addr":"臺北市中山區北安路616之1號、618號2樓之1","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5465","lat":"25.0794","name":"元宏藥局","id":"5901103414","tel":"0225339728","addr":"臺北市中山區北安路458巷41弄49號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑於營業時間08:00-12:00，14:30-21:30皆販售。"},
+{"lng":"121.5248","lat":"25.06483","name":"農安藥局","id":"5901103423","tel":"0225959293","addr":"臺北市中山區農安街18之1號","business_week":"XXXXXXXOOOOOOOOOOOOOO"},
 {"lng":"121.5321","lat":"25.06039","name":"錦州春天生活藥局","id":"5901103487","tel":"0225213586","addr":"臺北市中山區錦州街213號、213號2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩15:00販賣"},
 {"lng":"121.5323","lat":"25.05495","name":"佳頤中西藥局","id":"5901103558","tel":"0225641479","addr":"臺北市中山區長春路147之1號","business_week":"OOOOOXXOOOOOOOOOOOOOO","memo":"平日09:00-22:00，例假日11:00-20:00"},
 {"lng":"121.5346","lat":"25.06457","name":"康銓藥局","id":"5901103576","tel":"0225039393","addr":"臺北市中山區農安街174號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上9點販售。"},
