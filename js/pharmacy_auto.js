@@ -1448,6 +1448,7 @@ locations = [
 {"lng":"121.4734","lat":"25.08868","name":"光禾藥局","id":"5931143364","tel":"0228480050","addr":"新北市蘆洲區民權路122號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.438166","lat":"25.083691","name":"宏安藥局","id":"5931151302","tel":"0222915932","addr":"新北市五股區成泰路2段136號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.433103","lat":"25.073645","name":"虹元藥局","id":"5931151437","tel":"0222925067","addr":"新北市五股區自強路56號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"121.4343","lat":"25.08881","name":"百成中西藥師藥局","id":"5931151473","tel":"0222915531","addr":"新北市五股區五福里五福路20號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4383","lat":"25.08436","name":"陽光樂活藥局","id":"5931151606","tel":"0222928799","addr":"新北市五股區成泰路2段101-2號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.43354","lat":"25.089727","name":"陽光健保藥局","id":"5931151615","tel":"0222922400","addr":"新北市五股區五福路54號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4339","lat":"25.08922","name":"祐康藥師藥局","id":"5931151660","tel":"0282921335","addr":"新北市五股區五福路36號1樓","business_week":"OOOOOOOOOOOOOXOOOOOXX"},
