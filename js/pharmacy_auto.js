@@ -748,6 +748,7 @@ locations = [
 {"lng":"120.3001","lat":"22.61783","name":"大樹苓雅藥局","id":"5907350506","tel":"075353111","addr":"高雄市苓雅區中華四路153號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.297201","lat":"22.616001","name":"成功合豐藥局","id":"5907350560","tel":"072695657","addr":"高雄市苓雅區成功一路170號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.326645","lat":"22.63106","name":"武廟台安藥局","id":"5907350597","tel":"077228893","addr":"高雄市苓雅區武廟路133-1號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"實名制快篩販售時間：（一）~（日） 9:00~21:00"},
+{"lng":"120.3155","lat":"22.5849","name":"有承中西藥局","id":"5907360324","tel":"078120880","addr":"高雄市前鎮區德昌路257號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"配合政府實名制快篩，早上09:00開始服務 （若有異動以現場為主）"},
 {"lng":"120.3073","lat":"22.59003","name":"隆德藥局","id":"5907360440","tel":"078216030","addr":"高雄市前鎮區前鎮街170號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天早上八點營業.快篩劑要09:00後才開賣"},
 {"lng":"120.3357","lat":"22.60598","name":"大樹瑞福藥局","id":"5907360520","tel":"077271170","addr":"高雄市前鎮區瑞隆路170號1樓、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.3117","lat":"22.60649","name":"風鈴藥局","id":"5907360628","tel":"075367833","addr":"高雄市前鎮區管仲路37號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"販售快篩：09:30-11:30 依照配送調整販售時間（周日公休）"},
