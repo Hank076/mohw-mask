@@ -1450,6 +1450,7 @@ locations = [
 {"lng":"121.2875","lat":"24.98726","name":"均康藥局","id":"5932010560","tel":"032170172","addr":"桃園市桃園區中聖里國鼎一街27號1樓之4","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩販售時間 : 早上8:00"},
 {"lng":"121.3136","lat":"24.99548","name":"新華興清溪藥局","id":"5932010631","tel":"033330011","addr":"桃園市桃園區東門里中山東路10號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩早上09:30 開始"},
 {"lng":"121.2994","lat":"24.99316","name":"幸運草健保藥局","id":"5932010917","tel":"033379977","addr":"桃園市桃園區縣府路280號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩販售時間：平日8:00起售完為止，週六9:00開始"},
+{"lng":"121.2974","lat":"25.01048","name":"維格藥局","id":"5932011147","tel":"033016639","addr":"桃園市桃園區大興西路二段129號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"營業時間:8:30-12:00、14:00-22:00"},
 {"lng":"121.2939","lat":"24.99093","name":"家福聯合藥局","id":"5932011370","tel":"032289492","addr":"桃園市桃園區中山路623號","business_week":"OOOOOOXOOOOOOOOOOOOOX","memo":"0503人數已滿，1點發快篩"},
 {"lng":"121.3032","lat":"25.00685","name":"文安藥局","id":"5932011503","tel":"033558999","addr":"桃園市桃園區中正路699號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩領取時間:週一至週日每日早上07:10~21:00售完為止"},
 {"lng":"121.3073","lat":"24.99558","name":"三芳藥局","id":"5932011576","tel":"033390986","addr":"桃園市桃園區民族路232號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩早上開店即可發放  中午12 :00-13:00休息  晚上發到21:30"},
