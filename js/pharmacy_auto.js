@@ -1893,6 +1893,7 @@ locations = [
 {"lng":"120.577724","lat":"23.957153","name":"迪迪連鎖藥局員林店","id":"5937052433","tel":"048312898","addr":"彰化縣員林市林森路163號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制販售時間：每日十點發放，依物流配送時間為準。"},
 {"lng":"120.5722","lat":"23.95997","name":"統信藥局","id":"5937052451","tel":"048367089","addr":"彰化縣員林市正興街372號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"112／1／20全天正常門診；1／21早上下午正常門診；1／22休診；1／23休診；1／24全天正常門診"},
 {"lng":"120.5714","lat":"23.96324","name":"佑全員林中正藥局","id":"5937052504","tel":"048368669","addr":"彰化縣員林市中正路135,137號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.5756","lat":"23.95263","name":"龍溢藥局","id":"5937052522","tel":"048366032","addr":"彰化縣員林市中正路140號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期一~六9:00~21:00 星期日公休"},
 {"lng":"120.4754","lat":"23.96356","name":"大發藥局","id":"5937061503","tel":"048822180","addr":"彰化縣溪湖鎮大突里大發路89號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期日公休"},
 {"lng":"120.480182","lat":"23.961857","name":"樺霖保健藥局","id":"5937061601","tel":"048613668","addr":"彰化縣溪湖鎮光平里彰水路3段376號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售時間：8.00-售完為止"},
 {"lng":"120.4801","lat":"23.95867","name":"志成藥局","id":"5937061638","tel":"048853528","addr":"彰化縣溪湖鎮平和里彰水路3段243號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"目前營業時間皆有販售快篩實名制"},
