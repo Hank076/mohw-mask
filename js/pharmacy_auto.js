@@ -129,6 +129,7 @@ locations = [
 {"lng":"121.5257","lat":"25.05826","name":"可康藥局","id":"5901103790","tel":"0225361078","addr":"臺北市中山區林森北路373號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制晚上7點開始發放"},
 {"lng":"121.5852","lat":"25.07723","name":"永安藥局","id":"5901110311","tel":"0226586658","addr":"臺北市內湖區文德路210巷30弄48號","business_week":"OOOOOXXOOOOOXXOOOOOXX"},
 {"lng":"121.572833","lat":"25.08168","name":"富山藥局","id":"5901110339","tel":"0227996446","addr":"臺北市內湖區麗山街364巷2號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"周日公休，政府供貨不穩定，請搜尋facebook「富山生活藥妝」查看每日公告"},
+{"lng":"121.6157","lat":"25.06828","name":"清白藥局","id":"5901110446","tel":"0226305743","addr":"臺北市內湖區東湖路108號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5909","lat":"25.06738","name":"宏光藥局","id":"5901110624","tel":"0227919068","addr":"臺北市內湖區成功路2段221號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩實名制  0-6和65歲以上免費快篩（隨到隨領）"},
 {"lng":"121.6158","lat":"25.06785","name":"安康藥局","id":"5901111890","tel":"0226327675","addr":"臺北市內湖區安康路482號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.617","lat":"25.06988","name":"富康東湖藥局","id":"5901112682","tel":"0226323222","addr":"臺北市內湖區東湖路119巷49弄16號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
