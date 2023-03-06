@@ -1392,6 +1392,7 @@ locations = [
 {"lng":"121.404718","lat":"25.016189","name":"立欣藥局","id":"5931071916","tel":"0226764728","addr":"新北市樹林區三福街166號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"快篩販售時間:禮拜一~五 14:00~17:00"},
 {"lng":"121.4272","lat":"24.99462","name":"樹新藥局","id":"5931071934","tel":"0226821080","addr":"新北市樹林區樹新路30-3號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.3842","lat":"24.94905","name":"綠蘋果藥局","id":"5931071961","tel":"0289706050","addr":"新北市樹林區學勤路597號1樓","business_week":"OOOOOOXOOXOOXXOOOOOXX"},
+{"lng":"121.403","lat":"25.01614","name":"琉璃水藥師藥局","id":"5931072066","tel":"0226764262","addr":"新北市樹林區龍興街21號1樓","business_week":"OOOOOXOXXXXXXXOOOOOXO"},
 {"lng":"121.3797","lat":"24.95028","name":"祐心藥局","id":"5931072262","tel":"0226803205","addr":"新北市樹林區學府路362號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩每日8:30開賣，若未到貨則到貨後開始販賣，週日沒開"},
 {"lng":"121.422546","lat":"24.994626","name":"瑪諾藥局","id":"5931072351","tel":"0226830304","addr":"新北市樹林區復興路20號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.379902","lat":"24.947484","name":"愛立康藥局","id":"5931072388","tel":"0289706878","addr":"新北市樹林區大雅路286號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
