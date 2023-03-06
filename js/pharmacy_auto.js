@@ -1500,6 +1500,7 @@ locations = [
 {"lng":"121.2524","lat":"24.96428","name":"自立藥局","id":"593202B474","tel":"034558980","addr":"桃園市中壢區永福路1013號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"AM 8:00 販售快篩試劑"},
 {"lng":"121.223","lat":"24.96434","name":"千葉大藥局","id":"593202B483","tel":"034251886","addr":"桃園市中壢區新生路三O七號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.28801","lat":"24.881462","name":"資生大藥局","id":"5932030179","tel":"033882276","addr":"桃園市大溪區康莊路132號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"實名制快篩下午三點到六點販售"},
+{"lng":"121.2849","lat":"24.90544","name":"宜暉健保藥局","id":"5932031578","tel":"033806695","addr":"桃園市大溪區介壽路718號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"9:00-22:00／端午.中秋.除夕~初三.每月最後一個星期天休息／快篩販賣時間10:00-21:00"},
 {"lng":"121.2841","lat":"24.90002","name":"甯慶藥局","id":"5932031710","tel":"033801199","addr":"桃園市大溪區介壽路1179號","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"快篩販賣時段：13:00-15:00 自備零錢，12:45發號碼牌"},
 {"lng":"121.267688","lat":"24.884121","name":"欣康藥局","id":"5932031747","tel":"033076310","addr":"桃園市大溪區員林路2段390-6號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販賣時段：9:00-21:00"},
 {"lng":"121.1736","lat":"24.9586","name":"龍泰藥局","id":"5932040246","tel":"034901525","addr":"桃園市楊梅區民族路五段147巷2號","business_week":"OOOOOOOOOOOOXXOOOOOXX","memo":"快篩販售時間:早上7:30直接領快篩售完為止"},
