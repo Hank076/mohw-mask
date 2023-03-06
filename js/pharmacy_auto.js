@@ -918,6 +918,7 @@ locations = [
 {"lng":"120.22816","lat":"22.998896","name":"光明宜康保健藥局","id":"5921010992","tel":"062376448","addr":"臺南市東區光明街36之2號1樓","business_week":"XXXXXXOXXXXXXOXXXXXXO"},
 {"lng":"120.2277","lat":"22.96801","name":"王瑞敏藥師藥局","id":"5921012094","tel":"062896888","addr":"臺南市東區崇德路739號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩送達時間不定（一般是早上）送達即開始販售至售完"},
 {"lng":"120.2415808","lat":"22.989233","name":"林英文藥局","id":"5921012325","tel":"063311252","addr":"臺南市東區關聖里裕農路866之2號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"120.22436","lat":"22.98125","name":"崇仁藥局","id":"5921012361","tel":"062894115","addr":"臺南市東區龍山里崇學路231號","business_week":"OOOOOOOOOOOOOXOOOOOXO"},
 {"lng":"120.2126","lat":"22.98989","name":"慈惠藥局","id":"5921012398","tel":"062760746","addr":"臺南市東區前鋒路27號","business_week":"OOOOOOXOOOOXOXOOOOXXX"},
 {"lng":"120.2358","lat":"22.98502","name":"早安藥師藥局","id":"5921012530","tel":"063350535","addr":"臺南市東區裕學路112號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.2326","lat":"22.99335","name":"連春藥局","id":"5921012683","tel":"062083685","addr":"臺南市東區莊敬路15號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩早上8點半開始銷售"},
