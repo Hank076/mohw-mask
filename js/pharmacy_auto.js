@@ -1996,6 +1996,7 @@ locations = [
 {"lng":"120.3636","lat":"23.89337","name":"康好藥局二林店","id":"5937081541","tel":"048966015","addr":"彰化縣二林鎮南光里大成路一段561號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.368923","lat":"23.899301","name":"二林貓頭鷹藥局","id":"5937081578","tel":"048952299","addr":"彰化縣二林鎮中正路24、26號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間 發放號碼牌"},
 {"lng":"120.3709","lat":"23.89951","name":"二林藥局","id":"5937081596","tel":"048950010","addr":"彰化縣二林鎮斗苑路五段39號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.4709","lat":"24.13103","name":"線西藥局","id":"5937091056","tel":"047582482","addr":"彰化縣線西鄉寓埔村中央路二段48號","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"實名制快篩試劑 週一至週五 8:30-17:30 週六週日公休 週間遇例假日公休"},
 {"lng":"120.4859","lat":"24.14825","name":"伸港藥局","id":"5937101146","tel":"047992663","addr":"彰化縣伸港鄉新港村信義路135號","business_week":"OOOOOOOOOOOOOOOOOOOXX"},
 {"lng":"120.4885","lat":"24.14758","name":"貓頭鷹藥局","id":"5937101173","tel":"047996596","addr":"彰化縣伸港鄉新港村中山東路99號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"收受：牙科、診所、衛生所、各大醫院慢性病連續處方箋，免費領藥。"},
 {"lng":"120.4864","lat":"24.14731","name":"友誼藥局","id":"5937101217","tel":"047980591","addr":"彰化縣伸港鄉新港村中山路15號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"免費領取各大醫院診所牙科衛生所處方箋"},
