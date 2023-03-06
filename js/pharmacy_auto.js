@@ -854,6 +854,7 @@ locations = [
 {"lng":"121.7478","lat":"25.1301","name":"家安藥師藥局","id":"5911071607","tel":"0224223917","addr":"基隆市信義區信二路257、259號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"星期一 ~ 星期日"},
 {"lng":"120.9709791","lat":"24.8090765","name":"康寧藥局","id":"5912010206","tel":"035321797","addr":"新竹市東區親仁里東大路1段179號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"快篩販售時間：8:00"},
 {"lng":"120.9986","lat":"24.79558","name":"金松大藥局","id":"5912010313","tel":"035719019","addr":"新竹市東區立功里光復路二段310號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"兒童免費領用時間：週一到週六 09:00 開始"},
+{"lng":"120.9685","lat":"24.8004","name":"大家藥局","id":"5912010331","tel":"035234035","addr":"新竹市東區南門里武昌街6號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.9736","lat":"24.79533","name":"聖心藥局","id":"5912010484","tel":"035610697","addr":"新竹市東區南大里食品路269號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩銷售:自早上08:00 營業開始， 售完為止！"},
 {"lng":"120.9627","lat":"24.79286","name":"華安中西藥局","id":"5912010528","tel":"035610088","addr":"新竹市東區振興里南大路648號一樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.9948","lat":"24.80075","name":"倫洋藥局","id":"5912010724","tel":"035749482","addr":"新竹市東區建中路38號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"實際販售時間：早上9:00起至售完為止"},
