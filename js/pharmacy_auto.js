@@ -2304,6 +2304,7 @@ locations = [
 {"lng":"121.6246","lat":"23.99018","name":"郭藥局","id":"5945010154","tel":"038230761","addr":"花蓮縣花蓮市中美路95號之3","business_week":"OOOOOXXOOOOOXXOOOOOOO"},
 {"lng":"121.6029","lat":"23.97418","name":"吉康藥局","id":"5945010252","tel":"038331208","addr":"花蓮縣花蓮市中正路360號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.608226","lat":"23.982406","name":"晉嘉藥局","id":"5945011795","tel":"038347329","addr":"花蓮縣花蓮市明禮路71-9號1樓","business_week":"OOOOOOOXXXXXXXOOOOOOO"},
+{"lng":"121.5996","lat":"23.97499","name":"信康藥局","id":"5945012087","tel":"038320358","addr":"花蓮縣花蓮市中華路295號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每星期一至星期六上午9:30開賣，至晚上9:00，星期日11:00開賣，至晚上8:00"},
 {"lng":"121.5957","lat":"23.99097","name":"維格藥局","id":"5945012210","tel":"038562335","addr":"花蓮縣花蓮市富國路48號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.6019","lat":"23.97208","name":"和信藥局","id":"5945012247","tel":"038330916","addr":"花蓮縣花蓮市中福路133號","business_week":"OOOOOOXXXXXXXXOOOOOXX","memo":"營業時間:上午8:30至12點.下午5:30至9點"},
 {"lng":"121.6088","lat":"23.97541","name":"博文藥局","id":"5945012434","tel":"038345657","addr":"花蓮縣花蓮市光復街22號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
