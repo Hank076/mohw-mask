@@ -372,6 +372,7 @@ locations = [
 {"lng":"120.3096","lat":"22.61753","name":"晨安藥局","id":"5902083591","tel":"073365463","addr":"高雄市苓雅區興中一路160號","business_week":"OOOOOOXOOOOOOXOOOOOOO"},
 {"lng":"120.299641","lat":"22.613762","name":"瑞生藥局","id":"5902084703","tel":"073305239","addr":"高雄市苓雅區自強三路31號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"自6\/1日~12\/31日，營業日09:30~23:00為販賣口罩時間.售完為止"},
 {"lng":"120.3218","lat":"22.62917","name":"邱吉祥藥局","id":"5902084801","tel":"072226055","addr":"高雄市苓雅區凱旋二路135號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩販賣時間:週一至週六早上08:30現場賣"},
+{"lng":"120.3385","lat":"22.63037","name":"召祐健保藥局","id":"5902085148","tel":"077493719","addr":"高雄市苓雅區正義路93號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"快篩週一到週六，每天早上08:30開賣，賣完為止"},
 {"lng":"120.3204","lat":"22.62364","name":"景福藥局","id":"5902085166","tel":"077719152","addr":"高雄市苓雅區和平一路147之5號","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"2\/11早上9:00至下午15:00，2\/12至16日休"},
 {"lng":"120.3079","lat":"22.62172","name":"幸福藥師藥局","id":"5902085308","tel":"075368701","addr":"高雄市苓雅區青年一路167-3號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.316606","lat":"22.617774","name":"全國大藥局","id":"5902090032","tel":"073346525","addr":"高雄市前鎮區三多二路403號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制10點開始..賣完為止"},
