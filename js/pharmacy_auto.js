@@ -854,6 +854,7 @@ locations = [
 {"lng":"120.966855","lat":"24.773715","name":"婷婷藥局","id":"5912012737","tel":"035290999","addr":"新竹市東區明湖路965號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"5／31早上8點10分開賣"},
 {"lng":"120.9684","lat":"24.79662","name":"博弘藥局","id":"5912012773","tel":"035619470","addr":"新竹市東區南大路387號","business_week":"OOOOOOOOOOOXOOOOOOOOO"},
 {"lng":"121.015682","lat":"24.784191","name":"佑信大藥局","id":"5912012862","tel":"036663578","addr":"新竹市東區新莊里光復路一段362─13號","business_week":"OOOOOOXOOOOOOXOOOOOOO"},
+{"lng":"120.969521","lat":"24.797636","name":"新芳鄰藥局","id":"5912012933","tel":"035622183","addr":"新竹市東區南大路402號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"營業時間 : 週一至週六8:00-22:00 ， 週日9:00-18:00   ；  （快篩販賣 : 週一至週六8:00 ， 週日9:00  ， 滾動式調整）"},
 {"lng":"121.0135","lat":"24.78384","name":"杏康健保特約藥局","id":"5912012988","tel":"035772966","addr":"新竹市東區光復路一段525巷23號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"一至五09:00-21:00 週六09:00-18:00 （週日公休）"},
 {"lng":"120.9675","lat":"24.78555","name":"明湖健保藥局","id":"5912013207","tel":"035191788","addr":"新竹市東區明湖路398號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"公費快篩早上9點販售"},
 {"lng":"120.9754","lat":"24.81199","name":"禾心藥局","id":"5912013261","tel":"035332403","addr":"新竹市東區民生路231號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
