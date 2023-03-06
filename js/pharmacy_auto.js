@@ -735,6 +735,7 @@ locations = [
 {"lng":"120.308363","lat":"22.629855","name":"健美藥局","id":"5907330031","tel":"072291108","addr":"高雄市新興區復興一路40之4號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"111／5／27開始快篩販售時間上午9:00~22:00"},
 {"lng":"120.3078","lat":"22.63077","name":"維康藥局","id":"5907330040","tel":"072615396","addr":"高雄市新興區中正三路65號","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"早診7:30-12:00， 午診15:00-18:00， 晚診18:00-20:00"},
 {"lng":"120.308851","lat":"22.632412","name":"康園藥局","id":"5907330148","tel":"072372069","addr":"高雄市新興區六合一路53-12號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制領取限下午15:30~20:00，現場排隊"},
+{"lng":"120.3015","lat":"22.63155","name":"美麗島台安藥局","id":"5907330219","tel":"072365490","addr":"高雄市新興區中山一路115號地下1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"位於美麗島捷運站地下一樓（7-11對面）。"},
 {"lng":"120.2951","lat":"22.63314","name":"銘益藥局","id":"5907340046","tel":"072853107","addr":"高雄市前金區七賢二路208、210號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"春節期間看診時段請電洽藥局"},
 {"lng":"120.288","lat":"22.63082","name":"捷康藥妝藥局","id":"5907340091","tel":"072166099","addr":"高雄市前金區七賢二路396號一樓","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"228連假 藥局不營業"},
 {"lng":"120.3172","lat":"22.61918","name":"御康藥局","id":"5907350319","tel":"073313535","addr":"高雄市苓雅區光華一路35號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，8:30~22:00販售"},
