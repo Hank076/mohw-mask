@@ -601,7 +601,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.298665","lat":"22.793821","name":"吳宗慶診所","id":"3542020738","tel":"076229828","addr":"高雄市岡山區中山北路47號","business_week":"OOOOOOOOOOOOOXOOOOOOO"},
 {"lng":"120.294884","lat":"22.790766","name":"黃仲達診所","id":"3542022303","tel":"076297895","addr":"高雄市岡山區柳橋東路9-2號","business_week":"OOOOOOOOXOXOXXOXOXOOO","memo":"112／03／05及112／03／12兩天全日休診，4／3只看上午.4／16，4／30休診"},
 {"lng":"120.395045","lat":"22.50769","name":"黃英豪診所","id":"3542050361","tel":"076412134","addr":"高雄市林園區林園北路188號","business_week":"OOOOOOOOOOOOXXXXXXXXX","memo":"早上8點到12點，下午2點到6點（星期六.日上午11-12點防疫特別門診）星期日休診＞"},
-{"lng":"120.396568","lat":"22.50376","name":"建芳診所","id":"3542052034","tel":"076467666","addr":"高雄市林園區東林東路28號","business_week":"OOOOOOXOOOOOXXOXXXOXX"},
+{"lng":"120.396568","lat":"22.50376","name":"建芳診所","id":"3542052034","tel":"076467666","addr":"高雄市林園區東林東路28號","business_week":"OOOOOOXOOOOOXXOXOXOXX"},
 {"lng":"120.397711","lat":"22.601503","name":"宜和內兒科診所","id":"3542060189","tel":"077816825","addr":"高雄市大寮區鳳林三路341號","business_week":"OOOOOOOOOOOOXXOOXOOXX"},
 {"lng":"120.395163","lat":"22.607652","name":"郭其靈診所","id":"3542060901","tel":"077823335","addr":"高雄市大寮區鳳林三路541號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.394756","lat":"22.6083","name":"張桐榮診所","id":"3542061953","tel":"077825382","addr":"高雄市大寮區鳳林三路575號","business_week":"OOOOOOOOOOOOXXOOOOOXX"},
