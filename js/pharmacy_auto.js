@@ -2051,6 +2051,7 @@ locations = [
 {"lng":"120.4566","lat":"23.60291","name":"光佑藥局","id":"5940031340","tel":"052649239","addr":"嘉義縣大林鎮東林里平和街31之3號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"周一至周六0800-2100周日0800-1200"},
 {"lng":"120.4313","lat":"23.55643","name":"七星藥局","id":"5940040045","tel":"052261977","addr":"嘉義縣民雄鄉東榮村中樂路16號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.4413","lat":"23.52544","name":"惠民藥局","id":"5940040081","tel":"052211466","addr":"嘉義縣民雄鄉福樂村埤角102號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
+{"lng":"120.439","lat":"23.52336","name":"健安藥局","id":"5940040170","tel":"052211797","addr":"嘉義縣民雄鄉興南村頭橋45號","business_week":"OOOOOOXOOOOOOXOOOOOOO","memo":"營業:上午9點至下午9點.週日下午6點至9點"},
 {"lng":"120.430037","lat":"23.556762","name":"安生藥局","id":"5940041480","tel":"052262053","addr":"嘉義縣民雄鄉昇平路12號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"周一~周日 08:30-售罄"},
 {"lng":"120.44","lat":"23.52429","name":"大順藥局","id":"5940041622","tel":"052201138","addr":"嘉義縣民雄鄉福樂村埤角139號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.4294","lat":"23.55555","name":"大方藥局","id":"5940041677","tel":"052268560","addr":"嘉義縣民雄鄉中樂村民族路40-2號","business_week":"OOOOOOOOOOOOOXOOOOOXX"},
