@@ -8,7 +8,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.541669","lat":"24.967645","name":"新北市新店區衛生所","id":"2331050010","tel":"0229113984","addr":"新北市新店區北新路一段 86 號 12樓","business_week":"OXOXOXXXXXXXXXXXXXXXX"},
 {"lng":"121.452248","lat":"25.036408","name":"新北市新莊區衛生所","id":"2331060016","tel":"0229967123","addr":"新北市新莊區中華路一段2號","business_week":"OXOOOXXXXXXXXXXXXXXXX"},
 {"lng":"121.414835","lat":"24.983889","name":"新北市樹林區衛生所","id":"2331070012","tel":"0226812134","addr":"新北市樹林區樹新路40-7號","business_week":"OOOOOXXXXXXXXXXXXXXXX","memo":"國定假日休診"},
-{"lng":"121.352529","lat":"24.95047","name":"新北市鶯歌區衛生所","id":"2331080018","tel":"0226702304","addr":"新北市鶯歌區文化路389號","business_week":"XOXOXXXXXXXXXXXXXXXXX","memo":"例假日均停診"},
+{"lng":"121.352529","lat":"24.95047","name":"新北市鶯歌區衛生所","id":"2331080018","tel":"0226702304","addr":"新北市鶯歌區文化路389號","business_week":"OOOOOXXXXXXXXXXXXXXXX","memo":"例假日均停診"},
 {"lng":"121.376129","lat":"24.928297","name":"新北市三峽區衛生所","id":"2331090014","tel":"0226711592","addr":"新北市三峽區光明路71號3樓","business_week":"OOOOOXXXXXXXXXXXXXXXX"},
 {"lng":"121.440844","lat":"25.172778","name":"新北市淡水區衛生所","id":"2331100015","tel":"0226215620","addr":"新北市淡水區中山路158號","business_week":"OOOOOXXOXOXOXXXXXXXXX","memo":"春節期間（1\/29-2\/6）全部停診。"},
 {"lng":"121.658534","lat":"25.063513","name":"新北市汐止區衛生所","id":"2331110011","tel":"0226412030","addr":"新北市汐止區新台五路一段266號","business_week":"OOOOOXXOXXOXXXXXXXXXX","memo":"六.日不固定，"},
