@@ -789,6 +789,7 @@ locations = [
 {"lng":"120.322607","lat":"22.660458","name":"新高橋藥局明誠店","id":"5907320302","tel":"073107072","addr":"高雄市三民區明誠一路492號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午2:30開始販售"},
 {"lng":"120.3173","lat":"22.6478","name":"東京藥局","id":"5907320428","tel":"073874567","addr":"高雄市三民區建工路685號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售時間: 每日10:00-晚上20:00"},
 {"lng":"120.3331","lat":"22.64371","name":"勁康健保藥局","id":"5907320633","tel":"073966716","addr":"高雄市三民區義華路402號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"如為當日配量快篩實名制配貨到即可販售，若前一日就到貨，則早上10點開始"},
+{"lng":"120.3154","lat":"22.66606","name":"未來照護藥局","id":"5907320651","tel":"073105356","addr":"高雄市三民區鼎瑞街108號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.3186","lat":"22.66679","name":"安安藥局","id":"5907320679","tel":"073420010","addr":"高雄市三民區鼎和街32號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"防疫家用快篩試劑代售：星期一~六上午9點開始代售，當日配額售完為止"},
 {"lng":"120.339811","lat":"22.640824","name":"鄰好藥師藥局","id":"5907320697","tel":"073909589","addr":"高雄市三民區褒揚街287號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩，防疫用品販售中，各大醫院處方箋免費領藥"},
 {"lng":"120.3224","lat":"22.64884","name":"建工台安藥局","id":"5907320704","tel":"073807521","addr":"高雄市三民區建工路499號之1","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩每日9:00開始販售，售完為止。"},
