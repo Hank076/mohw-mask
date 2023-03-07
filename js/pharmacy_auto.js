@@ -461,6 +461,7 @@ locations = [
 {"lng":"120.6888","lat":"24.1063","name":"立人藥局","id":"5903200676","tel":"0424831722","addr":"臺中市大里區益民路二段19號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.6787","lat":"24.11511","name":"佑全大里大明藥局","id":"5903200756","tel":"0424818633","addr":"臺中市大里區大明路360、362號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩，售完為止"},
 {"lng":"120.6815","lat":"24.13959","name":"宏信大藥局","id":"5903220061","tel":"0422222021","addr":"臺中市中區自由路2段45號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"周1~周5 早上9點至晚上7點周6周日早上10點到晚上9點"},
+{"lng":"120.6756","lat":"24.14434","name":"鄧博士藥局","id":"5903220114","tel":"0422256851","addr":"臺中市中區中山路325號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"24小時營業，星期日不休息。"},
 {"lng":"120.6855","lat":"24.14172","name":"雙十小林健保藥局","id":"5903220141","tel":"0422253662","addr":"臺中市中區雙十路一段35號","business_week":"OOOOOOOOOOOOOOXXXXXXX","memo":"每日8點販賣"},
 {"lng":"120.679361","lat":"24.148036","name":"老順安大藥局","id":"5903220150","tel":"0422016306","addr":"臺中市中區中華路二段63號、65號1樓","business_week":"XXXXXXXOOXOOOXXXXXXXX","memo":"5／11暫停販售        實名制快篩銷售時間:周一至周六下午兩點至三點"},
 {"lng":"120.6796","lat":"24.1462","name":"全亨藥局","id":"5903220169","tel":"0422062682","addr":"臺中市中區公園路95號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日上午8點至下午11點59分"},
