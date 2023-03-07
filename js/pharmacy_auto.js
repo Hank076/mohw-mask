@@ -515,6 +515,7 @@ locations = [
 {"lng":"120.6613","lat":"24.15105","name":"捷登藥局","id":"5903240205","tel":"0423191929","addr":"臺中市西區公益路106號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.6601","lat":"24.13635","name":"宇祥藥局","id":"5903240367","tel":"0423728239","addr":"臺中市西區五權五街119號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"實名制快篩 09:00-21:00 販售.領取"},
 {"lng":"120.655","lat":"24.14522","name":"喆星藥局","id":"5903240385","tel":"0424715301","addr":"臺中市西區精誠路422號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.6567","lat":"24.15103","name":"神農藥局","id":"5903240429","tel":"0423103335","addr":"臺中市西區公益路190之1號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"上午11:00開始販賣快篩試劑，售完為止"},
 {"lng":"120.6615","lat":"24.14458","name":"真誠藥局","id":"5903240438","tel":"0423015750","addr":"臺中市西區美村路一段378號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.6717","lat":"24.14626","name":"大樹五權藥局","id":"5903240447","tel":"0422022910","addr":"臺中市西區五權路97-1號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.6549","lat":"24.14949","name":"德恩藥師藥局","id":"5903240465","tel":"0423102358","addr":"臺中市西區精誠路252號1樓","business_week":"OOOOOOXOOOOOOOOOOOOOO"},
