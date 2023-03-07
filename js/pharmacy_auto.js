@@ -1605,6 +1605,7 @@ locations = [
 {"lng":"121.3053","lat":"25.00403","name":"大國民藥局","id":"593201A631","tel":"033355575","addr":"桃園市桃園區中正路578號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.2934","lat":"24.98627","name":"大心藥局","id":"593201A640","tel":"032209842","addr":"桃園市桃園區中平路141號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日9:30開始販售，售完為止"},
 {"lng":"121.3117","lat":"25.01068","name":"佑您康聯合藥局","id":"593201A668","tel":"033463999","addr":"桃園市桃園區寶山街385號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"121.2937","lat":"25.01633","name":"安祐藥局","id":"593201A695","tel":"033166889","addr":"桃園市桃園區南平路516之1號","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"快篩販賣時間:周一至周五 0830-1200； 1400-1700； 1800-2100。週六週日0830-1200； 1400-1700"},
 {"lng":"121.232","lat":"24.9676","name":"回生藥局","id":"5932020324","tel":"034616483","addr":"桃園市中壢區福州二街408號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"口罩販賣時段：早上9點，以藥局當日公告為主"},
 {"lng":"121.2508","lat":"24.97918","name":"崧德堂藥局","id":"5932020691","tel":"034555035","addr":"桃園市中壢區文化路362號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販賣時段：5／6 日起.早上約8點開始領取."},
 {"lng":"121.2233","lat":"24.94962","name":"井田藥局","id":"5932021045","tel":"034572003","addr":"桃園市中壢區東興里中北路二段八號一樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩快篩販賣時段：等有空閒就賣"},
