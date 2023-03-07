@@ -1721,6 +1721,7 @@ locations = [
 {"lng":"120.879572","lat":"24.688741","name":"光復藥局","id":"5935040408","tel":"037476286","addr":"苗栗縣竹南鎮光復路216號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.8775","lat":"24.68543","name":"瑞士藥師藥局","id":"5935041745","tel":"037552708","addr":"苗栗縣竹南鎮和平街59號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.8792","lat":"24.69138","name":"惠家藥局","id":"5935041781","tel":"037463635","addr":"苗栗縣竹南鎮自強街38號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"120.8727","lat":"24.68686","name":"米樂中西健保藥局","id":"5935041905","tel":"037552116","addr":"苗栗縣竹南鎮大營路207號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"各大醫院診所處方簽調劑窗口快篩試劑販賣時段：（一）~（六）上午08:30至售完（六）營業時間08:30-16:00星期日休息"},
 {"lng":"120.8665","lat":"24.692","name":"新欣藥局","id":"5935041996","tel":"037471503","addr":"苗栗縣竹南鎮龍山路一段160號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.865488","lat":"24.688939","name":"康壯藥局","id":"5935042037","tel":"037463732","addr":"苗栗縣竹南鎮博愛街439號","business_week":"OOOOOOXOXOOOXXOXOOOXX","memo":"口罩販賣時段：07:30-售完"},
 {"lng":"120.8775","lat":"24.70162","name":"崧博藥師藥局","id":"5935042055","tel":"037639822","addr":"苗栗縣竹南鎮龍山路3段37號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
