@@ -1353,6 +1353,7 @@ locations = [
 {"lng":"121.5301","lat":"24.97382","name":"中央大藥局","id":"5931051950","tel":"0282187135","addr":"新北市新店區中央路208-1號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5412","lat":"24.9826","name":"康宜庭大坪林藥局","id":"5931052091","tel":"0289116029","addr":"新北市新店區北新路3段127號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5348","lat":"24.97257","name":"三民藥局","id":"5931052215","tel":"0289146301","addr":"新北市新店區三民路78號1樓-1","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週日休息.每2個月會週休2日一次"},
+{"lng":"121.537228","lat":"24.974491","name":"欣康藥局","id":"5931052313","tel":"0289113189","addr":"新北市新店區中正路293號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.535131","lat":"24.975019","name":"大河藥局","id":"5931052484","tel":"0229140910","addr":"新北市新店區三民路140號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"週一至週六下午2點開始發購實名制快篩試劑。限1人1卡購買1份。"},
 {"lng":"121.5378","lat":"24.95902","name":"杏運草藥局","id":"5931052644","tel":"0289115998","addr":"新北市新店區北新路1段19號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"【快篩：週一至週六，8:30-12:00現場排隊】星期天公休"},
 {"lng":"121.5407","lat":"24.98637","name":"正升藥局","id":"5931052653","tel":"0229139493","addr":"新北市新店區順安街61號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
