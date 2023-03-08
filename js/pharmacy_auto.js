@@ -2289,7 +2289,7 @@ locations = [
 {"lng":"119.6603","lat":"23.5844","name":"全民藥局","id":"5944020558","tel":"069920403","addr":"澎湖縣湖西鄉湖西村150-3號","business_week":"OOOOOXXOOOOOXXXXXXXXX","memo":"週一至週五早上08:00開始販售快篩試劑，售完為止 ； 中午12:00-13:30休息"},
 {"lng":"121.6067","lat":"23.98027","name":"德生藥局","id":"5945010038","tel":"038322676","addr":"花蓮縣花蓮市中山路329號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩:每日上午9點開始"},
 {"lng":"121.6019","lat":"23.98627","name":"健安藥局","id":"5945010056","tel":"038323031","addr":"花蓮縣花蓮市中山路537號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩領取時間不限  上班時間am8；30-pm9；00 周日 休"},
-{"lng":"121.6246","lat":"23.99018","name":"郭藥局","id":"5945010154","tel":"038230761","addr":"花蓮縣花蓮市中美路95號之3","business_week":"OOOOOXXOOOOOXXOOOOOOO"},
+{"lng":"121.6246","lat":"23.99018","name":"郭藥局","id":"5945010154","tel":"038230761","addr":"花蓮縣花蓮市中美路95號之3","business_week":"OOOOOXXOOOOOXXOOOOOOO","memo":"販售快篩：上午 10 - 12。下午、 晚上 2:30 - 9:00。 假日彈性販售。"},
 {"lng":"121.6029","lat":"23.97418","name":"吉康藥局","id":"5945010252","tel":"038331208","addr":"花蓮縣花蓮市中正路360號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.604473","lat":"23.975465","name":"易生藥局","id":"5945010289","tel":"038322927","addr":"花蓮縣花蓮市中正路443號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.608226","lat":"23.982406","name":"晉嘉藥局","id":"5945011795","tel":"038347329","addr":"花蓮縣花蓮市明禮路71-9號1樓","business_week":"OOOOOOOXXXXXXXOOOOOOO"},
