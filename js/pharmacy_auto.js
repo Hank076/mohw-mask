@@ -1366,6 +1366,7 @@ locations = [
 {"lng":"121.4261","lat":"25.0151","name":"明仁健保藥局","id":"593106A511","tel":"0222085175","addr":"新北市新莊區民安西路195號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.4245","lat":"25.02524","name":"薇妮藥妝藥局","id":"593106A637","tel":"0282010817","addr":"新北市新莊區民安路99號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"無"},
 {"lng":"121.4533","lat":"25.04943","name":"永明藥局","id":"593106A744","tel":"0289920019","addr":"新北市新莊區幸福路598號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"3／5 ，3／19 公休"},
+{"lng":"121.4519","lat":"25.03765","name":"新佑康健保藥局","id":"593106A771","tel":"0229947490","addr":"新北市新莊區中華路1段35號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4445","lat":"25.05148","name":"家禾藥局","id":"593106A824","tel":"0229972121","addr":"新北市新莊區立信五街6號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.41956","lat":"25.026255","name":"欣國藥局","id":"593106A833","tel":"0229080958","addr":"新北市新莊區富國路57號1樓、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天快篩劑發號碼牌AM09:30販賣AM09:00售完為止"},
 {"lng":"121.4226","lat":"25.0215","name":"德翰藥局","id":"593106A922","tel":"0222025576","addr":"新北市新莊區四維路171巷1、3號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
