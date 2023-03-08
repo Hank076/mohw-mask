@@ -2106,6 +2106,7 @@ locations = [
 {"lng":"121.1324","lat":"24.02249","name":"永康藥局","id":"5938130016","tel":"0492802730","addr":"南投縣仁愛鄉大同村仁和路84號","business_week":"OOOOOXXOOOOOXXXXXXXXX"},
 {"lng":"120.548587","lat":"23.711075","name":"東京大藥局","id":"5939010399","tel":"055348073","addr":"雲林縣斗六市文化路79號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑每天早上8點30開始（售完為止）"},
 {"lng":"120.5447","lat":"23.70513","name":"明真西藥局","id":"5939011850","tel":"055321605","addr":"雲林縣斗六市自由路1號","business_week":"OOOOOOOOOOOOOXOOOOOOO"},
+{"lng":"120.5516","lat":"23.70846","name":"鎮東藥局","id":"5939012133","tel":"055332449","addr":"雲林縣斗六市中華路460號","business_week":"OOOOOXOOXOOXXOOXOOXXX","memo":"星期二. 五 下午及晚上休息  星期六全天休息 (國定假日 星期日 9:00開始 晚上7:30 休息 )"},
 {"lng":"120.5996","lat":"23.70252","name":"保健藥局","id":"5939012179","tel":"055576037","addr":"雲林縣斗六市梅林路283號","business_week":"OOOOOXXOOOOOXXOOOOOXX"},
 {"lng":"120.5417","lat":"23.71444","name":"上海啄木鳥藥局","id":"5939012188","tel":"055374296","addr":"雲林縣斗六市上海路234號","business_week":"OOOOOOOOOOOOOOXXXXXXX"},
 {"lng":"120.5369","lat":"23.69934","name":"啄木鳥藥局","id":"5939012222","tel":"055344030","addr":"雲林縣斗六市民生南路262號","business_week":"OOOOOOOOOOOOOOXXXXXXX"},
