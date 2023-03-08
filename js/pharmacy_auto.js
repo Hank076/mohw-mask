@@ -421,6 +421,7 @@ locations = [
 {"lng":"120.7193","lat":"24.30951","name":"佑全后里甲后藥局","id":"5903070169","tel":"0425583116","addr":"臺中市后里區甲后路一段728號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩只收現金無法刷卡。"},
 {"lng":"120.6842","lat":"24.24638","name":"佑全神岡中山藥局","id":"5903080138","tel":"0425634677","addr":"臺中市神岡區中山路549、549之1、549之2號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.7043","lat":"24.20725","name":"元康健保藥局","id":"5903090072","tel":"0425353893","addr":"臺中市潭子區圓通南路196號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午3點現場分號碼後  依序賣口罩"},
+{"lng":"120.7051","lat":"24.21301","name":"上宇藥局","id":"5903090116","tel":"0425321258","addr":"臺中市潭子區中山路2段381號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"週一至週五上午9點至12點，下午三點至九點，週六早上9點至12點，週日休息。依序發售快篩。"},
 {"lng":"120.7051","lat":"24.21594","name":"愛生藥師藥局","id":"5903090125","tel":"0425321819","addr":"臺中市潭子區中山路2段491號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上8:40開始發放實名制快篩，星期日休息暫停發放"},
 {"lng":"120.7004","lat":"24.21321","name":"名方藥局","id":"5903090189","tel":"0425341777","addr":"臺中市潭子區勝利路285號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"週日不販售"},
 {"lng":"120.7024","lat":"24.21151","name":"成記藥局","id":"5903090367","tel":"0425358076","addr":"臺中市潭子區潭興路三段93號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上10點發放"},
