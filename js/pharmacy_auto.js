@@ -2269,6 +2269,7 @@ locations = [
 {"lng":"120.4413","lat":"23.52544","name":"惠民藥局","id":"5940040081","tel":"052211466","addr":"嘉義縣民雄鄉福樂村埤角102號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.439","lat":"23.52336","name":"健安藥局","id":"5940040170","tel":"052211797","addr":"嘉義縣民雄鄉興南村頭橋45號","business_week":"OOOOOOXOOOOOOXOOOOOOO","memo":"營業:上午9點至下午9點.週日下午6點至9點"},
 {"lng":"120.430037","lat":"23.556762","name":"安生藥局","id":"5940041480","tel":"052262053","addr":"嘉義縣民雄鄉昇平路12號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"周一~周日 08:30-售罄"},
+{"lng":"120.431","lat":"23.55621","name":"民雄照安藥局","id":"5940041668","tel":"052060368","addr":"嘉義縣民雄鄉中樂路21號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.4294","lat":"23.55555","name":"大方藥局","id":"5940041677","tel":"052268560","addr":"嘉義縣民雄鄉中樂村民族路40-2號","business_week":"OOOOOOOOOOOOOXOOOOOXX"},
 {"lng":"120.4318","lat":"23.55674","name":"春森藥局","id":"5940041695","tel":"052266957","addr":"嘉義縣民雄鄉東榮村9鄰和平路37號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"08:00~售罄"},
 {"lng":"120.4282","lat":"23.55087","name":"民雄丁丁藥局","id":"5940041828","tel":"052260990","addr":"嘉義縣民雄鄉文化路3-7號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一~週日於早上08:00開始販售實名制快篩試劑!丁丁藥局關心您!"},
