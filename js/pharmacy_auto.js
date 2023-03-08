@@ -2060,6 +2060,7 @@ locations = [
 {"lng":"120.53757","lat":"24.084129","name":"友誼藥局彰化店","id":"5937013561","tel":"047288865","addr":"彰化縣彰化市辭修路191-2號","business_week":"OOOOOOOXXXXXXXXXXXXXX","memo":"早上10:30販賣快篩，友誼藥局免費領取連續處方簽，衛生所，牙科單"},
 {"lng":"120.5815","lat":"24.08487","name":"黎明藥局","id":"5937013598","tel":"047320995","addr":"彰化縣彰化市彰南路2段217號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩販售時間：上午8時至11時30分，下午2時30分至5時30分，晚上7時至9時"},
 {"lng":"120.5293","lat":"24.06697","name":"大佳好藥局","id":"5937013605","tel":"0933520331","addr":"彰化縣彰化市平和七街6號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"免費牙科慢箋領藥，快篩還有喔，售完為止"},
+{"lng":"120.5369","lat":"24.07728","name":"彰化福倫藥局","id":"5937013623","tel":"047233018","addr":"彰化縣彰化市中正路2段224號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.5391","lat":"24.07044","name":"美得康藥局","id":"5937013641","tel":"047280707","addr":"彰化縣彰化市民族路186號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.54035","lat":"24.076046","name":"佑全彰化民族藥局","id":"5937013678","tel":"047286549","addr":"彰化縣彰化市民族路450號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"處方領藥來佑全，快篩試劑販售時間:早上9:00~晚上10:00"},
 {"lng":"120.5774","lat":"24.08562","name":"晁福藥局","id":"5937013721","tel":"047371168","addr":"彰化縣彰化市彰南路二段31號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩每天提供服務，營業時間8:00-22:30"},
