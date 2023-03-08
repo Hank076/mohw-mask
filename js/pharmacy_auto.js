@@ -1748,6 +1748,7 @@ locations = [
 {"lng":"121.7722","lat":"24.67662","name":"和平藥局","id":"5934022166","tel":"039564771","addr":"宜蘭縣羅東鎮和平路85號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩實名制早上08:00開始販售"},
 {"lng":"121.8496","lat":"24.59608","name":"南陽藥局","id":"5934030015","tel":"039965076","addr":"宜蘭縣蘇澳鎮中山路1段120號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.865","lat":"24.58267","name":"新豐藥局","id":"5934031138","tel":"039962869","addr":"宜蘭縣蘇澳鎮江夏路26號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"快篩販售時間 : 周一 ~ 周六上午 8:00 ， 售完為止"},
+{"lng":"121.838","lat":"24.59571","name":"仁人健保藥局","id":"5934031209","tel":"039971168","addr":"宜蘭縣蘇澳鎮蘇港路365號","business_week":"OOOOOOXOXOXOXXOXOXOXX"},
 {"lng":"121.829","lat":"24.6468","name":"熊野藥局","id":"5934031218","tel":"039903367","addr":"宜蘭縣蘇澳鎮龍德里福德路418號","business_week":"OOOXXXXOOOXXXXOOOXXXX"},
 {"lng":"121.8446","lat":"24.59558","name":"佑全蘇澳中山藥局","id":"5934031281","tel":"039961063","addr":"宜蘭縣蘇澳鎮中山路1段231號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.8237","lat":"24.85796","name":"頭城藥局","id":"5934041161","tel":"039770618","addr":"宜蘭縣頭城鎮開蘭路134號","business_week":"OOOOOOXOOOOOXXOOOOOXO"},
