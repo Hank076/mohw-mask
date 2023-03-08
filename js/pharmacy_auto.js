@@ -94,6 +94,7 @@ locations = [
 {"lng":"121.5322","lat":"25.04857","name":"百源堂大藥局","id":"5901100057","tel":"0225364362","addr":"臺北市中山區長安東路2段47-5號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"週休二日及例假日休營業日每日8點30分起至晚間七點"},
 {"lng":"121.5403","lat":"25.05505","name":"名祥藥局","id":"5901100066","tel":"0225036265","addr":"臺北市中山區龍江路166號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5255","lat":"25.0517","name":"大信藥局","id":"5901100155","tel":"0225719080","addr":"臺北市中山區林森北路159巷6號","business_week":"XXXXXXXOOOOOOXOOOOOOO"},
+{"lng":"121.5266","lat":"25.05502","name":"明美藥局","id":"5901100333","tel":"0225365419","addr":"臺北市中山區長春路69號","business_week":"XXXXXXXOOOOOXXOOOOOXX","memo":"口罩周一至周五，16:30-18:30販售"},
 {"lng":"121.5347","lat":"25.05145","name":"滿順藥局","id":"5901100422","tel":"0225075283","addr":"臺北市中山區伊通街54號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5342","lat":"25.06039","name":"阿里藥局","id":"5901100664","tel":"0225020638","addr":"臺北市中山區錦州街251號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上9:15開始營業."},
 {"lng":"121.541887","lat":"25.056207","name":"長青藥局","id":"5901101072","tel":"0225053160","addr":"臺北市中山區興安街55號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
