@@ -1495,6 +1495,7 @@ locations = [
 {"lng":"121.642115","lat":"25.065604","name":"麒豐藥局","id":"5931110034","tel":"0226434737","addr":"新北市汐止區樟樹一路135巷2號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"實名制口罩銷售時間9:30~21:00"},
 {"lng":"121.632","lat":"25.07005","name":"品康藥局","id":"5931111586","tel":"0226954441","addr":"新北市汐止區湖前街47號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午2點販售實名制快篩"},
 {"lng":"121.6565","lat":"25.06694","name":"幸福藥局","id":"5931111755","tel":"0226490127","addr":"新北市汐止區大同路2段332號1.2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"星期日暫停販售快篩試劑"},
+{"lng":"121.6297","lat":"25.0706","name":"全家藥局","id":"5931111835","tel":"0226954990","addr":"新北市汐止區明峰街143號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩試劑販售:週1-6，上午9-11點（現場排隊，不發號碼牌，售完為止）"},
 {"lng":"121.6632","lat":"25.06397","name":"滿益藥局","id":"5931111988","tel":"0286421562","addr":"新北市汐止區仁愛路130號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"口罩代售時間自13:30 ， 現場排隊"},
 {"lng":"121.6211","lat":"25.04126","name":"裕和藥局","id":"5931112083","tel":"0226609119","addr":"新北市汐止區宜興街4號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.6335","lat":"25.06447","name":"汐芷藥局","id":"5931112136","tel":"0226924087","addr":"新北市汐止區福德一路255號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
