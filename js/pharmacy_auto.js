@@ -165,6 +165,7 @@ locations = [
 {"lng":"121.6119","lat":"25.05536","name":"南港藥局","id":"5901121869","tel":"0227829137","addr":"臺北市南港區南港路一段166號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.616894","lat":"25.037849","name":"順翔藥局","id":"5901121896","tel":"0227824332","addr":"臺北市南港區研究院路2段170號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"代售政府實名制快篩 週一~週五早上10:00 週六早上9:30開始"},
 {"lng":"121.5924","lat":"25.05434","name":"景星藥局","id":"5901121903","tel":"0227838816","addr":"臺北市南港區南港路3段26號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"第4輪 每日快篩實名制 不限時間"},
+{"lng":"121.588","lat":"25.03948","name":"小藥師健保藥局","id":"5901121930","tel":"0227867002","addr":"臺北市南港區福德街320之1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售時間，每天早上10點開始販售，售完為止"},
 {"lng":"121.5818","lat":"25.04692","name":"心亮藥局","id":"5901121958","tel":"0227881677","addr":"臺北市南港區玉成街66之7號","business_week":"OOOOOXXOOOOOXXOOOOOXX"},
 {"lng":"121.586","lat":"25.04561","name":"躍獅忠孝藥局","id":"5901122062","tel":"0227862829","addr":"臺北市南港區成福路16號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午3:30開始販售快篩，不發放號碼牌"},
 {"lng":"121.5938","lat":"25.04969","name":"杏安藥局","id":"5901122124","tel":"0227864119","addr":"臺北市南港區昆陽街140巷16號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"實名制快篩周日不販售"},
