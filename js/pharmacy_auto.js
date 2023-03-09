@@ -1864,6 +1864,7 @@ locations = [
 {"lng":"120.88","lat":"24.68714","name":"快樂藥局","id":"5935040033","tel":"037474158","addr":"苗栗縣竹南鎮照南里中山路178號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.8795","lat":"24.68657","name":"和安藥局","id":"5935040257","tel":"037472332","addr":"苗栗縣竹南鎮竹南里博愛街15號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"快篩販售時段:上午8:00起至售完為止（周六到中午／日無）"},
 {"lng":"120.8741","lat":"24.68686","name":"鴻仁大藥局","id":"5935040266","tel":"037462396","addr":"苗栗縣竹南鎮竹南里博愛街181號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.879572","lat":"24.688741","name":"光復藥局","id":"5935040408","tel":"037476286","addr":"苗栗縣竹南鎮光復路216號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.8775","lat":"24.68543","name":"瑞士藥師藥局","id":"5935041745","tel":"037552708","addr":"苗栗縣竹南鎮和平街59號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.8792","lat":"24.69138","name":"惠家藥局","id":"5935041781","tel":"037463635","addr":"苗栗縣竹南鎮自強街38號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.8727","lat":"24.68686","name":"米樂中西健保藥局","id":"5935041905","tel":"037552116","addr":"苗栗縣竹南鎮大營路207號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"各大醫院診所處方簽調劑窗口快篩試劑販賣時段：（一）~（六）上午08:30至售完（六）營業時間08:30-16:00星期日休息"},
