@@ -1174,6 +1174,7 @@ locations = [
 {"lng":"120.43871","lat":"23.4677","name":"一安藥局","id":"5922028596","tel":"052859275","addr":"嘉義市西區福民里興業西路311號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.4406","lat":"23.45687","name":"勝成藥局","id":"5922028783","tel":"052360247","addr":"嘉義市西區南京路126巷19號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.44217","lat":"23.47291","name":"中興中西藥局","id":"5922028881","tel":"052353096","addr":"嘉義市西區垂楊路501號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.4452","lat":"23.4757","name":"健安藥局","id":"5922028925","tel":"052281219","addr":"嘉義市西區民族路626號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩:星期一至星期六9點-12點，15點-21點"},
 {"lng":"120.44352","lat":"23.47554","name":"秉原藥局","id":"592202A296","tel":"052285811","addr":"嘉義市西區書院里民族路700號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.4443","lat":"23.49355","name":"力健藥局","id":"592202A349","tel":"052323217","addr":"嘉義市西區文化路591號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間為早上8:00至中午13:00，下午2:30至晚上9:30，口罩發放從早上8:30至售完為止"},
 {"lng":"120.4386","lat":"23.4854","name":"國豐藥局","id":"592202A358","tel":"052318473","addr":"嘉義市西區北興街245-2號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"週一至週六上午8:30開始販售，無號碼牌（週六下午及例假日停售）"},
