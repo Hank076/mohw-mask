@@ -1208,6 +1208,7 @@ locations = [
 {"lng":"121.4789","lat":"25.0142","name":"信昌藥局","id":"5931012239","tel":"0229510784","addr":"新北市板橋區三民路2段202-9號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"防疫快篩依據每天到貨時間，另行公告"},
 {"lng":"121.4667","lat":"25.02193","name":"佳和藥局","id":"5931013781","tel":"0222589598","addr":"新北市板橋區文化路1段387巷5號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩 週一 至五早上8:30 -12:00和下午3:00-9:30販售- 週六早上下午3-6點. 週日休"},
 {"lng":"121.478544","lat":"25.031438","name":"欣安藥局","id":"5931014046","tel":"0282570296","addr":"新北市板橋區松柏街72號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"目前快篩送貨時間不定，發放時間依現場公告為主。"},
+{"lng":"121.4741","lat":"25.02314","name":"大峰藥局","id":"5931014224","tel":"0222510338","addr":"新北市板橋區莒光路168號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4294","lat":"24.98582","name":"旭全藥局","id":"5931014439","tel":"0226860526","addr":"新北市板橋區金門街331號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"星期1~6上午9:30~10:30 星期天上午9:30~下午5:00"},
 {"lng":"121.464201","lat":"25.004878","name":"健全藥局","id":"5931014635","tel":"0289533330","addr":"新北市板橋區實踐路125號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4568","lat":"25.0077","name":"皇慶藥局","id":"5931015187","tel":"0229655351","addr":"新北市板橋區館前西路161、163號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩繼續服務中"},
