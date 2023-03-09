@@ -1916,6 +1916,7 @@ locations = [
 {"lng":"121.865","lat":"24.58267","name":"新豐藥局","id":"5934031138","tel":"039962869","addr":"宜蘭縣蘇澳鎮江夏路26號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"快篩販售時間 : 周一 ~ 周六上午 8:00 ， 售完為止"},
 {"lng":"121.838","lat":"24.59571","name":"仁人健保藥局","id":"5934031209","tel":"039971168","addr":"宜蘭縣蘇澳鎮蘇港路365號","business_week":"OOOOOOXOXOXOXXOXOXOXX"},
 {"lng":"121.829","lat":"24.6468","name":"熊野藥局","id":"5934031218","tel":"039903367","addr":"宜蘭縣蘇澳鎮龍德里福德路418號","business_week":"OOOXXXXOOOXXXXOOOXXXX"},
+{"lng":"121.8446","lat":"24.59558","name":"佑全蘇澳中山藥局","id":"5934031281","tel":"039961063","addr":"宜蘭縣蘇澳鎮中山路1段231號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.8237","lat":"24.85796","name":"頭城藥局","id":"5934041161","tel":"039770618","addr":"宜蘭縣頭城鎮開蘭路134號","business_week":"OOOOOOXOOOOOXXOOOOOXO"},
 {"lng":"121.7745","lat":"24.82737","name":"三華藥局","id":"5934050080","tel":"039882857","addr":"宜蘭縣礁溪鄉中山路2段202號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"周日固定休息"},
 {"lng":"121.7846","lat":"24.74675","name":"心星藥局","id":"5934061065","tel":"039382258","addr":"宜蘭縣壯圍鄉吉祥村壯五路315號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"物流運送快篩機制為高機動屬性，藥局營業時間為週一至週日 08:00~21:00"},
