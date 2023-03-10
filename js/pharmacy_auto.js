@@ -691,6 +691,7 @@ locations = [
 {"lng":"120.2048","lat":"23.01259","name":"樂森藥局","id":"5905350259","tel":"062511338","addr":"臺南市北區和緯路二段336號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"周一到周六都有營業，周日不定時公休，請詳閱FB公告"},
 {"lng":"120.1981","lat":"23.00093","name":"宸安藥局","id":"5905350268","tel":"062238679","addr":"臺南市北區光民里成功路436號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"9:00-23:00"},
 {"lng":"120.2123","lat":"22.99817","name":"旻恩藥局","id":"5905350302","tel":"062260590","addr":"臺南市北區公園里北門路二段37-1號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"口罩領取時間:週一至周五早上09:00-12:00 下午2:30-5:30 晚間6:30-9:00。周六早上09-12下午2:30-5:30售完為止"},
+{"lng":"120.2102","lat":"23.00597","name":"美康藥局","id":"5905350311","tel":"062810311","addr":"臺南市北區公園路375-5號","business_week":"OOOOOOXOOOOOXXOOOXOXX","memo":"快篩實名制販賣時間上午9:30~11:00"},
 {"lng":"120.2077","lat":"22.99941","name":"大欣藥局","id":"5905350482","tel":"062236828","addr":"臺南市北區公園路203號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.2069","lat":"23.01527","name":"育德保健藥局","id":"5905350508","tel":"062525360","addr":"臺南市北區富德里育德路530號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.222641","lat":"23.008517","name":"開元台安藥局","id":"5905350535","tel":"062083172","addr":"臺南市北區開元路288號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
