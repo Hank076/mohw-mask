@@ -1314,6 +1314,7 @@ locations = [
 {"lng":"121.4262","lat":"25.01296","name":"恩泰藥局","id":"5931067092","tel":"0222038680","addr":"新北市新莊區民安西路265號-1","business_week":"XOOOOOXXOOOOOXXOOOOOX"},
 {"lng":"121.4474","lat":"25.04878","name":"鍵豐藥局","id":"5931067216","tel":"0229917452","addr":"新北市新莊區中和街158號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.446232","lat":"25.033953","name":"豐年藥局","id":"5931067565","tel":"0222071182","addr":"新北市新莊區中正路377巷16號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.4261","lat":"25.0147","name":"健安藥局","id":"5931068464","tel":"0222043765","addr":"新北市新莊區光和里民安西路209號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.435","lat":"25.03254","name":"建昌藥局","id":"5931068599","tel":"0229015422","addr":"新北市新莊區福營里中正路557號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4283","lat":"25.02717","name":"瑞豐大藥局","id":"5931068624","tel":"0222049932","addr":"新北市新莊區建福里後港一路105號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩每日9:00開始銷售，售完為止!星期日暫停銷售"},
 {"lng":"121.4281","lat":"25.01901","name":"庭安藥局","id":"5931068722","tel":"0222080528","addr":"新北市新莊區民有里西盛街172號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"早上9:30開始販售實名制快篩.賣完為止週日公休"},
