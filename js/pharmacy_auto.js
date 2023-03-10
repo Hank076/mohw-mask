@@ -1580,6 +1580,7 @@ locations = [
 {"lng":"121.3022","lat":"25.01946","name":"多多藥局","id":"5932014415","tel":"033162133","addr":"桃園市桃園區南平路183號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.2923","lat":"24.98974","name":"康是美藥局吉昌店","id":"5932014479","tel":"032289258","addr":"桃園市桃園區中平路29、29之1號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.269414","lat":"24.979021","name":"佳赫藥局","id":"5932017069","tel":"033701037","addr":"桃園市桃園區龍壽街48號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售星期日不固定時間"},
+{"lng":"121.2994","lat":"25.00081","name":"新永安藥師藥局","id":"5932018539","tel":"033471180","addr":"桃園市桃園區永安路466號","business_week":"OOOOOOOOOOOOOOOOOOOXO","memo":"快篩實名制星期一~星期日早上8:30開賣，賣完為止，謝謝!"},
 {"lng":"121.311821","lat":"24.982609","name":"品一藥局","id":"5932018593","tel":"033638510","addr":"桃園市桃園區建新街76號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.2946","lat":"24.9912","name":"大一藥局","id":"5932019045","tel":"032171836","addr":"桃園市桃園區中山路684之一號一樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.2957","lat":"25.02375","name":"莘莘藥局","id":"5932019581","tel":"033170681","addr":"桃園市桃園區莊敬路一段368號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩週一至週六 隨時銷售 售完為止"},
