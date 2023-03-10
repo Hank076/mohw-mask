@@ -336,6 +336,7 @@ locations = [
 {"lng":"120.3445","lat":"22.64474","name":"澄和藥局","id":"5902050565","tel":"073923111","addr":"高雄市三民區澄和路66號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑- 販售時間自上午10:00起至售完為止"},
 {"lng":"120.310519","lat":"22.644774","name":"建昌藥局","id":"5902050592","tel":"073232356","addr":"高雄市三民區十全一路105號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"賣快篩時間：周一至週日下午1:00開始販售，售完為止。"},
 {"lng":"120.2868","lat":"22.6388","name":"友泰藥局","id":"5902050798","tel":"073125236","addr":"高雄市三民區中和街169號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
+{"lng":"120.3296","lat":"22.63865","name":"皇安藥局","id":"5902050903","tel":"073866779","addr":"高雄市三民區九如一路461號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"營業日0900可先領取號碼牌，上午9:00-12:00及下午3:00~10:.00為販賣快篩時間，售完為止"},
 {"lng":"120.2981","lat":"22.64208","name":"安寧藥局","id":"5902051642","tel":"073217585","addr":"高雄市三民區嫩江街39號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.2982","lat":"22.63706","name":"億生藥局","id":"5902051786","tel":"072873436","addr":"高雄市三民區南台路200號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"「藥局販售口罩時間，依藥局門口公告時間為主(售完為止)」"},
 {"lng":"120.3253","lat":"22.65318","name":"久大藥局","id":"5902051866","tel":"073858116","addr":"高雄市三民區本文里立忠路32號1F","business_week":"OOOOOOOOOOOOXXOOOOOXX"},
