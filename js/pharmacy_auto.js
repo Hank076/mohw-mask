@@ -1315,7 +1315,7 @@ locations = [
 {"lng":"121.4657","lat":"25.0465","name":"武田藥局","id":"5931060431","tel":"0229944029","addr":"新北市新莊區化成路212號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.427037","lat":"25.02604","name":"錄新藥局","id":"5931060628","tel":"0222051849","addr":"新北市新莊區後港一路76巷10弄1號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4449","lat":"25.04181","name":"祥好大藥局","id":"5931060744","tel":"0229939051","addr":"新北市新莊區新泰路331號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
-{"lng":"121.4262","lat":"25.01296","name":"恩泰藥局","id":"5931067092","tel":"0222038680","addr":"新北市新莊區民安西路265號-1","business_week":"XOOOOOXXOOOOOXXOOOOOX"},
+{"lng":"121.4262","lat":"25.01296","name":"恩泰藥局","id":"5931067092","tel":"0222038680","addr":"新北市新莊區民安西路265號-1","business_week":"XOOOOXXXOOOOXXXOOOOXX"},
 {"lng":"121.4474","lat":"25.04878","name":"鍵豐藥局","id":"5931067216","tel":"0229917452","addr":"新北市新莊區中和街158號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.446232","lat":"25.033953","name":"豐年藥局","id":"5931067565","tel":"0222071182","addr":"新北市新莊區中正路377巷16號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4261","lat":"25.0147","name":"健安藥局","id":"5931068464","tel":"0222043765","addr":"新北市新莊區光和里民安西路209號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
