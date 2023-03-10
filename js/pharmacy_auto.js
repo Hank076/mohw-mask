@@ -1490,6 +1490,7 @@ locations = [
 {"lng":"121.2255","lat":"24.95742","name":"幸福藥局","id":"593202B054","tel":"034223092","addr":"桃園市中壢區中光路3號","business_week":"OXXOXOOOOXOOOXOOXOOXX","memo":"口罩販賣時段：六日一三8:30~售完為止 \/二五14:30~售完為止\/四10:00~售完為止"},
 {"lng":"121.2277","lat":"24.95526","name":"健康生活藥局","id":"593202B349","tel":"034272729","addr":"桃園市中壢區中山路二五號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩8:30"},
 {"lng":"121.2524","lat":"24.96428","name":"自立藥局","id":"593202B474","tel":"034558980","addr":"桃園市中壢區永福路1013號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"AM 8:00 販售快篩試劑"},
+{"lng":"121.223","lat":"24.96434","name":"千葉大藥局","id":"593202B483","tel":"034251886","addr":"桃園市中壢區新生路三O七號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.2246","lat":"24.95035","name":"中央藥局","id":"593202B787","tel":"034579676","addr":"桃園市中壢區中北路二段56號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.2946","lat":"24.92239","name":"永耘藥局","id":"5932030160","tel":"033804770","addr":"桃園市大溪區介壽路64號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩試劑販賣時段: 週一至週日早上8:00"},
 {"lng":"121.28801","lat":"24.881462","name":"資生大藥局","id":"5932030179","tel":"033882276","addr":"桃園市大溪區康莊路132號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"實名制快篩下午三點到六點販售"},
