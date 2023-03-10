@@ -818,6 +818,7 @@ locations = [
 {"lng":"120.3317","lat":"22.64915","name":"大昌藥局","id":"5907320900","tel":"073961396","addr":"高雄市三民區大昌二路397號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.3429","lat":"22.64609","name":"熊安心藥局","id":"5907320946","tel":"073815212","addr":"高雄市三民區陽明路408號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.2917","lat":"22.63527","name":"森心藥局","id":"5907320964","tel":"072818580","addr":"高雄市三民區自強一路216號1樓","business_week":"OOOOOOXOOOOOXXOOOOOOX","memo":"快篩購買時間星期一到六營業時間內販售。"},
+{"lng":"120.331379","lat":"22.652944","name":"康圓藥局","id":"5907320982","tel":"073909978","addr":"高雄市三民區大豐二路359.361號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.3164","lat":"22.65139","name":"諾亞藥局","id":"5907321005","tel":"073929966","addr":"高雄市三民區鼎華路14號1樓","business_week":"OOOOOOXOOOOOXXXXXXXXX"},
 {"lng":"120.322346","lat":"22.660457","name":"三民明誠藥局","id":"5907321032","tel":"073493137","addr":"高雄市三民區明誠一路500號1-2F及502號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.3199","lat":"22.66719","name":"鼎安健保藥局","id":"5907321041","tel":"073509939","addr":"高雄市三民區鼎中路418號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩實名制營業日早上10點開始販售，售完為止。"},
