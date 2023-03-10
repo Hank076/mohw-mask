@@ -821,6 +821,7 @@ locations = [
 {"lng":"120.2915","lat":"22.72658","name":"新高橋藥局藍昌店","id":"5907310477","tel":"073485857","addr":"高雄市楠梓區藍昌路387號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.3205","lat":"22.66711","name":"新高橋藥局天祥店","id":"5907320179","tel":"073102683","addr":"高雄市三民區天祥一路117號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售到晚上10:00售完為止"},
 {"lng":"120.3461","lat":"22.64438","name":"新高橋藥局澄清店","id":"5907320295","tel":"073815186","addr":"高雄市三民區澄和路2號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午1:30開始販售口罩"},
+{"lng":"120.322607","lat":"22.660458","name":"新高橋藥局明誠店","id":"5907320302","tel":"073107072","addr":"高雄市三民區明誠一路492號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午2:30開始販售"},
 {"lng":"120.3173","lat":"22.6478","name":"東京藥局","id":"5907320428","tel":"073874567","addr":"高雄市三民區建工路685號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售時間: 每日10:00-晚上20:00"},
 {"lng":"120.3331","lat":"22.64371","name":"勁康健保藥局","id":"5907320633","tel":"073966716","addr":"高雄市三民區義華路402號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"如為當日配量快篩實名制配貨到即可販售，若前一日就到貨，則早上10點開始"},
 {"lng":"120.3154","lat":"22.66606","name":"未來照護藥局","id":"5907320651","tel":"073105356","addr":"高雄市三民區鼎瑞街108號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
