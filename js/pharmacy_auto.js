@@ -1276,6 +1276,7 @@ locations = [
 {"lng":"121.4969","lat":"25.00472","name":"仙正藥局","id":"5931040662","tel":"0222494081","addr":"新北市中和區福美路309號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.4918","lat":"24.99076","name":"梓芳大藥局","id":"5931040724","tel":"0222405025","addr":"新北市中和區圓通路278號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5065","lat":"24.98507","name":"日發藥局","id":"5931040733","tel":"0229424926","addr":"新北市中和區興南路2段52-4號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"受理各大醫院診所處方籤調劑"},
+{"lng":"121.5048","lat":"25.00389","name":"真成大藥局","id":"5931042371","tel":"0222447008","addr":"新北市中和區光華街38號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.503506","lat":"24.990202","name":"恩溢藥局","id":"5931042648","tel":"0222452450","addr":"新北市中和區復興路79號1樓.2樓","business_week":"OOOOOOXOOOOOOOOOOOOOO"},
 {"lng":"121.481143","lat":"25.002371","name":"家嘉藥局","id":"5931042817","tel":"0282281388","addr":"新北市中和區員山路377號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.469","lat":"25.00219","name":"家家藥局","id":"5931042899","tel":"0229587512","addr":"新北市中和區民德路43號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
