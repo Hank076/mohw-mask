@@ -1887,6 +1887,7 @@ locations = [
 {"lng":"120.577039","lat":"24.085366","name":"大竹長生藥局","id":"5937011058","tel":"047384176","addr":"彰化縣彰化市彰南路二段8號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩代售全日"},
 {"lng":"120.541613","lat":"24.071999","name":"平成藥局","id":"5937012242","tel":"047258070","addr":"彰化縣彰化市福安里曉陽路31號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.5444","lat":"24.06132","name":"施文彬大藥局","id":"5937012635","tel":"047111653","addr":"彰化縣彰化市大埔路345號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩代售時間早上9:30（星期一至日，無休）， 發放號碼牌"},
+{"lng":"120.5402","lat":"24.0751","name":"回生藥局","id":"5937012662","tel":"047227266","addr":"彰化縣彰化市民族路410號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.544","lat":"24.07072","name":"康好健保藥局","id":"5937012671","tel":"047234725","addr":"彰化縣彰化市光南里旭光路291號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"1400開始販售實名制快篩"},
 {"lng":"120.5384","lat":"24.07506","name":"長聖樹藥局","id":"5937012715","tel":"047291519","addr":"彰化縣彰化市華山路173號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"週一至週六早上9:00開始販售快篩"},
 {"lng":"120.5361","lat":"24.07263","name":"佳展佳藥局","id":"5937012733","tel":"047288246","addr":"彰化縣彰化市彰安里中正路2段434號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"免費領牙科、慢性處方。上午08:30販售快篩。"},
