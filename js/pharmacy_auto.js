@@ -1799,6 +1799,7 @@ locations = [
 {"lng":"120.8201","lat":"24.55826","name":"芳鄰國際連鎖藥局","id":"5935011783","tel":"037330580","addr":"苗栗縣苗栗市中山路567號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販賣時段：AM09:00開始至PM21:00， 售完為止"},
 {"lng":"120.8186","lat":"24.5606","name":"廷安藥局","id":"5935011925","tel":"037356839","addr":"苗栗縣苗栗市府前路133號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩販賣時段:每日8點30-售完-星期日公休"},
 {"lng":"120.823436","lat":"24.568138","name":"千百岳大藥局","id":"5935011952","tel":"037271335","addr":"苗栗縣苗栗市上苗里中山路70號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間AM8:30--PM9:30。"},
+{"lng":"120.81946","lat":"24.561465","name":"上林藥局","id":"5935012324","tel":"037320685","addr":"苗栗縣苗栗市建功里24鄰府前路91號","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"實名制快篩:早上9:30~售完"},
 {"lng":"120.8196","lat":"24.55733","name":"杏一苗栗中山藥局","id":"5935012342","tel":"037354552","addr":"苗栗縣苗栗市至公路38號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"販售時間:14:00 -20:00 !週日無販售!!"},
 {"lng":"120.8158","lat":"24.56409","name":"錦岳大藥局","id":"5935012351","tel":"037353046","addr":"苗栗縣苗栗市民族路140號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"販售時間：8:30~售完  相關問題可撥打電話詢問。"},
 {"lng":"120.8235","lat":"24.56541","name":"心惠聯合藥局","id":"5935012360","tel":"037377389","addr":"苗栗縣苗栗市中山路181號","business_week":"OOOOOOOOOXOOXXOXXOXXX","memo":"口罩販賣時段：10:30-售完 週日預約制"},
