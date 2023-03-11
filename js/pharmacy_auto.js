@@ -50,6 +50,7 @@ locations = [
 {"lng":"121.5408","lat":"25.02866","name":"赫慶藥局","id":"5901020732","tel":"0227063497","addr":"臺北市大安區瑞安街208巷11弄5號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩代售時間：星期一至六上午9點開始，不發號碼牌，星期日停售"},
 {"lng":"121.5543","lat":"25.02174","name":"建如藥局","id":"5901021382","tel":"0227331456","addr":"臺北市大安區和平東路3段228巷11號1F","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"9:00開門營業後.開始作業領取快篩 星期日休息"},
 {"lng":"121.529","lat":"25.03289","name":"永康藥局","id":"5901022898","tel":"0223279362","addr":"臺北市大安區麗水街6之2號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.529","lat":"25.03225","name":"麗樺藥師藥局","id":"5901023304","tel":"0223952628","addr":"臺北市大安區麗水街3號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5519","lat":"25.03433","name":"安和藥局","id":"5901023313","tel":"0227092349","addr":"臺北市大安區安和路1段102巷3號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"平日下午三點開始販賣賣完 78份結束"},
 {"lng":"121.5458","lat":"25.04349","name":"弘昇藥局","id":"5901023386","tel":"0227110061","addr":"臺北市大安區復興南路1段107巷32號","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"上午11點以後至晚上10點30分"},
 {"lng":"121.553058","lat":"25.038204","name":"長虹藥局","id":"5901023411","tel":"0227210232","addr":"臺北市大安區忠孝東路4段216巷 63號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"週一~週五10:00-22:00 週六週日10:30-19:30 販售實名制快篩"},
