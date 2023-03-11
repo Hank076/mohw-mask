@@ -1669,6 +1669,7 @@ locations = [
 {"lng":"120.8522","lat":"24.57524","name":"裕祥藥局","id":"5935120027","tel":"037253553","addr":"苗栗縣頭屋鄉頭屋村尖豐路85號","business_week":"OOOOOOOOOOOOOXOOOOOOO"},
 {"lng":"120.723893","lat":"24.247178","name":"裕安藥局","id":"5936010039","tel":"0425223494","addr":"臺中市豐原區南陽路南陽市場11號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"每日早上8:00開始販售"},
 {"lng":"120.722049","lat":"24.239058","name":"信惠藥局","id":"5936010146","tel":"0425263861","addr":"臺中市豐原區豐田里田心路二段225號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"週一至週六上午7:30左右開始發售.週日8:00"},
+{"lng":"120.7223","lat":"24.22695","name":"輝生藥局","id":"5936010486","tel":"0425379563","addr":"臺中市豐原區鐮村路411號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"防疫口罩販售時段早上07:00"},
 {"lng":"120.7226","lat":"24.23821","name":"復生藥局","id":"5936010780","tel":"0425261803","addr":"臺中市豐原區田心路2段269號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.7181","lat":"24.25348","name":"美日藥局","id":"5936012140","tel":"0425228490","addr":"臺中市豐原區三民路188號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.7186","lat":"24.25187","name":"中正藥局","id":"5936012515","tel":"0425298379","addr":"臺中市豐原區中正路186號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
