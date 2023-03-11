@@ -1756,6 +1756,7 @@ locations = [
 {"lng":"121.7977","lat":"24.68561","name":"平安藥局","id":"5934091090","tel":"039603265","addr":"宜蘭縣五結鄉五結中路2段23號","business_week":"OOOOOOXOOOXOXXXXXXXXX","memo":"【公告】3／3（五）下午、3／4（六）、3／5（日）休診，造成不便盡請見諒"},
 {"lng":"121.8207","lat":"24.66838","name":"松康藥局","id":"5934091134","tel":"039602700","addr":"宜蘭縣五結鄉親河路1段100號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"每月底之週六及每週日為固定休假日。"},
 {"lng":"121.6515","lat":"24.66588","name":"三星健保藥局","id":"5934100030","tel":"039895816","addr":"宜蘭縣三星鄉三星路5段51號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"快篩試劑禮拜一到六早上10點開始購買，現場排隊，售完為止"},
+{"lng":"121.8039","lat":"24.46602","name":"進昌健保藥局","id":"5934120014","tel":"039981011","addr":"宜蘭縣南澳鄉蘇花路2段383號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩試劑領取， 早上08:30開始， 售完為止.  謝謝"},
 {"lng":"120.818497","lat":"24.553999","name":"盛安藥局","id":"5935010213","tel":"037320145","addr":"苗栗縣苗栗市中正路748號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"快篩8點開始販售（除夕21號中午後休-30號初九開工）"},
 {"lng":"120.830893","lat":"24.571671","name":"德鑫藥局","id":"5935010259","tel":"037261698","addr":"苗栗縣苗栗市清華里為公路348號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.8201","lat":"24.55826","name":"芳鄰國際連鎖藥局","id":"5935011783","tel":"037330580","addr":"苗栗縣苗栗市中山路567號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販賣時段：AM09:00開始至PM21:00， 售完為止"},
