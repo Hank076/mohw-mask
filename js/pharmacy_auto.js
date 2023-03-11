@@ -1954,6 +1954,7 @@ locations = [
 {"lng":"120.4859","lat":"24.14825","name":"伸港藥局","id":"5937101146","tel":"047992663","addr":"彰化縣伸港鄉新港村信義路135號","business_week":"OOOOOOOOOOOOOOOOOOOXX"},
 {"lng":"120.4885","lat":"24.14758","name":"貓頭鷹藥局","id":"5937101173","tel":"047996596","addr":"彰化縣伸港鄉新港村中山東路99號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"收受：牙科、診所、衛生所、各大醫院慢性病連續處方箋，免費領藥。"},
 {"lng":"120.4864","lat":"24.14731","name":"友誼藥局","id":"5937101217","tel":"047980591","addr":"彰化縣伸港鄉新港村中山路15號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"免費領取各大醫院診所牙科衛生所處方箋"},
+{"lng":"120.4868","lat":"24.15135","name":"春生藥局伸港店","id":"5937101244","tel":"047986263","addr":"彰化縣伸港鄉新港村新港路417號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每週一至週日早上8:30開始發放號碼，發完為售完"},
 {"lng":"120.431477","lat":"24.050549","name":"東泰藥局","id":"5937111160","tel":"047772277","addr":"彰化縣福興鄉福興村沿海路5段366號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"星期一至星期六早上09:00開始販售快篩試劑"},
 {"lng":"120.5035","lat":"24.03531","name":"健全藥局","id":"5937121246","tel":"047686649","addr":"彰化縣秀水鄉安東村中山路282-1號","business_week":"OOOOOOOOOOOOOOOOOOOXX"},
 {"lng":"120.4973","lat":"24.03104","name":"秀水福倫藥局","id":"5937121291","tel":"047699618","addr":"彰化縣秀水鄉彰水路2段570號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
