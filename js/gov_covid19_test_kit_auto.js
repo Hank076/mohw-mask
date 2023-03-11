@@ -373,7 +373,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.65579","lat":"25.067729","name":"楊內科小兒科診所","id":"3531110025","tel":"0226420233","addr":"新北市汐止區汐萬路1段25號","business_week":"OOOOOOOOOOOOOXXXXXXXX","memo":"9／08上午開診下午休診，9／10，9／11正常看診"},
 {"lng":"121.630427","lat":"25.065154","name":"弘人小兒科診所","id":"3531110623","tel":"0226932439","addr":"新北市汐止區福德二路152號","business_week":"OOXOOOXXXXXXXXXOOOXXX","memo":"12／31正常看診1／1 休診1／2正常看診"},
 {"lng":"121.630743","lat":"25.065073","name":"福德診所","id":"3531112618","tel":"0226959877","addr":"新北市汐止區福德二路171號","business_week":"OOOOOOXOOXOOXXOOXOOXX","memo":"早上08:30-11:40；晚上16:00-20:50；週三週六下午晚上休診"},
-{"lng":"121.662328","lat":"25.070246","name":"育和診所","id":"3531113366","tel":"0226486803","addr":"新北市汐止區中正路31號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"早上0800-1200，下午1500-1800，晚上1800-2030"},
+{"lng":"121.662328","lat":"25.070246","name":"育和診所","id":"3531113366","tel":"0226486803","addr":"新北市汐止區中正路31號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"早上0800-1230，下午1500-1800，晚上1800-2100"},
 {"lng":"121.806679","lat":"25.1077","name":"簡診所","id":"3531120076","tel":"0224972350","addr":"新北市瑞芳區明燈路三段39之3號","business_week":"OOOOOOXXXOXOOXOXXXXOX"},
 {"lng":"121.805246","lat":"25.108235","name":"詠安診所","id":"3531120183","tel":"0224960683","addr":"新北市瑞芳區明燈路三段79號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"112-03-04：晚上休診"},
 {"lng":"121.806528","lat":"25.107678","name":"康橋診所","id":"3531121528","tel":"0224974128","addr":"新北市瑞芳區明燈路三段39-7號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
