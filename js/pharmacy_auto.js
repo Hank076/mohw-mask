@@ -1685,6 +1685,7 @@ locations = [
 {"lng":"121.0075","lat":"24.82198","name":"正科大藥局","id":"5933052606","tel":"036573561","addr":"新竹縣竹北市科大一路16號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制，若正常到貨，禮拜一到禮拜六販售。禮拜天休息"},
 {"lng":"121.012403","lat":"24.836958","name":"竹仁藥師藥局","id":"5933052777","tel":"035528947","addr":"新竹縣竹北市仁和街6號1樓","business_week":"OOOOOOOXOOOOXXOOOOOOO","memo":"8:00-20:30販賣公費快篩"},
 {"lng":"121.0203","lat":"24.81736","name":"晶華藥局","id":"5933052866","tel":"035502107","addr":"新竹縣竹北市莊敬南路110號1樓","business_week":"OOOOOOXOOOOOOOOOOOOOX"},
+{"lng":"121.0278","lat":"24.82236","name":"仁里藥局","id":"5933052955","tel":"036673878","addr":"新竹縣竹北市勝利二路125號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販賣時段：星期一~日 上午10:00至售完為止"},
 {"lng":"120.998747","lat":"24.841655","name":"如佳藥局","id":"5933052982","tel":"035533161","addr":"新竹縣竹北市中正西路189號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日下午14:00開始販售，21:00停止販售。"},
 {"lng":"121.0095","lat":"24.82142","name":"禾坊藥局","id":"5933053023","tel":"035588797","addr":"新竹縣竹北市科大一路85號","business_week":"OOOOOOOOOOOOOOOOOOOXO","memo":"快篩販賣時段：每日早上09:00，售完為止"},
 {"lng":"121.028024","lat":"24.817398","name":"幼幼健保藥局","id":"5933053336","tel":"035507762","addr":"新竹縣竹北市嘉興路214號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩8:30~22:00"},
