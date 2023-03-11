@@ -2011,6 +2011,7 @@ locations = [
 {"lng":"120.4225","lat":"23.98887","name":"石埤藥局","id":"5937161133","tel":"048655146","addr":"彰化縣埔鹽鄉石埤村番金路80之16號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一至週日早上08:00開始販賣快篩.售完為止。"},
 {"lng":"120.5417","lat":"23.95288","name":"安麗兒藥局埔心店","id":"5937171157","tel":"048295129","addr":"彰化縣埔心鄉義民村員鹿路2段434號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"120.543705","lat":"23.952731","name":"永康藥局","id":"5937171166","tel":"048280957","addr":"彰化縣埔心鄉東門村員鹿路2段329號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"120.547","lat":"23.92143","name":"生春大藥局","id":"5937180030","tel":"048220929","addr":"彰化縣永靖鄉東門路233號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週一至週六早上7點50分開始營業 週日公休"},
 {"lng":"120.5469","lat":"23.92419","name":"邱利調劑藥局","id":"5937181215","tel":"048235509","addr":"彰化縣永靖鄉瑚璉路308號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"實名制（ 現場購買）"},
 {"lng":"120.5463","lat":"23.92206","name":"金和堂藥局","id":"5937181251","tel":"048221759","addr":"彰化縣永靖鄉永靖街102號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"120.5477","lat":"23.92182","name":"永茗藥局","id":"5937181260","tel":"048242721","addr":"彰化縣永靖鄉永東村東門路198號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"每日代售時間早上8:00-19:00，星期日公休"},
