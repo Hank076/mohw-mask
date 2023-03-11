@@ -25,6 +25,7 @@ locations = [
 {"lng":"121.5447","lat":"25.05006","name":"博荃藥局","id":"5901012203","tel":"0227316736","addr":"臺北市松山區敦化北路4巷51號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"連假期間皆休診 !"},
 {"lng":"121.5461","lat":"25.0562","name":"惠登藥局","id":"5901012516","tel":"0225472432","addr":"臺北市松山區民生東路3段130巷34號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5649","lat":"25.06119","name":"予志藥局","id":"5901012570","tel":"0227623522","addr":"臺北市松山區富錦街521號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"營業時間: 星期一到星期六早上9點到晚上9:30、星期天早上9點到晚上6點"},
+{"lng":"121.5766","lat":"25.05021","name":"婕登藥局","id":"5901012598","tel":"0227482893","addr":"臺北市松山區八德路4段699號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5459","lat":"25.04724","name":"銘德藥局","id":"5901012650","tel":"0227511833","addr":"臺北市松山區八德路2段366巷28號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩早上十點開始販售，星期天販售時間另行公告"},
 {"lng":"121.5581","lat":"25.04812","name":"立康大藥局","id":"5901012712","tel":"0227471749","addr":"臺北市松山區八德路四段2-1號","business_week":"OOOOOOXOOOOOOOOOOOOOO"},
 {"lng":"121.576092","lat":"25.04979","name":"躍獅松和藥局","id":"5901012749","tel":"0227492569","addr":"臺北市松山區八德路四段666-1號","business_week":"XXXXXXXOOOOOOOOOOOOOO","memo":"實名制快篩販售／發放時段，13:00~21:30"},
