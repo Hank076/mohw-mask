@@ -476,6 +476,7 @@ locations = [
 {"lng":"120.7009","lat":"24.13481","name":"平祐健保藥局","id":"5903230094","tel":"0422113898","addr":"臺中市東區旱溪東路1段297號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"早上九點開始販售!週日公休!"},
 {"lng":"120.706324","lat":"24.136928","name":"樂業小林健保藥局","id":"5903230156","tel":"0422139123","addr":"臺中市東區樂業路443號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.7051","lat":"24.138","name":"恒生藥局","id":"5903230183","tel":"0422135179","addr":"臺中市東區樂業路395號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"120.7097","lat":"24.14406","name":"康是美藥局東英店","id":"5903230192","tel":"0422139034","addr":"臺中市東區十甲路450號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩於每日下午3點開賣"},
 {"lng":"120.708074","lat":"24.14425","name":"十甲東亞藥師大藥局","id":"5903230218","tel":"0422118879","addr":"臺中市東區十甲路410號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.7104","lat":"24.14464","name":"東區小林健保藥局","id":"5903230227","tel":"0422135148","addr":"臺中市東區十甲路485號1樓","business_week":"OOOOOOXOOOOOXOXXXXXXX"},
 {"lng":"120.6881","lat":"24.13635","name":"佳境藥局","id":"5903230236","tel":"0422211395","addr":"臺中市東區大智路1-1號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"營業時間：W1-W6 09:30-22:00，周日休息 （建議快篩盡量於14:00-16:30到店領取以免久候）"},
