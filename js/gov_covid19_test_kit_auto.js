@@ -511,7 +511,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.587641","lat":"24.181017","name":"康德耳鼻喉科診所","id":"3536170290","tel":"0426317903","addr":"臺中市龍井區新興路43號","business_week":"OOOOOOXXXXXXXXOOOOOXX","memo":"每日下午時段休診， 晚上門診時間六點五十分至八點五十分止."},
 {"lng":"120.715258","lat":"24.127119","name":"建志耳鼻喉科診所","id":"3536192509","tel":"0422766899","addr":"臺中市太平區中興路110號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.717871","lat":"24.152802","name":"弘鑫耳鼻喉科診所","id":"3536192554","tel":"0423933595","addr":"臺中市太平區樹孝路202號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"除夕及初四只看早上 初五看整天"},
-{"lng":"120.702635","lat":"24.08817","name":"陳建利診所","id":"3536200757","tel":"0424935145","addr":"臺中市大里區成功路387號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"112／2／25.2／27.2／28門診正常業.112／2／26休診"},
+{"lng":"120.702635","lat":"24.08817","name":"陳建利診所","id":"3536200757","tel":"0424935145","addr":"臺中市大里區成功路387號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"112／4／1，3，4，5門診正常營業.112／4／2休診"},
 {"lng":"120.688075","lat":"24.104924","name":"陳祥雪小兒科診所","id":"3536201343","tel":"0424850052","addr":"臺中市大里區新生西路42號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"除周六日外， 每天下午為三點開始看診，。"},
 {"lng":"120.686617","lat":"24.104631","name":"安聲耳鼻喉科診所","id":"3536202528","tel":"0424852301","addr":"臺中市大里區大里路98-5號","business_week":"OOOOOOXXXXXXXXOOOOOXX"},
 {"lng":"120.683746","lat":"24.110958","name":"李文軒耳鼻喉科診所","id":"3536202662","tel":"0424872898","addr":"臺中市大里區益民路二段271號","business_week":"OOOOXOOOOOOXOOOOOOXOO"},
