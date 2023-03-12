@@ -911,7 +911,7 @@ locations = [
 {"lng":"120.2278","lat":"22.96502","name":"家庭藥局","id":"5921012334","tel":"062607298","addr":"臺南市東區崇文里生產路369─3號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩於營業時間皆有販售（星期一~星期六09:00~12:00.午休14:00~21:00）"},
 {"lng":"120.22436","lat":"22.98125","name":"崇仁藥局","id":"5921012361","tel":"062894115","addr":"臺南市東區龍山里崇學路231號","business_week":"OOOOOOOOOOOOOXOOOOOXO"},
 {"lng":"120.2126","lat":"22.98989","name":"慈惠藥局","id":"5921012398","tel":"062760746","addr":"臺南市東區前鋒路27號","business_week":"OOOOOOXOOOOXOXOOOOXXX"},
-{"lng":"120.2358","lat":"22.98502","name":"早安藥師藥局","id":"5921012530","tel":"063350535","addr":"臺南市東區裕學路112號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.2358","lat":"22.98502","name":"早安藥師藥局","id":"5921012530","tel":"063350535","addr":"臺南市東區裕學路112號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間8:30~22:30"},
 {"lng":"120.2326","lat":"22.99335","name":"連春藥局","id":"5921012683","tel":"062083685","addr":"臺南市東區莊敬路15號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩早上8點半開始銷售"},
 {"lng":"120.2248","lat":"22.98171","name":"羽杏藥局","id":"5921012852","tel":"062893330","addr":"臺南市東區崇學路259號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週一至週六09:00起依序販售快篩，售完為止"},
 {"lng":"120.227246","lat":"22.974348","name":"和德藥局","id":"5921013206","tel":"062882789","addr":"臺南市東區崇德路497號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上9點~晚上9點，提供實名制快篩購買，實際購買訊息依政府公告為主"},
