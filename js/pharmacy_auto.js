@@ -803,6 +803,7 @@ locations = [
 {"lng":"120.9635","lat":"24.80324","name":"保健藥局","id":"5912040222","tel":"035242088","addr":"新竹市北區中山路153號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販賣時段：現有庫存至售完為止。"},
 {"lng":"120.9556","lat":"24.80447","name":"佑健藥局","id":"5912042066","tel":"035230356","addr":"新竹市北區經國路二段531號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩販賣時段:早上9:30現場排隊至售完為止"},
 {"lng":"120.9588","lat":"24.80991","name":"保安藥局","id":"5912042173","tel":"035258636","addr":"新竹市北區西大路617號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩早上8:00開始販售"},
+{"lng":"120.961","lat":"24.81546","name":"均祐健康藥局","id":"5912042235","tel":"035325369","addr":"新竹市北區境福里15鄰中正路389號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販售時間：09:00"},
 {"lng":"120.9603","lat":"24.8012","name":"盛安藥局","id":"5912042520","tel":"035225668","addr":"新竹市北區育英里3鄰中山路281號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"國定假日與星期日休息"},
 {"lng":"120.9741","lat":"24.82093","name":"永沛藥局","id":"5912042664","tel":"035328563","addr":"新竹市北區湳雅街209號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.963471","lat":"24.80146","name":"好鄰居健保藥局","id":"5912042717","tel":"035400538","addr":"新竹市北區西門街123號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
