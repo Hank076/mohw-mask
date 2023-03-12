@@ -2067,6 +2067,7 @@ locations = [
 {"lng":"120.2268","lat":"23.01223","name":"北一藥局","id":"5941310840","tel":"062012215","addr":"臺南市永康區中山南路43巷5號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.247205","lat":"23.014913","name":"仙輝藥局","id":"5941312504","tel":"062030188","addr":"臺南市永康區復華七街92號1樓","business_week":"OOOOOXOOOOOOXOOOOOOXO"},
 {"lng":"120.222183","lat":"23.020181","name":"維康藥局奇美店","id":"5941312540","tel":"062814441","addr":"臺南市永康區正新街65號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"實名制快篩販賣時間:週一至週五08:00-17:00 （售完為止） ／ 12:00-13:30休息，週六09:00-12:00，週日不販售。"},
+{"lng":"120.2678","lat":"23.00756","name":"麗生藥師藥局","id":"5941312577","tel":"062737099","addr":"臺南市永康區大灣路280號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午14:30-16:00兌換快篩"},
 {"lng":"120.2369","lat":"23.01122","name":"北安藥局","id":"5941312586","tel":"063024933","addr":"臺南市永康區中山東路226號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"120.3269","lat":"22.5921","name":"中央藥局","id":"5942010125","tel":"078217320","addr":"高雄市鳳山區五甲三路71號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日早上8點營業即可購買政府實名快篩，賣完為止。"},
 {"lng":"120.3609","lat":"22.62556","name":"護民藥局","id":"5942010358","tel":"077462525","addr":"高雄市鳳山區光遠路205號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"8點開始販售快篩"},
