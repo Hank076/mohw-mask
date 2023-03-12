@@ -671,6 +671,7 @@ locations = [
 {"lng":"120.2575","lat":"22.85889","name":"佑安藥局","id":"5907150177","tel":"076072215","addr":"高雄市路竹區中和街182號","business_week":"OOOOOOXXXXXXXXOOOOOOX","memo":"星期一至六08:00開始販售;星期日無販售，售完為止"},
 {"lng":"120.26","lat":"22.85409","name":"大樹大立藥局","id":"5907150257","tel":"076961663","addr":"高雄市路竹區國昌路51號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.2483","lat":"22.87968","name":"安麗兒藥局東方店","id":"5907160075","tel":"076936029","addr":"高雄市湖內區湖東里東方路90號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"領快篩 時間 一~日 早上9點開始~售完為止"},
+{"lng":"120.2195","lat":"22.90733","name":"保生藥局","id":"5907160093","tel":"076990800","addr":"高雄市湖內區葉厝里保生路340.342號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.1847","lat":"22.90057","name":"得安藥局","id":"5907170035","tel":"076909718","addr":"高雄市茄萣區嘉安里仁愛路三段56巷1-3號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.266985","lat":"22.759747","name":"和德藥局梓官店","id":"5907200038","tel":"076191008","addr":"高雄市梓官區梓和里梓官路233號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.2829","lat":"22.62712","name":"七賢藥局","id":"5907280036","tel":"075330616","addr":"高雄市鹽埕區七賢三路162號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
