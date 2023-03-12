@@ -1753,6 +1753,7 @@ locations = [
 {"lng":"120.6292","lat":"24.24076","name":"保昇藥局","id":"5936100118","tel":"0425662495","addr":"臺中市大雅區月祥路912號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"即日起週一到週日現場販售，售完為止"},
 {"lng":"120.6545","lat":"24.22937","name":"正豐藥局","id":"5936102970","tel":"0425678858","addr":"臺中市大雅區民生路2段4號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"周一至週六上午11點開始販售快篩試劑"},
 {"lng":"120.6537","lat":"24.2247","name":"大雅藥局","id":"5936103048","tel":"0425653456","addr":"臺中市大雅區雅環路2段20號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"120.776719","lat":"24.275953","name":"原隆安藥局","id":"5936120049","tel":"0425722833","addr":"臺中市石岡區萬安里石岡街53號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"周一至周日上午9點販售。若有時間異動，詳情關注FB: 原隆安藥局"},
 {"lng":"120.6389","lat":"24.10483","name":"真安大藥局","id":"5936150332","tel":"0423360401","addr":"臺中市烏日區興祥街3號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.580729","lat":"24.172649","name":"建昌藥局","id":"5936160105","tel":"0426910357","addr":"臺中市大肚區蔗廓里遊園路二段168號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"星期一~星期日早上08:00開始販售實名制快篩"},
 {"lng":"120.545","lat":"24.15309","name":"大佶安藥局","id":"5936160132","tel":"0426992453","addr":"臺中市大肚區頂街里沙田路二段734號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上8:00開始現領快篩，處方藥.保健食品.奶粉都有專業藥師為您服務，諮詢電話:04-26984418"},
