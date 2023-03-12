@@ -542,7 +542,7 @@ locations = [
 {"lng":"120.2611","lat":"23.00076","name":"宜芯健康藥局","id":"5905310568","tel":"062722622","addr":"臺南市永康區大灣路736號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.2467","lat":"23.01241","name":"昂德藥局","id":"5905310657","tel":"063121220","addr":"臺南市永康區復華里復國一路152號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"每月 第2第4個週日 店休"},
 {"lng":"120.2661","lat":"23.00825","name":"晶辰藥局","id":"5905310871","tel":"062733368","addr":"臺南市永康區大灣里民族路396巷1號、3號1樓、398號1樓","business_week":"OOOOOOXOOOOOOXXXXXXXX"},
-{"lng":"120.2422","lat":"23.00531","name":"復華藥師藥局","id":"5905310979","tel":"063123597","addr":"臺南市永康區復興里復華一街131號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.2422","lat":"23.00531","name":"復華藥師藥局","id":"5905310979","tel":"063123597","addr":"臺南市永康區復興里復華一街131號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間:8:30-22:30"},
 {"lng":"120.246378","lat":"23.011554","name":"和德藥局復國店","id":"5905311001","tel":"062038728","addr":"臺南市永康區復國里復國一路339之7號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.2406","lat":"23.04138","name":"樂丞藥局","id":"5905311010","tel":"062433319","addr":"臺南市永康區中正北路60號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.2459","lat":"23.00103","name":"莉志藥局","id":"5905311038","tel":"063123090","addr":"臺南市永康區建國里復國路87巷3號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"除夕開始休至初四開工"},
