@@ -949,6 +949,7 @@ locations = [
 {"lng":"120.2115","lat":"23.03032","name":"樂成藥局","id":"5921060385","tel":"062568576","addr":"臺南市安南區安和路一段159巷83號","business_week":"OOOOOOOOOOOOOXOOOOOOO"},
 {"lng":"120.1722","lat":"23.04956","name":"泰赫中西藥局","id":"5921061604","tel":"062562317","addr":"臺南市安南區安中路4段79號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.1309","lat":"23.06296","name":"新資生藥師藥局","id":"5921061668","tel":"062571153","addr":"臺南市安南區城北路52號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOO","memo":"星期一~星期六早上.快篩販售8點到10點止"},
+{"lng":"120.1686","lat":"22.98883","name":"康活藥局","id":"5921071226","tel":"062936483","addr":"臺南市安平區健康三街186號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"快篩晚上18:00開賣."},
 {"lng":"120.205","lat":"22.98913","name":"羽田藥局","id":"5921080010","tel":"062214066","addr":"臺南市中西區府前路一段214號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一至週六09:00起依序販售實名制快篩，售完為止。周日停止販售。"},
 {"lng":"120.458","lat":"23.48361","name":"普羅藥局","id":"5922010147","tel":"052754836","addr":"嘉義市東區民權路114號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"平日08:00至21:00.週六19:00止.週日休息"},
 {"lng":"120.4553","lat":"23.48162","name":"秉榮藥局","id":"5922010263","tel":"052224320","addr":"嘉義市東區東仁里中山路189號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
