@@ -1424,6 +1424,7 @@ locations = [
 {"lng":"121.7707","lat":"24.68046","name":"倉前藥局","id":"5934021794","tel":"039571336","addr":"宜蘭縣羅東鎮公正里倉前路57號1樓","business_week":"OOOOOOXOOXOOOXXXXXXXX","memo":"快篩販賣週一到週六8:00-12:00，14:30-18:00星期三下午休息"},
 {"lng":"121.7715","lat":"24.67827","name":"大菖藥局","id":"5934022031","tel":"039559898","addr":"宜蘭縣羅東鎮公正路88號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.7635","lat":"24.67976","name":"宏安藥局","id":"5934022059","tel":"039518696","addr":"宜蘭縣羅東鎮賢文里純精路2段225巷10號1樓","business_week":"OOOOOOOOOOOOXXOOOOOXX","memo":"快篩9；00開賣"},
+{"lng":"121.7705","lat":"24.67232","name":"天一藥師藥局","id":"5934022077","tel":"039541160","addr":"宜蘭縣羅東鎮南昌街95號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.7786","lat":"24.67394","name":"羅東啄木鳥藥局","id":"5934022095","tel":"039604670","addr":"宜蘭縣羅東鎮中山路2段303號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"二三五六 藥師執業"},
 {"lng":"121.7633","lat":"24.67703","name":"培英藥局","id":"5934022148","tel":"039558211","addr":"宜蘭縣羅東鎮純精路2段113號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩販售時間:星期一~星期五08:00開始，星期六 09:00開始，星期日休息"},
 {"lng":"121.8496","lat":"24.59608","name":"南陽藥局","id":"5934030015","tel":"039965076","addr":"宜蘭縣蘇澳鎮中山路1段120號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
