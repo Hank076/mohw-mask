@@ -2023,6 +2023,7 @@ locations = [
 {"lng":"120.4103","lat":"23.51833","name":"鈞安藥局","id":"5940040232","tel":"052218622","addr":"嘉義縣民雄鄉山中村187之5號","business_week":"OOOOOXXOOOOOXXOOOOOXX"},
 {"lng":"120.44","lat":"23.52429","name":"大順藥局","id":"5940041622","tel":"052201138","addr":"嘉義縣民雄鄉福樂村埤角139號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.4294","lat":"23.55555","name":"大方藥局","id":"5940041677","tel":"052268560","addr":"嘉義縣民雄鄉中樂村民族路40-2號","business_week":"OOOOOOOOOOOOOXOOOOOXX"},
+{"lng":"120.4277","lat":"23.55599","name":"民雄久久藥局","id":"5940041720","tel":"052263294","addr":"嘉義縣民雄鄉西安村安和路2號之1","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"120.4332","lat":"23.55743","name":"福興瑞安藥局","id":"5940041784","tel":"052265396","addr":"嘉義縣民雄鄉東榮村東榮路10號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日實名制快篩販售時間：上午8點~售完為止"},
 {"lng":"120.4282","lat":"23.55087","name":"民雄丁丁藥局","id":"5940041828","tel":"052260990","addr":"嘉義縣民雄鄉文化路3-7號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一~週日於早上08:00開始販售實名制快篩試劑!丁丁藥局關心您!"},
 {"lng":"120.3966","lat":"23.60433","name":"滋元藥局","id":"5940051100","tel":"052696287","addr":"嘉義縣溪口鄉中正路109之3號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"周一  周六(0800~1930)、周日(0800~1200)"},
