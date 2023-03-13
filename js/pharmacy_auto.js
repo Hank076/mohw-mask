@@ -1302,6 +1302,7 @@ locations = [
 {"lng":"121.4713","lat":"25.08237","name":"天士藥局","id":"5931140229","tel":"0222818227","addr":"新北市蘆洲區中正路36號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.4596","lat":"25.09055","name":"謚安中西藥局","id":"5931140238","tel":"0222836375","addr":"新北市蘆洲區永平街6號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4585","lat":"25.08436","name":"慧安藥局","id":"5931140318","tel":"0228477845","addr":"新北市蘆洲區長安街214號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩依現場公告現場販售"},
+{"lng":"121.4755","lat":"25.09096","name":"上群藥師藥局","id":"5931140372","tel":"0222898275","addr":"新北市蘆洲區民族路287號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩販賣時間1100-1300"},
 {"lng":"121.4739","lat":"25.08104","name":"華興藥師藥局","id":"5931141637","tel":"0222893899","addr":"新北市蘆洲區中山一路184號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"防疫口罩：早上10點直接販售"},
 {"lng":"121.4778","lat":"25.0849","name":"杏昌藥局","id":"5931141904","tel":"0282831985","addr":"新北市蘆洲區民族路86號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.477","lat":"25.08447","name":"隆生藥局","id":"5931141913","tel":"0222814653","addr":"新北市蘆洲區民族路52號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
