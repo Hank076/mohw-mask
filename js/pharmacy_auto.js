@@ -1102,6 +1102,7 @@ locations = [
 {"lng":"121.4833","lat":"24.99555","name":"良安藥局","id":"5931043921","tel":"0222225798","addr":"新北市中和區連城路477巷1號1樓","business_week":"XXXXXXXOOOOOXXOOOOOXX"},
 {"lng":"121.5109","lat":"24.98843","name":"康富力藥局","id":"5931044133","tel":"0229429896","addr":"新北市中和區仁愛街32號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩代售時間：周一至周五9:30、週末14:00"},
 {"lng":"121.5173","lat":"24.99277","name":"康廷安藥局","id":"5931044204","tel":"0286683599","addr":"新北市中和區大勇街16號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.496459","lat":"25.003369","name":"喬登藥局","id":"5931044419","tel":"0222470273","addr":"新北市中和區景平路697號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5109","lat":"24.99733","name":"奕采藥局","id":"5931044624","tel":"0229429770","addr":"新北市中和區宜安路77號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"週一至週六09:00~22:00販售實名制快篩（週日停售）"},
 {"lng":"121.5001","lat":"24.99102","name":"惠民藥局","id":"5931044704","tel":"0222475303","addr":"新北市中和區中興街153號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"121.5242","lat":"24.99482","name":"禾心藥局","id":"5931044820","tel":"0286688922","addr":"新北市中和區秀朗路3段64號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
