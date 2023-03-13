@@ -1844,6 +1844,7 @@ locations = [
 {"lng":"120.4575","lat":"23.7991","name":"瑞大藥局","id":"5939041778","tel":"055873287","addr":"雲林縣西螺鎮平和路77-1號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.388","lat":"23.6739","name":"健康藥局","id":"5939050044","tel":"056622889","addr":"雲林縣土庫鎮順天里中正路11號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"代售口罩時間早上七點三十五分開始，現場排隊，售完為止"},
 {"lng":"120.3901","lat":"23.67548","name":"土庫台丞藥局","id":"5939051185","tel":"056626677","addr":"雲林縣土庫鎮中正路112號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"120.3027","lat":"23.56495","name":"民生藥局","id":"5939060120","tel":"057822476","addr":"雲林縣北港鎮民生路70號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"上午8:30-晚上9:30，週末請先電話洽詢"},
 {"lng":"120.3028","lat":"23.57434","name":"益安大藥局","id":"5939060317","tel":"057730779","addr":"雲林縣北港鎮華勝里公園路18之2號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"篩劑...每天早上8:00開始販售..賣完為止"},
 {"lng":"120.3038","lat":"23.57334","name":"樂芯藥局","id":"5939061789","tel":"057820005","addr":"雲林縣北港鎮文化路166號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.3011","lat":"23.57754","name":"宜康藥局","id":"5939061805","tel":"057820685","addr":"雲林縣北港鎮公園路159號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
