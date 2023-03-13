@@ -1415,6 +1415,7 @@ locations = [
 {"lng":"121.298","lat":"25.044","name":"佑昌藥局","id":"5932077378","tel":"033120760","addr":"桃園市龜山區民生北路一段534號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩發放時間 14:30-21:00"},
 {"lng":"121.3317","lat":"24.9889","name":"穩好保健藥局","id":"5932077403","tel":"033500088","addr":"桃園市龜山區中興路137號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販賣時段：0900"},
 {"lng":"121.339","lat":"24.99539","name":"全球萬壽藥局","id":"5932077556","tel":"033591247","addr":"桃園市龜山區萬壽路2段927號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間:9:00-22:00"},
+{"lng":"121.4024","lat":"25.0169","name":"美康萬壽藥局","id":"5932077645","tel":"0282000001","addr":"桃園市龜山區萬壽路1段325號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.3279","lat":"24.97006","name":"慶昇藥局","id":"5932080035","tel":"033648037","addr":"桃園市八德區桃鶯路一O二號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.3008","lat":"24.96265","name":"厚仁藥局","id":"5932080080","tel":"033611071","addr":"桃園市八德區大義里永福街11號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"販賣時段：13:00"},
 {"lng":"121.306486","lat":"24.963346","name":"日鴻藥局","id":"5932080455","tel":"033763304","addr":"桃園市八德區義勇街175號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"口罩販賣時段：早上9:00 發號碼牌下午4:00~6:00領取"},
