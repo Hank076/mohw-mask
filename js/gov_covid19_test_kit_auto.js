@@ -185,7 +185,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.333015","lat":"22.63022","name":"立佳診所","id":"3507350024","tel":"077710966","addr":"高雄市苓雅區輔仁路149號","business_week":"OOOOOOXOOXOOOXOOOOOOO"},
 {"lng":"120.311436","lat":"22.613467","name":"祥全診所","id":"3507360066","tel":"073340393","addr":"高雄市前鎮區復興三路393號2樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"111／12／31照常看診，112／01／02全天休診"},
 {"lng":"120.311409","lat":"22.613382","name":"南隆小兒科診所","id":"3507360413","tel":"073382967","addr":"高雄市前鎮區復興三路391號","business_week":"OOOOOOOOOOOOOOOOOOOXO","memo":"本院早午晚全日看診，全年無休（除週六晚上及農曆過年外）"},
-{"lng":"120.308751","lat":"22.609642","name":"傳家家庭醫學科診所","id":"3507360628","tel":"073344117","addr":"高雄市前鎮區一德路59號","business_week":"OOXOOOXXXXXXXXXXXXXXX","memo":"2／25看診2／26.2／27.2／28休診"},
+{"lng":"120.308751","lat":"22.609642","name":"傳家家庭醫學科診所","id":"3507360628","tel":"073344117","addr":"高雄市前鎮區一德路59號","business_week":"OOXOOOXXXXXXXXXXXXXXX","memo":"4／1 4／3正常看診"},
 {"lng":"120.358625","lat":"22.584112","name":"孔鳳診所","id":"3507380111","tel":"077910311","addr":"高雄市小港區孔鳳路571號","business_week":"OOOOOOXOOOXOXXOOOXOXX","memo":"4／1號上午看診.下午休診.4／2號全日休診.4／3號全日看診.4／4號全日看診.4／5號全日休診"},
 {"lng":"121.795339","lat":"25.139752","name":"林承興診所","id":"3511010524","tel":"0224697639","addr":"基隆市中正區北寧路319號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"121.765696","lat":"25.143495","name":"合成診所","id":"3511010588","tel":"0224632532","addr":"基隆市中正區祥豐街205號","business_week":"OOOOOOXXXXXXXXOOOOOXX"},
