@@ -827,6 +827,7 @@ locations = [
 {"lng":"120.1902","lat":"22.96689","name":"裕祥藥局","id":"5921020130","tel":"062635796","addr":"臺南市南區明興里金華路1段228號","business_week":"OOOOOOXOOOOOOXOOOOOOO"},
 {"lng":"120.1898","lat":"22.98486","name":"吉祥藥局","id":"5921020149","tel":"062632853","addr":"臺南市南區文南路117號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.18","lat":"22.94471","name":"全民藥局","id":"5921020167","tel":"062625814","addr":"臺南市南區喜東里喜樹路73之18號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"08:00-21:00"},
+{"lng":"120.1897","lat":"22.96557","name":"興泰藥局","id":"5921020210","tel":"062653638","addr":"臺南市南區金華路一段165號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.212254","lat":"22.980223","name":"為仁藥師藥局","id":"5921021708","tel":"062139376","addr":"臺南市南區大同路二段106號","business_week":"OOOOOOOXXXXXOXXXOOOXX"},
 {"lng":"120.1924","lat":"22.9999","name":"雅里藥局","id":"5921030118","tel":"062200881","addr":"臺南市中西區民族路三段285號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售.65歲及6歲以下免費領取:周一至周日 8:30~21:30"},
 {"lng":"120.1776","lat":"23.00011","name":"銘豐藥局","id":"5921030298","tel":"062592517","addr":"臺南市中西區西賢一街45號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"星期一-日09:00-22:00.快篩實名制每日發放"},
