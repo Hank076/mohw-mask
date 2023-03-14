@@ -944,6 +944,7 @@ locations = [
 {"lng":"120.18789","lat":"23.01085","name":"宏吉藥局","id":"5921040392","tel":"062589692","addr":"臺南市北區大港里大興街224號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.1938","lat":"23.0153","name":"嘉洲藥局","id":"5921040436","tel":"062583180","addr":"臺南市北區文元里文賢路240號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"星期一~六8:30~21:30，星期日9:00~21:30。每月第二第四週日不營業。"},
 {"lng":"120.2146","lat":"23.0167","name":"賀康藥局","id":"5921040678","tel":"062819515","addr":"臺南市北區公園路701號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"星期日營業時間:早上9點~下午5點"},
+{"lng":"120.2084","lat":"23.00521","name":"芳鄰藥局","id":"5921041924","tel":"062811101","addr":"臺南市北區公園北路152號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"120.2044","lat":"23.01224","name":"康友藥師藥局","id":"5921041979","tel":"062520666","addr":"臺南市北區和緯路二段243號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.215893","lat":"23.010023","name":"佳一藥局","id":"5921042038","tel":"062511947","addr":"臺南市北區北門路2段519號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.218779","lat":"23.004824","name":"欣平藥局","id":"5921042118","tel":"062354293","addr":"臺南市北區勝利路425號","business_week":"OOOOOOXOOOOOOXOXOOOXX"},
