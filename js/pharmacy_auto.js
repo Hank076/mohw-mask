@@ -1736,6 +1736,7 @@ locations = [
 {"lng":"120.5385","lat":"24.08752","name":"大仁藥局","id":"5937013285","tel":"047282678","addr":"彰化縣彰化市忠孝里辭修路80號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"3月份5.12.19.26休診4.18.晚上休診11.25.下午晚上休診"},
 {"lng":"120.5361","lat":"24.073","name":"彰安藥局","id":"5937013338","tel":"047281095","addr":"彰化縣彰化市彰安里曉陽路235號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩"},
 {"lng":"120.549999","lat":"24.093956","name":"建國春生中西藥局","id":"5937013472","tel":"047225047","addr":"彰化縣彰化市建國北路150號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午2點發放號碼牌 發完即開始依序購買"},
+{"lng":"120.548002","lat":"24.074448","name":"原安大藥局","id":"5937013507","tel":"047272817","addr":"彰化縣彰化市南郭路一段180號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"周一至周日 早上8點-晚上10點營業（實名制9:00-21:00）"},
 {"lng":"120.536595","lat":"24.072829","name":"丁丁藥局彰化店","id":"5937013516","tel":"047236140","addr":"彰化縣彰化市曉陽路219號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"固定周一到周日9點開始發號碼牌販賣防疫口罩"},
 {"lng":"120.542352","lat":"24.085524","name":"康好藥局三民店","id":"5937013543","tel":"047281089","addr":"彰化縣彰化市三民路201號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天中午12點~下午2點販售快篩"},
 {"lng":"120.5658","lat":"24.08861","name":"芳澤藥局","id":"5937013552","tel":"047380381","addr":"彰化縣彰化市中山路三段434號","business_week":"OOOOOXXOOOOOXXOOOOOXX"},
