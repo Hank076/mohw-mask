@@ -2078,7 +2078,7 @@ locations = [
 {"lng":"120.403193","lat":"23.322575","name":"青山藥局","id":"5941110046","tel":"066802740","addr":"臺南市東山區東中里中興路23號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販售時間：星期一~日 9:00~售完"},
 {"lng":"120.4031","lat":"23.32411","name":"杏春堂中西藥局","id":"5941111061","tel":"066802682","addr":"臺南市東山區中興路97號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.353288","lat":"23.230007","name":"竹軒大藥局","id":"5941131161","tel":"066982258","addr":"臺南市六甲區甲南里民生街158號","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"週日一至周日，上午8點開始販售快篩試劑"},
-{"lng":"120.3594","lat":"23.11809","name":"江梁藥師藥局","id":"5941150013","tel":"065761206","addr":"臺南市大內區內江里285-1號","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"1／21-1／25營業時間為08:00-18:00"},
+{"lng":"120.3594","lat":"23.11809","name":"江梁藥師藥局","id":"5941150013","tel":"065761206","addr":"臺南市大內區內江里285-1號","business_week":"OOOOOOOOOOOOOOOOOOOXX"},
 {"lng":"120.3611","lat":"23.1177","name":"三和藥局","id":"5941151056","tel":"065762187","addr":"臺南市大內區內江里270號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.291845","lat":"23.076525","name":"安麗兒藥局新市店","id":"5941201161","tel":"065012699","addr":"臺南市新市區新和里中正路260號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.4623","lat":"23.12381","name":"玉井藥局","id":"5941230016","tel":"065742271","addr":"臺南市玉井區玉田里中華路47號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"星期一-日07:30-售完"},
