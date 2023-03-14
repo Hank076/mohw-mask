@@ -427,6 +427,7 @@ locations = [
 {"lng":"120.6425","lat":"24.17735","name":"西屯青育藥師藥局","id":"5903271004","tel":"0427077898","addr":"臺中市西屯區西屯路二段295-3號1樓","business_week":"XXXXXXXOOOOOOOOOOOOOO"},
 {"lng":"120.618","lat":"24.18603","name":"常春藤藥局","id":"5903271086","tel":"0424619296","addr":"臺中市西屯區福康路80號1樓","business_week":"OOOOOOOOOOOOOOXOOOOOX","memo":"每日販賣防疫家用快篩"},
 {"lng":"120.6547","lat":"24.1644","name":"百吉藥局","id":"5903271139","tel":"0423135698","addr":"臺中市西屯區青海路一段71號1樓","business_week":"OOOOOXOOOOOOXOOOOOOXO","memo":"周六休息"},
+{"lng":"120.6563","lat":"24.16628","name":"重慶美得康藥局","id":"5903271148","tel":"0423111789","addr":"臺中市西屯區重慶路139號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.6652","lat":"24.17026","name":"富康家健保藥局","id":"5903271157","tel":"0423174741","addr":"臺中市西屯區漢成四街8號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.6022","lat":"24.18315","name":"維康中榮藥局","id":"5903271175","tel":"0423593195","addr":"臺中市西屯區東大路一段13號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.6531","lat":"24.16616","name":"何安藥局","id":"5903271193","tel":"0423161110","addr":"臺中市西屯區西屯路二段101號B棟1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
