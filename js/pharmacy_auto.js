@@ -228,6 +228,7 @@ locations = [
 {"lng":"121.561","lat":"24.98889","name":"建興藥局","id":"5901200105","tel":"0229399993","addr":"臺北市文山區木柵路2段81號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期一至星期日早上8時30分現場販售實名制快篩試劑"},
 {"lng":"121.552442","lat":"25.001482","name":"逸仙藥師藥局","id":"5901201540","tel":"0229312597","addr":"臺北市文山區興隆路2段218-1號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"9:00-10:00"},
 {"lng":"121.539844","lat":"24.991001","name":"佳醫景美藥局","id":"5901201871","tel":"0286636659","addr":"臺北市文山區羅斯福路6段290號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.5621","lat":"24.98901","name":"皇興藥師藥局","id":"5901202216","tel":"0229365553","addr":"臺北市文山區木柵路2段121號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"121.5384","lat":"25.00322","name":"康宜庭萬隆藥局","id":"5901202654","tel":"0229348662","addr":"臺北市文山區羅斯福路5段202號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5697","lat":"24.98683","name":"振大藥局","id":"5901202681","tel":"0229393385","addr":"臺北市文山區永安街22巷16號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.5414","lat":"24.99126","name":"欣安景美藥局","id":"5901202841","tel":"0229316008","addr":"臺北市文山區景文街77號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"今日快篩劑PM:14:00販賣售完為止"},
