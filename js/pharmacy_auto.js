@@ -141,6 +141,7 @@ locations = [
 {"lng":"121.521553","lat":"25.095622","name":"佳赫藥局","id":"5901150244","tel":"0228367202","addr":"臺北市士林區文昌路62號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩早上8:30開始販售"},
 {"lng":"121.5236","lat":"25.09549","name":"博惠藥局","id":"5901150397","tel":"0228320379","addr":"臺北市士林區華榮街16號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"實名制快篩 ，週一至週日"},
 {"lng":"121.5101","lat":"25.08251","name":"太安藥局","id":"5901150468","tel":"0228111468","addr":"臺北市士林區延平北路5段157號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.5302","lat":"25.11219","name":"田倉藥局","id":"5901150548","tel":"0288662188","addr":"臺北市士林區士東路122號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日營業時間即販售，直到售完為止."},
 {"lng":"121.5267","lat":"25.11168","name":"日康藥局","id":"5901150575","tel":"0228358558","addr":"臺北市士林區士東路12號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"121.5469","lat":"25.13797","name":"陽明藥局","id":"5901150815","tel":"0228612863","addr":"臺北市士林區菁山路10號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上9點30到12點健保卡排隊.（作業時間2小時）下午1點到晚上9點領回口罩及健保卡"},
 {"lng":"121.522772","lat":"25.084438","name":"和樹藥局","id":"5901152659","tel":"0228821188","addr":"臺北市士林區後港街45巷1號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週日公休，周一早上9:30"},
