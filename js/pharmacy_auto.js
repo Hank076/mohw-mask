@@ -1564,6 +1564,7 @@ locations = [
 {"lng":"121.769504","lat":"24.678794","name":"康民藥局","id":"5934021490","tel":"039576036","addr":"宜蘭縣羅東鎮公正路148號","business_week":"OOOOOOOOOOOOOXOOOOOXX"},
 {"lng":"121.7654","lat":"24.67989","name":"慈濟大藥局","id":"5934021552","tel":"039551803","addr":"宜蘭縣羅東鎮公正路274之1號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"121.7652","lat":"24.68876","name":"上華藥局","id":"5934021632","tel":"039557655","addr":"宜蘭縣羅東鎮復興路2段159號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"121.7707","lat":"24.68046","name":"倉前藥局","id":"5934021794","tel":"039571336","addr":"宜蘭縣羅東鎮公正里倉前路57號1樓","business_week":"OOOOOOXOOXOOOXXXXXXXX","memo":"快篩販賣週一到週六8:00-12:00，14:30-18:00星期三下午休息"},
 {"lng":"121.7715","lat":"24.67827","name":"大菖藥局","id":"5934022031","tel":"039559898","addr":"宜蘭縣羅東鎮公正路88號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.7635","lat":"24.67976","name":"宏安藥局","id":"5934022059","tel":"039518696","addr":"宜蘭縣羅東鎮賢文里純精路2段225巷10號1樓","business_week":"OOOOOOOOOOOOXXOOOOOXX","memo":"快篩9；00開賣"},
 {"lng":"121.7705","lat":"24.67232","name":"天一藥師藥局","id":"5934022077","tel":"039541160","addr":"宜蘭縣羅東鎮南昌街95號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
