@@ -58,6 +58,7 @@ locations = [
 {"lng":"121.5382","lat":"25.03481","name":"康乃馨藥局","id":"5901023831","tel":"0223257097","addr":"臺北市大安區建國南路1段327號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"週一至週五09:00-21:00，週六09:00-18:00；快篩代售、現場排隊"},
 {"lng":"121.540647","lat":"25.028661","name":"杏一瑞安藥局","id":"5901024098","tel":"0227096710","addr":"臺北市大安區瑞安街208巷11弄1號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.552568","lat":"25.030627","name":"博大藥局","id":"5901024347","tel":"0227027858","addr":"臺北市大安區安和路2段65號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"若有配給．下午兩點開始販售。"},
+{"lng":"121.5444","lat":"25.04357","name":"忠孝康承健保藥局","id":"5901024472","tel":"0287733378","addr":"臺北市大安區復興南路1段107巷4號","business_week":"XOOOOOOXOOOOOOXOOOOOO","memo":"周一公休"},
 {"lng":"121.5345","lat":"25.03401","name":"微笑藥師藥局","id":"5901024481","tel":"0227009655","addr":"臺北市大安區信義路3段31巷4號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5574","lat":"25.03618","name":"明星大藥局","id":"5901024490","tel":"0227023747","addr":"臺北市大安區光復南路430之1號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5541","lat":"25.03654","name":"國泰維康藥局","id":"5901024525","tel":"0227542185","addr":"臺北市大安區仁愛路4段266巷15弄20號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
