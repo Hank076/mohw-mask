@@ -1335,6 +1335,7 @@ locations = [
 {"lng":"121.2974","lat":"25.01048","name":"維格藥局","id":"5932011147","tel":"033016639","addr":"桃園市桃園區大興西路二段129號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"營業時間:8:30-12:00、14:00-22:00"},
 {"lng":"121.3133","lat":"25.01579","name":"大興藥局","id":"5932011316","tel":"033266868","addr":"桃園市桃園區大德一街96號","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"口罩販賣時段：AM:09:00"},
 {"lng":"121.2939","lat":"24.99093","name":"家福聯合藥局","id":"5932011370","tel":"032289492","addr":"桃園市桃園區中山路623號","business_week":"OOOOOOXOOOOOOOOOOOOOX","memo":"0503人數已滿，1點發快篩"},
+{"lng":"121.3032","lat":"25.00685","name":"文安藥局","id":"5932011503","tel":"033558999","addr":"桃園市桃園區中正路699號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩領取時間:週一至週日每日早上07:10~21:00售完為止"},
 {"lng":"121.2986","lat":"25.00181","name":"永祥大藥局","id":"5932011870","tel":"033337161","addr":"桃園市桃園區永安路528號","business_week":"OOOOOOXOOXOOOXOOXOXOX"},
 {"lng":"121.2975","lat":"25.01898","name":"聖昌藥師藥局","id":"5932012402","tel":"033266654","addr":"桃園市桃園區莊敬里中正路1238號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.3104","lat":"24.99586","name":"美德藥師藥局","id":"5932012671","tel":"033354160","addr":"桃園市桃園區中正路230號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩販售時間下午01:00開始"},
