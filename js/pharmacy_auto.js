@@ -743,6 +743,7 @@ locations = [
 {"lng":"120.3154","lat":"22.66606","name":"未來照護藥局","id":"5907320651","tel":"073105356","addr":"高雄市三民區鼎瑞街108號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.339811","lat":"22.640824","name":"鄰好藥師藥局","id":"5907320697","tel":"073909589","addr":"高雄市三民區褒揚街287號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩，防疫用品販售中，各大醫院處方箋免費領藥"},
 {"lng":"120.2867","lat":"22.63955","name":"忠仁藥局","id":"5907320740","tel":"073125305","addr":"高雄市三民區中都街35號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"120.3194","lat":"22.6622","name":"力生藥局","id":"5907320811","tel":"073105231","addr":"高雄市三民區鼎中路168號1樓","business_week":"OOOOOXXOOOOOOOOOOOOOO","memo":"營業日星期一~星期五11點起、星期六~星期日晚上6點 開始販賣（實名制快篩）.售完為止"},
 {"lng":"120.325","lat":"22.6447","name":"仕康健保藥妝藥局","id":"5907320848","tel":"073845050","addr":"高雄市三民區建興路222號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午3點販售，現場排隊"},
 {"lng":"120.341323","lat":"22.64008","name":"陽明上鼎藥師健保藥局","id":"5907320857","tel":"073962358","addr":"高雄市三民區陽明路101號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"藥局販售口罩時間，14:45發放號碼牌.15:00過卡(售完為止)"},
 {"lng":"120.2931","lat":"22.63585","name":"耀美麗藥局","id":"5907320875","tel":"072153885","addr":"高雄市三民區中華三路283號","business_week":"OOOOOOOXXXXXXXXXXXXXX","memo":"中午12:00販售現場排隊（仕康健保藥局）"},
