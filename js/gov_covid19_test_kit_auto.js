@@ -448,7 +448,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.245499","lat":"24.946721","name":"馨心親子耳鼻喉科診所","id":"3532027716","tel":"034655665","addr":"桃園市中壢區中山東路二段536號1樓","business_week":"OOOOOOOOOOOOXXOOOOOXX","memo":"營業時間：上午0800-1200，下午1430-1800，晚上1830-2130"},
 {"lng":"121.288431","lat":"24.879822","name":"誠德耳鼻喉科診所","id":"3532031863","tel":"033883132","addr":"桃園市大溪區康莊路192號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.288064","lat":"24.88211","name":"大桃園耳鼻喉科診所","id":"3532031943","tel":"033870976","addr":"桃園市大溪區康莊路100號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
-{"lng":"121.290976","lat":"25.049022","name":"佳音小兒科診所","id":"3532051767","tel":"033127553","addr":"桃園市蘆竹區中正路359號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"121.290976","lat":"25.049022","name":"佳音小兒科診所","id":"3532051767","tel":"033127553","addr":"桃園市蘆竹區中正路359號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"4月1，3，4，5日早上下午晚上都有開診"},
 {"lng":"121.292766","lat":"25.046607","name":"陳俊仁親子診所","id":"3532052568","tel":"033215866","addr":"桃園市蘆竹區中正路128號","business_week":"OOOOOOXXOOOOOXOOOOOXX","memo":"112／01／02 上午看診"},
 {"lng":"121.198155","lat":"25.064167","name":"懷德耳鼻喉科診所","id":"3532060604","tel":"033868878","addr":"桃園市大園區中正東路19-1號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.336781","lat":"24.994712","name":"遠東耳鼻喉科診所","id":"3532070548","tel":"033502720","addr":"桃園市龜山區萬壽路2段997號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"下午、晚上門診時間: 4:30~9:00"},
