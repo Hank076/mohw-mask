@@ -509,6 +509,7 @@ locations = [
 {"lng":"120.6853","lat":"24.17329","name":"長幼藥局","id":"5903290750","tel":"0422426767","addr":"臺中市北屯區崇德路二路二段157號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"採現場排隊無號碼牌，快篩地圖與庫存餘量會有誤差，敬請見諒"},
 {"lng":"120.6803","lat":"24.17105","name":"英全藥局","id":"5903290803","tel":"0422345179","addr":"臺中市北屯區北平路三段34號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間早上8點到晚上23點"},
 {"lng":"120.6708","lat":"24.17885","name":"齊方藥局","id":"5903290830","tel":"0422912192","addr":"臺中市北屯區四平路39號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩全天供應，自費唾液快篩到貨"},
+{"lng":"120.6959","lat":"24.18312","name":"新盛藥局","id":"5903290849","tel":"0422467779","addr":"臺中市北屯區松竹路二段157號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"下午2:30至8:30賣快篩試劑週一至週六"},
 {"lng":"120.7195","lat":"24.17982","name":"軍功啄木鳥藥局","id":"5903290867","tel":"0422390160","addr":"臺中市北屯區軍功路二段175號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩每日9點至售完為止"},
 {"lng":"120.7193","lat":"24.17513","name":"北屯軍功藥局","id":"5903290876","tel":"0424375111","addr":"臺中市北屯區軍功路一段752號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.6618","lat":"24.19589","name":"豐禾藥局","id":"5903290894","tel":"0424260588","addr":"臺中市北屯區同榮路163號","business_week":"XXXXXXXOOOOOOXOOOOOOX","memo":"快篩試劑於每日下午1點販售，星期日停售"},
