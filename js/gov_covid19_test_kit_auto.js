@@ -667,7 +667,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.151565","lat":"22.75643","name":"育生小兒科診所","id":"3546010354","tel":"089345304","addr":"臺東縣臺東市中山路244號","business_week":"OOOOOXXOOOOOXXOOOOOXX"},
 {"lng":"121.152259","lat":"22.756539","name":"李文正內科診所","id":"3546010407","tel":"089323920","addr":"臺東縣臺東市中正路295號","business_week":"OOOOOOXOOOXOXXOOOOOXX"},
 {"lng":"121.152428","lat":"22.751783","name":"賴鵬雲診所","id":"3546010443","tel":"089310070","addr":"臺東縣臺東市正氣路153號","business_week":"OOOOOOXOOOOOXXXXXXXXX"},
-{"lng":"121.152801","lat":"22.754093","name":"尤憲明內科小兒科診所","id":"3546012072","tel":"089323306","addr":"臺東縣臺東市中華路一段396號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
+{"lng":"121.152801","lat":"22.754093","name":"尤憲明內科小兒科診所","id":"3546012072","tel":"089323306","addr":"臺東縣臺東市中華路一段396號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"下午4:00連續看診到晚上8:00"},
 {"lng":"121.152064","lat":"22.7556","name":"小太陽小兒科診所","id":"3546012376","tel":"089349106","addr":"臺東縣臺東市光明路124號","business_week":"OOOOOXOOOXOXXOOOOOXXO"},
 {"lng":"121.151889","lat":"22.756388","name":"王崑伊小兒科診所","id":"3546012385","tel":"089356688","addr":"臺東縣臺東市中山路261號","business_week":"OOOOOXXOOOOOXXXXXXXXX"},
 {"lng":"121.38002","lat":"23.100953","name":"曾建元診所","id":"3546021231","tel":"089851002","addr":"臺東縣成功鎮中華路112號","business_week":"OOOOOOXOOOOOXXXXXXXXX","memo":"112／2／25-112／2／28休診"},
