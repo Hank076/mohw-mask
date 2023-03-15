@@ -2060,6 +2060,7 @@ locations = [
 {"lng":"120.2951","lat":"22.96743","name":"德昌藥師藥局","id":"5941281488","tel":"063303533","addr":"臺南市歸仁區中山路一段516、518號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"14:30~售完"},
 {"lng":"120.3269","lat":"22.96017","name":"安麗兒藥局關廟店","id":"5941291180","tel":"065951952","addr":"臺南市關廟區中山路2段50號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑早上9點.營業時間08:00AM-21:00PM"},
 {"lng":"120.326623","lat":"22.96169","name":"明義藥師藥局","id":"5941291215","tel":"065959290","addr":"臺南市關廟區山西里武聖路26號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOO","memo":"~上午8時起~於藥師服務時代發免費及實名制快篩試劑!"},
+{"lng":"120.246188","lat":"23.008319","name":"一航藥局","id":"5941310206","tel":"063115595","addr":"臺南市永康區復國一路233號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"09:00開始販售快篩 售完為止"},
 {"lng":"120.2302","lat":"23.01319","name":"都都藥局","id":"5941310715","tel":"062037887","addr":"臺南市永康區中山南路128號","business_week":"OOOOOOOOOOOOXXOOOOOXX"},
 {"lng":"120.247205","lat":"23.014913","name":"仙輝藥局","id":"5941312504","tel":"062030188","addr":"臺南市永康區復華七街92號1樓","business_week":"OOOOOXOOOOOOXOOOOOOXO"},
 {"lng":"120.222183","lat":"23.020181","name":"維康藥局奇美店","id":"5941312540","tel":"062814441","addr":"臺南市永康區正新街65號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"實名制快篩販賣時間:週一至週五08:00-17:00 （售完為止） ／ 12:00-13:30休息，週六09:00-12:00，週日不販售。"},
