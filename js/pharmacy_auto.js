@@ -1879,6 +1879,7 @@ locations = [
 {"lng":"120.5463","lat":"24.04459","name":"祥安藥局","id":"5937131171","tel":"047863460","addr":"彰化縣花壇鄉彰員路3段89號","business_week":"OOOOOOXOOOOOXXXXXXXXX"},
 {"lng":"120.5225","lat":"24.03964","name":"春生藥局花壇店","id":"5937131233","tel":"047867715","addr":"彰化縣花壇鄉花壇村中正路57-1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"周一至周日10:30開始販賣"},
 {"lng":"120.5449","lat":"24.02718","name":"大福藥局","id":"5937131260","tel":"047880073","addr":"彰化縣花壇鄉長沙村中正路91號1樓","business_week":"OOOOOOXOOOOOOXOOOOXXX","memo":"周一至周五早上8:30開始販賣快篩，售完為止。周六10:30開始販賣快篩。周日皆公休。"},
+{"lng":"120.6285","lat":"24.01306","name":"新得大藥局","id":"5937140045","tel":"0492521753","addr":"彰化縣芬園鄉社口村彰南路四段74號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.6305","lat":"24.01382","name":"啟安大藥局","id":"5937141104","tel":"0492522858","addr":"彰化縣芬園鄉芬草路2段230號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"上午8點30分販賣實名制快篩"},
 {"lng":"120.62904","lat":"24.015162","name":"強生藥局","id":"5937141159","tel":"0492521857","addr":"彰化縣芬園鄉社口村光復路20號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"08:00~12:00販售快篩。周日公休"},
 {"lng":"120.5633","lat":"23.98916","name":"大欣藥局","id":"5937150032","tel":"048524803","addr":"彰化縣大村鄉村上村中正西路19號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"防疫家用快篩試劑販賣時間於臉書公告!"},
