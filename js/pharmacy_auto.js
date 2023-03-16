@@ -2101,6 +2101,7 @@ locations = [
 {"lng":"120.4962","lat":"22.66862","name":"新東海藥局","id":"5943010272","tel":"087224861","addr":"屏東縣屏東市長春里民生路116號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"備有充足的政府快篩"},
 {"lng":"120.4857","lat":"22.68355","name":"億泰藥局","id":"5943010432","tel":"087324005","addr":"屏東縣屏東市勝利里自由路582號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩每日9:00販售"},
 {"lng":"120.4765","lat":"22.65697","name":"信成藥局","id":"5943010478","tel":"087538647","addr":"屏東縣屏東市大武路95號","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"星期一~六09:00~21:00，星期日10:00-20:00為販賣快篩試劑時間，售完為止"},
+{"lng":"120.510323","lat":"22.700845","name":"弘盛藥局","id":"5943010683","tel":"087367470","addr":"屏東縣屏東市海豐街29-1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業日9:00am~9:00pm，  為販賣口罩時間，售完為止"},
 {"lng":"120.4762","lat":"22.67148","name":"一生藥局","id":"5943010763","tel":"087665353","addr":"屏東縣屏東市民族路492號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"快篩實名制販售時間（星期一至星期五早上九點）"},
 {"lng":"120.4944","lat":"22.68516","name":"昱昇藥師藥局","id":"5943011135","tel":"087377471","addr":"屏東縣屏東市北勢里中正路373-1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑早上8:00開始販售，售完為止"},
 {"lng":"120.493","lat":"22.68328","name":"寶慷藥局","id":"5943012427","tel":"087350558","addr":"屏東縣屏東市中正路三九八號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"平日營業時間8:00-22:30.假日營業時間9:00-21:00"},
