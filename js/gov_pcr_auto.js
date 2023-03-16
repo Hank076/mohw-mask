@@ -197,7 +197,7 @@ gov_pcr_locations = [
 {"lng":"121.521184","lat":"23.601957","name":"衛生福利部花蓮醫院豐濱原住民分院","id":"0145080011","tel":"038791385","addr":"花蓮縣豐濱鄉光豐路41號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"*本院口罩每天販售，時間自上午8點至晚上9點  *本院週一至週五上下午皆有門診，星期六隔週提供門診，及24小時急診。"},
 {"lng":"121.6074","lat":"24.024429","name":"國軍花蓮總醫院附設民眾診療服務處","id":"0545040515","tel":"038263151","addr":"花蓮縣新城鄉嘉里路163號","business_week":"OOOOOOXOOOOOXXOOOOXXX","memo":"本院提供急診24小時醫療服務。"},
 {"lng":"121.626753","lat":"23.988335","name":"臺灣基督教門諾會醫療財團法人門諾醫院","id":"1145010038","tel":"038241234","addr":"花蓮縣花蓮市民權路44號","business_week":"OOOOOOXOOOOOXXOXOXXXX","memo":"本院提供急診24小時服務"},
-{"lng":"121.312031","lat":"23.339213","name":"臺北榮民總醫院玉里分院","id":"0645030011","tel":"038883141","addr":"花蓮縣玉里鎮新興街91號","business_week":"OOOOOXXOOOOOOXOOOOOXX"},
+{"lng":"121.312031","lat":"23.339213","name":"臺北榮民總醫院玉里分院","id":"0645030011","tel":"038883141","addr":"花蓮縣玉里鎮新興街91號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.611421","lat":"23.979207","name":"衛生福利部花蓮醫院","id":"0145010019","tel":"038358141","addr":"花蓮縣花蓮市中正路600號","business_week":"OOOOOOOOOOOOOOXXXXXXX","memo":"急診24小時全年無休。"},
 {"lng":"121.3185952","lat":"23.33492847","name":"佛教慈濟醫療財團法人玉里慈濟醫院","id":"1145030012","tel":"038882718","addr":"花蓮縣玉里鎮民權街1-1號","business_week":"OOOOOOOOOOOOXOOOXOOXX","memo":"急診全年無休"},
 {"lng":"121.377829","lat":"23.099296","name":"衛生福利部臺東醫院成功分院","id":"0146020537","tel":"089854748","addr":"臺東縣成功鎮中山東路32號","business_week":"OOOOOOXOOOOOOXXXXXXXX","memo":"提供24小時急診服務"},
