@@ -1929,6 +1929,7 @@ locations = [
 {"lng":"120.5988","lat":"23.96424","name":"東山永安藥局","id":"5937051963","tel":"048311471","addr":"彰化縣員林市南東里山腳路4段31號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑販賣，上午8點30分開賣."},
 {"lng":"120.5646","lat":"23.96301","name":"康美藥局","id":"5937051981","tel":"048395172","addr":"彰化縣員林市南平里南平街26號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.5719","lat":"23.95464","name":"華衛藥局","id":"5937052059","tel":"048397503","addr":"彰化縣員林市惠來里南昌路96號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.5731","lat":"23.95849","name":"家展藥局","id":"5937052120","tel":"048367768","addr":"彰化縣員林市三民街35-1號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.567768","lat":"23.962539","name":"新義藥局","id":"5937052246","tel":"048396788","addr":"彰化縣員林市南平里新義街288號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天早上9點開始販賣及領取政府快篩"},
 {"lng":"120.5713","lat":"23.96388","name":"淑德藥局","id":"5937052255","tel":"048359155","addr":"彰化縣員林市仁美里中山路2段110、112號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.5707","lat":"23.96247","name":"丁丁藥局員林店","id":"5937052282","tel":"048373508","addr":"彰化縣員林市中山路二段89號","business_week":"OOOOOOXOOXOOOXXOXXOXX","memo":"*星期一-日每日上午9點開始.售完為止。(全年無休)"},
