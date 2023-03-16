@@ -1,4 +1,5 @@
 locations = [
+{"lng":"121.548","lat":"24.87197","name":"新北市烏來區衛生所","id":"2331290014","tel":"0226617200","addr":"新北市烏來區新烏路5段109號","business_week":"OOOOOXXOOOOOXXXXXXXXX"},
 {"lng":"121.1393","lat":"24.71756","name":"新竹縣橫山鄉衛生所","id":"2333070010","tel":"035932004","addr":"新竹縣橫山鄉大肚村3鄰新興街141巷10號","business_week":"OOOOOXXOOOOOXXXXXXXXX"},
 {"lng":"120.9566","lat":"24.65284","name":"苗栗縣三灣鄉衛生所","id":"2335160017","tel":"037831140","addr":"苗栗縣三灣鄉三灣村親民路17號","business_week":"XOOXOXXXXXXXXXXXXXXXX","memo":"快篩試劑販售時間：星期一至星期五08：30~15：30；星期六日及國定假日無販售"},
 {"lng":"120.85472","lat":"23.696529","name":"南投縣信義鄉衛生所","id":"2338120015","tel":"0492791148","addr":"南投縣信義鄉明德村玉山路45號","business_week":"OOOOOXOOOOOOXOOOOOXOO","memo":"快篩試劑販售時間星期一至星期五上午09：00-11：00，現場排隊發售，國定假日不販賣。增加販售點請至本所網站參閱。"},
@@ -54,6 +55,7 @@ locations = [
 {"lng":"121.529","lat":"25.03225","name":"麗樺藥師藥局","id":"5901023304","tel":"0223952628","addr":"臺北市大安區麗水街3號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5519","lat":"25.03433","name":"安和藥局","id":"5901023313","tel":"0227092349","addr":"臺北市大安區安和路1段102巷3號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"平日下午三點開始販賣賣完 78份結束"},
 {"lng":"121.5458","lat":"25.04349","name":"弘昇藥局","id":"5901023386","tel":"0227110061","addr":"臺北市大安區復興南路1段107巷32號","business_week":"OOOOOOXOOOOOOOOOOOOOO","memo":"上午11點以後至晚上10點30分"},
+{"lng":"121.553058","lat":"25.038204","name":"長虹藥局","id":"5901023411","tel":"0227210232","addr":"臺北市大安區忠孝東路4段216巷 63號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"週一~週五10:00-22:00 週六週日10:30-19:30 販售實名制快篩"},
 {"lng":"121.5464","lat":"25.04303","name":"新富川藥局","id":"5901023680","tel":"0227114758","addr":"臺北市大安區大安路1段51巷4號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"無提供急診服務"},
 {"lng":"121.5382","lat":"25.03481","name":"康乃馨藥局","id":"5901023831","tel":"0223257097","addr":"臺北市大安區建國南路1段327號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"週一至週五09:00-21:00，週六09:00-18:00；快篩代售、現場排隊"},
 {"lng":"121.540647","lat":"25.028661","name":"杏一瑞安藥局","id":"5901024098","tel":"0227096710","addr":"臺北市大安區瑞安街208巷11弄1號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
