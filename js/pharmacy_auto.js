@@ -839,6 +839,7 @@ locations = [
 {"lng":"120.9625","lat":"24.79493","name":"仁美藥局","id":"5912012120","tel":"035625398","addr":"新竹市東區振興里振興路52號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.9724","lat":"24.77008","name":"康博中西藥局","id":"5912012139","tel":"035191010","addr":"新竹市東區明湖里明湖路四四六之四號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩販售時間:星期一~ 五:上午8:40，星期六:上午9:00，星期日:上午9:00"},
 {"lng":"121.0238","lat":"24.77687","name":"康田大藥局","id":"5912012353","tel":"035638217","addr":"新竹市東區金山街102號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週一-六 AM10點販售快篩 週日休息沒賣"},
+{"lng":"121.0223","lat":"24.78144","name":"安安大藥局","id":"5912012433","tel":"035772655","addr":"新竹市東區金山里光復路一段163巷2號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.9929","lat":"24.80172","name":"三立藥局","id":"5912012531","tel":"035740112","addr":"新竹市東區新源街100號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩販售時間:W1~W6 早上7:30起至售完為止，週日:公休。"},
 {"lng":"121.016004","lat":"24.78414","name":"國豐大藥局","id":"5912012666","tel":"035779960","addr":"新竹市東區光復路一段362-18號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩W1-W5 12:00 開始 W6 8:30 開始"},
 {"lng":"120.966855","lat":"24.773715","name":"婷婷藥局","id":"5912012737","tel":"035290999","addr":"新竹市東區明湖路965號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"5／31早上8點10分開賣"},
