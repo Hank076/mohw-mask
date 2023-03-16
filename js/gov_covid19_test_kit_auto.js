@@ -584,7 +584,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.164703","lat":"23.217893","name":"美地診所","id":"3541181170","tel":"067946127","addr":"臺南市將軍區苓仔寮里苓保81號","business_week":"OOOOOOXOXOXOXXOXOXOXX"},
 {"lng":"120.124859","lat":"23.267258","name":"大立診所","id":"3541190035","tel":"067860090","addr":"臺南市北門區北門里72號","business_week":"OOOOOOXOOOOOXXXXXXXXX"},
 {"lng":"120.263112","lat":"22.991444","name":"三華診所","id":"3541270314","tel":"062731826","addr":"臺南市仁德區太子路142號","business_week":"OOOOOOXOOOOOXXXXXXXXX"},
-{"lng":"120.25251","lat":"22.969185","name":"趙俊凱耳鼻喉科診所","id":"3541270501","tel":"062491886","addr":"臺南市仁德區中正路二段1092號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
+{"lng":"120.25251","lat":"22.969185","name":"趙俊凱耳鼻喉科診所","id":"3541270501","tel":"062491886","addr":"臺南市仁德區中正路二段1092號","business_week":"OOOOOOXOOXOOOXOOOOOXX"},
 {"lng":"120.233726","lat":"23.008213","name":"林獻諒小兒科診所","id":"3541310813","tel":"063134761","addr":"臺南市永康區中華路347號","business_week":"OOOOOOXOOOOOOXOOOOXXX"},
 {"lng":"120.260998","lat":"23.025331","name":"德安小兒科診所","id":"3541312559","tel":"062032000","addr":"臺南市永康區永大路二段1538號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.255268","lat":"22.999642","name":"阮嵩翔耳鼻喉科診所","id":"3541312871","tel":"062728333","addr":"臺南市永康區大灣路930號","business_week":"OOOOOOXOOXOOOXOOOOOXX"},
