@@ -576,7 +576,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.313036","lat":"23.310735","name":"謝兆唐診所","id":"3541010809","tel":"066377070","addr":"臺南市新營區民治路60-2號","business_week":"OOOOOOXOOXOOXXOOXOOXX","memo":"國定價日只早上看診"},
 {"lng":"120.254042","lat":"23.181774","name":"陳信宏小兒科診所","id":"3541041493","tel":"065719889","addr":"臺南市麻豆區民生路36-8號","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"112年4／5診所全天休診"},
 {"lng":"120.178078","lat":"23.162785","name":"劉亞伯耳鼻喉科診所","id":"3541051668","tel":"067236765","addr":"臺南市佳里區延平路353號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
-{"lng":"120.310061","lat":"23.036697","name":"徐小兒科診所","id":"3541061691","tel":"065901995","addr":"臺南市新化區中山路193號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"2／27全天看診，2／28看半天"},
+{"lng":"120.310061","lat":"23.036697","name":"徐小兒科診所","id":"3541061691","tel":"065901995","addr":"臺南市新化區中山路193號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"120.298002","lat":"23.129878","name":"聯和耳鼻喉科診所","id":"3541071295","tel":"065851696","addr":"臺南市善化區大成路312之1號","business_week":"OOOOOOOOOOOOOOOOOOOXX"},
 {"lng":"120.313373","lat":"23.278623","name":"蔡瑞頒診所","id":"3541090101","tel":"066224466","addr":"臺南市柳營區光福里成功街210號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"早上7:30-11:20下午16:00-19:50／請先來電06-6224466洽詢／休診前10分鐘停止掛號／假日下午休診"},
 {"lng":"120.351375","lat":"23.231106","name":"民生診所","id":"3541130084","tel":"066986015","addr":"臺南市六甲區六甲里中正路531號","business_week":"OOXOOOXOOXOOXOOOXOOXO"},
