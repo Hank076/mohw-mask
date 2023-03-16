@@ -1719,6 +1719,7 @@ locations = [
 {"lng":"120.543705","lat":"23.952731","name":"永康藥局","id":"5937171166","tel":"048280957","addr":"彰化縣埔心鄉東門村員鹿路2段329號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.5463","lat":"23.92206","name":"金和堂藥局","id":"5937181251","tel":"048221759","addr":"彰化縣永靖鄉永靖街102號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"120.5477","lat":"23.92182","name":"永茗藥局","id":"5937181260","tel":"048242721","addr":"彰化縣永靖鄉永東村東門路198號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"每日代售時間早上8:00-19:00，星期日公休"},
+{"lng":"120.547","lat":"23.92421","name":"佳恩藥局","id":"5937181279","tel":"048235753","addr":"彰化縣永靖鄉永西村瑚璉路302號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.5895","lat":"23.89967","name":"張藥局","id":"5937190107","tel":"048734660","addr":"彰化縣社頭鄉社頭村清水岩路367號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"周一至周六營業時間早上8:00-晚上9:00，周日公休"},
 {"lng":"120.587129","lat":"23.900046","name":"順天藥局二店","id":"5937191131","tel":"048726901","addr":"彰化縣社頭鄉員集路2段297 號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.5924","lat":"23.89976","name":"藥典大藥局","id":"5937191195","tel":"048732497","addr":"彰化縣社頭鄉清水岩路239號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"營業時間:早上8點至晚上9:30（週日公休）"},
