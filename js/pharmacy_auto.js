@@ -1289,6 +1289,7 @@ locations = [
 {"lng":"121.4343","lat":"25.08881","name":"百成中西藥師藥局","id":"5931151473","tel":"0222915531","addr":"新北市五股區五福里五福路20號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.433891","lat":"25.074107","name":"水碓藥局","id":"5931151697","tel":"0282926691","addr":"新北市五股區自強路34號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"","lat":"","name":"五股藥局","id":"5931151713","tel":"0222951150","addr":"新北市五股區成泰路1段235之2號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.4264","lat":"25.046","name":"健康藥師藥局","id":"5931160132","tel":"0222972121","addr":"新北市泰山區明志路2段323號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"周日公休"},
 {"lng":"121.425645","lat":"25.045158","name":"善耕藥局","id":"5931161282","tel":"0229086656","addr":"新北市泰山區明志路2段362號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4331","lat":"25.05534","name":"苗園健保特約藥局","id":"5931161513","tel":"0222970736","addr":"新北市泰山區仁愛路92號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.4304","lat":"25.03971","name":"立赫輔大藥局","id":"5931161577","tel":"0229060306","addr":"新北市泰山區貴子路65號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"營業時間：週一~週五，9:00-19:30，週六9:00-13:00"},
