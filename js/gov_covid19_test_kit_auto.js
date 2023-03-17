@@ -156,7 +156,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"120.699121","lat":"24.069355","name":"陳炎山家庭醫學科診所","id":"3503180053","tel":"0423391100","addr":"臺中市霧峰區中正路1110號","business_week":"OOXOOOXOOOOOXXOOOOOXX","memo":"112.1／1 休診112.1.2 上午看診 112.12／31休診"},
 {"lng":"120.694164","lat":"24.149657","name":"華幼診所","id":"3503230110","tel":"0423600099","addr":"臺中市東區進化路211號","business_week":"OXOOOOOOXOOOOXOXOOOOO"},
 {"lng":"120.6661832","lat":"24.1686604","name":"家昌耳鼻喉科診所","id":"3503260163","tel":"0422993888","addr":"臺中市北區陜西路62號1樓","business_week":"OOOOOXOOOOOOXOOOOOOXO"},
-{"lng":"120.683998","lat":"24.166855","name":"展弘耳鼻喉科診所","id":"3503260592","tel":"0422307388","addr":"臺中市北區漢口路四段322號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"2月25，27，28日全日有看診"},
+{"lng":"120.683998","lat":"24.166855","name":"展弘耳鼻喉科診所","id":"3503260592","tel":"0422307388","addr":"臺中市北區漢口路四段322號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"4月1日早、午有看診，晚上休診。  4月3、4、5日全日有看診"},
 {"lng":"120.652552","lat":"24.160274","name":"陳亮宇耳鼻喉科診所","id":"3503271773","tel":"0423203888","addr":"臺中市西屯區大墩路995號","business_week":"OOOOOXOOOOOOXOOOOOOXO"},
 {"lng":"120.639219","lat":"24.183395","name":"蘇家龍診所","id":"3503272234","tel":"0427085151","addr":"臺中市西屯區黎明路三段421號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"120.649685","lat":"24.145721","name":"薛凱中診所","id":"3503280558","tel":"0424716898","addr":"臺中市南屯區大墩路383號","business_week":"OOOXOOXOOOOOOXOOOOOXX","memo":"4／1早午診3.4.5日早.午.晚診正常看診"},
