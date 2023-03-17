@@ -1461,6 +1461,7 @@ locations = [
 {"lng":"121.1806","lat":"24.90875","name":"元森藥局","id":"5932043390","tel":"034311058","addr":"桃園市楊梅區瑞溪路2段125號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.178617","lat":"24.909873","name":"躍獅祥筠藥局","id":"5932043425","tel":"034817458","addr":"桃園市楊梅區萬大路135號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.2936","lat":"25.04814","name":"南欣藥師藥局","id":"5932050019","tel":"033227038","addr":"桃園市蘆竹區錦中里南崁路205號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時段：週一至週日早上8點"},
+{"lng":"121.2951","lat":"25.04645","name":"杏洋藥局","id":"5932050224","tel":"033112799","addr":"桃園市蘆竹區南崁路134號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"快篩試劑販賣時段:0900-2200"},
 {"lng":"121.297583","lat":"25.05671","name":"誠心藥局","id":"5932052013","tel":"032127369","addr":"桃園市蘆竹區中山路一四五號一樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.2885","lat":"25.03943","name":"誼康藥局","id":"5932052068","tel":"033129045","addr":"桃園市蘆竹區奉化路一二六號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.2594","lat":"25.02454","name":"大竹藥師藥局","id":"5932052228","tel":"033232508","addr":"桃園市蘆竹區南竹路五段二五九號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販賣時段：14:30起可購買至售完為止"},
