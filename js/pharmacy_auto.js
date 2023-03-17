@@ -1238,6 +1238,7 @@ locations = [
 {"lng":"121.6564","lat":"25.06456","name":"健成藥局","id":"5931112645","tel":"0226428989","addr":"新北市汐止區新興路20號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.661763","lat":"25.073196","name":"國升藥局","id":"5931112690","tel":"0226419459","addr":"新北市汐止區建成路59巷1號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.6286","lat":"25.06992","name":"明恩藥局","id":"5931112921","tel":"0226923877","addr":"新北市汐止區明峰街179之1號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.6536","lat":"25.06303","name":"永康中西綜合藥局","id":"5931112976","tel":"0286915580","addr":"新北市汐止區龍安路175號1樓","business_week":"OOOOOXXOOOOOOOOOOOOOO","memo":"快篩實名制週一至週五早上10點銷售 週六日下午2點銷售"},
 {"lng":"121.6324","lat":"25.0649","name":"富康活力中興藥局","id":"5931113179","tel":"0226950222","addr":"新北市汐止區中興路156號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.6331","lat":"25.06651","name":"汐止藥局","id":"5931113188","tel":"0286932587","addr":"新北市汐止區福德二路70號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4626","lat":"24.98825","name":"崇愛藥局","id":"5931130214","tel":"0222665506","addr":"新北市土城區永豐路17號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
