@@ -1314,6 +1314,7 @@ locations = [
 {"lng":"121.238","lat":"24.95653","name":"懷仁藥師健保藥局","id":"5932021401","tel":"034378466","addr":"桃園市中壢區中北路93號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩銷售\\5月7號更改時間為下午5:00\\星期日沒有販售"},
 {"lng":"121.2454","lat":"24.9468","name":"全球永美大藥局","id":"5932021438","tel":"034661839","addr":"桃園市中壢區中山東路二段530號1至2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.254319","lat":"24.963756","name":"立康專業藥局","id":"5932021689","tel":"034553121","addr":"桃園市中壢區莊敬路865號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
+{"lng":"121.2268","lat":"24.94399","name":"億源藥局","id":"5932021830","tel":"034595111","addr":"桃園市中壢區林森路176號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"8:30-21:00\/口罩販賣時段：08:30開始，售完為止"},
 {"lng":"121.2218","lat":"24.96005","name":"星康生活藥局","id":"5932022257","tel":"034252869","addr":"桃園市中壢區中美路二段94號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩9:00開賣"},
 {"lng":"121.2569","lat":"24.96642","name":"宜美大藥局","id":"5932022346","tel":"034637687","addr":"桃園市中壢區莊敬路716號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.247932","lat":"24.97409","name":"得群藥局","id":"5932022971","tel":"034535953","addr":"桃園市中壢區自強六路42號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑販售時間為營業時間內皆可"},
