@@ -392,6 +392,7 @@ locations = [
 {"lng":"120.6924","lat":"24.10673","name":"廣信藥局","id":"5903200318","tel":"0424829981","addr":"臺中市大里區益民路1段164號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.6788","lat":"24.11241","name":"國光丁丁藥局","id":"5903200372","tel":"0424069711","addr":"臺中市大里區國光路2段551-1號1樓","business_week":"XXXXXXXOOOXOOOOOOXOOO"},
 {"lng":"120.6861","lat":"24.11527","name":"大里安德健保藥局","id":"5903200587","tel":"0424875607","addr":"臺中市大里區大明路117號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.6885","lat":"24.10305","name":"大樹大里藥局","id":"5903200596","tel":"0424861133","addr":"臺中市大里區中興路二段101號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.689339","lat":"24.1102","name":"德芳東榮藥局","id":"5903200621","tel":"0424863898","addr":"臺中市大里區東榮路8號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售時間：下午3點~6點，現場排隊，完售即停"},
 {"lng":"120.6888","lat":"24.1063","name":"立人藥局","id":"5903200676","tel":"0424831722","addr":"臺中市大里區益民路二段19號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.6756","lat":"24.14434","name":"鄧博士藥局","id":"5903220114","tel":"0422256851","addr":"臺中市中區中山路325號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"24小時營業，星期日不休息。"},
