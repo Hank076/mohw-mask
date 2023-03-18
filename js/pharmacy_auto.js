@@ -1014,6 +1014,7 @@ locations = [
 {"lng":"121.4657","lat":"25.02457","name":"幸福健保藥局","id":"5931016237","tel":"0222530009","addr":"新北市板橋區四維路106號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"121.479008","lat":"25.018661","name":"湯明藥局","id":"5931016273","tel":"0229571980","addr":"新北市板橋區中山路2段319號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.461","lat":"25.0229","name":"楓康藥局","id":"5931016326","tel":"0282582246","addr":"新北市板橋區新海路119號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.4644","lat":"25.00394","name":"康匯藥局","id":"5931016335","tel":"0229512610","addr":"新北市板橋區實踐路167號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"★★★每天都有 現領不用等★★★"},
 {"lng":"121.4538","lat":"24.99382","name":"利安社區藥局","id":"5931016433","tel":"0289671551","addr":"新北市板橋區德興街37巷14號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.472","lat":"25.00734","name":"漢民藥局","id":"5931016880","tel":"0229598168","addr":"新北市板橋區漢生東路346號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時段：平日0830~2230；周末／國定假日0900~2200。"},
 {"lng":"121.4518","lat":"24.99656","name":"聯康藥局","id":"5931017001","tel":"0289674888","addr":"新北市板橋區南雅南路2段136號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩上午9:30開始發放"},
