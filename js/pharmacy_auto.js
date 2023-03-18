@@ -1727,6 +1727,7 @@ locations = [
 {"lng":"120.3007","lat":"23.13282","name":"仁愛藥局","id":"5941071188","tel":"065838245","addr":"臺南市善化區中山路178號","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"快篩AM08:30開始販售，當天售完為止"},
 {"lng":"120.1805","lat":"23.23176","name":"世酆藥局","id":"5941080016","tel":"067838779","addr":"臺南市學甲區仁得里成功路11-1號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩試劑  早上08:00~"},
 {"lng":"120.1791","lat":"23.23062","name":"心得藥局","id":"5941080043","tel":"067835087","addr":"臺南市學甲區仁得里建國路82號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩:早上09:40開始販售至售完"},
+{"lng":"120.3122","lat":"23.27697","name":"美安藥局","id":"5941090049","tel":"066222906","addr":"臺南市柳營區士林里柳營路二段15號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"星期六到晚上8:00"},
 {"lng":"120.403193","lat":"23.322575","name":"青山藥局","id":"5941110046","tel":"066802740","addr":"臺南市東山區東中里中興路23號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販售時間：星期一~日 9:00~售完"},
 {"lng":"120.4031","lat":"23.32411","name":"杏春堂中西藥局","id":"5941111061","tel":"066802682","addr":"臺南市東山區中興路97號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.353288","lat":"23.230007","name":"竹軒大藥局","id":"5941131161","tel":"066982258","addr":"臺南市六甲區甲南里民生街158號","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"週日一至周日，上午8點開始販售快篩試劑"},
