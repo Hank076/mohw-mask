@@ -675,6 +675,7 @@ locations = [
 {"lng":"120.311746","lat":"22.664187","name":"新高橋藥局河堤店","id":"5907300613","tel":"075582806","addr":"高雄市左營區裕誠路144號1樓及地下1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午1:30開始販售口罩至下午5:30"},
 {"lng":"120.3112","lat":"22.67415","name":"大樹孟子藥局","id":"5907300631","tel":"073461772","addr":"高雄市左營區孟子路226、228號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.30905","lat":"22.665989","name":"左營自由藥局","id":"5907300686","tel":"075589991","addr":"高雄市左營區自由二路350、350-1號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.3038","lat":"22.67145","name":"富元聯合健康藥局","id":"5907300711","tel":"073488585","addr":"高雄市左營區博愛三路37號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.3091","lat":"22.663","name":"奕康藥局","id":"5907300757","tel":"075561908","addr":"高雄市左營區明華一路76號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩實名制於營業時段內皆可領取"},
 {"lng":"120.3113","lat":"22.67165","name":"悠仁藥局","id":"5907300766","tel":"073457979","addr":"高雄市左營區自由三路170號","business_week":"OOOOOOOOOOOOXXOOOOOXX","memo":"六日看診時間為0800~1200"},
 {"lng":"120.3038","lat":"22.65841","name":"新高橋藥局博正店","id":"5907300784","tel":"075509810","addr":"高雄市左營區忠言路180號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午2:30開始販售口罩"},
