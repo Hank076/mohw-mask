@@ -130,6 +130,7 @@ locations = [
 {"lng":"121.583689","lat":"25.078702","name":"瑞暉藥局","id":"5901113367","tel":"0226276828","addr":"臺北市內湖區文德路105號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"營業時間: 09:00~22:00"},
 {"lng":"121.5961","lat":"25.08456","name":"晶龍藥局","id":"5901113438","tel":"0227956255","addr":"臺北市內湖區成功路4段218號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩試劑販售時間:星期一~六下午2:30 售完為止"},
 {"lng":"121.591774","lat":"25.080289","name":"安安藥局","id":"5901113509","tel":"0287912187","addr":"臺北市內湖區康寧路1段4號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩時段9:00-9:30；營業時段8:30~22:30"},
+{"lng":"121.6172","lat":"25.06815","name":"博昱東福藥局","id":"5901113643","tel":"0226308599","addr":"臺北市內湖區東湖路147號","business_week":"OXOOXOOXXXXXXXOXOOXOO"},
 {"lng":"121.5916","lat":"25.08235","name":"富康活力誠功藥局","id":"5901113732","tel":"0227960222","addr":"臺北市內湖區成功路4段30巷20號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.6055","lat":"25.05661","name":"旭村藥局","id":"5901120022","tel":"0227820948","addr":"臺北市南港區興華路112號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩實名制販賣以號碼牌為準"},
 {"lng":"121.5922","lat":"25.05429","name":"新錦安藥局","id":"5901120175","tel":"0227825218","addr":"臺北市南港區南港路3段34號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
