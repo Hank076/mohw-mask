@@ -755,6 +755,7 @@ locations = [
 {"lng":"121.726303","lat":"25.146108","name":"寶慷藥局","id":"5911051392","tel":"0224362338","addr":"基隆市中山區復興路191號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"08:00開始販賣快篩"},
 {"lng":"121.7388","lat":"25.14545","name":"順豐藥局","id":"5911051409","tel":"0224369176","addr":"基隆市中山區中華路4號","business_week":"OOOOOXOOOOOOXOOOOOOXO","memo":"家用快篩每日上午8點起隨到隨領售完為止。"},
 {"lng":"121.7262","lat":"25.1446","name":"復興藥局","id":"5911051543","tel":"0224362566","addr":"基隆市中山區復興路128、130、132、134號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.719418","lat":"25.125109","name":"福泰藥局","id":"5911060015","tel":"0224311631","addr":"基隆市安樂區麥金路433號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.724016","lat":"25.121592","name":"宏仁藥局","id":"5911060088","tel":"0224321739","addr":"基隆市安樂區安樂路2段130號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.71074","lat":"25.141186","name":"長春藥局","id":"5911060131","tel":"0224344550","addr":"基隆市安樂區基金一路174號之20","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.7216","lat":"25.12079","name":"立登藥局","id":"5911061272","tel":"0224334477","addr":"基隆市安樂區麥金路197號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"藥局快篩劑代售15:00開始販售 現場排隊"},
