@@ -422,6 +422,7 @@ locations = [
 {"lng":"120.6853","lat":"24.17329","name":"長幼藥局","id":"5903290750","tel":"0422426767","addr":"臺中市北屯區崇德路二路二段157號1樓","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"採現場排隊無號碼牌，快篩地圖與庫存餘量會有誤差，敬請見諒"},
 {"lng":"120.6803","lat":"24.17105","name":"英全藥局","id":"5903290803","tel":"0422345179","addr":"臺中市北屯區北平路三段34號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間早上8點到晚上23點"},
 {"lng":"120.6708","lat":"24.17885","name":"齊方藥局","id":"5903290830","tel":"0422912192","addr":"臺中市北屯區四平路39號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"120.687","lat":"24.1674","name":"德寶健保藥局","id":"5903290947","tel":"0422325511","addr":"臺中市北屯區熱河路一段70號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩試劑九點開始銷售賣完為止"},
 {"lng":"120.6944","lat":"24.17431","name":"興安永佳藥局","id":"5903290974","tel":"0422437876","addr":"臺中市北屯區興安路一段333號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天上午10:00至晚間21:00販售，售完為止"},
 {"lng":"120.6863","lat":"24.18001","name":"五和健保藥局","id":"5903291006","tel":"0422415533","addr":"臺中市北屯區崇德路二段460號1樓","business_week":"OOOOOXOOOOOOXOOOOOOXO","memo":"週六公休 。周一至周五 14:30 發號碼牌 14:40販售； 週日 8:30發號碼牌 隨後販售"},
 {"lng":"120.7004","lat":"24.17913","name":"全成北屯藥局","id":"5903291042","tel":"0422463518","addr":"臺中市北屯區北屯路439-11號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
