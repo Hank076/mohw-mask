@@ -1464,6 +1464,7 @@ locations = [
 {"lng":"120.81946","lat":"24.561465","name":"上林藥局","id":"5935012324","tel":"037320685","addr":"苗栗縣苗栗市建功里24鄰府前路91號","business_week":"OOOOOOOOOOOOOOOOOOOXX","memo":"實名制快篩:早上9:30~售完"},
 {"lng":"120.8196","lat":"24.55733","name":"杏一苗栗中山藥局","id":"5935012342","tel":"037354552","addr":"苗栗縣苗栗市至公路38號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"販售時間:14:00 -20:00 !週日無販售!!"},
 {"lng":"120.8158","lat":"24.56409","name":"錦岳大藥局","id":"5935012351","tel":"037353046","addr":"苗栗縣苗栗市民族路140號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"販售時間：8:30~售完  相關問題可撥打電話詢問。"},
+{"lng":"120.824881","lat":"24.573025","name":"苗栗啄木鳥藥局","id":"5935012388","tel":"037274809","addr":"苗栗縣苗栗市中華路120號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"0815-2230"},
 {"lng":"120.6756","lat":"24.40204","name":"源益藥局","id":"5935020077","tel":"037742533","addr":"苗栗縣苑裡鎮社苓里84之5號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"口罩販賣時段：12:00-售完。8:00-21:00 家庭式若無外出即營業"},
 {"lng":"120.6541","lat":"24.44247","name":"苑裡藥局","id":"5935021430","tel":"037851331","addr":"苗栗縣苑裡鎮為公路32-1號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.653","lat":"24.43873","name":"沐安藥局","id":"5935021458","tel":"037868600","addr":"苗栗縣苑裡鎮客庄里信義路1-10號1樓","business_week":"OOOOOOXOOOOOOOOOOOOOO"},
