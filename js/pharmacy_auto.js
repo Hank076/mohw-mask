@@ -935,6 +935,7 @@ locations = [
 {"lng":"121.4912","lat":"25.05856","name":"煜安健保藥局","id":"5931025656","tel":"0229768128","addr":"新北市三重區光明路23號1樓","business_week":"XOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.4893","lat":"25.05271","name":"杏一三重集成藥局","id":"5931025692","tel":"0229743410","addr":"新北市三重區集成路43號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"121.4892","lat":"25.08623","name":"銀河藥局","id":"5931025790","tel":"0228578688","addr":"新北市三重區五華街247號1樓","business_week":"OOOOOOOOOOOOXOOOOOOXX"},
+{"lng":"121.4854","lat":"25.05867","name":"新宜安中西藥局","id":"5931025898","tel":"0229883693","addr":"新北市三重區三陽路30號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4844","lat":"25.07422","name":"永吉藥局","id":"5931025932","tel":"0222860432","addr":"新北市三重區車路頭街91號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4842","lat":"25.07005","name":"忠孝德榮藥局","id":"5931025987","tel":"0229800297","addr":"新北市三重區忠孝路2段97號1樓","business_week":"OOOOOXXOOOOOOOOOOOOOO","memo":"*實名制快篩* 週一至週五8:30開始代售.週六至週日12:00開始代售."},
 {"lng":"121.485366","lat":"25.070556","name":"信義忠孝藥局","id":"5931025996","tel":"0289813529","addr":"新北市三重區忠孝路2段40號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
