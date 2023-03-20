@@ -154,6 +154,7 @@ locations = [
 {"lng":"121.5017","lat":"25.13044","name":"杏嘉藥局","id":"5901162879","tel":"0228942585","addr":"臺北市北投區清江路68號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4672","lat":"25.12214","name":"萬信藥局","id":"5901163330","tel":"0228583083","addr":"臺北市北投區知行路305號(實際使用1樓)","business_week":"OOOOOOXOOOOOOOOOOOOXO"},
 {"lng":"121.5027","lat":"25.13508","name":"全家藥粧藥局","id":"5901163492","tel":"0228988685","addr":"臺北市北投區光明路166-2號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"121.4998","lat":"25.13286","name":"躍獅光明藥局","id":"5901163563","tel":"0228915993","addr":"臺北市北投區光明路51號、53號(實際使用:1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4981","lat":"25.13361","name":"江南育仁大藥局","id":"5901163616","tel":"0228981850","addr":"臺北市北投區育仁路55號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5696","lat":"25.02425","name":"必欣藥局","id":"5901170059","tel":"0227225060","addr":"臺北市信義區松仁路264號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售時間：星期一至星期日午13：30開始"},
 {"lng":"121.5781","lat":"25.04526","name":"松山大藥局","id":"5901170433","tel":"0932156305","addr":"臺北市信義區永吉路436號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"購防疫快篩早上10:00_-發售. 週日休息"},
