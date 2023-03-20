@@ -500,6 +500,7 @@ locations = [
 {"lng":"120.2861","lat":"22.96753","name":"歸仁丁丁藥局","id":"5905280163","tel":"062300767","addr":"臺南市歸仁區中山路三段73號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.236916","lat":"23.04132","name":"鹽行健保藥局","id":"5905310184","tel":"062435112","addr":"臺南市永康區中正南路861號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.2356","lat":"23.01609","name":"睿禾藥局","id":"5905310237","tel":"063023868","addr":"臺南市永康區東橋一路13號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"中午12-14點不販售。週日公休。"},
+{"lng":"120.2566","lat":"23.00183","name":"仁安藥師藥局","id":"5905310264","tel":"062056055","addr":"臺南市永康區崑山里大仁街61號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上9點到晚上9點"},
 {"lng":"120.236741","lat":"23.012662","name":"誠康藥局","id":"5905310273","tel":"063022005","addr":"臺南市永康區中山東路73號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.246247","lat":"23.006438","name":"家嘉藥局","id":"5905310353","tel":"063121328","addr":"臺南市永康區復國一路206號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"120.2438","lat":"23.01671","name":"晉大藥局復國店","id":"5905310531","tel":"062025309","addr":"臺南市永康區復國一路582-1號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
