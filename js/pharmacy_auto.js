@@ -903,6 +903,7 @@ locations = [
 {"lng":"121.455","lat":"25.01515","name":"華傳綜合大藥局","id":"5931010477","tel":"0229670029","addr":"新北市板橋區大智街40號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4253","lat":"24.98921","name":"祥聖藥局","id":"5931011009","tel":"0226835677","addr":"新北市板橋區溪崑二街112巷35弄1號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4605","lat":"25.01825","name":"國光藥師藥局","id":"5931011054","tel":"0229698181","addr":"新北市板橋區國光路172號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩：週一到週六 有庫存就販售，售完為止，週日無販售。"},
+{"lng":"121.4535","lat":"25.00815","name":"利安藥局","id":"5931011241","tel":"0229696295","addr":"新北市板橋區南雅東路108號","business_week":"XXXXXXXOOOOOOOOOOOOOO","memo":"實名防疫快篩發放時間自中午13:00開始，隨到隨發。"},
 {"lng":"121.4276","lat":"24.98982","name":"戴安藥局","id":"5931011330","tel":"0226818663","addr":"新北市板橋區溪北路54號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4599","lat":"25.00256","name":"萬壽藥局","id":"5931011438","tel":"0229617476","addr":"新北市板橋區四川路1段251號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩販售時間:星期一~星期六早上9點開始販售"},
 {"lng":"121.473","lat":"25.02154","name":"正吉藥局","id":"5931011938","tel":"0222595183","addr":"新北市板橋區莊敬路241號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩早上9點開始，有配送就有，沒配送就沒有"},
