@@ -1534,6 +1534,7 @@ locations = [
 {"lng":"120.2536","lat":"23.67503","name":"義和堂中西藥局","id":"5939140061","tel":"056991028","addr":"雲林縣東勢鄉東南村東勢東路12號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每日營業時段販售"},
 {"lng":"120.3134","lat":"23.69541","name":"正和藥局","id":"5939151162","tel":"056972776","addr":"雲林縣褒忠鄉三民路116號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.3132","lat":"23.64867","name":"順元藥局","id":"5939171128","tel":"057886555","addr":"雲林縣元長鄉中山路25號","business_week":"OOOOOXXOOOXOXXOXOXOXX"},
+{"lng":"120.2216","lat":"23.63745","name":"仁安堂藥局","id":"5939180074","tel":"057875563","addr":"雲林縣四湖鄉中山西路185號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"0800-販售結束"},
 {"lng":"120.2251","lat":"23.63476","name":"陽明藥局","id":"5939181133","tel":"057876519","addr":"雲林縣四湖鄉中正路422號","business_week":"OOOOOOXOOOOOXXXXXXXXX"},
 {"lng":"120.225614","lat":"23.634449","name":"大家藥局","id":"5939181231","tel":"057877435","addr":"雲林縣四湖鄉中正路433號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"0730-1930(12:00~14:00休息)"},
 {"lng":"120.223688","lat":"23.637799","name":"威仁藥局","id":"5939181339","tel":"057875041","addr":"雲林縣四湖鄉中山西路70號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"周一至周六營業時間上午八點到晚上八點，周日上午八點至中午12點"},
