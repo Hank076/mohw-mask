@@ -172,6 +172,7 @@ locations = [
 {"lng":"121.5764","lat":"25.04336","name":"馨馨藥局","id":"5901173390","tel":"0227491208","addr":"臺北市信義區虎林街82巷19號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5689","lat":"25.04324","name":"新興健保藥局","id":"5901173587","tel":"0227494892","addr":"臺北市信義區永吉路30巷113號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩試劑庫存有時，直接販售。"},
 {"lng":"121.5637","lat":"25.02715","name":"北一健康人生藥局","id":"5901173783","tel":"0227583945","addr":"臺北市信義區吳興街255號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午3點開始販售實名制快篩"},
+{"lng":"121.5577","lat":"25.03682","name":"躍獅光復藥局","id":"5901173934","tel":"0287862307","addr":"臺北市信義區光復南路417之8號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"下午1點開始販售"},
 {"lng":"121.561798","lat":"25.029475","name":"吳興春天藥局","id":"5901174002","tel":"0227585618","addr":"臺北市信義區吳興街137號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"下午2:40發號碼牌"},
 {"lng":"121.577095","lat":"25.041118","name":"寶春藥局","id":"5901174011","tel":"0227566501","addr":"臺北市信義區虎林街119之19號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5744","lat":"25.04538","name":"信義盛康藥局","id":"5901174075","tel":"0223460521","addr":"臺北市信義區永吉路286號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
