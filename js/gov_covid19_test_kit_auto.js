@@ -104,7 +104,7 @@ gov_covid19_test_kit_locations = [
 {"lng":"121.509303","lat":"25.08855","name":"粱耳鼻喉科診所","id":"3501151269","tel":"0228168456","addr":"臺北市士林區社正路12-1號","business_week":"OOOOOOXOOOOOXXOOOOOXX"},
 {"lng":"121.501448","lat":"25.132204","name":"洪耳鼻喉科診所","id":"3501160231","tel":"0228928769","addr":"臺北市北投區中央南路1段43號","business_week":"OOOOOOXXXXXXXXOOOOOXX","memo":"9／29 9／30中秋連假耳鼻喉科早診（8:30-12:00）"},
 {"lng":"121.515314","lat":"25.114287","name":"黃正宏診所","id":"3501163036","tel":"0228217076","addr":"臺北市北投區西安街一段359號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
-{"lng":"121.51316","lat":"25.114276","name":"台北欣安耳鼻喉科診所","id":"3501163312","tel":"0228210501","addr":"臺北市北投區石牌路一段152號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"112年1月1日上午休診，其餘時間，皆開診"},
+{"lng":"121.51316","lat":"25.114276","name":"台北欣安耳鼻喉科診所","id":"3501163312","tel":"0228210501","addr":"臺北市北投區石牌路一段152號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.524888","lat":"25.122927","name":"文遠診所","id":"3501163616","tel":"0228739991","addr":"臺北市北投區石牌路二段346號1、2樓","business_week":"OOOOOOXOXOXOXXOOOOXXX","memo":"1／21、4／5、6／22、9／29僅上午看診、1／26僅晚上看診"},
 {"lng":"121.577974","lat":"25.043835","name":"黃啟彰診所","id":"3501170835","tel":"0227696218","addr":"臺北市信義區松山路261-1號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.569346","lat":"25.023899","name":"張育驍診所","id":"3501171225","tel":"0227291011","addr":"臺北市信義區吳興街467巷2弄4號.6號.6號2樓.10號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"4／1、4／3、4／4全天皆有看診，4／2、4／5只有上午看診"},
