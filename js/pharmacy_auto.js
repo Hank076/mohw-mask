@@ -757,6 +757,7 @@ locations = [
 {"lng":"120.2095","lat":"22.99747","name":"丞功藥局","id":"5921051582","tel":"062287641","addr":"臺南市中西區成功路31號","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.2189","lat":"23.06309","name":"守利藥局","id":"5921060116","tel":"063559347","addr":"臺南市安南區卅南里安和路4段616號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩實名制 星期一~六  9:00~售完"},
 {"lng":"120.1737","lat":"23.05","name":"仲宏藥局","id":"5921060161","tel":"062567798","addr":"臺南市安南區淵中里安中路3段431號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"迥一至週六早上8:00-晚上10:00，週日公休"},
+{"lng":"120.1947","lat":"23.0437","name":"平光藥局","id":"5921060198","tel":"062459641","addr":"臺南市安南區安中路1段822號","business_week":"OOOOOOXOOOOOOXOOOOOOO"},
 {"lng":"120.2074","lat":"23.03892","name":"涂逸權藥師藥局","id":"5921060376","tel":"062560583","addr":"臺南市安南區長溪路一段314號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.2115","lat":"23.03032","name":"樂成藥局","id":"5921060385","tel":"062568576","addr":"臺南市安南區安和路一段159巷83號","business_week":"OOOOOOOOOOOOOXOOOOOOO"},
 {"lng":"120.1309","lat":"23.06296","name":"新資生藥師藥局","id":"5921061668","tel":"062571153","addr":"臺南市安南區城北路52號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOO","memo":"星期一~星期六早上.快篩販售8點到10點止"},
