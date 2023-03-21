@@ -1019,6 +1019,7 @@ locations = [
 {"lng":"121.469512","lat":"24.985864","name":"宏奇藥局","id":"5931132538","tel":"0282619585","addr":"新北市土城區延吉街126號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4518","lat":"24.98459","name":"吉城大藥局","id":"5931132601","tel":"0222626870","addr":"新北市土城區學府路1段205號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"★★★每天都有 現領不用等★★★"},
 {"lng":"121.455","lat":"24.9938","name":"久安藥局","id":"5931132610","tel":"0289671097","addr":"新北市土城區廣明街70號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.4483","lat":"24.9877","name":"家庭藥師連鎖藥局","id":"5931132683","tel":"0222633601","addr":"新北市土城區裕生路8號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.458","lat":"24.98854","name":"學府松藥局","id":"5931133019","tel":"0282628665","addr":"新北市土城區學府路一段38號1、2樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.454949","lat":"24.987282","name":"順儷學府藥局","id":"5931133635","tel":"0222701979","addr":"新北市土城區學府路1段144巷2號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4361","lat":"24.96702","name":"貓頭鷹藥妝藥局","id":"5931133644","tel":"0222695659","addr":"新北市土城區中央路3段88、90號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩配送時間不一定，販賣時間依現場公告為主"},
