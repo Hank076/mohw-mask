@@ -1582,7 +1582,7 @@ locations = [
 {"lng":"120.5404","lat":"24.06564","name":"寶生藥局","id":"5937013712","tel":"047113037","addr":"彰化縣彰化市中山路一段556巷23之128號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"120.5774","lat":"24.08562","name":"晁福藥局","id":"5937013721","tel":"047371168","addr":"彰化縣彰化市彰南路二段31號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩每天提供服務，營業時間8:00-22:30"},
 {"lng":"120.5393","lat":"24.071","name":"民族藥局","id":"5937013767","tel":"047261221","addr":"彰化縣彰化市民族路212號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
-{"lng":"120.4426","lat":"24.05654","name":"建興藥局","id":"5937020155","tel":"047786919","addr":"彰化縣鹿港鎮頂厝里鹿東路154號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期一至星期六早上八點至晚上八點止 （星期日未販售）"},
+{"lng":"120.4426","lat":"24.05654","name":"建興藥局","id":"5937020155","tel":"047786919","addr":"彰化縣鹿港鎮鹿東路154號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期一至星期六早上八點至晚上八點止 （星期日未販售）"},
 {"lng":"120.4386","lat":"24.05279","name":"順安藥局","id":"5937021330","tel":"047765510","addr":"彰化縣鹿港鎮泰興里復興路125號","business_week":"OOXOOXOOOOOOXOOOOOOXX","memo":"販售快篩篩劑時間: 週1.2.4.5.日 早上8:00  ／  週3下午2:00   ／ 週六停止販售  5／4已經完售"},
 {"lng":"120.481097","lat":"24.085941","name":"老信和藥局","id":"5937021509","tel":"047711098","addr":"彰化縣鹿港鎮頂番里鹿和路四段40號","business_week":"OOOOOOXOOOOOXXOOOOOXX","memo":"周一至周五09:00~21:30  周六09:00~12:00"},
 {"lng":"120.4324","lat":"24.05808","name":"杏文藥局","id":"5937021769","tel":"047766326","addr":"彰化縣鹿港鎮順興里中山路354號1樓","business_week":"OOOOOOXXXXXXXXOOOOOXX","memo":"口罩販賣時間:早上08:00現場排隊，不發號碼牌。"},
