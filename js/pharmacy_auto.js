@@ -271,6 +271,7 @@ locations = [
 {"lng":"120.3079","lat":"22.62172","name":"幸福藥師藥局","id":"5902085308","tel":"075368701","addr":"高雄市苓雅區青年一路167-3號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.3374","lat":"22.60991","name":"意文藥局","id":"5902090121","tel":"077226570","addr":"高雄市前鎮區瑞華里武營路183號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"每天8點營業 立即販賣"},
 {"lng":"120.32245","lat":"22.578078","name":"博平藥局","id":"5902090827","tel":"078311814","addr":"高雄市前鎮區草衙二路377號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.3325","lat":"22.60923","name":"佳加藥局","id":"5902091100","tel":"077228112","addr":"高雄市前鎮區瑞北路114號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上8:00開始銷售快篩  售完為止， 星期日正常營業 春節期間看診時段請電洽診所（藥局）"},
 {"lng":"120.311667","lat":"22.613111","name":"百宏中西大藥局","id":"5902092205","tel":"073386719","addr":"高雄市前鎮區復興三路194號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.3156","lat":"22.60993","name":"彥芳藥局","id":"5902092321","tel":"073302007","addr":"高雄市前鎮區長江街65號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"實名制快篩及口罩銷售時間:  週一至週六 早上9:00 開始賣完為止（ 備註 : 週日公休， 週六營業到下午6:00止）"},
 {"lng":"120.3337","lat":"22.6065","name":"旺盛藥局","id":"5902092410","tel":"077512899","addr":"高雄市前鎮區永豐路108號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"過年期間 111\/01\/31下午至111\/02\/03  休診"},
