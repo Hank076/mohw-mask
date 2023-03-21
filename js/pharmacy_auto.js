@@ -531,6 +531,7 @@ locations = [
 {"lng":"120.3393","lat":"22.68489","name":"新高橋藥局八德中店","id":"5907080214","tel":"073485857","addr":"高雄市仁武區八卦里八德中路86、88、90號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"藥局電話 07-3736437"},
 {"lng":"120.3313","lat":"22.69072","name":"仁同藥局","id":"5907080250","tel":"073736142","addr":"高雄市仁武區八卦里永仁街706號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"可購買快篩試劑時間每日早上7:30到22:30"},
 {"lng":"120.352592","lat":"22.731461","name":"上鼎藥師健保藥局","id":"5907090032","tel":"073531053","addr":"高雄市大社區中山路423號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間每日8:00至22:00，另快篩每日9:00開放民眾購買，售完為止。"},
+{"lng":"120.3492","lat":"22.73194","name":"安泰專業藥師藥局","id":"5907090087","tel":"073553715","addr":"高雄市大社區中山路267號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"健保快篩全天都可領用"},
 {"lng":"120.3496","lat":"22.73189","name":"新高橋藥局大社店","id":"5907090121","tel":"073520061","addr":"高雄市大社區中山路277號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"早上9:50發號碼牌 10:00開始販售"},
 {"lng":"120.3361","lat":"22.65556","name":"本館藥局","id":"5907100088","tel":"073707655","addr":"高雄市鳥松區大華里本館路190號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"營業時間每日09:00-22:00  實名制快篩販賣時間15:00-20:00"},
 {"lng":"120.3134","lat":"22.75229","name":"丁丁藥局橋頭店","id":"5907110155","tel":"076113633","addr":"高雄市橋頭區成功南路148巷3號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
