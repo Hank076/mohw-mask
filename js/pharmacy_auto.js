@@ -575,6 +575,7 @@ locations = [
 {"lng":"120.3248","lat":"22.72689","name":"惠民楠梓藥局","id":"5907310351","tel":"073521896","addr":"高雄市楠梓區建楠路217號","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"平常二點開始發，發完為止；記得備防疫包，增強免疫力"},
 {"lng":"120.288389","lat":"22.715711","name":"百康藥局","id":"5907310360","tel":"073601281","addr":"高雄市楠梓區右昌街416號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.3053","lat":"22.72632","name":"德昌藥局","id":"5907310379","tel":"073619998","addr":"高雄市楠梓區德賢路215號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩販售時間：周一至週日，08:00至21:00，售完為止。"},
+{"lng":"120.3129","lat":"22.71975","name":"宸實藥局","id":"5907310388","tel":"073642142","addr":"高雄市楠梓區後昌路47巷23-1號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期一（W1）~星期六（W6）快篩開賣售完為止_"},
 {"lng":"120.2953","lat":"22.72643","name":"藍田藥局","id":"5907310404","tel":"073601236","addr":"高雄市楠梓區藍田路1號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.3329","lat":"22.7301","name":"興楠丁丁藥局","id":"5907310431","tel":"073559668","addr":"高雄市楠梓區興楠路262號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.3261","lat":"22.72716","name":"黃藥局","id":"5907310468","tel":"073515700","addr":"高雄市楠梓區建楠路186號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制中午1點開始販售"},
