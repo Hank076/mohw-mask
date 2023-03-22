@@ -81,6 +81,7 @@ locations = [
 {"lng":"121.5496","lat":"25.08263","name":"富宥康藥局","id":"5901102686","tel":"0225325277","addr":"臺北市中山區北安路608巷5弄22號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5493","lat":"25.08191","name":"保德明水藥局","id":"5901102971","tel":"0285097769","addr":"臺北市中山區北安路608巷4弄1號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"僅除夕營業到下午五點，其他都正常營業9:00-22:30，全年無休，可領／買快篩"},
 {"lng":"121.5486","lat":"25.08194","name":"大直健康藥局","id":"5901103110","tel":"0225323310","addr":"臺北市中山區北安路591號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"販售時間:W1-W7:09:00-21:00"},
+{"lng":"121.5349","lat":"25.05305","name":"娸淇藥局","id":"5901103147","tel":"0225082762","addr":"臺北市中山區伊通街95號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"口罩販售時間2:30PM(六日無發口罩)4\/2-4\/5 清明休息"},
 {"lng":"121.5269","lat":"25.05018","name":"昶青林森藥局","id":"5901103192","tel":"0225639939","addr":"臺北市中山區林森北路119巷52號","business_week":"OOOOOXXOOOOOOOOOOOOOX","memo":"實名制快篩每日14:00開始販售，20:00結束或售完為止，週日人力不足不發售"},
 {"lng":"121.525798","lat":"25.065299","name":"麗恩藥局","id":"5901103209","tel":"0225981982","addr":"臺北市中山區林森北路575之5號","business_week":"XXXXXXXOOOOOOXOOOOOOX"},
 {"lng":"121.5255","lat":"25.06232","name":"仁一藥局","id":"5901103325","tel":"0225711742","addr":"臺北市中山區林森北路520號","business_week":"OOOOOOXOOOOOOOOOOOOOO"},
