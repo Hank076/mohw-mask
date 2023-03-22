@@ -206,6 +206,7 @@ locations = [
 {"lng":"121.5016","lat":"25.03654","name":"日昇藥局","id":"5901190515","tel":"0223062975","addr":"臺北市萬華區廣州街124號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩隨到隨賣"},
 {"lng":"121.4948","lat":"25.02529","name":"寶興大藥局","id":"5901192162","tel":"0223013375","addr":"臺北市萬華區寶興街119號","business_week":"OOOOOOOOOOOOOXOOOOOXX","memo":"周一至周五12：00開始代售，現場排隊，不發號碼牌"},
 {"lng":"121.5055","lat":"25.02592","name":"康之友藥局","id":"5901192180","tel":"0223011598","addr":"臺北市萬華區青年路20號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩：下午14:00~15:30、晚上20:00~21:00。"},
+{"lng":"121.5034","lat":"25.04152","name":"千誠北護藥局","id":"5901193123","tel":"0223123530","addr":"臺北市萬華區內江街114號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.5017","lat":"25.02944","name":"柏祥藥局","id":"5901193169","tel":"0223018272","addr":"臺北市萬華區西藏路141號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.4981","lat":"25.02096","name":"富安藥局","id":"5901193301","tel":"0223377878","addr":"臺北市萬華區萬大路426號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4935","lat":"25.02698","name":"和德藥局","id":"5901193310","tel":"0223331522","addr":"臺北市萬華區西園路2段292號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
