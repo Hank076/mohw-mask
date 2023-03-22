@@ -1146,6 +1146,7 @@ locations = [
 {"lng":"121.3619","lat":"25.07016","name":"林口辰安藥局","id":"5931171886","tel":"0226099151","addr":"新北市林口區文化三路1段191巷5號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩1600開始販售，現場排隊領取"},
 {"lng":"","lat":"","name":"奇異果三井藥局","id":"5931171895","tel":"0226068650","addr":"新北市林口區文化三路1段241號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.6172","lat":"25.002","name":"介新大藥局","id":"5931181104","tel":"0226648149","addr":"新北市深坑區文化街94號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.6017","lat":"25.00351","name":"福康藥粧藥局","id":"5931181257","tel":"0226646529","addr":"新北市深坑區北深路3段175號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5032","lat":"25.25816","name":"三芝藥師藥局","id":"5931211045","tel":"0286353982","addr":"新北市三芝區中正路1段43號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.3999","lat":"25.1476","name":"大愛嘉安藥局","id":"5931231207","tel":"0226107790","addr":"新北市八里區中山路2段422號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.411","lat":"25.1576","name":"小蘋果藥局","id":"5931231225","tel":"0226108206","addr":"新北市八里區中山路1段229號","business_week":"OOOOOXOOOOOOXOOOOOOXO"},
