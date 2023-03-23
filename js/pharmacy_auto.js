@@ -1607,6 +1607,7 @@ locations = [
 {"lng":"120.567768","lat":"23.962539","name":"新義藥局","id":"5937052246","tel":"048396788","addr":"彰化縣員林市南平里新義街288號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天早上9點開始販賣及領取政府快篩"},
 {"lng":"120.5707","lat":"23.96247","name":"丁丁藥局員林店","id":"5937052282","tel":"048373508","addr":"彰化縣員林市中山路二段89號","business_week":"OOOOOOXOOXOOOXXOXXOXX","memo":"*星期一-日每日上午9點開始.售完為止。(全年無休)"},
 {"lng":"120.5825","lat":"23.96065","name":"大樹三民藥局","id":"5937052335","tel":"048372837","addr":"彰化縣員林市三民東街356號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.5797","lat":"23.96462","name":"壽春中西藥局","id":"5937052353","tel":"048361667","addr":"彰化縣員林市成功路55號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"5／6（五）起。快篩試劑早上9點半後發售，週日無販售。"},
 {"lng":"120.574103","lat":"23.954867","name":"日信藥局員林店","id":"5937052380","tel":"048352030","addr":"彰化縣員林市中正路255號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"周一至周六營業時間為 AM9:00~PM10:00 ， 周日營業時間至晚上6:00"},
 {"lng":"120.5722","lat":"23.95997","name":"統信藥局","id":"5937052451","tel":"048367089","addr":"彰化縣員林市正興街372號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"112／1／20全天正常門診；1／21早上下午正常門診；1／22休診；1／23休診；1／24全天正常門診"},
 {"lng":"120.5714","lat":"23.96324","name":"佑全員林中正藥局","id":"5937052504","tel":"048368669","addr":"彰化縣員林市中正路135,137號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
