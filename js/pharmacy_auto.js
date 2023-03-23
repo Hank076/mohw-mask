@@ -696,6 +696,7 @@ locations = [
 {"lng":"121.015682","lat":"24.784191","name":"佑信大藥局","id":"5912012862","tel":"036663578","addr":"新竹市東區新莊里光復路一段362─13號","business_week":"OOOOOOXOOOOOOXOOOOOOO"},
 {"lng":"121.0135","lat":"24.78384","name":"杏康健保特約藥局","id":"5912012988","tel":"035772966","addr":"新竹市東區光復路一段525巷23號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX","memo":"一至五09:00-21:00 週六09:00-18:00 （週日公休）"},
 {"lng":"120.9659","lat":"24.79863","name":"得安專業藥師藥局","id":"5912013181","tel":"035283038","addr":"新竹市東區中華路二段652號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售時間：0900"},
+{"lng":"121.0176","lat":"24.78315","name":"佑全新竹光復藥局","id":"5912013547","tel":"036661826","addr":"新竹市東區仙水里光復路1段353號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩販售時間9:30-21:30"},
 {"lng":"121.0224","lat":"24.78172","name":"金佑信藥局","id":"5912013556","tel":"036663185","addr":"新竹市東區光復路1段176號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"販售時間早上9點"},
 {"lng":"120.981228","lat":"24.807936","name":"丁丁藥局","id":"5912013609","tel":"036117888","addr":"新竹市東區中華路二段91號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.0187","lat":"24.78289","name":"關東藥局","id":"5912013672","tel":"035777077","addr":"新竹市東區光復路1段332、334號1至2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
