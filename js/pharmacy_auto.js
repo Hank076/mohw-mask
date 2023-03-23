@@ -671,6 +671,7 @@ locations = [
 {"lng":"121.7364","lat":"25.12786","name":"光華藥局","id":"5911041332","tel":"0224338703","addr":"基隆市仁愛區成功一路129號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.7389","lat":"25.12931","name":"何房藥局","id":"5911041350","tel":"0224222978","addr":"基隆市仁愛區忠三路81號","business_week":"OOOOOOOOOOOOOOOOOOOOX"},
 {"lng":"121.7428","lat":"25.1296","name":"聯安藥局","id":"5911041510","tel":"0224288809","addr":"基隆市仁愛區仁二路251號2樓","business_week":"OOOOOOOOOOOOOXOOOOXXX","memo":"安東耳鼻喉科二樓循環站正對面 快篩販售時間更改8:30-11:50， 假日8:30-11:00 售完為止"},
+{"lng":"121.739945","lat":"25.130903","name":"捷登藥局","id":"5911041949","tel":"0224237888","addr":"基隆市仁愛區孝三路92號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"國定假日有提供藥事調劑服務"},
 {"lng":"121.7369","lat":"25.1316","name":"吉安藥局","id":"5911050037","tel":"0224260229","addr":"基隆市中山區安一路32號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.726303","lat":"25.146108","name":"寶慷藥局","id":"5911051392","tel":"0224362338","addr":"基隆市中山區復興路191號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"08:00開始販賣快篩"},
 {"lng":"121.7388","lat":"25.14545","name":"順豐藥局","id":"5911051409","tel":"0224369176","addr":"基隆市中山區中華路4號","business_week":"OOOOOXOOOOOOXOOOOOOXO","memo":"家用快篩每日上午8點起隨到隨領售完為止。"},
