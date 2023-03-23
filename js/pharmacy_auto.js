@@ -979,6 +979,7 @@ locations = [
 {"lng":"121.5052","lat":"25.00277","name":"藥安藥局","id":"5931043047","tel":"0222447066","addr":"新北市中和區廣福路16號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期日公休"},
 {"lng":"121.4892","lat":"24.99607","name":"立健藥局","id":"5931043396","tel":"0222230614","addr":"新北市中和區連城路317號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"週日休假"},
 {"lng":"121.4812","lat":"25.0006","name":"銓家藥局","id":"5931043627","tel":"0222257728","addr":"新北市中和區員山路319號1-2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"販售 實名制快篩"},
+{"lng":"121.4651","lat":"24.99646","name":"捷勝藥師藥局","id":"5931043690","tel":"0229646225","addr":"新北市中和區華順街122號〈1樓〉","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"121.5091","lat":"24.99895","name":"宜安健康人生藥局","id":"5931043770","tel":"0229224648","addr":"新北市中和區宜安路162號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.4833","lat":"24.99555","name":"良安藥局","id":"5931043921","tel":"0222225798","addr":"新北市中和區連城路477巷1號1樓","business_week":"XXXXXXXOOOOOXXOOOOOXX"},
 {"lng":"121.5173","lat":"24.99277","name":"康廷安藥局","id":"5931044204","tel":"0286683599","addr":"新北市中和區大勇街16號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
