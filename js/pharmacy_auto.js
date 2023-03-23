@@ -878,6 +878,7 @@ locations = [
 {"lng":"121.4748","lat":"25.0161","name":"光鹽藥局","id":"5931017556","tel":"0229552167","addr":"新北市板橋區中山路2段84之2號(2樓)","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.4552","lat":"25.01954","name":"浣熊藥局","id":"5931017681","tel":"0229650355","addr":"新北市板橋區中正路301號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"實名制快篩每日晚上9點開始販賣，不發放號碼牌直接販售"},
 {"lng":"121.4628","lat":"25.02936","name":"上嘉藥局","id":"5931017707","tel":"0222582278","addr":"新北市板橋區四維路296號1樓","business_week":"OOOOOXXOOOOOOOOOOOOOO"},
+{"lng":"121.4822","lat":"25.01476","name":"光環藥局","id":"5931017770","tel":"0289520920","addr":"新北市板橋區中山路2段389號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.462391","lat":"25.030246","name":"明翠藥局","id":"5931017789","tel":"0222550201","addr":"新北市板橋區四維路146、148號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.46979","lat":"25.011811","name":"順儷新板藥局","id":"5931017814","tel":"0229512590","addr":"新北市板橋區漢生東路187號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.4551","lat":"25.01661","name":"社後藥局","id":"5931017912","tel":"0229665662","addr":"新北市板橋區大仁街39號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
