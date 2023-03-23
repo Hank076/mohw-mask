@@ -1505,6 +1505,7 @@ locations = [
 {"lng":"120.5841","lat":"23.95512","name":"萬年藥局","id":"5937051865","tel":"048366522","addr":"彰化縣員林市員水路2段209號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"販售時間請來電，或參照快篩地圖的庫存量。請勿排隊，降低群聚風險。感謝合作。"},
 {"lng":"120.5646","lat":"23.96301","name":"康美藥局","id":"5937051981","tel":"048395172","addr":"彰化縣員林市南平里南平街26號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.5719","lat":"23.95464","name":"華衛藥局","id":"5937052059","tel":"048397503","addr":"彰化縣員林市惠來里南昌路96號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"120.5731","lat":"23.95849","name":"家展藥局","id":"5937052120","tel":"048367768","addr":"彰化縣員林市三民街35-1號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.567768","lat":"23.962539","name":"新義藥局","id":"5937052246","tel":"048396788","addr":"彰化縣員林市南平里新義街288號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"每天早上9點開始販賣及領取政府快篩"},
 {"lng":"120.5825","lat":"23.96065","name":"大樹三民藥局","id":"5937052335","tel":"048372837","addr":"彰化縣員林市三民東街356號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.574103","lat":"23.954867","name":"日信藥局員林店","id":"5937052380","tel":"048352030","addr":"彰化縣員林市中正路255號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"周一至周六營業時間為 AM9:00~PM10:00 ， 周日營業時間至晚上6:00"},
