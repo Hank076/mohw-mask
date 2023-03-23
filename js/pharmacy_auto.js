@@ -855,6 +855,7 @@ locations = [
 {"lng":"120.440434","lat":"23.466406","name":"大向藥局","id":"5922020643","tel":"052354605","addr":"嘉義市西區美源里新民路636號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"120.4284","lat":"23.48403","name":"四維啄木鳥藥局","id":"5922020652","tel":"052810598","addr":"嘉義市西區德安路160號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.427404","lat":"23.472208","name":"齊悅藥局","id":"5922020689","tel":"052843514","addr":"嘉義市西區西平里玉山路145號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"星期一至星期六，星期日休息，早上九點開賣售完為止"},
+{"lng":"120.4443","lat":"23.46856","name":"平良藥局","id":"5922020894","tel":"052235220","addr":"嘉義市西區致遠里興業西路84號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.43398","lat":"23.48268","name":"苰安藥局","id":"5922020910","tel":"052910585","addr":"嘉義市西區竹圍里友愛路236號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"120.4396","lat":"23.4706","name":"嚴昔志藥局","id":"5922020974","tel":"052853991","addr":"嘉義市西區新民路785號1樓","business_week":"OOOOOOXOOOOOOXOOOOOXX"},
 {"lng":"120.4436","lat":"23.45979","name":"理維藥局","id":"5922021024","tel":"052831110","addr":"嘉義市西區民生南路409號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
