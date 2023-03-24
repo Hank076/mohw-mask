@@ -67,6 +67,7 @@ locations = [
 {"lng":"121.5115","lat":"25.05733","name":"富康藥局","id":"5901091820","tel":"0225537782","addr":"臺北市大同區延平北路2段126號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"代售快篩早上9:00開始售完為止"},
 {"lng":"121.5158","lat":"25.07061","name":"佳禾藥局","id":"5901091857","tel":"0225953806","addr":"臺北市大同區大龍街262號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.519676","lat":"25.0574","name":"躍獅文昌藥局","id":"5901092087","tel":"0225586189","addr":"臺北市大同區民生西路108號(實際營業:一層)","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
+{"lng":"121.5104","lat":"25.05397","name":"慶福藥局","id":"5901092158","tel":"0225503628","addr":"臺北市大同區南京西路233巷2號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.5322","lat":"25.04857","name":"百源堂大藥局","id":"5901100057","tel":"0225364362","addr":"臺北市中山區長安東路2段47-5號","business_week":"OOOOOXXOOOOOXXOOOOOXX","memo":"週休二日及例假日休營業日每日8點30分起至晚間七點"},
 {"lng":"121.5255","lat":"25.0517","name":"大信藥局","id":"5901100155","tel":"0225719080","addr":"臺北市中山區林森北路159巷6號","business_week":"XXXXXXXOOOOOOXOOOOOOO"},
 {"lng":"121.5347","lat":"25.05145","name":"滿順藥局","id":"5901100422","tel":"0225075283","addr":"臺北市中山區伊通街54號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
