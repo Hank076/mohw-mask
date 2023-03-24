@@ -768,6 +768,7 @@ locations = [
 {"lng":"121.4569","lat":"25.00965","name":"一誠藥局","id":"5931010708","tel":"0229673956","addr":"新北市板橋區府中路62號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"第二輪快篩下午1：30開始販售"},
 {"lng":"121.4605","lat":"25.01825","name":"國光藥師藥局","id":"5931011054","tel":"0229698181","addr":"新北市板橋區國光路172號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"實名制快篩：週一到週六 有庫存就販售，售完為止，週日無販售。"},
 {"lng":"121.45","lat":"25.00221","name":"民侑藥局","id":"5931011223","tel":"0222755938","addr":"新北市板橋區大觀路2段37巷310號","business_week":"OOOOOOOOOOOOOXOOOOOOX","memo":"快篩號碼牌發放時間為早上9點。12點前須拿號碼牌完成購買。"},
+{"lng":"121.4551","lat":"25.01209","name":"日生大藥局","id":"5931011447","tel":"0229675261","addr":"新北市板橋區中正路1巷16弄16號","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
 {"lng":"121.4724","lat":"25.01305","name":"眾安大藥局","id":"5931011545","tel":"0229550742","addr":"新北市板橋區長安街331巷78號","business_week":"OOOOOOXOOOOOOXOOOOOOX","memo":"快篩販賣時間為週一至週六早上九點起.賣完為止"},
 {"lng":"121.473","lat":"25.02154","name":"正吉藥局","id":"5931011938","tel":"0222595183","addr":"新北市板橋區莊敬路241號(1樓)","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩早上9點開始，有配送就有，沒配送就沒有"},
 {"lng":"121.4568","lat":"25.02454","name":"長弘藥局","id":"5931011947","tel":"0222558789","addr":"新北市板橋區龍泉街110號","business_week":"XXXXXXOXXXXXXOXXXXXXO"},
