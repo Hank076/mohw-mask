@@ -1165,6 +1165,7 @@ locations = [
 {"lng":"121.2176","lat":"24.86781","name":"達仁藥局","id":"5932099285","tel":"034095166","addr":"桃園市龍潭區北龍路270號","business_week":"OOOOOOOOOOOOOXOOOOOOX"},
 {"lng":"121.2145","lat":"24.8663","name":"弘安育藥局","id":"5932099481","tel":"034808824","addr":"桃園市龍潭區北龍路一四四號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩-販賣時段:上午7:00起至售完為止（5／1／口罩已停售）"},
 {"lng":"121.234","lat":"24.87417","name":"承融藥局","id":"5932099687","tel":"034095543","addr":"桃園市龍潭區中興里中興路282號","business_week":"OOOOOOOOOOOOOOOOOOOOX","memo":"快篩1／14到貨~~快篩週日不服務~~1／22初一~1／26初五休假"},
+{"lng":"121.2354","lat":"24.84074","name":"大立健保藥局","id":"5932099696","tel":"034093487","addr":"桃園市龍潭區民族路 192號1樓","business_week":"OOOOOOOOOOOOOXOOOOOOO"},
 {"lng":"121.2173","lat":"24.86254","name":"佳欣社區藥局","id":"5932099856","tel":"034808717","addr":"桃園市龍潭區中正路262號1樓","business_week":"OOOOOOOOOOOOOOOOOOOXX"},
 {"lng":"121.2119","lat":"24.87808","name":"百年聯和藥局","id":"5932099892","tel":"034895268","addr":"桃園市龍潭區中豐路300號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制：自9／1起13:00準時發放"},
 {"lng":"121.2313","lat":"24.87337","name":"大心聯合藥局","id":"5932099927","tel":"034897998","addr":"桃園市龍潭區中興路390號","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩實名制:發放時間週一~週日，早上9:00-晚上21:00"},
