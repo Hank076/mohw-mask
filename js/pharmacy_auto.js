@@ -1038,6 +1038,7 @@ locations = [
 {"lng":"121.379406","lat":"25.082933","name":"一家好藥局","id":"5931171680","tel":"0226028270","addr":"新北市林口區中山路500號","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.3695","lat":"25.0713","name":"榮新藥局","id":"5931171706","tel":"0226089789","addr":"新北市林口區忠孝路383號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.3695","lat":"25.07226","name":"林康藥局","id":"5931171724","tel":"0226088869","addr":"新北市林口區文化二路1段222號1樓","business_week":"OOOOOOXOOOOOOXOOOOOOX"},
+{"lng":"121.3894","lat":"25.07908","name":"長欣藥局","id":"5931171733","tel":"0226013171","addr":"新北市林口區中山路188號1樓之3","business_week":"OOOOOOXOOOOOXXXXOXOXX","memo":"快篩開賣時間早上9點10分 周日公休 端午節6／3.6／4營業至中午12點"},
 {"lng":"121.3653","lat":"25.07438","name":"力行藥局","id":"5931171813","tel":"0226080711","addr":"新北市林口區文化3路1段423、425號1、2樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
 {"lng":"121.3619","lat":"25.07016","name":"林口辰安藥局","id":"5931171886","tel":"0226099151","addr":"新北市林口區文化三路1段191巷5號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO","memo":"快篩1600開始販售，現場排隊領取"},
 {"lng":"","lat":"","name":"奇異果三井藥局","id":"5931171895","tel":"0226068650","addr":"新北市林口區文化三路1段241號1樓","business_week":"OOOOOOOOOOOOOOOOOOOOO"},
