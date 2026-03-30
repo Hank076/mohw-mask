@@ -7,11 +7,8 @@ var dd = fullDate.getDate() < 10 ? ("0"+fullDate.getDate()) : fullDate.getDate()
 var today = (yyyy * 10000) + (MM * 100) + parseInt(dd);
 
 if(today > warningDateline){
-    bShowWarningMessage = false;
-}
-
-if (window.location.protocol == 'http:') {
-	window.location.href = window.location.href.replace('http:', 'https:');
+    //因專案停止維護，永久顯示公告
+    //bShowWarningMessage = false;
 }
 
 var showVersionHistory = function(){
@@ -83,16 +80,20 @@ var showWarningMessage = function(){
         type: 'red',
         title: '緊急通知',
         content: 
-        '🔔全國疫情警戒第三級延長至6月28日止<br /><br />' + 
+        '🔔由於疫情趨緩及政府相關資料介接方式變更（如庫存 API 停止更新），<br />' + 
+        '本專案已於 2022 年底 正式停止維護。<br /><br />' +
         '若有不適，請撥打1922防疫專線，就醫時主動告知活動暴露史。<br />' +
         '搭乘大眾運輸時，應全程配戴口罩並配合量測體溫，<br />' + 
         '若身體不適請戴口罩速就醫，主動告知旅遊、接觸史等，並落實生病在家休息。<br /><br />' + 
-        '<a target="_blank" class="link-primary" href="https://www.facebook.com/TWCDC/photos/a.187029023406/10159131395593407/"><img src="https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.6435-9/191725964_10159131395598407_2133671331429041913_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=730e14&_nc_ohc=jvHM7sDRuXUAX9TRjkH&_nc_ht=scontent.ftpe8-2.fna&oh=8efc23b962e6bf87c65f9a653e30311a&oe=60CAAE84" /></a>',
+        '<a target="_blank" class="link-primary" href="https://github.com/Hank076/mohw-mask">專案 GitHub 開源</a>',
     });
 };
 
 var showInfoMessage = function(type){
-    let msg_content = '<i class="fa-solid fa-circle-info"></i> 採發放號碼牌方式之藥局，庫存以現場為主。<br /><br />' + 
+    let msg_content = 
+    '🔔由於疫情趨緩及政府相關資料介接方式變更（如庫存 API 停止更新），<br />' + 
+    '本專案已於 2022 年底 正式停止維護。<br /><br />' +
+    '<i class="fa-solid fa-circle-info"></i> 採發放號碼牌方式之藥局，庫存以現場為主。<br /><br />' + 
     '<i class="fa-solid fa-circle-info"></i> 新增 社區採檢站、公費快篩發放點 兩種地圖(右上篩選)。<br />' + 
     '<i class="fa-solid fa-circle-chevron-right"></i> 社區採檢站：如自覺有風險且出現發燒、呼吸道症狀、嗅味覺異常、不明原因腹瀉等相關症狀，或抗原快篩（含家用快篩）陽性時，請佩戴醫用口罩，就近前往指定社區採檢院所，由醫師評估進行PCR核酸檢驗。<br />' + 
     '<i class="fa-solid fa-circle-chevron-right"></i> 公費快篩發放點：如有出現呼吸道症狀，可由醫師評估發放試劑後自行檢驗。<br /><br />' + 
