@@ -62,12 +62,6 @@ npx serve .
 - 衛生福利部中央健康保險署 - [口罩/快篩試劑實名制庫存資料](https://data.nhi.gov.tw/)
 - 衛生福利部疾病管制署 - [社區採檢院所與公費快篩發放清單](https://www.cdc.gov.tw/)
 
-## 👨‍💻 作者
-
-**Pupu(DotNet)**
-- Facebook: [Pupu(DotNet)](https://www.facebook.com/pupu21)
-- Twitter: [@pupu21](https://twitter.com/pupu21)
-
 ## 📄 開源授權
 
 本專案採用 [MIT License](LICENSE) 授權。
